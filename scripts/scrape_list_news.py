@@ -11,14 +11,10 @@ CHANNEL = "dlmehr"
 OUT = Path("news.json")
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36",
-    "Accept-Language": "fa,en;q=0.9",
+    "Accept-Language": "fa,en;q=0.8",
 }
 WINDOW = timedelta(hours=26)
 MAX_PAGES = 20
-# The two posts supplied by the project owner are also used as bootstrap fixtures.
-# This makes the first deployment deterministic even if Telegram's channel pager
-# changes the amount of history exposed on /s/dlmehr.
-BOOTSTRAP_IDS = (4837, 4838)
 
 
 def clean(node):
@@ -31,72 +27,78 @@ def parse_date(node):
     if not node:
         return None
     value = node.get("datetime")
-    if not value:
-        return None
     try:
-        return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc)
+        return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc) if value else None
     except ValueError:
         return None
 
 
-def extract_linked_items(node):
-    if not node:
-        return []
-    result, seen = [], set()
-    for a in node.select("a[href]"):
+def external_anchors(post):
+    out = []
+    seen = set()
+    for a in post.select("a[href]"):
+        href = (a.get("href") or "").strip()
         title = clean(a)
-        href = a.get("href", "").strip()
-        if not title or not href:
-            continue
         if href.startswith("//"):
             href = "https:" + href
-        elif href.startswith("/"):
-            href = urljoin("https://t.me/", href)
-        if not href.startswith(("http://", "https://")):
+        if not re.match(r"^https?://", href, re.I) or not title:
             continue
-        low = title.casefold()
-        if len(title) < 8 or low in {"telegram", "instagram", "twitter", "x", "youtube"}:
+        # Ignore Telegram's own message metadata and social boilerplate.
+        if href.startswith("https://t.me/") and len(title) < 12:
             continue
-        key = re.sub(r"\s+", " ", title).strip().casefold()
-        if key in seen:
+        if title.casefold() in {"telegram", "instagram", "twitter", "youtube", "x"}:
             continue
-        seen.add(key)
-        result.append({"title": re.sub(r"\s+", " ", title).strip(), "url": href})
-    return result
+        key = (re.sub(r"\s+", " ", title).strip().casefold(), href)
+        if key not in seen:
+            seen.add(key)
+            out.append({"title": re.sub(r"\s+", " ", title).strip(), "url": href})
+    return out
 
 
-def extract_items(node, text):
-    linked = extract_linked_items(node)
-    if len(linked) >= 3:
-        return linked
+def extract_items(post, text):
+    # Most robust path: inspect the raw Telegram post DOM, not only text.
+    anchors = external_anchors(post)
+    if len(anchors) >= 3:
+        return anchors
+
     items = parse_items(text)
     if len(items) >= 3:
         return items
+
     fallback = parse_fallback_title_url(text)
     if len(fallback) >= 3:
         return fallback
+
     return []
 
 
-def is_list_candidate(text, node=None):
-    lines = [x.strip() for x in (text or "").splitlines() if x.strip()]
-    numbered = sum(bool(re.match(r"^(?:\d+|[۰-۹]+)\s*[.)،:-]\s+", x)) for x in lines)
-    bullets = sum(bool(re.match(r"^(?:[-–—•▪️🔹🔸▫️◾️])\s+", x)) for x in lines)
-    linked_count = len(extract_linked_items(node)) if node else 0
-    literal_links = len(re.findall(r"https?://[^\s]+", text or ""))
-    return numbered >= 3 or bullets >= 3 or linked_count >= 3 or literal_links >= 3
+def roundup_score(post, text, items):
+    lines = [x.strip() for x in text.splitlines() if x.strip()]
+    score = 0
+    if len(lines) >= 6:
+        score += 2
+    if len(lines) >= 10:
+        score += 2
+    if len(items) >= 3:
+        score += 5
+    if len(items) >= 5:
+        score += 2
+    if len(external_anchors(post)) >= 5:
+        score += 3
+    numbered = sum(bool(re.match(r"^\s*(?:\d+|[۰-۹]+)\s*[.)،:-]\s+", x)) for x in lines)
+    bullets = sum(bool(re.match(r"^\s*[-–—•▪️🔹🔸▫️◾️]", x)) for x in lines)
+    score += min(numbered, 5)
+    score += min(bullets, 3)
+    return score
 
 
-def parse_document(soup, expected_id=None):
+def parse_page(url):
+    response = requests.get(url, headers=HEADERS, timeout=30)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
     posts = []
-    wraps = soup.select(".tgme_widget_message_wrap")
-    if not wraps:
-        # Direct message pages can expose the message without the wrapper list.
-        node = soup.select_one(".tgme_widget_message")
-        wraps = [node] if node else []
-
-    for wrap in wraps:
-        post = wrap.select_one(".tgme_widget_message") if hasattr(wrap, "select_one") else None
+    for wrap in soup.select(".tgme_widget_message_wrap"):
+        post = wrap.select_one(".tgme_widget_message")
         if not post:
             continue
         date_node = post.select_one("time[datetime]")
@@ -107,13 +109,8 @@ def parse_document(soup, expected_id=None):
         if not match:
             match = re.search(r"data-post=[\"']dlmehr/(\d+)", str(post))
         if not match:
-            # Direct pages sometimes contain the canonical URL in the HTML.
-            match = re.search(r"(?:t\.me|telegram\.me)/dlmehr/(\d+)", str(post))
-        if not match:
             continue
         post_id = int(match.group(1))
-        if expected_id is not None and post_id != expected_id:
-            continue
         text_node = post.select_one(".tgme_widget_message_text")
         text = clean(text_node)
         posts.append({
@@ -121,64 +118,18 @@ def parse_document(soup, expected_id=None):
             "date": dt,
             "url": urljoin("https://t.me/", href) if href else f"https://t.me/{CHANNEL}/{post_id}",
             "text": text,
-            "node": text_node,
+            "post": post,
         })
-    return posts
-
-
-def fetch_posts(url, expected_id=None):
-    response = requests.get(url, headers=HEADERS, timeout=30)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
-    return parse_document(soup, expected_id)
-
-
-def parse_page(url):
-    posts = fetch_posts(url)
-    oldest_id = min((p["id"] for p in posts), default=None)
-    return posts, oldest_id
-
-
-def process_post(post, cutoff, force=False):
-    dt = post["date"]
-    if not force and (not dt or dt < cutoff):
-        return None
-    items = extract_items(post["node"], post["text"])
-    if len(items) < 3:
-        print(f"  rejected post {post['id']}: extracted={len(items)}, anchors={len(extract_linked_items(post['node']))}, text_len={len(post['text'])}")
-        return None
-    print(f"  ACCEPTED post {post['id']}: {len(items)} stories")
-    return {
-        "id": post["id"],
-        "date": dt.isoformat() if dt else datetime.now(timezone.utc).isoformat(),
-        "url": post["url"],
-        "items": items,
-    }
+    return posts, min((p["id"] for p in posts), default=None)
 
 
 def main():
     now = datetime.now(timezone.utc)
     cutoff = now - WINDOW
     matches = {}
+    before = None
     pages_scanned = posts_scanned = 0
 
-    # First, validate the exact posts supplied by the owner. These are deliberately
-    # processed even if they are outside today's rolling window so the initial site
-    # has real content and the parser can be verified against known examples.
-    for post_id in BOOTSTRAP_IDS:
-        try:
-            posts = fetch_posts(f"https://t.me/{CHANNEL}/{post_id}", expected_id=post_id)
-            if not posts:
-                print(f"  bootstrap {post_id}: Telegram direct page returned no matching post")
-                continue
-            result = process_post(posts[0], cutoff, force=True)
-            if result:
-                matches[result["id"]] = result
-        except requests.RequestException as exc:
-            print(f"  bootstrap {post_id}: fetch failed: {exc}")
-
-    # Then collect the normal rolling 26-hour window.
-    before = None
     for _ in range(MAX_PAGES):
         url = f"https://t.me/s/{CHANNEL}" + (f"?before={before}" if before else "")
         try:
@@ -189,14 +140,28 @@ def main():
         posts_scanned += len(posts)
         if not posts:
             break
-        for post in posts:
-            result = process_post(post, cutoff)
-            if result:
-                matches[result["id"]] = result
+
+        for p in posts:
+            if not p["date"] or p["date"] < cutoff:
+                continue
+            items = extract_items(p["post"], p["text"])
+            score = roundup_score(p["post"], p["text"], items)
+            # Channel-specific principle: we only need genuine multi-story roundups.
+            # Use the content structure rather than requiring a specific numbering style.
+            accepted = len(items) >= 3 and score >= 7
+            if accepted:
+                matches[p["id"]] = {
+                    "id": p["id"],
+                    "date": p["date"].isoformat(),
+                    "url": p["url"],
+                    "items": items[:80],
+                }
+                print(f"ACCEPTED post {p['id']}: {len(items)} stories, score={score}")
+
         if oldest_id is None or oldest_id <= 1:
             break
-        oldest_dates = [p["date"] for p in posts if p["date"]]
-        if oldest_dates and min(oldest_dates) < cutoff:
+        dates = [p["date"] for p in posts if p["date"]]
+        if dates and min(dates) < cutoff:
             break
         if before == oldest_id:
             break
@@ -209,17 +174,20 @@ def main():
             old = json.loads(OUT.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):
             pass
-
     archive = {str(x.get("id")): x for x in old.get("news", []) if x.get("id")}
+
     for x in matches.values():
         archive[str(x["id"])] = {
-            "id": x["id"], "date": x["date"],
-            "title_fa": "سیگنال‌های فناوری و آینده",
-            "title_en": "Technology & Future Signals",
+            "id": x["id"],
+            "date": x["date"],
+            "title_fa": "سیگنال‌های امروز فناوری و آینده",
+            "title_en": "Today’s Technology & Future Signals",
             "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
             "summary_en": "A curated collection of technology, AI and future-facing titles.",
-            "category": "AI · TECHNOLOGY · FUTURE", "url": x["url"],
-            "source": CHANNEL, "items": x["items"],
+            "category": "AI · TECHNOLOGY · FUTURE",
+            "url": x["url"],
+            "source": CHANNEL,
+            "items": x["items"],
         }
 
     news = sorted(archive.values(), key=lambda x: x.get("date", ""), reverse=True)[:1000]
