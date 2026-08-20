@@ -24,8 +24,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Scrape public Telegram list posts
-        working-directory: scripts
-        run: python scrape_list_news.py
+        run: python scripts/scrape_list_news.py
 
       - name: Commit daily cards
         run: |
