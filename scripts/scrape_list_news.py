@@ -5,7 +5,7 @@ from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
-from parse_list import parse_items
+from parse_list import parse_items, parse_fallback_title_url
 
 CHANNEL = "dlmehr"
 OUT = Path("news.json")
@@ -20,9 +20,7 @@ MAX_PAGES = 20
 def clean(node):
     if not node:
         return ""
-    return html.unescape(
-        re.sub(r"\n{3,}", "\n\n", node.get_text("\n", strip=True))
-    ).strip()
+    return html.unescape(re.sub(r"\n{3,}", "\n\n", node.get_text("\n", strip=True))).strip()
 
 
 def parse_date(node):
@@ -37,8 +35,67 @@ def parse_date(node):
         return None
 
 
-def is_list_candidate(text):
-    """Recognize Merzad-style title collections without requiring exact formatting."""
+def extract_linked_items(node):
+    """Extract story titles directly from Telegram's rendered anchor HTML.
+
+    This is important because Telegram's public preview often renders a
+    roundup as clickable title anchors. Their hrefs disappear when the text
+    is converted with get_text(), so looking only for literal http:// URLs
+    incorrectly classified those posts as ordinary prose.
+    """
+    if not node:
+        return []
+
+    result = []
+    seen = set()
+    for a in node.select("a[href]"):
+        title = clean(a)
+        href = a.get("href", "").strip()
+        if not title or not href:
+            continue
+        if href.startswith("//"):
+            href = "https:" + href
+        elif href.startswith("/"):
+            href = urljoin("https://t.me/", href)
+        if not href.startswith(("http://", "https://")):
+            continue
+
+        # Ignore Telegram/channel metadata and social boilerplate.
+        low = title.casefold()
+        if len(title) < 8 or low in {"telegram", "instagram", "twitter", "x", "youtube"}:
+            continue
+        if href.startswith("https://t.me/") and len(title) < 12:
+            continue
+
+        key = re.sub(r"\s+", " ", title).strip().casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        result.append({"title": re.sub(r"\s+", " ", title).strip(), "url": href})
+
+    return result
+
+
+def extract_items(node, text):
+    # 1. Prefer actual hyperlinks in Telegram's HTML.
+    linked = extract_linked_items(node)
+    if len(linked) >= 3:
+        return linked
+
+    # 2. Support numbered/bulleted visible text lists.
+    items = parse_items(text)
+    if len(items) >= 3:
+        return items
+
+    # 3. Support title-on-one-line + URL-on-next-line roundups.
+    fallback = parse_fallback_title_url(text)
+    if len(fallback) >= 3:
+        return fallback
+
+    return []
+
+
+def is_list_candidate(text, node=None):
     if not text:
         return False
     lines = [x.strip() for x in text.splitlines() if x.strip()]
@@ -47,19 +104,13 @@ def is_list_candidate(text):
 
     numbered = sum(bool(re.match(r"^(?:\d+|[۰-۹]+)\s*[.)،:-]\s+", x)) for x in lines)
     bullets = sum(bool(re.match(r"^(?:[-–—•▪️🔹🔸▫️◾️])\s+", x)) for x in lines)
-    links = len(re.findall(r"https?://[^\s]+", text))
+    linked_count = len(extract_linked_items(node)) if node else 0
+    literal_links = len(re.findall(r"https?://[^\s]+", text))
 
-    # A list can be numbered, bulleted, or simply contain several linked titles.
-    return numbered >= 3 or bullets >= 3 or (links >= 3 and len(lines) >= 5)
+    return numbered >= 3 or bullets >= 3 or linked_count >= 3 or literal_links >= 3
 
 
 def parse_page(url):
-    """Return ALL posts on the page plus the oldest post id.
-
-    Pagination must be driven by all posts, not only matching posts. The old
-    implementation stopped when a page contained no matching list post, which
-    is why a valid list further back could never be reached.
-    """
     response = requests.get(url, headers=HEADERS, timeout=30)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
@@ -77,18 +128,19 @@ def parse_page(url):
         href = link_node.get("href", "") if link_node else ""
         match = re.search(r"/dlmehr/(\d+)(?:$|[?#])", href)
         if not match:
-            # Some Telegram HTML variants expose the post id in the widget data.
             match = re.search(r"data-post=[\"']dlmehr/(\d+)", str(post))
         if not match:
             continue
 
         post_id = int(match.group(1))
-        text = clean(post.select_one(".tgme_widget_message_text"))
+        text_node = post.select_one(".tgme_widget_message_text")
+        text = clean(text_node)
         posts.append({
             "id": post_id,
             "date": dt,
             "url": urljoin("https://t.me/", href) if href else f"https://t.me/{CHANNEL}/{post_id}",
             "text": text,
+            "node": text_node,
         })
 
     oldest_id = min((p["id"] for p in posts), default=None)
@@ -120,20 +172,21 @@ def main():
             dt = post["date"]
             if not dt or dt < cutoff:
                 continue
-            text = post["text"]
-            if not is_list_candidate(text):
+
+            if not is_list_candidate(post["text"], post["node"]):
                 continue
-            items = parse_items(text)
-            # Require multiple extracted stories; this prevents ordinary prose
-            # containing a few links from becoming a King News card.
+
+            items = extract_items(post["node"], post["text"])
             if len(items) < 3:
                 continue
+
             matches[post["id"]] = {
                 "id": post["id"],
                 "date": dt.isoformat(),
                 "url": post["url"],
                 "items": items,
             }
+            print(f"  accepted post {post['id']}: {len(items)} stories")
 
         if oldest_id is None or oldest_id <= 1:
             break
