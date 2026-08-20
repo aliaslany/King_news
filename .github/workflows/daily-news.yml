@@ -23,13 +23,14 @@ jobs:
       - name: Install scraper dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Scrape public Telegram web preview
-        run: python scripts/scrape_dlmehr.py
+      - name: Scrape public Telegram list posts
+        working-directory: scripts
+        run: python scrape_list_news.py
 
       - name: Commit daily cards
         run: |
           git config user.name 'King News Bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add news.json
-          git diff --cached --quiet || git commit -m "chore: update daily technology news"
+          git diff --cached --quiet || git commit -m "chore: update daily technology signals"
           git push
