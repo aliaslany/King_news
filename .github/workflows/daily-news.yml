@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '17 5 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'news.json'
 
 permissions:
   contents: write
@@ -25,6 +29,17 @@ jobs:
 
       - name: Scrape public Telegram list posts
         run: python scripts/scrape_list_news.py
+
+      - name: Show collection result
+        run: |
+          python - <<'PY'
+          import json
+          d=json.load(open('news.json',encoding='utf-8'))
+          print('news cards:', len(d.get('news', [])))
+          print('updatedAt:', d.get('updatedAt'))
+          for x in d.get('news', [])[:5]:
+              print(' -', x.get('id'), len(x.get('items', [])), x.get('url'))
+          PY
 
       - name: Commit daily cards
         run: |
