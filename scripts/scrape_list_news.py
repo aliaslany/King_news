@@ -43,7 +43,6 @@ def external_anchors(post):
             href = "https:" + href
         if not re.match(r"^https?://", href, re.I) or not title:
             continue
-        # Ignore Telegram's own message metadata and social boilerplate.
         if href.startswith("https://t.me/") and len(title) < 12:
             continue
         if title.casefold() in {"telegram", "instagram", "twitter", "youtube", "x"}:
@@ -56,19 +55,15 @@ def external_anchors(post):
 
 
 def extract_items(post, text):
-    # Most robust path: inspect the raw Telegram post DOM, not only text.
     anchors = external_anchors(post)
     if len(anchors) >= 3:
         return anchors
-
     items = parse_items(text)
     if len(items) >= 3:
         return items
-
     fallback = parse_fallback_title_url(text)
     if len(fallback) >= 3:
         return fallback
-
     return []
 
 
@@ -113,13 +108,7 @@ def parse_page(url):
         post_id = int(match.group(1))
         text_node = post.select_one(".tgme_widget_message_text")
         text = clean(text_node)
-        posts.append({
-            "id": post_id,
-            "date": dt,
-            "url": urljoin("https://t.me/", href) if href else f"https://t.me/{CHANNEL}/{post_id}",
-            "text": text,
-            "post": post,
-        })
+        posts.append({"id": post_id, "date": dt, "url": urljoin("https://t.me/", href) if href else f"https://t.me/{CHANNEL}/{post_id}", "text": text, "post": post})
     return posts, min((p["id"] for p in posts), default=None)
 
 
@@ -127,6 +116,7 @@ def main():
     now = datetime.now(timezone.utc)
     cutoff = now - WINDOW
     matches = {}
+    candidates = []
     before = None
     pages_scanned = posts_scanned = 0
 
@@ -146,16 +136,9 @@ def main():
                 continue
             items = extract_items(p["post"], p["text"])
             score = roundup_score(p["post"], p["text"], items)
-            # Channel-specific principle: we only need genuine multi-story roundups.
-            # Use the content structure rather than requiring a specific numbering style.
-            accepted = len(items) >= 3 and score >= 7
-            if accepted:
-                matches[p["id"]] = {
-                    "id": p["id"],
-                    "date": p["date"].isoformat(),
-                    "url": p["url"],
-                    "items": items[:80],
-                }
+            candidates.append((score, p["id"], len(items), len(external_anchors(p["post"])), len(p["text"]), p["text"][:180].replace("\n", " | ")))
+            if len(items) >= 3 and score >= 7:
+                matches[p["id"]] = {"id": p["id"], "date": p["date"].isoformat(), "url": p["url"], "items": items[:80]}
                 print(f"ACCEPTED post {p['id']}: {len(items)} stories, score={score}")
 
         if oldest_id is None or oldest_id <= 1:
@@ -168,6 +151,11 @@ def main():
         before = oldest_id
         time.sleep(1)
 
+    if not matches and candidates:
+        print("NO MATCHES. Top recent candidates by roundup score:")
+        for row in sorted(candidates, reverse=True)[:8]:
+            print(f"  id={row[1]} score={row[0]} extracted={row[2]} anchors={row[3]} text_len={row[4]} :: {row[5]}")
+
     old = {"updatedAt": "", "news": []}
     if OUT.exists():
         try:
@@ -175,21 +163,8 @@ def main():
         except (OSError, json.JSONDecodeError):
             pass
     archive = {str(x.get("id")): x for x in old.get("news", []) if x.get("id")}
-
     for x in matches.values():
-        archive[str(x["id"])] = {
-            "id": x["id"],
-            "date": x["date"],
-            "title_fa": "سیگنال‌های امروز فناوری و آینده",
-            "title_en": "Today’s Technology & Future Signals",
-            "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
-            "summary_en": "A curated collection of technology, AI and future-facing titles.",
-            "category": "AI · TECHNOLOGY · FUTURE",
-            "url": x["url"],
-            "source": CHANNEL,
-            "items": x["items"],
-        }
-
+        archive[str(x["id"])] = {"id": x["id"], "date": x["date"], "title_fa": "سیگنال‌های امروز فناوری و آینده", "title_en": "Today’s Technology & Future Signals", "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.", "summary_en": "A curated collection of technology, AI and future-facing titles.", "category": "AI · TECHNOLOGY · FUTURE", "url": x["url"], "source": CHANNEL, "items": x["items"]}
     news = sorted(archive.values(), key=lambda x: x.get("date", ""), reverse=True)[:1000]
     OUT.write_text(json.dumps({"updatedAt": now.isoformat(), "news": news}, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Scanned {pages_scanned} Telegram pages / {posts_scanned} posts; found {len(matches)} qualifying list posts; archive={len(news)}")
