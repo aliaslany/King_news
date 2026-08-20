@@ -1,4 +1,123 @@
 {
-  "updatedAt": "2026-08-20T12:48:45.242995+00:00",
-  "news": []
+  "updatedAt": "2026-08-20T12:55:50.947960+00:00",
+  "news": [
+    {
+      "id": 4838,
+      "date": "2026-08-20T04:01:20+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4838",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Apple Vision Pro offers an economical display solution for endoscopic tear-duct surgery at under 1% of standard OR equipment cost",
+          "url": null
+        },
+        {
+          "title": "Cosmic Robotics unveiled a roadmap for autonomous city construction on Mars in the mid-2030s",
+          "url": null
+        },
+        {
+          "title": "Grip is building robots that use foundation models to sort complex, entangled waste missed by existing systems",
+          "url": null
+        },
+        {
+          "title": "Graphs suggest AI-assisted homework may improve grades while weakening genuine learning and exam performance",
+          "url": null
+        },
+        {
+          "title": "Y Combinator launched Send a SAFE, a free tool to create, sign, and send SAFE agreements in about two minutes",
+          "url": null
+        },
+        {
+          "title": "Trill raised $13 million to virtualize idle GPUs and address the shortage of available computing capacity",
+          "url": null
+        },
+        {
+          "title": "Science Corporation is developing implants designed to remain in the body for decades and testing their long-term durability",
+          "url": null
+        },
+        {
+          "title": "Generalist introduced GEN-1.5, which learns and generalizes new tasks after only a few seconds of demonstration",
+          "url": null
+        },
+        {
+          "title": "A mini app turns switching AI models into a more physical and interactive experience",
+          "url": null
+        },
+        {
+          "title": "Accurate PDF field extraction is difficult for AI agents because language models tend to “correct” data that should remain unchanged",
+          "url": null
+        },
+        {
+          "title": "Splitting prefill and decoding between DGX Spark and an M5 Max MacBook works efficiently because their compute and bandwidth bottlenecks differ",
+          "url": null
+        },
+        {
+          "title": "A reported deal would have Stripe acquire OpenRouter, while token volume is reportedly doubling about every 11 weeks",
+          "url": null
+        },
+        {
+          "title": "Fortell is developing AI-powered hearing technology to improve conversational clarity and understanding",
+          "url": null
+        },
+        {
+          "title": "The cancer-vaccine story needs nuance: Moderna and Merck reported real Phase 3 results, but not a sudden discovery of a universal cancer vaccine. --Hermes (2/2)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 4837,
+      "date": "2026-08-20T04:01:19+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4837",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title_fa": "رادلی با خرید یک مرکز تصویربرداری پزشکی، قصد دارد نخستین کلینیک رادیولوژی بومیِ هوش مصنوعی را بسازد و به درآمد سالانه ۴٫۳ میلیون دلار رسیده است",
+          "title_en": "Radley acquired a radiology practice and reached $4.3 million in annualized revenue while building an AI-native radiology practice",
+          "title": "رادلی با خرید یک مرکز تصویربرداری پزشکی، قصد دارد نخستین کلینیک رادیولوژی بومیِ هوش مصنوعی را بسازد و به درآمد سالانه ۴٫۳ میلیون دلار رسیده است",
+          "url": null
+        },
+        {
+          "title_fa": "ترکیب واکسن mRNA مدرنا با ایمونوتراپی کیترودا در آزمایش نهایی سرطان پوست موفق شد و سهام مدرنا را ۶۰٪ بالا برد",
+          "title_en": "Moderna’s mRNA vaccine combined with Keytruda succeeded in a late-stage skin-cancer trial, lifting Moderna shares 60%",
+          "title": "ترکیب واکسن mRNA مدرنا با ایمونوتراپی کیترودا در آزمایش نهایی سرطان پوست موفق شد و سهام مدرنا را ۶۰٪ بالا برد",
+          "url": null
+        },
+        {
+          "title_fa": "نتایج یک کارآزمایی فاز ۳، موفقیت واکسن شخصیسازیشده mRNA علیه ملانوما را تأیید میکند و امیدها برای سرطانهای دیگر را افزایش میدهد",
+          "title_en": "A Phase 3 trial confirmed promising personalized mRNA vaccine results against melanoma and other cancers",
+          "title": "نتایج یک کارآزمایی فاز ۳، موفقیت واکسن شخصیسازیشده mRNA علیه ملانوما را تأیید میکند و امیدها برای سرطانهای دیگر را افزایش میدهد",
+          "url": null
+        },
+        {
+          "title_fa": "حالت رایگان ریپلایت با قدرت GPT-5.6 Luna برای کاهش هزینه توکن و افزایش بهرهوری در دسترس قرار گرفت",
+          "title_en": "Replit launched a free mode powered by GPT-5.6 Luna to reduce token costs and maximize productivity",
+          "title": "حالت رایگان ریپلایت با قدرت GPT-5.6 Luna برای کاهش هزینه توکن و افزایش بهرهوری در دسترس قرار گرفت",
+          "url": null
+        },
+        {
+          "title_fa": "کلود با هماهنگکردن مدلهای متنباز طراحی و تاخوردگی پروتئین، برای ۱۴ هدف از ۱۵ هدف پروتئینهای اتصالدهنده جدید طراحی کرد",
+          "title_en": "Claude designed de novo protein binders for 14 of 15 targets by orchestrating open-source design and folding models",
+          "title": "کلود با هماهنگکردن مدلهای متنباز طراحی و تاخوردگی پروتئین، برای ۱۴ هدف از ۱۵ هدف پروتئینهای اتصالدهنده جدید طراحی کرد",
+          "url": null
+        },
+        {
+          "title_fa": "شرکت Pocket با عبور از درآمد سالانه ۱۰۰ میلیون دلار، طی هفت ماه به سریعترین شرکت سختافزاری Y Combinator در رسیدن به این نقطه تبدیل شد",
+          "title_en": "Pocket surpassed $100 million in annualized revenue, becoming YC’s fastest hardware company to reach that milestone. (1/2)",
+          "title": "شرکت Pocket با عبور از درآمد سالانه ۱۰۰ میلیون دلار، طی هفت ماه به سریعترین شرکت سختافزاری Y Combinator در رسیدن به این نقطه تبدیل شد",
+          "url": null
+        }
+      ]
+    }
+  ]
 }
