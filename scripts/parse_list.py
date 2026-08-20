@@ -1,105 +1,85 @@
 import re
-from urllib.parse import urlparse
 
-NUMBER = r"(?:\d{1,3}|[۰-۹]{1,3})"
-PREFIX_RE = re.compile(rf"^\s*(?:{NUMBER}\s*[.)،:-]|[-•▪️🔹🔸▪︎▫︎])\s*", re.UNICODE)
-URL_RE = re.compile(r"https?://[^\s<>]+", re.I)
-
-# Common separators used by curated Persian technology/news roundups.
-SEPARATOR_RE = re.compile(r"\s*(?:\n|\r\n|[|｜])\s*")
-
-
-def normalize(line):
-    return re.sub(r"\s+", " ", line).strip(" \t•▪️🔹🔸")
+INVISIBLE = "\u200c\u200d\u200f\ufeff"
+DIGITS = "0123456789۰۱۲۳۴۵۶۷۸۹"
+MARKER = re.compile(
+    rf"(?:^|[\n|])\s*[{INVISIBLE}]*([{DIGITS}]{{1,3}})\s*(?:\||[.)،:-])\s*\.?\s*",
+    re.UNICODE,
+)
 
 
-def is_noise(line):
-    s = normalize(line)
-    if not s:
-        return True
-    if URL_RE.fullmatch(s):
-        return True
-    if re.match(r"^(?:https?://|t\.me/|@\w+|🆔)", s, re.I):
-        return True
-    return False
+def to_int(value):
+    return int(value.translate(str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")))
 
 
-def is_list_line(line):
-    return bool(PREFIX_RE.match(line))
+def clean_title(value):
+    value = value.replace("\u200f", "").replace("\u200e", "").replace("\u200c", "")
+    value = re.sub(r"\s+", " ", value)
+    return value.strip(" \t|.-–—")
 
 
-def parse_items(text):
-    """Extract story titles from Merzad-style curated roundup posts.
+def parse_numbered_block(text):
+    """Parse Merzad's actual bilingual format.
 
-    The collector deliberately supports several layouts: numbered entries,
-    bullet entries, and title lines followed by a URL. A post is accepted by
-    the scraper only after enough story candidates have been found.
+    Telegram's public HTML currently flattens the numbered lines into text
+    such as `7 | . Apple Vision Pro ...`.  The Persian half and English half
+    each run from 1..N.  We intentionally parse the complete text instead of
+    requiring newline-separated `1.` lines.
     """
-    raw = [normalize(x) for x in text.replace("\r", "").split("\n")]
-    lines = [x for x in raw if x]
-    items = []
-    current = None
+    text = text.replace("\r", "")
+    matches = list(MARKER.finditer(text))
+    if not matches:
+        return []
 
-    def flush():
-        nonlocal current
-        if current and current.get("title") and len(current["title"]) >= 8:
-            items.append(current)
-        current = None
+    raw = []
+    for i, match in enumerate(matches):
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        title = clean_title(text[match.end():end])
+        number = to_int(match.group(1))
+        if len(title) >= 12 and len(title) <= 700:
+            raw.append((number, title))
 
-    for line in lines:
-        if is_list_line(line):
-            flush()
-            title = PREFIX_RE.sub("", line).strip()
-            urls = URL_RE.findall(title)
-            title = URL_RE.sub("", title).strip(" -–—:|")
-            current = {"title": title, "url": urls[0] if urls else None}
-            continue
+    # A bilingual roundup has a numbered Persian sequence followed by the
+    # same numbered English sequence. Split at the second occurrence of 1.
+    first_one = next((i for i, (n, _) in enumerate(raw) if n == 1), None)
+    second_one = next((i for i, (n, _) in enumerate(raw[first_one + 1:], first_one + 1) if n == 1), None) if first_one is not None else None
 
-        urls = URL_RE.findall(line)
-        if current:
-            if urls:
-                current["url"] = current.get("url") or urls[0]
-                continuation = URL_RE.sub("", line).strip(" -–—:|")
-                if continuation and len(continuation) < 240:
-                    current["title"] += " " + continuation
-            elif not is_noise(line) and len(line) <= 260:
-                current["title"] += " " + line
-        elif not is_noise(line):
-            # Some roundups don't number the first/title lines. Keep a
-            # candidate so the fallback detector can use title+URL pairs.
-            current = {"title": line, "url": None}
+    if first_one is not None and second_one is not None:
+        fa = [(n, t) for n, t in raw[first_one:second_one] if n > 0]
+        en = [(n, t) for n, t in raw[second_one:] if n > 0]
+        fa_map = {n: t for n, t in fa}
+        en_map = {n: t for n, t in en}
+        nums = sorted(set(fa_map) & set(en_map))
+        if len(nums) >= 3:
+            return [
+                {"title_fa": fa_map[n], "title_en": en_map[n], "title": fa_map[n], "url": None}
+                for n in nums
+            ]
 
-    flush()
-
-    # Remove obvious header/footer candidates and duplicates.
+    # Monolingual numbered roundup fallback.
     seen = set()
     result = []
-    for item in items:
-        title = normalize(item["title"])
-        key = title.casefold()
-        if key in seen or len(title) < 8:
+    for n, title in raw:
+        if n in seen:
             continue
-        seen.add(key)
-        result.append({"title": title, "url": item.get("url")})
+        seen.add(n)
+        result.append({"title": title, "url": None})
     return result
 
 
+def parse_items(text):
+    return parse_numbered_block(text)
+
+
 def parse_fallback_title_url(text):
-    """Fallback for posts where each story is simply a title followed by a URL."""
-    lines = [normalize(x) for x in text.replace("\r", "").split("\n") if normalize(x)]
-    result = []
-    pending = None
+    # Kept for non-Merzad compatibility; numbered parsing is preferred.
+    lines = [re.sub(r"\s+", " ", x).strip() for x in text.splitlines() if x.strip()]
+    result, pending = [], None
     for line in lines:
-        urls = URL_RE.findall(line)
-        if urls:
-            if pending:
-                result.append({"title": pending, "url": urls[0]})
-                pending = None
-            continue
-        if not is_noise(line) and len(line) >= 10 and len(line) <= 240:
-            if pending:
-                # A long consecutive title is more likely continuation text.
-                pending += " " + line
-            else:
-                pending = line
+        urls = re.findall(r"https?://[^\s<>]+", line, re.I)
+        if urls and pending:
+            result.append({"title": pending, "url": urls[0]})
+            pending = None
+        elif not urls and len(line) >= 12:
+            pending = f"{pending} {line}".strip() if pending else line
     return result
