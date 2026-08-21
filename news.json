@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-08-20T12:56:07.508822+00:00",
+  "updatedAt": "2026-08-21T05:47:31.928352+00:00",
   "news": [
+    {
+      "id": 4856,
+      "date": "2026-08-21T04:03:23+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4856",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "ChatGPT Sites now supports team collaboration, with Codex handling code management and CI",
+          "url": null
+        },
+        {
+          "title": "Claude Academy launched free courses and tutorials for beginners through advanced users",
+          "url": null
+        },
+        {
+          "title": "Transparent-background generation is now available in preview for the GPT-Image-2 API",
+          "url": null
+        },
+        {
+          "title": "Muse Spark 1.2 is a multimodal model for visual coding, robotics planning, and audio-visual understanding",
+          "url": null
+        },
+        {
+          "title": "Maintaining ties to one’s home country while working in Silicon Valley can create entrepreneurial advantages",
+          "url": null
+        },
+        {
+          "title": "YC’s dilution model suggests founders typically retain 35–45% ownership after Series B",
+          "url": null
+        },
+        {
+          "title": "Allia launched as an AI-native mental-health medical group with 600 clinicians and 70 locations",
+          "url": null
+        },
+        {
+          "title": "A new hiring process asks engineers to screen-record themselves shipping a complete feature. --Hermes (2/2)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 4855,
+      "date": "2026-08-21T04:03:22+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4855",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title_fa": "نتایج فاز ۳ واکسن شخصیسازیشده سرطان مدرنا و مرک مهم است، اما به معنای کشف واکسن عمومی سرطان نیست",
+          "title_en": "Moderna and Merck’s Phase 3 personalized cancer-vaccine results are significant, but they do not represent a universal cancer-vaccine discovery",
+          "title": "نتایج فاز ۳ واکسن شخصیسازیشده سرطان مدرنا و مرک مهم است، اما به معنای کشف واکسن عمومی سرطان نیست",
+          "url": null
+        },
+        {
+          "title_fa": "رادلی با درآمد سالانه ۴٫۳ میلیون دلار، نخستین کلینیک رادیولوژی بومیِ هوش مصنوعی را دنبال میکند",
+          "title_en": "Radley reached $4.3 million in annualized revenue while pursuing an AI-native radiology practice",
+          "title": "رادلی با درآمد سالانه ۴٫۳ میلیون دلار، نخستین کلینیک رادیولوژی بومیِ هوش مصنوعی را دنبال میکند",
+          "url": null
+        },
+        {
+          "title_fa": "اپل ویژن پرو با هزینهای کمتر از ۱٪ تجهیزات استاندارد، نمایشگر اقتصادی جراحی مجرای اشکی ارائه میدهد",
+          "title_en": "Apple Vision Pro offers an operating-room display solution for tear-duct surgery at under 1% of standard equipment cost",
+          "title": "اپل ویژن پرو با هزینهای کمتر از ۱٪ تجهیزات استاندارد، نمایشگر اقتصادی جراحی مجرای اشکی ارائه میدهد",
+          "url": null
+        },
+        {
+          "title_fa": "Slack Code همکاری همزمان انسانها و عاملهای هوش مصنوعی را در یک کانال کدنویسی ممکن کرد",
+          "title_en": "Slack Code enables humans and AI agents to collaborate in the same coding channel",
+          "title": "Slack Code همکاری همزمان انسانها و عاملهای هوش مصنوعی را در یک کانال کدنویسی ممکن کرد",
+          "url": null
+        },
+        {
+          "title_fa": "گزارشها میگویند OpenAI قصد دارد مدل Astra را طی چند هفته آینده با نمایش وظایف واقعی عرضه کند",
+          "title_en": "Reports say OpenAI plans to release Astra within weeks, with demonstrations of real-world task performance",
+          "title": "گزارشها میگویند OpenAI قصد دارد مدل Astra را طی چند هفته آینده با نمایش وظایف واقعی عرضه کند",
+          "url": null
+        },
+        {
+          "title_fa": "یک میم طنز، دشواری توضیح هوش مصنوعی برای دوستان را به تصویر میکشد",
+          "title_en": "A humorous meme illustrates how difficult it can be to explain AI to friends",
+          "title": "یک میم طنز، دشواری توضیح هوش مصنوعی برای دوستان را به تصویر میکشد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل GEN-1.5 با یادگیری الگوهای تکرارشونده، پس از چند ثانیه نمایش میتواند وظایف جدید را تعمیم دهد",
+          "title_en": "GEN-1.5 generalizes new tasks after seconds of demonstration by learning repetitive motion patterns",
+          "title": "مدل GEN-1.5 با یادگیری الگوهای تکرارشونده، پس از چند ثانیه نمایش میتواند وظایف جدید را تعمیم دهد",
+          "url": null
+        },
+        {
+          "title_fa": "Waymo جزئیات سامانه محاسباتی کمتأخیر و کاملاً افزونه خودروهای خودرانش را منتشر کرد",
+          "title_en": "Waymo published details of the low-latency, fully redundant computing system powering its autonomous vehicles",
+          "title": "Waymo جزئیات سامانه محاسباتی کمتأخیر و کاملاً افزونه خودروهای خودرانش را منتشر کرد",
+          "url": null
+        },
+        {
+          "title_fa": "افزونه جدید ChatGPT برای پیامهای اپل، جستوجو، خلاصهسازی و ارسال پاسخ از مک را ممکن میکند",
+          "title_en": "A new ChatGPT Apple Messages plugin enables searching, summarizing, and replying from a Mac",
+          "title": "افزونه جدید ChatGPT برای پیامهای اپل، جستوجو، خلاصهسازی و ارسال پاسخ از مک را ممکن میکند",
+          "url": null
+        },
+        {
+          "title_fa": "گوگل و یوتیوب برای دانشجویان، اشتراک Premium و Google AI Pro را با فضای ذخیرهسازی ۵ ترابایتی پیشنهاد میدهند",
+          "title_en": "Google and YouTube introduced a student offer combining Premium, Google AI Pro, and 5 TB of storage",
+          "title": "گوگل و یوتیوب برای دانشجویان، اشتراک Premium و Google AI Pro را با فضای ذخیرهسازی ۵ ترابایتی پیشنهاد میدهند",
+          "url": null
+        },
+        {
+          "title_fa": "بر اساس گزارشها، ارزش عرضه اولیه احتمالی Anthropic ممکن است با IPO شرکت SpaceX برابری یا از آن فراتر رود",
+          "title_en": "Reports suggest a potential Anthropic IPO could match or exceed SpaceX’s offering in size. (1/2)",
+          "title": "بر اساس گزارشها، ارزش عرضه اولیه احتمالی Anthropic ممکن است با IPO شرکت SpaceX برابری یا از آن فراتر رود",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 4838,
       "date": "2026-08-20T04:01:20+00:00",
