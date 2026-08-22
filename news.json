@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-08-21T05:47:31.928352+00:00",
+  "updatedAt": "2026-08-22T05:41:11.940537+00:00",
   "news": [
+    {
+      "id": 4872,
+      "date": "2026-08-22T04:01:00+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4872",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title_fa": "بخش نخست مرور اخبار هوش مصنوعی، از واکسن سرطان تا مدلهای خودران و چندوجهی",
+          "title_en": "The first half of an AI news roundup covered cancer vaccines, autonomous systems, and multimodal models",
+          "title": "بخش نخست مرور اخبار هوش مصنوعی، از واکسن سرطان تا مدلهای خودران و چندوجهی",
+          "url": null
+        },
+        {
+          "title_fa": "بخش دوم مرور اخبار، شامل ابزارهای کدنویسی، مدلهای جدید و روندهای کارآفرینی",
+          "title_en": "The second half covered coding tools, new models, and entrepreneurship trends",
+          "title": "بخش دوم مرور اخبار، شامل ابزارهای کدنویسی، مدلهای جدید و روندهای کارآفرینی",
+          "url": null
+        },
+        {
+          "title_fa": "مدل محرمانه Ox Alpha با یک میلیون توکن زمینه و استفاده تقریباً نامحدود، تا یک هفته رایگان است",
+          "title_en": "The stealth Ox Alpha model is free for a week, offering a one-million-token context and near-unlimited use",
+          "title": "مدل محرمانه Ox Alpha با یک میلیون توکن زمینه و استفاده تقریباً نامحدود، تا یک هفته رایگان است",
+          "url": null
+        },
+        {
+          "title_fa": "شواهدی از احتمال عرضه مدل GLM-5.x با رمزگذار و توکنساز مشابه مدلهای قبلی منتشر شد",
+          "title_en": "Evidence points to a possible GLM-5.x release with a familiar encoder and tokenizer",
+          "title": "شواهدی از احتمال عرضه مدل GLM-5.x با رمزگذار و توکنساز مشابه مدلهای قبلی منتشر شد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل آزمایشی چندوجهی DeepSeek-V4-Flash-Vision-Exp برای عاملها و استدلال روی API دیپسیک فعال شد",
+          "title_en": "DeepSeek launched its experimental multimodal V4-Flash-Vision-Exp model on its API",
+          "title": "مدل آزمایشی چندوجهی DeepSeek-V4-Flash-Vision-Exp برای عاملها و استدلال روی API دیپسیک فعال شد",
+          "url": null
+        },
+        {
+          "title_fa": "عامل کدنویسی عمومی NVIDIA AVO در آزمون تعاملی ARC-AGI-3 همه ۱۸۳ مرحله را حل کرد",
+          "title_en": "NVIDIA’s AVO coding agent solved all 183 levels in the ARC-AGI-3 interactive benchmark",
+          "title": "عامل کدنویسی عمومی NVIDIA AVO در آزمون تعاملی ARC-AGI-3 همه ۱۸۳ مرحله را حل کرد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل Runway Ruby ویدئوهای SDR را به HDR شانزدهبیتی برای خروجیهای ProRes و EXR تبدیل میکند",
+          "title_en": "Runway Ruby converts SDR video into 16-bit HDR for ProRes and EXR output",
+          "title": "مدل Runway Ruby ویدئوهای SDR را به HDR شانزدهبیتی برای خروجیهای ProRes و EXR تبدیل میکند",
+          "url": null
+        },
+        {
+          "title_fa": "پرسشی درباره موقعیتهایی مطرح شد که در آنها نباید از هوش مصنوعی استفاده کرد",
+          "title_en": "A discussion asked where people should avoid using AI in daily life",
+          "title": "پرسشی درباره موقعیتهایی مطرح شد که در آنها نباید از هوش مصنوعی استفاده کرد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل Ox Alpha در ابزار Cline رایگان شد و بنچمارکهای اولیه بهبود جزئی نسبت به رقبا نشان میدهد",
+          "title_en": "Ox Alpha became free in Cline, with early benchmarks showing marginal gains over competitors",
+          "title": "مدل Ox Alpha در ابزار Cline رایگان شد و بنچمارکهای اولیه بهبود جزئی نسبت به رقبا نشان میدهد",
+          "url": null
+        },
+        {
+          "title_fa": "OpenAI قیمت API و اعتبار مدل GPT-5.6 Sol را برای سه ماه آینده بیش از ۲۰٪ کاهش میدهد",
+          "title_en": "OpenAI will cut GPT-5.6 Sol API and credit pricing by more than 20% for three months",
+          "title": "OpenAI قیمت API و اعتبار مدل GPT-5.6 Sol را برای سه ماه آینده بیش از ۲۰٪ کاهش میدهد",
+          "url": null
+        },
+        {
+          "title_fa": "دادههای ایمیل سرد هدفمند برای بنیانگذاران B2B، نرخ پاسخ ۸ تا ۱۲ درصدی را نشان میدهد",
+          "title_en": "Targeted cold-email data for B2B founders indicates an 8–12% reply rate",
+          "title": "دادههای ایمیل سرد هدفمند برای بنیانگذاران B2B، نرخ پاسخ ۸ تا ۱۲ درصدی را نشان میدهد",
+          "url": null
+        },
+        {
+          "title_fa": "تعهدات پنهان شرکتهای بزرگ فناوری برای اجاره دیتاسنتر و خرید تراشه، هزینه هوش مصنوعی را تریلیونها دلار بیشتر میکند",
+          "title_en": "Hidden data-center leases and chip commitments could make Big Tech’s AI spending trillions higher",
+          "title": "تعهدات پنهان شرکتهای بزرگ فناوری برای اجاره دیتاسنتر و خرید تراشه، هزینه هوش مصنوعی را تریلیونها دلار بیشتر میکند",
+          "url": null
+        },
+        {
+          "title_fa": "مدل Ox Alpha برای مدت محدودی از طریق پورتال Nous Research رایگان شد",
+          "title_en": "Ox Alpha became temporarily free through the Nous Research portal",
+          "title": "مدل Ox Alpha برای مدت محدودی از طریق پورتال Nous Research رایگان شد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل Inkling برای بهبود عملکرد عاملمحور، چند هفته بهصورت رایگان در OpenRouter عرضه شد",
+          "title_en": "Inkling is free on OpenRouter for several weeks to improve its agentic performance",
+          "title": "مدل Inkling برای بهبود عملکرد عاملمحور، چند هفته بهصورت رایگان در OpenRouter عرضه شد",
+          "url": null
+        },
+        {
+          "title_fa": "استارتاپ Meteoric با پهپادهایی برای پاکسازی ابرهای مزارع خورشیدی و افزایش ۱۰ تا ۳۰ درصدی تولید آغاز به کار کرد",
+          "title_en": "Meteoric launched drones to clear clouds over solar farms and raise output by 10–30%. (1/2)",
+          "title": "استارتاپ Meteoric با پهپادهایی برای پاکسازی ابرهای مزارع خورشیدی و افزایش ۱۰ تا ۳۰ درصدی تولید آغاز به کار کرد",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 4856,
       "date": "2026-08-21T04:03:23+00:00",
