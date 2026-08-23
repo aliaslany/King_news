@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-08-22T05:41:11.940537+00:00",
+  "updatedAt": "2026-08-23T05:43:54.718941+00:00",
   "news": [
+    {
+      "id": 4890,
+      "date": "2026-08-23T04:01:39+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4890",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title_fa": "لایو یوتیوب برای یکشنبه ساعت ۹ صبح به وقت کالیفرنیا اعلام شد",
+          "title_en": "A YouTube livestream was announced for Sunday at 9 a.m. California time",
+          "title": "لایو یوتیوب برای یکشنبه ساعت ۹ صبح به وقت کالیفرنیا اعلام شد",
+          "url": null
+        },
+        {
+          "title_fa": "ربات انساننمای چینی Honor در آزمایشی ۱۰۰ متر را در ۹٫۳۲ ثانیه دوید",
+          "title_en": "Honor’s Chinese humanoid robot ran 100 meters in 9.32 seconds in a test",
+          "title": "ربات انساننمای چینی Honor در آزمایشی ۱۰۰ متر را در ۹٫۳۲ ثانیه دوید",
+          "url": null
+        },
+        {
+          "title_fa": "ربات امدادگر چینی با پرواز خودکار به غریق میرسد و برای دو نفر وسیله شناوری فراهم میکند",
+          "title_en": "A Chinese rescue robot autonomously flies to drowning victims and provides flotation for two people",
+          "title": "ربات امدادگر چینی با پرواز خودکار به غریق میرسد و برای دو نفر وسیله شناوری فراهم میکند",
+          "url": null
+        },
+        {
+          "title_fa": "رباتی برای پیروزی در مسابقه خود را فدا کرد",
+          "title_en": "A robot sacrificed itself to win a race",
+          "title": "رباتی برای پیروزی در مسابقه خود را فدا کرد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل Ox Alpha در بنچمارک DeepSWE امتیاز ۵۸٫۴٪ گرفت؛ نزدیک به Claude Opus 4.8 با امتیاز ۵۹٪",
+          "title_en": "Ox Alpha scored 58.4% on the DeepSWE benchmark, close to Claude Opus 4.8 at 59%",
+          "title": "مدل Ox Alpha در بنچمارک DeepSWE امتیاز ۵۸٫۴٪ گرفت؛ نزدیک به Claude Opus 4.8 با امتیاز ۵۹٪",
+          "url": null
+        },
+        {
+          "title_fa": "سامانهای کاملاً خودکار توانست از ارتفاع ۱۵ فوتی بالا برود و پایین بیاید",
+          "title_en": "A fully autonomous system successfully climbed up and down a 15-foot height",
+          "title": "سامانهای کاملاً خودکار توانست از ارتفاع ۱۵ فوتی بالا برود و پایین بیاید",
+          "url": null
+        },
+        {
+          "title_fa": "ChatGPT با دسترسی به آرشیو کامل Spotify، فهرستی از بهترین آهنگها تولید کرد",
+          "title_en": "ChatGPT generated a best-of playlist after receiving access to Spotify’s full catalogue",
+          "title": "ChatGPT با دسترسی به آرشیو کامل Spotify، فهرستی از بهترین آهنگها تولید کرد",
+          "url": null
+        },
+        {
+          "title_fa": "نهادهای چینی با استفاده از ۱۷۱ میلیون پست، مدلهایی برای شبیهسازی رأیدهندگان آمریکایی ساختهاند",
+          "title_en": "Chinese institutions used 171 million posts to build models simulating American voters",
+          "title": "نهادهای چینی با استفاده از ۱۷۱ میلیون پست، مدلهایی برای شبیهسازی رأیدهندگان آمریکایی ساختهاند",
+          "url": null
+        },
+        {
+          "title_fa": "رباتی پس از گلزنی با ضربه آزاد، شادی معروف «Siuuu» را اجرا کرد",
+          "title_en": "A robot scored a free kick and then performed the famous “Siuuu” celebration",
+          "title": "رباتی پس از گلزنی با ضربه آزاد، شادی معروف «Siuuu» را اجرا کرد",
+          "url": null
+        },
+        {
+          "title_fa": "انتروپیک بنیانگذار تراشههای TPU گوگل را برای توسعه زیرساخت محاسباتی خود استخدام کرد",
+          "title_en": "Anthropic hired Google TPU founder Amir Salek to strengthen its compute infrastructure team",
+          "title": "انتروپیک بنیانگذار تراشههای TPU گوگل را برای توسعه زیرساخت محاسباتی خود استخدام کرد",
+          "url": null
+        },
+        {
+          "title_fa": "نسخه جدید Codex CLI با بازطراحی چرخه اجرا، زمان راهاندازی را حدود ۲۵ برابر کاهش داده است",
+          "title_en": "The latest Codex CLI release made startup roughly 25 times faster through a lifecycle redesign",
+          "title": "نسخه جدید Codex CLI با بازطراحی چرخه اجرا، زمان راهاندازی را حدود ۲۵ برابر کاهش داده است",
+          "url": null
+        },
+        {
+          "title_fa": "انویدیا با سرمایهگذاری ۶ میلیارد دلاری در Poolside، بهدنبال ساخت یک مدل متنباز قدرتمند است",
+          "title_en": "Nvidia’s $6 billion Poolside deal aims to develop a powerful open-weight model",
+          "title": "انویدیا با سرمایهگذاری ۶ میلیارد دلاری در Poolside، بهدنبال ساخت یک مدل متنباز قدرتمند است",
+          "url": null
+        },
+        {
+          "title_fa": "پژوهشی نشان میدهد دقت تشخیص پزشکی مدلهای زبانی هنگام گفتوگو با بیمار، ۶۰٪ کاهش مییابد",
+          "title_en": "A study found that LLM diagnostic accuracy drops by 60% when communicating with patients instead of physicians. --Hermes",
+          "title": "پژوهشی نشان میدهد دقت تشخیص پزشکی مدلهای زبانی هنگام گفتوگو با بیمار، ۶۰٪ کاهش مییابد",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 4872,
       "date": "2026-08-22T04:01:00+00:00",
