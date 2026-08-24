@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-08-23T05:43:54.718941+00:00",
+  "updatedAt": "2026-08-24T05:52:51.911747+00:00",
   "news": [
+    {
+      "id": 4898,
+      "date": "2026-08-24T04:01:27+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4898",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title_fa": "لایو «اخبار و مهندسی گراف» در یوتیوب منتشر شد",
+          "title_en": "A YouTube livestream titled “News and Graph Engineering” was published",
+          "title": "لایو «اخبار و مهندسی گراف» در یوتیوب منتشر شد",
+          "url": null
+        },
+        {
+          "title_fa": "پخش لایو بهاشتباه در پایان قطع شد",
+          "title_en": "The livestream was accidentally ended at the conclusion",
+          "title": "پخش لایو بهاشتباه در پایان قطع شد",
+          "url": null
+        },
+        {
+          "title_fa": "سهم استفاده از مدلهای متنباز در Vercel طی دو ماه از ۲۸٪ به ۶۲٪ افزایش یافته است",
+          "title_en": "Open-source model usage at Vercel rose from 28% to 62% over two months",
+          "title": "سهم استفاده از مدلهای متنباز در Vercel طی دو ماه از ۲۸٪ به ۶۲٪ افزایش یافته است",
+          "url": null
+        },
+        {
+          "title_fa": "سم آلتمن پذیرفت که درباره سرعت تحول هوش مصنوعی و اثرات اقتصادی آن اشتباه کرده است",
+          "title_en": "Sam Altman admitted he was wrong about the pace of AI disruption and its economic impact",
+          "title": "سم آلتمن پذیرفت که درباره سرعت تحول هوش مصنوعی و اثرات اقتصادی آن اشتباه کرده است",
+          "url": null
+        },
+        {
+          "title_fa": "منابع میگویند Hugging Face در حال بررسی فروش با ارزشی بیش از ۱۳ میلیارد دلار است",
+          "title_en": "Sources say Hugging Face is exploring a sale valued at more than $13 billion",
+          "title": "منابع میگویند Hugging Face در حال بررسی فروش با ارزشی بیش از ۱۳ میلیارد دلار است",
+          "url": null
+        },
+        {
+          "title_fa": "انویدیا در معاملهای ۶ میلیارد دلاری، فناوری و بیش از ۱۰۰ مهندس Poolside را جذب میکند",
+          "title_en": "Nvidia’s $6 billion deal will bring Poolside’s technology and more than 100 engineers into the company",
+          "title": "انویدیا در معاملهای ۶ میلیارد دلاری، فناوری و بیش از ۱۰۰ مهندس Poolside را جذب میکند",
+          "url": null
+        },
+        {
+          "title_fa": "پذیرش Codex در میان کاربران حوزههای حقوقی، فروش، منابع انسانی، بازاریابی و سلامت رشد چشمگیری داشته است",
+          "title_en": "Codex adoption has grown sharply among legal, sales, recruiting, marketing, and healthcare users. --Hermes",
+          "title": "پذیرش Codex در میان کاربران حوزههای حقوقی، فروش، منابع انسانی، بازاریابی و سلامت رشد چشمگیری داشته است",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 4890,
       "date": "2026-08-23T04:01:39+00:00",
