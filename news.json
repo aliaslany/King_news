@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-08-24T05:52:51.911747+00:00",
+  "updatedAt": "2026-08-25T05:46:39.154600+00:00",
   "news": [
+    {
+      "id": 4925,
+      "date": "2026-08-25T04:01:55+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4925",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title_fa": "پیشنهاد شده بیماران پیش از مراجعه از هوش مصنوعی برای درک وضعیت خود استفاده کنند و پزشکان نیز ملزم به بررسی برنامه درمانی با AI باشند",
+          "title_en": "Patients may be encouraged to use AI before seeing a doctor, while doctors could be required to double-check treatment plans with AI",
+          "title": "پیشنهاد شده بیماران پیش از مراجعه از هوش مصنوعی برای درک وضعیت خود استفاده کنند و پزشکان نیز ملزم به بررسی برنامه درمانی با AI باشند",
+          "url": null
+        },
+        {
+          "title_fa": "مدل جدید Qwen با نام «Paloma» وارد Arena شده و در کدنویسی فرانتاند عملکردی همسطح مدلهای پیشرفته نشان میدهد",
+          "title_en": "Qwen’s new “Paloma” model entered the Arena and reportedly performs at an advanced level in frontend coding",
+          "title": "مدل جدید Qwen با نام «Paloma» وارد Arena شده و در کدنویسی فرانتاند عملکردی همسطح مدلهای پیشرفته نشان میدهد",
+          "url": null
+        },
+        {
+          "title_fa": "Liquid AI مجموعه ارزیابی Pipette را برای سنجش هوش روی دستگاه، با همکاری Artificial Analysis، منتشر کرد",
+          "title_en": "Liquid AI released Pipette, an evaluation suite for measuring on-device intelligence, with Artificial Analysis",
+          "title": "Liquid AI مجموعه ارزیابی Pipette را برای سنجش هوش روی دستگاه، با همکاری Artificial Analysis، منتشر کرد",
+          "url": null
+        },
+        {
+          "title_fa": "انویدیا عملکرد تراشه Vera Rubin را در اجرای عاملهای هوش مصنوعی معرفی کرد؛ با تا ۳۰ برابر بهرهوری بیشتر و ۳۵ درصد هزینه توکنی کمتر از GB300",
+          "title_en": "Nvidia presented Vera Rubin’s agentic-AI performance, claiming up to 30× more throughput per megawatt and 35% lower token costs than GB300",
+          "title": "انویدیا عملکرد تراشه Vera Rubin را در اجرای عاملهای هوش مصنوعی معرفی کرد؛ با تا ۳۰ برابر بهرهوری بیشتر و ۳۵ درصد هزینه توکنی کمتر از GB300",
+          "url": null
+        },
+        {
+          "title_fa": "ویدیویی نشان میدهد یک ربات زیر فشار وزن از کار افتاده و سپس خطاهای متوالی تولید میکند",
+          "title_en": "A video shows a robot collapsing under a load before spamming error messages",
+          "title": "ویدیویی نشان میدهد یک ربات زیر فشار وزن از کار افتاده و سپس خطاهای متوالی تولید میکند",
+          "url": null
+        },
+        {
+          "title_fa": "Pika مدل ویدیوساز WAN 3.0 را با پشتیبانی از ۲۰ مرجع، واقعگرایی بیشتر و تولید ویدیوهای ۳۰ثانیهای عرضه کرد",
+          "title_en": "Pika launched WAN 3.0 with 20-reference support, improved visual and audio realism, and 30-second video generation",
+          "title": "Pika مدل ویدیوساز WAN 3.0 را با پشتیبانی از ۲۰ مرجع، واقعگرایی بیشتر و تولید ویدیوهای ۳۰ثانیهای عرضه کرد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل WAN 3.0 در Magnific عرضه شد و میتواند چهره یکسان را در ۲۲ سال، سه سن و ۱۳ صحنه حفظ کند",
+          "title_en": "WAN 3.0 is now available on Magnific, demonstrating consistent faces across 22 years, three ages, and 13 scenes. (1/2)",
+          "title": "مدل WAN 3.0 در Magnific عرضه شد و میتواند چهره یکسان را در ۲۲ سال، سه سن و ۱۳ صحنه حفظ کند",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 4926,
+      "date": "2026-08-25T04:01:55+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4926",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Tempus’s ECG-PH software received FDA clearance to detect pulmonary-hypertension indicators from standard ECGs",
+          "url": null
+        },
+        {
+          "title": "AI is on track to write nearly one in three medical SOAP notes",
+          "url": null
+        },
+        {
+          "title": "The FDA authorized Aletta, the first standalone robotic device designed to draw blood without hands-on operator intervention",
+          "url": null
+        },
+        {
+          "title": "MrBeast’s thumbnail team localizes one image by changing the police car according to the viewer’s language and country",
+          "url": null
+        },
+        {
+          "title": "GPT-5.6 Sol pricing fell to $4 per million input tokens and $10 per million output tokens",
+          "url": null
+        },
+        {
+          "title": "A new Economist article reflects how AI consciousness has moved from a fringe topic into mainstream debate",
+          "url": null
+        },
+        {
+          "title": "The Trump administration proposed a six-figure fee for most new H-1B visa applicants",
+          "url": null
+        },
+        {
+          "title": "A Forrester survey found 55% of companies that cut workers citing AI now regret it, with many rehiring",
+          "url": null
+        },
+        {
+          "title": "This post contains only a brief reaction with no substantive explanation",
+          "url": null
+        },
+        {
+          "title": "Thomson Reuters built its own AI model on Alibaba’s Qwen to reduce reliance on Claude",
+          "url": null
+        },
+        {
+          "title": "AgentSky launched a unified API for Claude Code, Codex, DeepSeek, Kimi, and other agents, highlighting a $150-versus-$2 task cost difference",
+          "url": null
+        },
+        {
+          "title": "Apple may launch a new Mac mini before its September iPhone event",
+          "url": null
+        },
+        {
+          "title": "Meta is preparing Hatch, a consumer agent potentially priced at $199.99 monthly and designed to work across services such as DoorDash and Outlook. --Hermes (2/2)",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 4898,
       "date": "2026-08-24T04:01:27+00:00",
