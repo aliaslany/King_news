@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-08-25T05:46:39.154600+00:00",
+  "updatedAt": "2026-08-26T05:49:34.480689+00:00",
   "news": [
+    {
+      "id": 4958,
+      "date": "2026-08-26T04:01:48+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4958",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Research suggests large language models reduce linguistic diversity in human expression",
+          "url": null
+        },
+        {
+          "title": "siRNA could transform medicine by silencing harmful genes",
+          "url": null
+        },
+        {
+          "title": "Reasoning models remain the only major shift in AI progress over the past three years. --Hermes (2/2)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 4957,
+      "date": "2026-08-26T04:01:47+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4957",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title_fa": "فروش اپاستور برای نخستینبار در یک دهه کاهش یافت",
+          "title_en": "App Store sales declined for the first time in a decade",
+          "title": "فروش اپاستور برای نخستینبار در یک دهه کاهش یافت",
+          "url": null
+        },
+        {
+          "title_fa": "پوست رباتیک بادی با حسگرهای عمقسنج، حرکت کل بدن را پیشبینی میکند",
+          "title_en": "An inflatable robotic skin uses depth sensors to predict full-body motion",
+          "title": "پوست رباتیک بادی با حسگرهای عمقسنج، حرکت کل بدن را پیشبینی میکند",
+          "url": null
+        },
+        {
+          "title_fa": "ابزار Fastlane با ساخت حساب و ویدئو، تبلیابی گسترده برای محصولات تولید میکند",
+          "title_en": "Fastlane creates thousands of promotional accounts and videos from a website URL",
+          "title": "ابزار Fastlane با ساخت حساب و ویدئو، تبلیابی گسترده برای محصولات تولید میکند",
+          "url": null
+        },
+        {
+          "title_fa": "رباتهای چینی برای استراحت و جابهجایی، خود را جمع میکنند",
+          "title_en": "Chinese robots fold themselves up for rest and transport",
+          "title": "رباتهای چینی برای استراحت و جابهجایی، خود را جمع میکنند",
+          "url": null
+        },
+        {
+          "title_fa": "مجموعهای از شکستها در مسابقات جهانی رباتهای انساننما منتشر شد",
+          "title_en": "A compilation highlights failures at the World Humanoid Robot Games",
+          "title": "مجموعهای از شکستها در مسابقات جهانی رباتهای انساننما منتشر شد",
+          "url": null
+        },
+        {
+          "title_fa": "آنتروپیک بازار بالقوه هوش مصنوعی را ۳۰ تریلیون دلار برآورد میکند",
+          "title_en": "Anthropic estimates the potential AI market at $30 trillion",
+          "title": "آنتروپیک بازار بالقوه هوش مصنوعی را ۳۰ تریلیون دلار برآورد میکند",
+          "url": null
+        },
+        {
+          "title_fa": "اسپیساکس از احداث پایگاه فضایی ۱۰۰ میلیارددلاری در لوئیزیانا خبر داد",
+          "title_en": "SpaceX announced a new $100+ billion spaceport in Louisiana",
+          "title": "اسپیساکس از احداث پایگاه فضایی ۱۰۰ میلیارددلاری در لوئیزیانا خبر داد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل بنیادی S1 شرکت Skild AI از یک ویدئو و بدون تنظیم دقیق یاد میگیرد",
+          "title_en": "Skild AI’s S1 model learns unfamiliar tasks from one video without fine-tuning",
+          "title": "مدل بنیادی S1 شرکت Skild AI از یک ویدئو و بدون تنظیم دقیق یاد میگیرد",
+          "url": null
+        },
+        {
+          "title_fa": "تراشههای M5 Ultra اپل میتوانند مزیت انویدیا در هوش مصنوعی محلی را تهدید کنند",
+          "title_en": "Apple’s M5 Ultra could challenge NVIDIA in local AI",
+          "title": "تراشههای M5 Ultra اپل میتوانند مزیت انویدیا در هوش مصنوعی محلی را تهدید کنند",
+          "url": null
+        },
+        {
+          "title_fa": "هکاتون بیماریهای نادر برای کمک به یک کودک بیمار با جایزه ۵۰ هزار دلاری آغاز شد",
+          "title_en": "A rare-disease hackathon launched with $50,000 in prizes to help a suffering child",
+          "title": "هکاتون بیماریهای نادر برای کمک به یک کودک بیمار با جایزه ۵۰ هزار دلاری آغاز شد",
+          "url": null
+        },
+        {
+          "title_fa": "مدل GPT-Astra با Codex، اجرای سه مدل متنباز را روی تراشه Jalapeño بهینه کرد",
+          "title_en": "GPT-Astra used Codex to optimize three open-weight models for OpenAI’s Jalapeño chip",
+          "title": "مدل GPT-Astra با Codex، اجرای سه مدل متنباز را روی تراشه Jalapeño بهینه کرد",
+          "url": null
+        },
+        {
+          "title_fa": "بازی جدیدی بازیکن را به یافتن یک سمیکالن در کدی ۱۸۷هزارخطی وادار میکند",
+          "title_en": "A new game asks players to find one semicolon in a 187,000-line codebase",
+          "title": "بازی جدیدی بازیکن را به یافتن یک سمیکالن در کدی ۱۸۷هزارخطی وادار میکند",
+          "url": null
+        },
+        {
+          "title_fa": "شرکت Applied Compute ابرعامل AC2 را برای آموزش و بهبود مدلهای پیشرفته معرفی کرد",
+          "title_en": "Applied Compute introduced AC2, a cloud platform for training and improving frontier models",
+          "title": "شرکت Applied Compute ابرعامل AC2 را برای آموزش و بهبود مدلهای پیشرفته معرفی کرد",
+          "url": null
+        },
+        {
+          "title_fa": "OneTriangleAI میزبانی ارزان و سبک مدل DeepSeek V4 Flash را عرضه کرد",
+          "title_en": "OneTriangleAI launched cheap, lightweight hosting for DeepSeek V4 Flash",
+          "title": "OneTriangleAI میزبانی ارزان و سبک مدل DeepSeek V4 Flash را عرضه کرد",
+          "url": null
+        },
+        {
+          "title_fa": "ساندار پیچای پیشبینی کرد هر محتوا در آینده از هر قالبی به قالب دیگر تبدیل شود",
+          "title_en": "Sundar Pichai predicted that any content will soon convert seamlessly between modalities",
+          "title": "ساندار پیچای پیشبینی کرد هر محتوا در آینده از هر قالبی به قالب دیگر تبدیل شود",
+          "url": null
+        },
+        {
+          "title_fa": "OpenAI شبکهای از حسابهای روسی مرتبط با کارزار نفوذ را مسدود کرد",
+          "title_en": "OpenAI banned Russian accounts linked to an influence campaign",
+          "title": "OpenAI شبکهای از حسابهای روسی مرتبط با کارزار نفوذ را مسدود کرد",
+          "url": null
+        },
+        {
+          "title_fa": "رشد ناگهانی یک نوجوان در تیکتاک، نمونهای از موفقیتهای ساختگی و تقویتشده پلتفرم دانسته شد",
+          "title_en": "A teenager’s rapid TikTok growth was presented as an example of manufactured platform success. (1/2)",
+          "title": "رشد ناگهانی یک نوجوان در تیکتاک، نمونهای از موفقیتهای ساختگی و تقویتشده پلتفرم دانسته شد",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 4925,
       "date": "2026-08-25T04:01:55+00:00",
