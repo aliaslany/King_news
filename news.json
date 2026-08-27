@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-26T05:49:34.480689+00:00",
+  "updatedAt": "2026-08-27T16:29:47.365499+00:00",
   "news": [
+    {
+      "id": 4981,
+      "date": "2026-08-27T04:02:04+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4981",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "Z.ai",
+          "url": "http://Z.ai/"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad غلام هم خوب داره جواب می‌‌ده‌ها. دم همه کسایی که ایده رو دادن، پیاده سازی کردن و فیدبک دادن گرم",
+          "url": "https://t.me/dlmehr/4969"
+        }
+      ]
+    },
+    {
+      "id": 4980,
+      "date": "2026-08-27T04:02:03+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/4980",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "Z.ai",
+          "url": "http://Z.ai/"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/miaai_lab/status/2092557449408417871?s=46&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/4960"
+        }
+      ]
+    },
     {
       "id": 4958,
       "date": "2026-08-26T04:01:48+00:00",
