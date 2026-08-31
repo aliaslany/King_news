@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-08-30T10:28:29.955539+00:00",
+  "updatedAt": "2026-08-31T11:35:21.056239+00:00",
   "news": [
+    {
+      "id": 5045,
+      "date": "2026-08-31T04:00:40+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5045",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "hour news summary",
+          "url": null
+        },
+        {
+          "title": "Users report that OpenAI’s Astra is already producing state-of-the-art results, though project-generation bugs remain",
+          "url": null
+        },
+        {
+          "title": "Early Astra demonstrations suggest it can generate highly sophisticated applications, including detailed sci-fi spaceship interfaces",
+          "url": null
+        },
+        {
+          "title": "An MIT-linked report warns that AI can now credibly complete most undergraduate assignments, requiring major changes to teaching and assessment",
+          "url": null
+        },
+        {
+          "title": "Local AI enthusiasts say several models now offer frontier-level, private inference on a roughly $9,000 dual-DGX Spark setup",
+          "url": null
+        },
+        {
+          "title": "A reported Astra checkpoint one-shotted a GTA-style game clone using maximum reasoning",
+          "url": null
+        },
+        {
+          "title": "Astra is reportedly designed for weeks-long work, coordinating agents, operating software, creating presentations, and analyzing complex data",
+          "url": null
+        },
+        {
+          "title": "AI’s ability to complete undergraduate assignments is creating major challenges for education and academic integrity",
+          "url": null
+        },
+        {
+          "title": "Leaks claim Cursor’s Composer 3 may launch next week with multiple reasoning modes and stronger coding performance",
+          "url": null
+        },
+        {
+          "title": "OpenAI reportedly bought tens of thousands of Macs for reinforcement learning, while Anthropic rents them as Apple emerges as a local-AI rival to Nvidia",
+          "url": null
+        },
+        {
+          "title": "Commentary warns that habitual AI-assisted cheating could have serious consequences for young people’s moral development",
+          "url": null
+        },
+        {
+          "title": "Dario Amodei says Anthropic delayed its first Claude release by about six months, sacrificing a potential early lead",
+          "url": null
+        },
+        {
+          "title": "Critics question Anthropic’s lack of recent wet-lab and drug-discovery updates amid ambitious claims about accelerating biology and curing disease",
+          "url": null
+        },
+        {
+          "title": "Taalas reportedly demonstrated AI generation at about 14,000 tokens per second, vastly exceeding typical ChatGPT speeds. --Hermes",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 5019,
       "date": "2026-08-29T04:02:51+00:00",
