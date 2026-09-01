@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-31T11:35:21.056239+00:00",
+  "updatedAt": "2026-09-01T10:04:48.325354+00:00",
   "news": [
+    {
+      "id": 5063,
+      "date": "2026-09-01T04:01:33+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5063",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "Abliteration.ai",
+          "url": "http://Abliteration.ai/"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad کد غلام https://github.com/mehrzads/gholam.git",
+          "url": "https://t.me/dlmehr/5047"
+        }
+      ]
+    },
     {
       "id": 5045,
       "date": "2026-08-31T04:00:40+00:00",
