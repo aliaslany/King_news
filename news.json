@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-01T10:04:48.325354+00:00",
+  "updatedAt": "2026-09-02T09:36:10.117162+00:00",
   "news": [
+    {
+      "id": 5095,
+      "date": "2026-09-02T04:00:55+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5095",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "mehrzad.com",
+          "url": "http://mehrzad.com/"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/finkd/status/2094836602681938385?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5075"
+        }
+      ]
+    },
     {
       "id": 5063,
       "date": "2026-09-01T04:01:33+00:00",
