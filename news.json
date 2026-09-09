@@ -1,6 +1,103 @@
 {
-  "updatedAt": "2026-09-08T09:39:21.946594+00:00",
+  "updatedAt": "2026-09-09T09:43:57.535346+00:00",
   "news": [
+    {
+      "id": 5212,
+      "date": "2026-09-09T04:01:51+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5212",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "OpenAI’s Astra learns to control a robot, paint the Golden Gate Bridge, and improve through repeated attempts",
+          "url": "https://t.me/dlmehr/5192"
+        },
+        {
+          "title": "Researchers found that reasoning models generate fractal-like patterns while solving difficult problems",
+          "url": "https://t.me/dlmehr/5193"
+        },
+        {
+          "title": "Magic says its new pretraining recipe matches DeepSeek V4 Pro using 50× less compute",
+          "url": "https://t.me/dlmehr/5194"
+        },
+        {
+          "title": "Treasury Secretary Bessent says the U.S. cannot pause AI development because China will not",
+          "url": "https://t.me/dlmehr/5195"
+        },
+        {
+          "title": "Databricks introduced Proteus, a system for generating specialized GPU kernels across model sizes",
+          "url": "https://t.me/dlmehr/5196"
+        },
+        {
+          "title": "NEON announced *Artificial*, a new film starring Andrew Garfield and Yura Borisov",
+          "url": "https://t.me/dlmehr/5197"
+        },
+        {
+          "title": "Gradium launched Voice Design, allowing users to create custom voices from text prompts",
+          "url": "https://t.me/dlmehr/5198"
+        },
+        {
+          "title": "State Machines launched infrastructure for recreating enterprise apps as parallel agent environments",
+          "url": "https://t.me/dlmehr/5199"
+        },
+        {
+          "title": "OUI-1 is presented as an open-weights generative-UI model achieving 71.7% on Generative UI Bench",
+          "url": "https://t.me/dlmehr/5200"
+        },
+        {
+          "title": "OpenAI shared an agent-produced solution to the Navier–Stokes Millennium Prize Problem",
+          "url": "https://t.me/dlmehr/5201"
+        },
+        {
+          "title": "A report highlights nearly 5,000 Sharif University graduates pursuing PhDs worldwide",
+          "url": "https://t.me/dlmehr/5202"
+        },
+        {
+          "title": "Noam Brown says OpenAI’s model used for the Navier–Stokes work is a major advance over today’s LLMs",
+          "url": "https://t.me/dlmehr/5203"
+        },
+        {
+          "title": "OpenAI reportedly used 10,000 concurrent agents, illustrating parallel and latent-space scaling",
+          "url": "https://t.me/dlmehr/5204"
+        },
+        {
+          "title": "OpenAI launched ChatGPT Images 2.5 with faster generation, improved fidelity, and more consistent edits",
+          "url": "https://t.me/dlmehr/5206"
+        },
+        {
+          "title": "Levent Alpöge acknowledged that de-identified product data may have helped improve OpenAI’s models",
+          "url": "https://t.me/dlmehr/5207"
+        },
+        {
+          "title": "Aidan Gomez said production-derived synthetic data is reportedly being used to train consumer AI systems",
+          "url": "https://t.me/dlmehr/5208"
+        },
+        {
+          "title": "Alexandr Wang launched Muse, an always-on personal AI assistant that can browse and connect to apps",
+          "url": "https://t.me/dlmehr/5209"
+        },
+        {
+          "title": "Mark Chen said no human or agent reviewed user data for the Navier–Stokes effort, while de-identified data supports broader product improvement",
+          "url": "https://t.me/dlmehr/5210"
+        },
+        {
+          "title": "Anthropic pretraining researcher Jacob Coxon resigned, citing concerns about companies racing toward self-improving superintelligence",
+          "url": "https://t.me/dlmehr/5211"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/cdngdev/status/2097339677128982873",
+          "url": "https://t.me/dlmehr/5192"
+        }
+      ]
+    },
     {
       "id": 5115,
       "date": "2026-09-03T04:01:57+00:00",
