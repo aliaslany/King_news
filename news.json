@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-18T09:44:37.876514+00:00",
+  "updatedAt": "2026-09-19T09:29:24.688687+00:00",
   "news": [
+    {
+      "id": 5375,
+      "date": "2026-09-19T04:00:59+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5375",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "AGENTS.md",
+          "url": "http://AGENTS.md/"
+        },
+        {
+          "title": "CLAUDE.md",
+          "url": "http://CLAUDE.md/"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/s1r1u5_/status/2100777801335095383?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5367"
+        }
+      ]
+    },
+    {
+      "id": 5376,
+      "date": "2026-09-19T04:00:59+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5376",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "CLAUDE.md",
+          "url": "http://CLAUDE.md/"
+        },
+        {
+          "title": "AGENTS.md",
+          "url": "http://AGENTS.md/"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/s1r1u5_/status/2100777801335095383?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5367"
+        }
+      ]
+    },
     {
       "id": 5302,
       "date": "2026-09-15T04:01:50+00:00",
