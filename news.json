@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-21T10:41:50.772041+00:00",
+  "updatedAt": "2026-09-22T09:56:03.409014+00:00",
   "news": [
+    {
+      "id": 5409,
+      "date": "2026-09-22T04:01:30+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5409",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "hour news summary",
+          "url": null
+        },
+        {
+          "title": "DocJev is a fast open-source library for classifying and splitting documents using natural-language category rules",
+          "url": null
+        },
+        {
+          "title": "Hemmingway-1, based on Qwen3.8-27B, aims to produce more human-like writing",
+          "url": null
+        },
+        {
+          "title": "A report says the White House urged Anthropic to remove a limited jailbreak in Fable, but Dario Amodei refused",
+          "url": null
+        },
+        {
+          "title": "Unitree introduced the Dex5-S, a human-sized 22-degree-of-freedom dexterous hand starting at $6,500",
+          "url": null
+        },
+        {
+          "title": "Grok 4.7 reportedly improves significantly over Grok 4.6 while maintaining the same price and speed",
+          "url": null
+        },
+        {
+          "title": "Fable created a 51-second cosmic journey entirely with code, including its music, without generated images or footage",
+          "url": null
+        },
+        {
+          "title": "OpenAI formed an independent mathematicians’ advisory group to assess and communicate advances in AI mathematics responsibly",
+          "url": null
+        },
+        {
+          "title": "Xiaomi released MiMo-V2.6 Pro and Flash, multimodal models trained with scaled reinforcement learning",
+          "url": null
+        },
+        {
+          "title": "Freya introduced Adam and Eve, AI voices claimed to deliver highly realistic, human-like speech",
+          "url": null
+        },
+        {
+          "title": "Halo is an open-source post-training framework claiming up to 2.8× TRL throughput with lower peak memory use",
+          "url": null
+        },
+        {
+          "title": "Paradigma introduced Limite 1B–Violetto, a model designed for high-frequency mathematical intelligence",
+          "url": null
+        },
+        {
+          "title": "A post claims OpenAI’s new internal model solved more than 100 long-standing mathematical problems in 24 days",
+          "url": null
+        },
+        {
+          "title": "Nat Friedman said Muse was built from scratch but heavily inspired by OpenClaw, which influenced his team’s hardware purchases and workflows",
+          "url": null
+        },
+        {
+          "title": "Meta announced Petal, a 7,000-kilometer petabit-class subsea cable using multi-core fiber between France and the United States",
+          "url": null
+        },
+        {
+          "title": "The channel posted a new prompt asking users to be roasted in Persian. --Hermes",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 5375,
       "date": "2026-09-19T04:00:59+00:00",
