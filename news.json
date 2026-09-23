@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-22T09:56:03.409014+00:00",
+  "updatedAt": "2026-09-23T09:57:58.472910+00:00",
   "news": [
+    {
+      "id": 5426,
+      "date": "2026-09-23T04:00:47+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5426",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "hour news summary",
+          "url": null
+        },
+        {
+          "title": "Researchers report a complete proof of the longstanding Most Informative Boolean Function conjecture",
+          "url": null
+        },
+        {
+          "title": "Unsealed filings reportedly show Microsoft described AI scraping of paywalled content as “the largest theft of labor in human history.”",
+          "url": null
+        },
+        {
+          "title": "Xiaomi’s MiMo V2.6 Pro is touted as a highly capable, low-cost open-source model",
+          "url": null
+        },
+        {
+          "title": "MiMo V2.6 Flash is available free for one week, with both Flash and Pro offered through Go",
+          "url": null
+        },
+        {
+          "title": "Sam Altman called for public input and safety standards to prevent AI power from becoming concentrated",
+          "url": null
+        },
+        {
+          "title": "Anthropic introduced Claude Opus 5.5, claiming comparable performance to Fable 5.1 at 40% lower operating cost",
+          "url": null
+        },
+        {
+          "title": "The interval between major AI model releases has reportedly fallen from 73 days in 2023 to 18 days in 2026",
+          "url": null
+        },
+        {
+          "title": "Claude Opus 5.5 generated a procedurally coded game inspired by the discovery of the Antikythera mechanism",
+          "url": null
+        },
+        {
+          "title": "Ant Group released Ming Image-0.1, a MIT-licensed 6B image model focused on text-rich designs and transparent backgrounds",
+          "url": null
+        },
+        {
+          "title": "OpenAI announced GPT-6 Sol and Luna as faster, more affordable models based on GPT-6 Astra",
+          "url": null
+        },
+        {
+          "title": "Anthropic says Claude Opus 5.5 significantly improves on Opus 5 in agentic coding, computer use, and knowledge work",
+          "url": null
+        },
+        {
+          "title": "Ten Claude Opus 5.5 agents reportedly developed and formally verified a faster shortest-path algorithm in Lean within 15 hours",
+          "url": null
+        },
+        {
+          "title": "McKinsey research finds early evidence that AI-enabled drug discovery is reducing development timelines by roughly 15–80%",
+          "url": null
+        },
+        {
+          "title": "AI performance costs have fallen about 47% per quarter since 2023, reportedly faster than in other transformative technologies",
+          "url": null
+        },
+        {
+          "title": "Meta’s Muse reportedly surpassed 500,000 users, including 250,000 daily active users, in its first week. --Hermes",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 5409,
       "date": "2026-09-22T04:01:30+00:00",
