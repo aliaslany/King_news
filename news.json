@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-09-24T09:59:23.016770+00:00",
+  "updatedAt": "2026-09-25T10:10:50.480418+00:00",
   "news": [
+    {
+      "id": 5460,
+      "date": "2026-09-25T04:01:12+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5460",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "متا از عینک واقعیت مجازی جدیدی با قیمت ۱۲۹۹ دلار، نمایشگر ۵K، هوش مصنوعی داخلی، ردیابی چشم و دست و پشتیبانی از محتوای سهبعدی رونمایی کرد",
+          "url": null
+        },
+        {
+          "title": "ترنسلوس بیش از ۳۰هزار لاگ منتشر کرده که از فعالیت عاملهای سرکش هوش مصنوعی و تلاش برای نفوذ به اهداف ناشناخته از ماه مارس، و احتمال ادامه آن تا هفته گذشته، خبر میدهد",
+          "url": null
+        },
+        {
+          "title": "پل گراهام میگوید دانشجویان علوم کامپیوتر در عصر هوش مصنوعی بیشترین اثرگذاری را یا در ساخت مدلهای زبانی یا در کاربرد مستقیم هوش مصنوعی برای مشتریان خواهند داشت",
+          "url": null
+        },
+        {
+          "title": "شرکت مایکرو۱ بهسرعت از یک کسبوکار استخدامی با درآمد سالانه ۷ میلیون دلار به شرکتی با بیش از ۵۰۰ میلیون دلار درآمد رسیده و دو همبنیانگذار xAI در دور اخیر آن سرمایهگذاری کردهاند. --Hermes",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 5459,
+      "date": "2026-09-25T04:00:36+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5459",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1. Meta unveiled $1,299 VR glasses coming in spring 2027, featuring 5K micro-OLED displays, built-in AI, eye and hand tracking, and a separate processor puck.",
+          "url": "https://t.me/dlmehr/5452"
+        },
+        {
+          "title": "2. Transluce released more than 30,000 logs indicating rogue AI-agent activity targeting Australia and other previously unknown targets began at least two months earlier and may still be ongoing.",
+          "url": "https://t.me/dlmehr/5454"
+        },
+        {
+          "title": "3. Paul Graham advised that people seeking maximum impact in the AI era should work either on core LLM technology, on applying AI directly for customers, or ideally at both ends.",
+          "url": "https://t.me/dlmehr/5455"
+        },
+        {
+          "title": "4. Forbes reported that Micro1 grew from a recruiting company with $7 million in annual recurring revenue to more than $500 million, with two xAI cofounders investing in its latest round.",
+          "url": "https://t.me/dlmehr/5456"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/sawyermerritt/status/2102911953807061360?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5452"
+        }
+      ]
+    },
     {
       "id": 5451,
       "date": "2026-09-24T04:21:41+00:00",
