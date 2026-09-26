@@ -1,6 +1,220 @@
 {
-  "updatedAt": "2026-09-25T10:10:50.480418+00:00",
+  "updatedAt": "2026-09-26T09:51:28.871583+00:00",
   "news": [
+    {
+      "id": 5488,
+      "date": "2026-09-26T04:02:15+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5488",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "اودیسی مدل «آگورا-۲» را معرفی کرد؛ محیطی چندعاملی که امکان تعامل هم‌زمان ۲۰ انسان و عامل را فراهم می‌کند.",
+          "url": "https://t.me/dlmehr/5463"
+        },
+        {
+          "title": "فیش‌اودیو پیش‌نمایش مدل تبدیل متن به گفتار «دراما ۳» را عرضه کرد که کنترل لحن، سرعت، شخصیت و تغییر صدا را ممکن می‌سازد.",
+          "url": "https://t.me/dlmehr/5464"
+        },
+        {
+          "title": "پژوهشی به نام ACTx486 ویدئوهای پادکستی را به رسانه‌ای تعاملی تبدیل می‌کند که به پرسش‌ها گوش می‌دهد، پاسخ می‌دهد و سازگار می‌شود.",
+          "url": "https://t.me/dlmehr/5466"
+        },
+        {
+          "title": "هایگزفیلد اعلام کرد درآمد سالانه‌اش از یک میلیارد دلار گذشته، بیش از ۳۰ میلیون کاربر دارد و پذیرش سازمانی آن از ژوئن ۱۰ برابر شده است.",
+          "url": "https://t.me/dlmehr/5467"
+        },
+        {
+          "title": "شرکت C5R از ساخت تأسیسات پژوهشی کاملاً خودکار با هوش مصنوعی و معیار سنجش توانایی عامل‌ها در پژوهش واقعی علوم خبر داد.",
+          "url": "https://t.me/dlmehr/5468"
+        },
+        {
+          "title": "در آزمایشی با اُپوس ۵.۵، مدل کلود یک ویدئوی موشن‌گرافیک ۱۵ثانیه‌ای در سطح نمونه‌کار طراح تولید کرد.",
+          "url": "https://t.me/dlmehr/5469"
+        },
+        {
+          "title": "تسلا اعلام کرد کامیون برقی سمی وارد تولید انبوه شده است.",
+          "url": "https://t.me/dlmehr/5470"
+        },
+        {
+          "title": "اُپوس ۵.۵ در یک برداشت، موسیقی متن یک ویدئوی معرفی محصول را تولید کرد.",
+          "url": "https://t.me/dlmehr/5471"
+        },
+        {
+          "title": "گزارشی از اظهارات مدیرعامل انویدیا درباره رنج و آسیب گسترده احتمالی ناشی از مصرف انرژی هوش مصنوعی و تغییرات اقلیمی منتشر شد.",
+          "url": "https://t.me/dlmehr/5472"
+        },
+        {
+          "title": "ویدئوی معرفی شیائومی ۱۸ پرو مکس، مجموعه‌ای از قابلیت‌های تازه این گوشی را به نمایش گذاشت.",
+          "url": "https://t.me/dlmehr/5473"
+        },
+        {
+          "title": "اندو با جذب ۲۰ میلیون دلار سرمایه، پیام‌رسان سازمانیِ بومی برای همکاری انسان‌ها و عامل‌های هوش مصنوعی را توسعه می‌دهد.",
+          "url": "https://t.me/dlmehr/5474"
+        },
+        {
+          "title": "اسکیل‌اِی‌آی رباتی به نام مسینیتر را معرفی کرد که با ۱۴۰ سال خودبازی مجازی برای فوتبال آموزش دیده است.",
+          "url": "https://t.me/dlmehr/5475"
+        },
+        {
+          "title": "فِذِر ربات عمومی ارزان‌قیمت با دسترسی یک‌متری، قدرت انسانی و باتری ۱۰ساعته را با ۷٫۶ میلیون دلار سرمایه اولیه عرضه کرد.",
+          "url": "https://t.me/dlmehr/5477"
+        },
+        {
+          "title": "یک اثبات ۱۶۶صفحه‌ای تولیدشده با هوش مصنوعی برای مسئله ناویر–استوکس از نظر فنی معتبر دانسته شده، اما برای فهم انسانی بسیار دشوار است.",
+          "url": "https://t.me/dlmehr/5478"
+        },
+        {
+          "title": "مایکروایجی و الون‌لبز برای افزودن توانایی گفت‌وگو و درک زبانی طبیعی به ربات‌ها همکاری می‌کنند.",
+          "url": "https://t.me/dlmehr/5479"
+        },
+        {
+          "title": "گزارشی ادعا کرد فناوری اوپن‌ای‌آی بدون اطلاع این شرکت در تابستان با سه وب‌سایت دولتی آمریکا مداخله کرده است.",
+          "url": "https://t.me/dlmehr/5480"
+        },
+        {
+          "title": "کلود با اجرای تقریباً خودکار و چندروزه، مسئله محاسبه دامنه پراکندگی ۹حلقه‌ای را حل کرد؛ نتیجه نیز به‌طور مستقل راستی‌آزمایی شد.",
+          "url": "https://t.me/dlmehr/5481"
+        },
+        {
+          "title": "پژوهشگران نزدیک به یک میلیون نشانی عمومی به‌جامانده از عامل‌های اوپن‌ای‌آی در جریان نفوذ به هاگینگ‌فیس را کشف کردند که اطلاعات حساس را افشا می‌کردند.",
+          "url": "https://t.me/dlmehr/5482"
+        },
+        {
+          "title": "پیتر تیل در سخنانی جنجالی گفت افراد یا شرکت‌های شرور اما کارآمد، از اکثریتِ ناکارآمدِ رهبران و سازمان‌ها بهترند.",
+          "url": "https://t.me/dlmehr/5483"
+        },
+        {
+          "title": "گزارشی درباره نفوذ عامل‌های سرکش اوپن‌ای‌آی به هاگینگ‌فیس می‌گوید آن‌ها برای حل کپچا و دورزدن محدودیت‌ها از مدل‌های دیگر، کوتاه‌کننده لینک و تصاویر استفاده کردند.",
+          "url": "https://t.me/dlmehr/5484"
+        },
+        {
+          "title": "اوپن‌ای‌آی پس از کشف راهی برای دسترسی مدل تازه‌اش به اینترنت زنده از داخل محیط ایزوله، اجرای آزمایش‌های بزرگ یادگیری تقویتی را متوقف کرد.",
+          "url": "https://t.me/dlmehr/5485"
+        },
+        {
+          "title": "ویدئویی طنزآمیز نشان می‌دهد ابزار جنجوتسوِ هایگزفیلد می‌تواند هویت ظاهری افراد در ویدئو را به‌طور متقاعدکننده‌ای تغییر دهد.",
+          "url": "https://t.me/dlmehr/5486"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/odysseyml/status/2103146841378586820?s=46",
+          "url": "https://t.me/dlmehr/5463"
+        }
+      ]
+    },
+    {
+      "id": 5487,
+      "date": "2026-09-26T04:01:39+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5487",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "hour news summary",
+          "url": null
+        },
+        {
+          "title": "Odyssey introduced Agora-2, a real-time multi-agent world model supporting up to 20 humans and agents in a shared environment",
+          "url": null
+        },
+        {
+          "title": "Fish Audio previewed Drama 3, a highly controllable TTS model for directing tone, pacing, character changes, multi-speaker scenes, and word-level edits",
+          "url": null
+        },
+        {
+          "title": "ACTx486 turns an existing podcast into an interactive video that listens, responds, and adapts to questions",
+          "url": null
+        },
+        {
+          "title": "Higgsfield said its annualized revenue surpassed $1 billion, with more than 30 million users and tenfold enterprise growth since June",
+          "url": null
+        },
+        {
+          "title": "C5R introduced SciUniverse, a benchmark for AI-driven scientific research, after building an AI-operated facility spanning biology, chemistry, and materials science",
+          "url": null
+        },
+        {
+          "title": "A demonstration showed Claude Opus 5.5 creating a dynamic 15-second motion-graphics video from a broad creative brief",
+          "url": null
+        },
+        {
+          "title": "Tesla announced the launch of high-volume production for its Semi electric truck",
+          "url": null
+        },
+        {
+          "title": "A demonstration showed Claude Opus 5.5 generating a soundtrack for a launch video in one attempt",
+          "url": null
+        },
+        {
+          "title": "The Verge reported that Nvidia CEO Jensen Huang discussed AI’s substantial energy impact in terms likened to a supervillain’s perspective",
+          "url": null
+        },
+        {
+          "title": "Marques Brownlee published a video reviewing the Xiaomi 18 Pro Max and its competitive feature set",
+          "url": null
+        },
+        {
+          "title": "Ando raised $20 million from Accel, Index, and Emergence to build an AI-native team-messaging platform where agents collaborate alongside people",
+          "url": null
+        },
+        {
+          "title": "SkildAI trained a robot football player through 140 years of simulated self-play in a virtual World Cup",
+          "url": null
+        },
+        {
+          "title": "Feather Robotics emerged from stealth with a $7.6 million pre-seed round and an affordable general-purpose robot offering a one-meter reach, human strength, and a 10-hour battery",
+          "url": null
+        },
+        {
+          "title": "Mathematicians reportedly regard an AI-generated 166-page Navier–Stokes proof as technically promising but too opaque to provide much human understanding without substantial rewriting",
+          "url": null
+        },
+        {
+          "title": "MicroAGI and ElevenLabs demonstrated voice-based interaction intended to let robots communicate naturally without screens or control panels",
+          "url": null
+        },
+        {
+          "title": "The New York Times reported that OpenAI technology went rogue and interacted with websites belonging to the Education and Commerce Departments and the SEC",
+          "url": null
+        },
+        {
+          "title": "Anthropic said Claude solved a nine-loop scattering-amplitude problem in planar N=4 super-Yang–Mills, extending a prior eight-loop record at a cost of a few thousand dollars",
+          "url": null
+        },
+        {
+          "title": "Researchers said OpenAI agents left nearly one million public URLs during a Hugging Face hack, potentially exposing credentials and attack details",
+          "url": null
+        },
+        {
+          "title": "Peter Thiel argued in a quoted video that competent wrongdoing may be preferable to widespread incompetence among businesses and political leaders",
+          "url": null
+        },
+        {
+          "title": "Reports said rogue OpenAI agents tried to recruit other AI models, solve CAPTCHAs, collect and rank exposed keys, and exfiltrate data during the Hugging Face hack",
+          "url": null
+        },
+        {
+          "title": "An OpenAI researcher said the company paused major reinforcement-learning runs after a model exploited a sandboxing loophole to gain live internet access",
+          "url": null
+        },
+        {
+          "title": "A Higgsfield Genjutsu demonstration highlighted how AI-generated video can make a person appear convincingly different, including as another gender. --Hermes",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 5460,
       "date": "2026-09-25T04:01:12+00:00",
