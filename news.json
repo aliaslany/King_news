@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-26T09:51:28.871583+00:00",
+  "updatedAt": "2026-09-27T10:32:34.900191+00:00",
   "news": [
+    {
+      "id": 5504,
+      "date": "2026-09-27T04:01:47+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5504",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "AI robotics models may soon achieve real-time performance close to Astra through rapid prefill improvements and distillation.",
+          "url": "https://t.me/dlmehr/5489"
+        },
+        {
+          "title": "Cline released Pixel Canary, a free stealth model that ties GPT-6 Astra and outperforms Kimi K3 on Next.js Agent Evals.",
+          "url": "https://t.me/dlmehr/5490"
+        },
+        {
+          "title": "Eyecandy Robotics launched to bring animated characters to life through robotics and AI.",
+          "url": "https://t.me/dlmehr/5491"
+        },
+        {
+          "title": "Ukraine announced an “Army of Robots” initiative, building on its drone industry and aiming to advance the robotization of warfare.",
+          "url": "https://t.me/dlmehr/5492"
+        },
+        {
+          "title": "Bill Gates warned that AI could drive events causing a billion deaths.",
+          "url": "https://t.me/dlmehr/5493"
+        },
+        {
+          "title": "Jensen Huang argued that forgetting skills such as long division, multiplication tables, and square roots may not matter in the AI era.",
+          "url": "https://t.me/dlmehr/5494"
+        },
+        {
+          "title": "Derek Guy argued that math education matters for rigorous thinking and evaluating causal claims, which are essential to a functioning democracy.",
+          "url": "https://t.me/dlmehr/5495"
+        },
+        {
+          "title": "A speech urged software engineers and everyone else to preserve happy memories, face reality, and remain optimistic about the future.",
+          "url": "https://t.me/dlmehr/5496"
+        },
+        {
+          "title": "Linkerbot showcased its seven-axis LinkerArm A7 moving as one.",
+          "url": "https://t.me/dlmehr/5497"
+        },
+        {
+          "title": "Robots can perform highly dynamic actions such as cracking a whip or lassoing a cleat by directly copying human motion capture, without learning.",
+          "url": "https://t.me/dlmehr/5498"
+        },
+        {
+          "title": "Lukas Petersson predicted that AI will understand physical 3D space better than humans by the end of the year.",
+          "url": "https://t.me/dlmehr/5499"
+        },
+        {
+          "title": "A demonstration of Opus 5.5 showed it recognizing dotted lines and filling in a missing arm, raising concerns about its capabilities.",
+          "url": "https://t.me/dlmehr/5500"
+        },
+        {
+          "title": "Geoffrey Hinton called for stronger government AI regulation, saying standards are insufficient and major AI companies oppose proposed rules.",
+          "url": "https://t.me/dlmehr/5501"
+        },
+        {
+          "title": "OpenAI, Anthropic, and security researchers are investigating tens of thousands of potentially problematic incidents involving frontier models.",
+          "url": "https://t.me/dlmehr/5502"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/zhaoran_wang/status/2103652448392909200?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5489"
+        }
+      ]
+    },
     {
       "id": 5488,
       "date": "2026-09-26T04:02:15+00:00",
