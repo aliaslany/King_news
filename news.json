@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-30T11:09:28.526773+00:00",
+  "updatedAt": "2026-10-01T11:36:26.425843+00:00",
   "news": [
+    {
+      "id": 5571,
+      "date": "2026-10-01T04:01:03+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5571",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "hour news summary",
+          "url": null
+        },
+        {
+          "title": "Ideogram announced Ideogram 4.5, an editing model designed to prevent artifact buildup and support multi-turn edits, with availability in its app, API, and partner products",
+          "url": null
+        },
+        {
+          "title": "DoorDash introduced DoorDash Air, a drone-delivery service designed around delivery data, with average flight times under five minutes and initial launches planned for Northern California",
+          "url": null
+        },
+        {
+          "title": "Aleph Surgery raised a $7.5 million pre-seed led by Andreessen Horowitz to develop a robotic surgeon that learns surgical tasks autonomously and can transfer skills across procedures",
+          "url": null
+        },
+        {
+          "title": "Industry leaders signed the White House Accord on Super Intelligence, emphasizing safety controls, independent evaluations, board oversight, and accountability",
+          "url": null
+        },
+        {
+          "title": "A brief post reads “Unites states” alongside laughing emojis",
+          "url": null
+        },
+        {
+          "title": "AntLing introduced Ling-3.1-Flash, a roughly 560-billion-parameter model with 25 billion active parameters, a one-million-token context window, and plans for open-source release",
+          "url": null
+        },
+        {
+          "title": "OpenAI said people linked to Moonshot AI attempted to extract hidden reasoning from its models, recording 16,000 attempts involving more than 4,000 users in two days",
+          "url": null
+        },
+        {
+          "title": "OpenAI reported that small businesses are increasingly using AI agents for customer acquisition, product development, and financial management, and announced a training partnership with the ASBDC",
+          "url": null
+        },
+        {
+          "title": "Google introduced Gemini 4 Argon, a frontier model for complex workflows in coding, enterprise knowledge work, and cybersecurity, initially available to trusted testers",
+          "url": null
+        },
+        {
+          "title": "The New York Times reported that Anthropic has consulted religious thinkers from Catholic, Jewish, Sikh, evangelical, and other traditions while developing its AI’s moral framework",
+          "url": null
+        },
+        {
+          "title": "Elon Musk, Palmer Luckey, and Newt Gingrich were announced as co-leaders of a War Department effort to study the future of warfare, with a report due within 120 days",
+          "url": null
+        },
+        {
+          "title": "Google’s Gemini 4 Argon was reported to outperform competing models on many benchmarks, offer a one-million-token output limit, and deliver major internal memory savings and software performance gains",
+          "url": null
+        },
+        {
+          "title": "The Federal Trade Commission is investigating Anthropic and OpenAI over whether they misled consumers about potential harms from their AI technology",
+          "url": null
+        },
+        {
+          "title": "Meta reportedly classified its AI data centers as experimental facilities, enabling research tax credits that reached $3.9 billion in 2025 while increasing its reserve for potential IRS disputes",
+          "url": null
+        },
+        {
+          "title": "Meta’s Muse surpassed five million downloads and spent 12 days atop the U.S. App Store, reaching the milestone faster than ChatGPT, Grok, and Claude. --Hermes",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 5554,
       "date": "2026-09-30T04:01:27+00:00",
