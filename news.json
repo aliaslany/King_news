@@ -1,6 +1,112 @@
 {
-  "updatedAt": "2026-10-02T11:05:45.993514+00:00",
+  "updatedAt": "2026-10-03T10:24:14.682862+00:00",
   "news": [
+    {
+      "id": 5609,
+      "date": "2026-10-03T04:01:16+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5609",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "hour news summary",
+          "url": null
+        },
+        {
+          "title": "Andrej Karpathy suggests using constrained language, diagrams, interactive webpages, and custom explainer videos to better understand and communicate language-model outputs",
+          "url": null
+        },
+        {
+          "title": "Google Research introduces a federated-learning system using trusted execution environments for verifiable differential privacy and faster server-side training",
+          "url": null
+        },
+        {
+          "title": "Nathan Lambert announces Trillium Labs, a nonprofit developing open frontier-AI post-training recipes and infrastructure while studying recursive self-improvement, reward hacking, and multi-agent systems",
+          "url": null
+        },
+        {
+          "title": "Preload, a YC F26 startup, is collecting synchronized egocentric video, EMG, and tactile data at scale for robot manipulation, vision-language-action models, and world models",
+          "url": null
+        },
+        {
+          "title": "Polymarket reports that Lockheed Martin says OpenAI is working with its F-35 team on complex mathematics and physics challenges",
+          "url": null
+        },
+        {
+          "title": "SpaceX shares footage of hot-staging preparations for Starship Flight 14",
+          "url": null
+        },
+        {
+          "title": "Epoch AI estimates projected AI-chip shipments could support tens to hundreds of millions of concurrent frontier-model agents, potentially reaching 1.9 billion with more efficient models",
+          "url": null
+        },
+        {
+          "title": "NVIDIA details fine-tuning Nemotron 3.5 ASR for Saudi Najdi and Hijazi Arabic, cutting target-dialect word error rates while preserving broader multilingual performance",
+          "url": null
+        },
+        {
+          "title": "SpaceX says it completed three Falcon launches, four booster landings, and a Dragon docking with the ISS in under 13 hours",
+          "url": null
+        },
+        {
+          "title": "A report alleges Anthropic co-founder Chris Olah objected to Pope Leo XIV’s rejection of machine consciousness and that Anthropic privately lobbied Vatican advisers on the issue",
+          "url": null
+        },
+        {
+          "title": "Apple announces additional macOS Full Disk Access controls requiring more explicit user action, citing growing privacy risks from autonomous AI agents",
+          "url": null
+        },
+        {
+          "title": "Meshy previews Meshy Edit, which lets users select areas of a 3D model and describe targeted changes such as adding snow boots to The Thinker",
+          "url": null
+        },
+        {
+          "title": "Neuralink says more than 50,000 hours of implant data enabled a BCI foundation model, improving decoder durability, cursor control, and calibration efficiency",
+          "url": null
+        },
+        {
+          "title": "Meta says mathematicians working with Muse Spark models solved six previously open mathematical problems, with the resulting papers reviewed and documenting human-AI contributions. --Hermes",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 5598,
+      "date": "2026-10-02T19:31:10+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5598",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "0:16 Media is too big VIEW IN TELEGRAM",
+          "url": "https://t.me/dlmehr/5598?single"
+        },
+        {
+          "title": "0:17 Media is too big VIEW IN TELEGRAM",
+          "url": "https://t.me/dlmehr/5599?single"
+        },
+        {
+          "title": "0:18 This media is not supported in your browser VIEW IN TELEGRAM",
+          "url": "https://t.me/dlmehr/5600?single"
+        },
+        {
+          "title": "@SpaceX",
+          "url": "https://twitter.mck.red/SpaceX/status/2106089751837278533"
+        }
+      ]
+    },
     {
       "id": 5571,
       "date": "2026-10-01T04:01:03+00:00",
