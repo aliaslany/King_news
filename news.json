@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-10-03T10:24:14.682862+00:00",
+  "updatedAt": "2026-10-04T11:06:22.731531+00:00",
   "news": [
+    {
+      "id": 5619,
+      "date": "2026-10-04T04:02:07+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5619",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1. Sam Altman warns that treating AI models as objects of religious faith or surrendering human judgment to them poses a serious safety risk.",
+          "url": "https://t.me/dlmehr/5611"
+        },
+        {
+          "title": "2. Google is reportedly moving Gemini Flash and Pro to paid plans while retaining unlimited free access only for Flash-Lite.",
+          "url": "https://t.me/dlmehr/5612"
+        },
+        {
+          "title": "3. Claude Opus 5.5 and Sonnet 5.5 are reportedly available in Antigravity for paid users.",
+          "url": "https://t.me/dlmehr/5613"
+        },
+        {
+          "title": "4. A Persian-language video explains how to read scientific papers, based on Keshav’s guide to paper reading.",
+          "url": "https://t.me/dlmehr/5614"
+        },
+        {
+          "title": "5. Thore Graepel argues that current LLMs lack auditable reasoning records and calls for AI systems that explicitly track evidence, uncertainty, inference, and belief revision.",
+          "url": "https://t.me/dlmehr/5615"
+        },
+        {
+          "title": "6. Martin Schwartz argues that scientific progress depends on embracing ignorance and “stupidity”—recognizing what one does not know and asking questions that enable discovery.",
+          "url": "https://t.me/dlmehr/5616"
+        },
+        {
+          "title": "7. Christian Szegedy argues that AI is rapidly transforming mathematics from heroic manual problem-solving into a scalable industry of automated exploration, mapping, and scientific infrastructure.",
+          "url": "https://t.me/dlmehr/5617"
+        },
+        {
+          "title": "8. OpenAI safety lead David Robinson reportedly resigned and warned that alignment-test scores do not ensure model safety, while rapid capability gains could create near-term risks of catastrophic loss of control.",
+          "url": "https://t.me/dlmehr/5618"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/sama/status/2106388373221118198?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5611"
+        }
+      ]
+    },
     {
       "id": 5609,
       "date": "2026-10-03T04:01:16+00:00",
