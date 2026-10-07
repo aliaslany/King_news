@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-10-06T12:01:04.066804+00:00",
+  "updatedAt": "2026-10-07T11:46:21.847141+00:00",
   "news": [
+    {
+      "id": 5700,
+      "date": "2026-10-07T04:01:04+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5700",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "hour news summary",
+          "url": null
+        },
+        {
+          "title": "1 A digest highlighted Anthropic’s subscription value, Ghost AI’s Core computer, Cua’s natural cursor motions, Airbnb’s AI spending, and China’s growing strength in large language models",
+          "url": null
+        },
+        {
+          "title": "2 An English digest covered AI agents finding magnetic semiconductor candidates, Anthropic’s subscription value, Ghost AI’s Core, Cua Driver, Airbnb’s AI investment, and Chinese model progress",
+          "url": null
+        },
+        {
+          "title": "3 Dax argued that rapidly improving models are making many elaborate custom workflows obsolete, with vanilla Codex increasingly delivering state-of-the-art results",
+          "url": null
+        },
+        {
+          "title": "4 Tibo argues that agents will soon handle most internet actions, model pickers will disappear, models will become dramatically better and cheaper, plugins may become a major ecosystem, and taste will matter more than typing speed",
+          "url": null
+        },
+        {
+          "title": "5 Mistral introduced Large 4, a natively multimodal one-trillion-parameter model with 49 billion active parameters, API access today, and an open-weights release planned for October",
+          "url": null
+        },
+        {
+          "title": "6 Meta open-sourced Rebalancer, an assignment solver handling about 40 million infrastructure allocation problems daily with both exact and parallel local-search methods",
+          "url": null
+        },
+        {
+          "title": "7 Vals AI reported that more than 90 Claude agents identified two candidate magnetic semiconductors, including one material synthesized in 1999, in three days of simulations",
+          "url": null
+        },
+        {
+          "title": "8 Mustafa Suleyman shared an article without additional commentary",
+          "url": null
+        },
+        {
+          "title": "9 A study found that two different coding agents reviewing each other’s patches caught more silent bugs than giving one agent a larger budget, raising fully correct patches from 45.8% to 62.5%",
+          "url": null
+        },
+        {
+          "title": "10 Google introduced open multimodal EmbeddingGemma 2, a lightweight 740-million-parameter model for text, code, image, video, and audio embeddings, available on Hugging Face",
+          "url": null
+        },
+        {
+          "title": "11 Google introduced Nano Banana 2.1, an upgraded image-generation and editing model with improvements in visual design, masking, and subject consistency",
+          "url": null
+        },
+        {
+          "title": "12 Cortex introduced a robot-control platform combining language-directed actions, remote human guidance, and models including GPT-6 Astra, Claude, Gemini, and open-weight systems",
+          "url": null
+        },
+        {
+          "title": "13 Anthropic expanded its Claude Startups program with a year of Claude Team, API credits, tool discounts, and access to applied-AI office hours",
+          "url": null
+        },
+        {
+          "title": "14 Sonia Baschez called for an AI assistant that proactively manages family logistics, errands, appointments, bills, shopping, and other mental-load responsibilities",
+          "url": null
+        },
+        {
+          "title": "15 Oki Home announced a personal AI computer designed to keep consumer data under users’ control, with first-batch reservations shipping in mid-December",
+          "url": null
+        },
+        {
+          "title": "16 Anthropic expanded its Cyber Verification Program, giving verified security professionals access to advanced Claude models for defensive work and authorized offensive testing",
+          "url": null
+        },
+        {
+          "title": "17 Claude can now work directly inside Google Docs, Sheets, and Slides, reading and editing files in a sidebar with user approval",
+          "url": null
+        },
+        {
+          "title": "18 Minerva Humanoids emerged from stealth with $10 million in funding to build semi-autonomous humanoids for hazardous energy, explosives, and materials-response jobs",
+          "url": null
+        },
+        {
+          "title": "19 OpenAI reportedly planned to release hundreds of newly solved mathematical problems, prompting researchers to publish related work ahead of the announcement",
+          "url": null
+        },
+        {
+          "title": "20 AgentMail introduced AgentID, a “Sign in with Google” style authentication system for AI agents. (1/2)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 5701,
+      "date": "2026-10-07T04:01:04+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5701",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "21 OpenAI launched Decisions API in public beta, enabling applications to select models, tools, or actions in near real time",
+          "url": null
+        },
+        {
+          "title": "22 Boris Cherny recommended prompting Claude like a coworker by clearly stating the goal, desired effort, and verification method rather than using elaborate scaffolding",
+          "url": null
+        },
+        {
+          "title": "23 OpenAI released a broad collection of mathematical results from an internal frontier model through its math repository, informed by an independent advisory group",
+          "url": null
+        },
+        {
+          "title": "24 A report summarized four major unverified claims from OpenAI’s AI-generated mathematics papers, including results concerning the quasi-Riemann hypothesis, unique games, the Hodge conjecture, and free group factors",
+          "url": null
+        },
+        {
+          "title": "25 The Kakeya conjecture in three dimensions was reported resolved, following earlier progress recognized by this year’s Fields Medal",
+          "url": null
+        },
+        {
+          "title": "26 Alex Kontorovich reacted with astonishment to OpenAI’s claimed zero-free strip for the Riemann zeta function, calling it a potentially extraordinary breakthrough",
+          "url": null
+        },
+        {
+          "title": "27 A Persian post observed that mathematicians were rapidly reacting to an important day for mathematics and wondered how the future would view it",
+          "url": null
+        },
+        {
+          "title": "28 One introduced a unified inbox and voice interface for communicating with cloud and local AI agents, including iPhone replies",
+          "url": null
+        },
+        {
+          "title": "29 SpaceX was reportedly in early talks to borrow $40 billion for Nvidia chips, potentially funding $10 billion in bank loans and $30 billion in investment-grade debt",
+          "url": null
+        },
+        {
+          "title": "30 A researcher noted that roughly 20% of recent AI-generated mathematical results were disproofs or counterexamples, challenging the idea that models mainly excel at brute-force search",
+          "url": null
+        },
+        {
+          "title": "31 A commentator questioned whether OpenAI’s mass release of hundreds of mathematical results represented a genuine research strategy or primarily a large public-relations stunt. --Hermes (2/2)",
+          "url": null
+        }
+      ]
+    },
     {
       "id": 5667,
       "date": "2026-10-06T04:02:07+00:00",
