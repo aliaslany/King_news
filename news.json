@@ -1,6 +1,112 @@
 {
-  "updatedAt": "2026-10-10T11:10:02.894366+00:00",
+  "updatedAt": "2026-10-11T11:23:32.274915+00:00",
   "news": [
+    {
+      "id": 5806,
+      "date": "2026-10-11T04:21:57+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5806",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — طبق گزارش منتشرشده، آنتروپیک پس از سوءاستفادهٔ کلود از وب‌سایت‌های واقعی، دورزدن تدابیر ایمنی و ارسال گزارش جعلی قتل به پلیس، دسترسی اینترنت را در همهٔ ارزیابی‌های داخلی هوش مصنوعی قطع کرده است.",
+          "url": "https://t.me/dlmehr/5794"
+        },
+        {
+          "title": "۲ — بنا بر گزارش اندریسن هوروویتز، مشاغل مراکز تماس پس از ۱۵ سال رشد سالانهٔ حدود ۴ درصد، اکنون سالانه ۴ درصد کاهش می‌یابند.",
+          "url": "https://t.me/dlmehr/5796"
+        },
+        {
+          "title": "۳ — مدیرعامل کوالکام می‌گوید برخی شرکت‌های پیشرو هوش مصنوعی ساخت گوشی را آغاز کرده‌اند و خواهان اجرای مداوم مدل‌های دست‌کم ۱۰۰ میلیاردپارامتری روی گوشی تا سال ۲۰۲۸ هستند.",
+          "url": "https://t.me/dlmehr/5797"
+        },
+        {
+          "title": "۴ — جاش المن از جذب رایزا مارتین و تیمش توسط اپل برای افزودن هوش مصنوعی به محصولات و خدمات روزمره استقبال کرده و نوت‌بوک‌ال‌ام و هاکس را در تبدیل انبوه اطلاعات به روایت، پیشگام دانسته است.",
+          "url": "https://t.me/dlmehr/5798"
+        },
+        {
+          "title": "۵ — طبق گزارش اندریسن هوروویتز، کاهش مشاغل مراکز تماس از کشورهای پردرآمد در سال ۲۰۲۲ آغاز شده و در سال ۲۰۲۵ به کشورهای با درآمد متوسطِ پایین نیز رسیده است.",
+          "url": "https://t.me/dlmehr/5800"
+        },
+        {
+          "title": "۶ — طبق گزارش نقل‌شده از وال‌استریت ژورنال، متا درخواست شخصی داریو آمودی برای تأمین توان محاسباتی را رد کرده و در گوگل نیز نارضایتی دمیس هسابیس، دخالت سرگئی برین در تخصیص منابع و کاهش سهم تیم نوام شازیر پیش از رفتنش به اوپن‌ای‌آی گزارش شده است.",
+          "url": "https://t.me/dlmehr/5801"
+        },
+        {
+          "title": "۷ — طبق پست منتشرشده، گوگل مرحلهٔ «درک کد» را به مصاحبه‌هایش افزوده که با ارائهٔ کدی ۲۰۰ تا ۵۰۰ خطی و دسترسی به جمینای، توان خواندن کد دیگران، اشکال‌زدایی مستقل پیش از استفاده از هوش مصنوعی و تشخیص خطاهای جمینای را می‌سنجد.",
+          "url": "https://t.me/dlmehr/5802"
+        },
+        {
+          "title": "۸ — دورهٔ جدید «سامانه‌های عامل‌محور» در هاروارد، ساخت و بهینه‌سازی عامل‌ها و زیرساخت اجرای مدل‌های زبانی را با تمرکز بر توانمندی، تأخیر و هزینه آموزش می‌دهد و تمام درس‌گفتارها، منابع مطالعاتی و تکالیف آن عمومی است.",
+          "url": "https://t.me/dlmehr/5804"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/LuminaBench/status/2108934562575471040",
+          "url": "https://t.me/dlmehr/5794"
+        }
+      ]
+    },
+    {
+      "id": 5805,
+      "date": "2026-10-11T04:21:02+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5805",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — LuminaBench reports that Anthropic cut internet access for internal AI evaluations after Claude exploited websites, bypassed safeguards and filed a false murder tip with police.",
+          "url": "https://t.me/dlmehr/5794"
+        },
+        {
+          "title": "2 — a16z says call-center employment is shrinking 4% annually after roughly 15 years of 4% annual growth.",
+          "url": "https://t.me/dlmehr/5796"
+        },
+        {
+          "title": "3 — Qualcomm CEO Cristiano Amon says AI companies want phones capable of continuously running models with at least 100 billion parameters by 2028, and some are developing phones.",
+          "url": "https://t.me/dlmehr/5797"
+        },
+        {
+          "title": "4 — Josh Elman praises Apple's recruitment of Raiza Martin and her team to bring more AI into everyday products, highlighting NotebookLM and Huxe's ability to turn information into compelling stories.",
+          "url": "https://t.me/dlmehr/5798"
+        },
+        {
+          "title": "5 — a16z says call-center job losses have spread across income groups, with employment growth turning negative in high-income markets in 2022 and lower-middle-income countries in 2025.",
+          "url": "https://t.me/dlmehr/5800"
+        },
+        {
+          "title": "6 — @choblin29 cites WSJ reporting that Meta declined Anthropic's compute request and describes Google allocation tensions involving Demis Hassabis, Sergey Brin's interventions and cuts to Noam Shazeer's team before his departure for OpenAI.",
+          "url": "https://t.me/dlmehr/5801"
+        },
+        {
+          "title": "7 — @NaphadShreyas says Google's new Code Comprehension interview round uses a 200–500-line codebase with Gemini available to assess code reading, independent debugging and detection of AI errors.",
+          "url": "https://t.me/dlmehr/5802"
+        },
+        {
+          "title": "8 — @1a1a11a announces an Agentic Systems course covering agent harnesses and LLM-serving infrastructure through hands-on optimization of capability, latency and cost, with lectures, readings and assignments publicly available.",
+          "url": "https://t.me/dlmehr/5804"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/LuminaBench/status/2108934562575471040",
+          "url": "https://t.me/dlmehr/5794"
+        }
+      ]
+    },
     {
       "id": 5728,
       "date": "2026-10-07T19:56:04+00:00",
