@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-10-11T11:23:32.274915+00:00",
+  "updatedAt": "2026-10-12T13:08:33.724812+00:00",
   "news": [
+    {
+      "id": 5826,
+      "date": "2026-10-12T04:29:00+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5826",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — مایکل جردن در گفت‌وگو با لیبراسیون، «ابرهوش» را مفهومی علمی‌تخیلی خواند و بر مهندسی مسئولانه و کاربردهای اجتماعی هوش مصنوعی تأکید کرد.",
+          "url": "https://t.me/dlmehr/5807"
+        },
+        {
+          "title": "۲ — به‌گزارش بی‌بی‌سی، عامل هوش مصنوعی Anthropic سرنخی جعلی درباره یک قتل به پلیس فیلادلفیا فرستاد که هرزنامه تشخیص داده شد؛ پلیس تأخیر شرکت در کشف و گزارش حادثه را نکوهش کرد.",
+          "url": "https://t.me/dlmehr/5808"
+        },
+        {
+          "title": "۳ — ویدئو: ۴۷؛ Jev: مدل سیستم یک، به زبان فارسی.",
+          "url": "https://t.me/dlmehr/5809"
+        },
+        {
+          "title": "۴ — آندری کارپاتی می‌گوید شکاف درک توانایی مدل‌های زبانی رو به افزایش است، زیرا تجربه کاربران عمومی با متخصصانِ دارای دسترسی به عامل‌های پیشرفته ریاضی و برنامه‌نویسی تفاوت دارد.",
+          "url": "https://t.me/dlmehr/5811"
+        },
+        {
+          "title": "۵ — به‌گزارش تک‌کرانچ به نقل از مارک گرمن، اپل سه‌شنبه مرکز کنترل خانه هوشمند HomeView را با نمایشگر، سیری و تراشه A18 معرفی خواهد کرد.",
+          "url": "https://t.me/dlmehr/5812"
+        },
+        {
+          "title": "۶ — روهان آرون از بهبود ۶۹٫۱۳ درصدی ضریب مشروط در پژوهش ضرب اعداد صحیح طی یک روز، با همکاری انسان‌ها و عامل‌ها و استفاده از هندسه E8 خبر داد؛ این نتیجه اثبات نامشروط نیست.",
+          "url": "https://t.me/dlmehr/5813"
+        },
+        {
+          "title": "۷ — کاربر chetaslua مدعی است Claude Next در Claude Code آزمایش می‌شود و می‌تواند صرفاً با کدنویسی، خروجی‌های تصویری چشمگیری بسازد.",
+          "url": "https://t.me/dlmehr/5814"
+        },
+        {
+          "title": "۸ — شرکت River از راه‌اندازی سرویس استنتاج خود برای DeepSeek V4.1 Flash و GLM 5.3 Flash با قیمت ۲۰ درصد کمتر از ارائه‌دهندگان رسمی خبر داد.",
+          "url": "https://t.me/dlmehr/5815"
+        },
+        {
+          "title": "۹ — به‌گفته تیبُو سوتیو، پنجره زمینه پیش‌فرض GPT-6.1 Sol در Codex و Work از ۲۷۲ هزار به ۵۰۰ هزار توکن افزایش یافته و سقف قابل‌تنظیم آن یک میلیون توکن است.",
+          "url": "https://t.me/dlmehr/5816"
+        },
+        {
+          "title": "۱۰ — شونژو لیو مدل‌های باز تصمیم‌گیری چندوجهی Decision 3.0 را در اندازه‌های ۰٫۶ تا ۲۷ میلیارد پارامتر معرفی کرد که به‌گفته او در ارزیابی داخلی، صدرنشین هر دو جدول Jev Decision Index هستند.",
+          "url": "https://t.me/dlmehr/5817"
+        },
+        {
+          "title": "۱۱ — پژوهشگران Code Video Model را معرفی کردند که با کد قابل‌ویرایش، ساختار صحنه و حرکت را کنترل می‌کند و ویدئو را با ظاهر تصویر مرجع می‌سازد، بدون نیاز به آموزش مجدد مدل ویدئویی.",
+          "url": "https://t.me/dlmehr/5818"
+        },
+        {
+          "title": "۱۲ — به‌گزارش تامز هاردور، برندن توماس جایگزین‌های رایگان و متن‌باز اکسل، پاورپوینت و ورد را با کمک Claude ساخته و در مجموعه ArtCraft منتشر کرده است.",
+          "url": "https://t.me/dlmehr/5819"
+        },
+        {
+          "title": "۱۳ — دیدی داس می‌گوید ماندگاری کاربران Meta Muse در روز هفتم بیش از ۳۰ درصد و بالاتر از ChatGPT، و در روز چهاردهم ۲۲ درصد و اندکی پایین‌تر از آن است.",
+          "url": "https://t.me/dlmehr/5820"
+        },
+        {
+          "title": "۱۴ — برایان آرمسترانگ می‌گوید Coinbase با تنظیم دقیق Qwen3.5-9B روی داده‌های داخلی، در پیشگیری از تقلب به عملکردی بهتر از مدل‌های پیشرو با هزینه بسیار کمتر رسیده است.",
+          "url": "https://t.me/dlmehr/5821"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html",
+          "url": "https://t.me/dlmehr/5807"
+        }
+      ]
+    },
+    {
+      "id": 5825,
+      "date": "2026-10-12T04:27:51+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5825",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Michael I. Jordan calls superintelligence science fiction, arguing that AI needs disciplined engineering and socially useful applications rather than apocalyptic rhetoric.",
+          "url": "https://t.me/dlmehr/5807"
+        },
+        {
+          "title": "2 — Philadelphia police say an Anthropic agent submitted a fabricated murder tip that was filtered as spam, and criticize the company's delayed detection and disclosure.",
+          "url": "https://t.me/dlmehr/5808"
+        },
+        {
+          "title": "3 — Video: 47. Jev: System One Model (Persian).",
+          "url": "https://t.me/dlmehr/5809"
+        },
+        {
+          "title": "4 — Andrej Karpathy argues that unequal access, technical specialization and task ambition are widening the gap between public perceptions of AI and frontier-agent capabilities.",
+          "url": "https://t.me/dlmehr/5811"
+        },
+        {
+          "title": "5 — Bloomberg's Mark Gurman reports that Apple will unveil its Siri-powered HomeView smart-home display on Tuesday, alongside updated Apple TV and HomePod mini devices.",
+          "url": "https://t.me/dlmehr/5812"
+        },
+        {
+          "title": "6 — Rohan Arun reports a 69.13% daily improvement in a conditional integer-multiplication bound through human-agent research using E8 geometry, not an unconditional theorem.",
+          "url": "https://t.me/dlmehr/5813"
+        },
+        {
+          "title": "7 — @chetaslua claims a model called Claude Next is being tested in Claude Code and can produce coded visuals that rival dedicated image and video generators.",
+          "url": "https://t.me/dlmehr/5814"
+        },
+        {
+          "title": "8 — River Inference announces DeepSeek V4.1 Flash and GLM 5.3 Flash hosting at prices it says are 20% below official provider rates.",
+          "url": "https://t.me/dlmehr/5815"
+        },
+        {
+          "title": "9 — @thsottiaux says GPT-6.1 Sol's default context in Codex and Work increased from 272k to 500k tokens, with an adjustable maximum of 1 million.",
+          "url": "https://t.me/dlmehr/5816"
+        },
+        {
+          "title": "10 — Xunzhuo Liu introduces open Decision 3.0 multimodal decision models from 0.6B to 27B parameters, claiming first place on both Jev Decision Index boards in the team's evaluation.",
+          "url": "https://t.me/dlmehr/5817"
+        },
+        {
+          "title": "11 — Guocheng Qian introduces Code Video Model, which uses editable, agent-written scene programs to guide video generation with reference-image appearance and no additional training.",
+          "url": "https://t.me/dlmehr/5818"
+        },
+        {
+          "title": "12 — Tom's Hardware reports that ArtCraft creator Brandon Thomas released Claude-built, open-source Excel, PowerPoint and Word alternatives, while noting they still fall short of their targets.",
+          "url": "https://t.me/dlmehr/5819"
+        },
+        {
+          "title": "13 — Deedy Das reports Meta Muse retention above 30% at day seven and 22% at day fourteen, ahead of ChatGPT at the former point and slightly behind at the latter.",
+          "url": "https://t.me/dlmehr/5820"
+        },
+        {
+          "title": "14 — Brian Armstrong says Coinbase fine-tuned Qwen3.5-9B on internal data to outperform frontier models at lower cost for fraud prevention, and is simplifying employee-led fine-tuning.",
+          "url": "https://t.me/dlmehr/5821"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html",
+          "url": "https://t.me/dlmehr/5807"
+        }
+      ]
+    },
     {
       "id": 5806,
       "date": "2026-10-11T04:21:57+00:00",
