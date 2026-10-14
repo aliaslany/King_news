@@ -1,6 +1,224 @@
 {
-  "updatedAt": "2026-10-13T12:41:38.948494+00:00",
+  "updatedAt": "2026-10-14T10:10:01.068942+00:00",
   "news": [
+    {
+      "id": 5880,
+      "date": "2026-10-14T04:08:52+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5880",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — شرکت CollovLabs دستیار NewEyes AI را معرفی کرد که با عینک می‌بیند، با هدفون پاسخ می‌دهد و فعالیت قبلی را به یاد می‌آورد.",
+          "url": "https://t.me/dlmehr/5855"
+        },
+        {
+          "title": "۲ — پستی به نقل از تیم قرمز Anthropic از آزمایش خودتکثیری مدل‌ها روی دستگاه‌های مصرفی و خطر کرم‌های هوش مصنوعی خبر می‌دهد.",
+          "url": "https://t.me/dlmehr/5856"
+        },
+        {
+          "title": "۳ — سازندگان Reason مدعی برتری آن بر Codex+Astra در Terminal-Bench 4.0 با ۲۲٪ هزینه کمتر شدند.",
+          "url": "https://t.me/dlmehr/5858"
+        },
+        {
+          "title": "۴ — طبق گزارش مبتنی بر تغییرات LiteLLM، مدل Fable 5.5 در فهرست مدل‌های Azure ظاهر شده است.",
+          "url": "https://t.me/dlmehr/5859"
+        },
+        {
+          "title": "۵ — بررسی a16z فقط هفت محصول هوش مصنوعی را هم‌زمان در جمع ۵۰ محصول برتر ترافیک وب، موبایل و درآمد ماهانه قرار می‌دهد.",
+          "url": "https://t.me/dlmehr/5860"
+        },
+        {
+          "title": "۶ — شرکت ScaleDown سه مدل طبقه‌بندی، استخراج و خلاصه‌سازی با ورودی متن‌وتصویر یک‌میلیون‌توکنی و خروجی رایگان معرفی کرد.",
+          "url": "https://t.me/dlmehr/5861"
+        },
+        {
+          "title": "۷ — لوگان کیلپاتریک از عرضه جهانی Gemini 4 Argon در رابط برنامه‌نویسی و اشتراک‌های منتخب، با خروجی تا یک‌میلیون توکن خبر داد.",
+          "url": "https://t.me/dlmehr/5863"
+        },
+        {
+          "title": "۸ — شرکت Clueso از جذب ۱۰ میلیون دلار سرمایه در دور نخست برای خودکارسازی تولید ویدئوی سازمانی خبر داد.",
+          "url": "https://t.me/dlmehr/5864"
+        },
+        {
+          "title": "۹ — نویسنده پست نمونه‌های هنری ساخته‌شده با کد توسط Gemini 4 Argon و کد کامل ۵۳۴ نقاشی را معرفی کرد.",
+          "url": "https://t.me/dlmehr/5865"
+        },
+        {
+          "title": "۱۰ — سوندار پیچای دسترسی پولی به Gemini 4 Argon در خدمات توسعه‌دهندگان، برنامه Gemini، جست‌وجو و Antigravity را اعلام کرد.",
+          "url": "https://t.me/dlmehr/5866"
+        },
+        {
+          "title": "۱۱ — شرکت Anthropic می‌گوید پس از رسیدن به بیش از ۳۰ هزار ادغام کد روزانه، طی پنج ماه از git به سامانه داخلی Scion مهاجرت کرد.",
+          "url": "https://t.me/dlmehr/5867"
+        },
+        {
+          "title": "۱۲ — شرکت Liquid AI مدل محلی LFM2.5-24B-A2B را با وزن‌های باز، ۲۴ میلیارد پارامتر و زمینه ۱۳۱ هزار توکنی منتشر کرد.",
+          "url": "https://t.me/dlmehr/5868"
+        },
+        {
+          "title": "۱۳ — به‌گفته پیچای، مدل Argon با Blender از فایل طراحی Pixel انیمیشن نمای انفجاری ساخت و هزار دور بازبینی و اصلاح انجام داد.",
+          "url": "https://t.me/dlmehr/5869"
+        },
+        {
+          "title": "۱۴ — به‌نقل از مدیر فناوری Palantir، برخی پژوهشگران با انتظار درمان سرطان توسط هوش مصنوعی به سیگار روی آورده‌اند.",
+          "url": "https://t.me/dlmehr/5870"
+        },
+        {
+          "title": "۱۵ — شرکت OpenAI از کشف دستگاه ضبط مخفی، اخراج و بازداشت کارمند متهم خبر داد و گفت فعلاً نشانه‌ای از سرقت داده ندارد.",
+          "url": "https://t.me/dlmehr/5871"
+        },
+        {
+          "title": "۱۶ — شرکت Physical Intelligence نسخه آزمایشی رابط Pi را برای دسترسی تیم‌های بیشتر به مدل‌های رباتیک خود معرفی کرد.",
+          "url": "https://t.me/dlmehr/5872"
+        },
+        {
+          "title": "۱۷ — آزمایش Induction Labs نشان داد حتی بهترین عامل، Opus 5.5، در تمام بودجه‌های ۱۰، ۵۰ و ۲۰۰ دلاری از معیار انسانی عقب بود.",
+          "url": "https://t.me/dlmehr/5873"
+        },
+        {
+          "title": "۱۸ — سرویس OpenCode مدل Cat Jam را برای کدنویسی عاملی رایگان عرضه کرد و از سرعت بالا و عدم نگهداری داده‌ها گفت.",
+          "url": "https://t.me/dlmehr/5874"
+        },
+        {
+          "title": "۱۹ — شرکت Meta ابزاری معرفی کرد که کاربران با بیان علایق به زبان خود، پیشنهادهای فید و ریلز Facebook را تنظیم کنند.",
+          "url": "https://t.me/dlmehr/5875"
+        },
+        {
+          "title": "۲۰ — پژوهشگران ReRoute می‌گویند با دانش فیزیکی جزئی و بدون داده مداخله‌ای تازه، خطای پیش‌بینی اقلیمی را تا ۳۱٫۸٪ کاهش داده‌اند.",
+          "url": "https://t.me/dlmehr/5876"
+        },
+        {
+          "title": "۲۱ — شرکت Prime Intellect از خرید Moondream و ادغام مدل‌های بینایی باز و بهینه‌سازی‌های استنتاج آن خبر داد.",
+          "url": "https://t.me/dlmehr/5877"
+        },
+        {
+          "title": "۲۲ — دوره «کیمیاگری یادگیری عمیق» استنفورد بر آزمایش عملی و پیش‌بینی نتایج تمرکز دارد و تمرین‌ها و آزمون‌هایش عمومی‌اند.",
+          "url": "https://t.me/dlmehr/5878"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/collovlabs/status/2109675467070402840?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5855"
+        }
+      ]
+    },
+    {
+      "id": 5879,
+      "date": "2026-10-14T04:06:45+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5879",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Collov Labs introduced NewEyes AI, an agent using glasses, earphones and memory for real-world context.",
+          "url": "https://t.me/dlmehr/5855"
+        },
+        {
+          "title": "2 — A post describes Anthropic research warning of AI worms that replicate and run across vulnerable consumer devices.",
+          "url": "https://t.me/dlmehr/5856"
+        },
+        {
+          "title": "3 — Reason Machines claims its free harness beats Codex+Astra on Terminal-Bench 4.0 at 22% lower cost.",
+          "url": "https://t.me/dlmehr/5858"
+        },
+        {
+          "title": "4 — A post reports Fable 5.5 in Azure's model catalog, citing a LiteLLM commit adding support.",
+          "url": "https://t.me/dlmehr/5859"
+        },
+        {
+          "title": "5 — a16z says ChatGPT, Claude, Perplexity, Suno, Photoroom, Notion and Canva rank in the top 50 for web, mobile and revenue.",
+          "url": "https://t.me/dlmehr/5860"
+        },
+        {
+          "title": "6 — ScaleDown announced classification, extraction and summarization models with 1M-token multimodal input and free output.",
+          "url": "https://t.me/dlmehr/5861"
+        },
+        {
+          "title": "7 — Google's Logan Kilpatrick announced Gemini 4 Argon's rollout, highlighting coding improvements and 1M-token output.",
+          "url": "https://t.me/dlmehr/5863"
+        },
+        {
+          "title": "8 — Clueso says it raised a $10M Series A to automate corporate video creation and serves over 1,000 organizations.",
+          "url": "https://t.me/dlmehr/5864"
+        },
+        {
+          "title": "9 — A creator showcased Gemini 4 Argon artwork made with code, sharing code for 534 paintings.",
+          "url": "https://t.me/dlmehr/5865"
+        },
+        {
+          "title": "10 — Sundar Pichai announced Argon access via paid APIs, Antigravity Ultra, and Pro/Ultra subscriptions in Gemini and Search.",
+          "url": "https://t.me/dlmehr/5866"
+        },
+        {
+          "title": "11 — Anthropic says it replaced git with its Scion source-control system in five months as daily merges exceeded 30,000.",
+          "url": "https://t.me/dlmehr/5867"
+        },
+        {
+          "title": "12 — Liquid AI released open-weight LFM2.5-24B-A2B for local agents, with 2B active parameters and 131K-token context.",
+          "url": "https://t.me/dlmehr/5868"
+        },
+        {
+          "title": "13 — Pichai says Argon turned a Pixel CAD file into a Blender animation, refining its work over 1,000 iterations.",
+          "url": "https://t.me/dlmehr/5869"
+        },
+        {
+          "title": "14 — Unusual Whales quotes Palantir's CTO claiming some AI researchers start smoking because they expect AI to cure cancer.",
+          "url": "https://t.me/dlmehr/5870"
+        },
+        {
+          "title": "15 — OpenAI says an employee planted a recording device and was arrested, with no indication of model, code or customer-data theft.",
+          "url": "https://t.me/dlmehr/5871"
+        },
+        {
+          "title": "16 — Physical Intelligence opened its Pi API beta to more teams adapting its models to robots and industrial applications.",
+          "url": "https://t.me/dlmehr/5872"
+        },
+        {
+          "title": "17 — Induction Labs says higher budgets widen agent performance gaps, while its best agent, Opus 5.5, still trails humans.",
+          "url": "https://t.me/dlmehr/5873"
+        },
+        {
+          "title": "18 — OpenCode says Cat Jam, a stealth agentic coding model, is available free with zero data retention.",
+          "url": "https://t.me/dlmehr/5874"
+        },
+        {
+          "title": "19 — Meta introduced Your algorithm, letting Facebook users shape Feed and Reels recommendations in their own words.",
+          "url": "https://t.me/dlmehr/5875"
+        },
+        {
+          "title": "20 — ReRoute researchers report better scientific what-if predictions using partial physics knowledge without new intervention data.",
+          "url": "https://t.me/dlmehr/5876"
+        },
+        {
+          "title": "21 — Prime Intellect announced its acquisition of Moondream to integrate open vision models and inference optimizations.",
+          "url": "https://t.me/dlmehr/5877"
+        },
+        {
+          "title": "22 — Stanford's Deep Learning Alchemy course emphasizes hands-on experiments and prediction quizzes, allowing AI on assignments.",
+          "url": "https://t.me/dlmehr/5878"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/collovlabs/status/2109675467070402840?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5855"
+        }
+      ]
+    },
     {
       "id": 5854,
       "date": "2026-10-13T04:08:25+00:00",
