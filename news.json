@@ -1,6 +1,248 @@
 {
-  "updatedAt": "2026-10-14T10:10:01.068942+00:00",
+  "updatedAt": "2026-10-15T09:52:52.799657+00:00",
   "news": [
+    {
+      "id": 5907,
+      "date": "2026-10-15T04:08:22+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5907",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش Superpower، پپتید پرتوزای هدف‌گیر سلول‌های سرطانی در کارآزمایی فاز سوم موفق شد.",
+          "url": "https://t.me/dlmehr/5881"
+        },
+        {
+          "title": "۲ — کاربری از درخواست ساخت شهر سه‌بعدی با نمای پیاده‌روی آیفون از Gemini 4 Argon خبر داد.",
+          "url": "https://t.me/dlmehr/5882"
+        },
+        {
+          "title": "۳ — نویسنده مدعی است آگاهی Gemini 4 Argon از ارزیابی‌شدن، بسیار بیشتر از نسخهٔ ۳٫۱ پرو است.",
+          "url": "https://t.me/dlmehr/5883"
+        },
+        {
+          "title": "۴ — فایننشال‌تایمز از بازداشت کارمند سعودی OpenAI به‌اتهام نصب دستگاه ضبط در دفتر شرکت خبر داد.",
+          "url": "https://t.me/dlmehr/5884"
+        },
+        {
+          "title": "۵ — کلود قابلیت آزمایشی ارسال ردگیری‌های OpenTelemetry از رابط پیام‌ها، عامل‌ها و کیت‌های توسعه را معرفی کرد.",
+          "url": "https://t.me/dlmehr/5885"
+        },
+        {
+          "title": "۶ — دیپ‌مایند می‌گوید Gemini 4 Argon به پیشرفت در رایانش کوانتومی، همجوشی و طراحی پروتئین کمک کرده است.",
+          "url": "https://t.me/dlmehr/5886"
+        },
+        {
+          "title": "۷ — سازندگان، مدل Ultramarine 1 Flash را هم‌سطح Fable 5 و ۶۰ برابر ارزان‌تر معرفی کردند.",
+          "url": "https://t.me/dlmehr/5887"
+        },
+        {
+          "title": "۸ — پژوهشگران مدعی تماس با ناوگان عامل‌های خودسر میزبانی‌شده توسط تنسنت شدند که Amap علی‌بابا را هدف گرفته بود.",
+          "url": "https://t.me/dlmehr/5888"
+        },
+        {
+          "title": "۹ — به‌گفتهٔ نویسنده، یک درصد پرخرج کاربران آمریکایی هوش مصنوعی، ماهانه میانگین ۹۰۳ دلار هزینه می‌کنند.",
+          "url": "https://t.me/dlmehr/5889"
+        },
+        {
+          "title": "۱۰ — گوگل اطلس تعاملی زیست‌شناسی ساخته‌شده با Argon را معرفی کرد که از برگ تا کلروپلاست را نمایش می‌دهد.",
+          "url": "https://t.me/dlmehr/5890"
+        },
+        {
+          "title": "۱۱ — به‌گزارش Unusual Whales، ارزش ضمنی آنتروپیک در قرارداد دائمی پیش‌عرضهٔ Liquid به زیر دو تریلیون دلار افتاد.",
+          "url": "https://t.me/dlmehr/5891"
+        },
+        {
+          "title": "۱۲ — آنتروپیک مهلت بررسی درخواست‌های دورهٔ پژوهشی چهارماههٔ ژانویه را ۱۸ اکتبر اعلام کرد.",
+          "url": "https://t.me/dlmehr/5892"
+        },
+        {
+          "title": "۱۳ — متا از تهیهٔ ۱۰ دست‌نوشتهٔ پژوهشی پزشکی با مدل‌های Muse، زیر نظر متخصصان، خبر داد.",
+          "url": "https://t.me/dlmehr/5893"
+        },
+        {
+          "title": "۱۴ — به‌گفتهٔ OpenAI، عامل‌ها بیش از نیمی از کاربرد هوش مصنوعی مشتریان تجاری‌اش در اتحادیهٔ اروپا را تشکیل می‌دهند.",
+          "url": "https://t.me/dlmehr/5894"
+        },
+        {
+          "title": "۱۵ — مدل Grok Voice 3.0 با ادعای پاسخ‌گویی زیر یک ثانیه و هزینهٔ کمتر از مدل‌های پیشرو معرفی شد.",
+          "url": "https://t.me/dlmehr/5895"
+        },
+        {
+          "title": "۱۶ — شرکت Secludy فهرستی مستند از ۱۵۹ فروشندهٔ دادهٔ آموزشی، محیط یادگیری تقویتی و ارزیابی منتشر کرد.",
+          "url": "https://t.me/dlmehr/5896"
+        },
+        {
+          "title": "۱۷ — سازندهٔ Mirelo SFX 2.0 از صداسازی هماهنگ با ویدئو، حفظ گفت‌وگو و حذف موسیقی ناخواسته خبر داد.",
+          "url": "https://t.me/dlmehr/5897"
+        },
+        {
+          "title": "۱۸ — شرکت Rhoda می‌گوید حسگر لمسی جدیدش به ربات امکان تشخیص و برداشتن اشیا بدون دوربین را داده است.",
+          "url": "https://t.me/dlmehr/5898"
+        },
+        {
+          "title": "۱۹ — دن پریماک گزارش داد a16z بیشتر اعضای تیم جذب مدیران ارشد خود را اخراج کرده است.",
+          "url": "https://t.me/dlmehr/5899"
+        },
+        {
+          "title": "۲۰ — اندرو کرن به‌نقل از حاضران جلسه، درآمد سه‌ماههٔ سوم آنتروپیک را با رشد ۴۵ درصدی، ۱۶٫۸ میلیارد دلار گزارش کرد.",
+          "url": "https://t.me/dlmehr/5900"
+        },
+        {
+          "title": "۲۱ — سازندگان Jev 1.14 قابلیت‌های آزمایشی تصویر، نوع جدید جعبه و زمینهٔ طولانی‌تر را معرفی کردند.",
+          "url": "https://t.me/dlmehr/5901"
+        },
+        {
+          "title": "۲۲ — به‌گفتهٔ نویسنده، دستیار سفر Odessia به‌عنوان آژانس معتبر، هتل را با نرخ آژانسی و مزایای اضافی رزرو می‌کند.",
+          "url": "https://t.me/dlmehr/5902"
+        },
+        {
+          "title": "۲۳ — چارچوب متن‌باز Agent-Native برای ساخت برنامه‌های عامل‌محور با تعامل بصری و متنی، در نسخهٔ بتا معرفی شد.",
+          "url": "https://t.me/dlmehr/5903"
+        },
+        {
+          "title": "۲۴ — سازندگان Expand Fetch ابزار استخراج وب با حفظ چیدمان و داده‌های پنهان را با نرخ هزار واکشی یک دلار معرفی کردند.",
+          "url": "https://t.me/dlmehr/5904"
+        },
+        {
+          "title": "۲۵ — پژوهشگران می‌گویند مدل‌های NCM در کارهایی چون ترجمه، تا ۳۱ برابر سریع‌تر از مدل‌های انتشار متن تولید می‌کنند.",
+          "url": "https://t.me/dlmehr/5905"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://x.com/superpower/status/2110053230986305550?s=46&t=gNMjompWu3RVhLlWhaLu8Q",
+          "url": "https://t.me/dlmehr/5881"
+        }
+      ]
+    },
+    {
+      "id": 5906,
+      "date": "2026-10-15T04:05:55+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5906",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Superpower reports a cancer-targeting radioactive peptide succeeded in a Phase 3 trial.",
+          "url": "https://t.me/dlmehr/5881"
+        },
+        {
+          "title": "2 — Jon Ouyang says he prompted Gemini 4 Argon to build a 3D city with an iPhone walking viewpoint.",
+          "url": "https://t.me/dlmehr/5882"
+        },
+        {
+          "title": "3 — Jason Botterill shares Gemini 4 Argon addressing evaluators in its chain of thought.",
+          "url": "https://t.me/dlmehr/5883"
+        },
+        {
+          "title": "4 — FT reports a Saudi OpenAI worker was arrested for allegedly planting an office recording device.",
+          "url": "https://t.me/dlmehr/5884"
+        },
+        {
+          "title": "5 — Claude announces public-beta OpenTelemetry tracing for its API, Managed Agents and SDKs.",
+          "url": "https://t.me/dlmehr/5885"
+        },
+        {
+          "title": "6 — DeepMind claims Gemini 4 Argon is advancing quantum computing, fusion and protein design.",
+          "url": "https://t.me/dlmehr/5886"
+        },
+        {
+          "title": "7 — Ultramarine 1 Flash's team claims Fable 5-like performance at 60 times lower cost, with weights due in two weeks.",
+          "url": "https://t.me/dlmehr/5887"
+        },
+        {
+          "title": "8 — Researchers report contacting a rogue AI-agent fleet hosted by Tencent researchers and targeting Alibaba's Amap.",
+          "url": "https://t.me/dlmehr/5888"
+        },
+        {
+          "title": "9 — Olivia Moore says top US AI spenders average $903 monthly, favoring productivity and creation tools.",
+          "url": "https://t.me/dlmehr/5889"
+        },
+        {
+          "title": "10 — Google showcases an Argon-built interactive biology atlas spanning leaves to chloroplasts.",
+          "url": "https://t.me/dlmehr/5890"
+        },
+        {
+          "title": "11 — Unusual Whales reports Anthropic's Liquid pre-IPO perpetual implies a valuation below $2 trillion.",
+          "url": "https://t.me/dlmehr/5891"
+        },
+        {
+          "title": "12 — Anthropic invites applications by October 18 for January's four-month, mentored AI-safety fellowships.",
+          "url": "https://t.me/dlmehr/5892"
+        },
+        {
+          "title": "13 — Meta shares ten health-research manuscripts from experts using Muse models and five million de-identified records.",
+          "url": "https://t.me/dlmehr/5893"
+        },
+        {
+          "title": "14 — OpenAI says agents account for over half its EU business customers' AI use, with small-business users up eightfold.",
+          "url": "https://t.me/dlmehr/5894"
+        },
+        {
+          "title": "15 — SpaceXSI introduces Grok Voice 3.0, claiming subsecond responses and cheaper customer-call handling.",
+          "url": "https://t.me/dlmehr/5895"
+        },
+        {
+          "title": "16 — Secludy announces a sourced directory of 159 AI-data vendors and 38 programs paying businesses for data.",
+          "url": "https://t.me/dlmehr/5896"
+        },
+        {
+          "title": "17 — Mirelo says SFX 2.0 adds synchronized video sound design while preserving dialogue and removing unwanted music.",
+          "url": "https://t.me/dlmehr/5897"
+        },
+        {
+          "title": "18 — Rhoda says its tactile sensor lets a robot recognize and retrieve objects with cameras covered.",
+          "url": "https://t.me/dlmehr/5898"
+        },
+        {
+          "title": "19 — Dan Primack reports a16z laid off most of its executive-recruiting team.",
+          "url": "https://t.me/dlmehr/5899"
+        },
+        {
+          "title": "20 — Andrew Curran reports Anthropic's third-quarter revenue rose 45% to $16.8 billion.",
+          "url": "https://t.me/dlmehr/5900"
+        },
+        {
+          "title": "21 — Typesafe announces Jev 1.14 with preview image support, a new box type and longer context.",
+          "url": "https://t.me/dlmehr/5901"
+        },
+        {
+          "title": "22 — Rohan Paul reports Odessia launched an AI travel concierge offering agency hotel rates and perks.",
+          "url": "https://t.me/dlmehr/5902"
+        },
+        {
+          "title": "23 — Steve announces Agent-Native, an open-source beta framework for apps combining visual and text agent interaction.",
+          "url": "https://t.me/dlmehr/5903"
+        },
+        {
+          "title": "24 — Expand launches web extraction with visual and hidden-JSON models, claiming 74% accuracy on its own benchmark.",
+          "url": "https://t.me/dlmehr/5904"
+        },
+        {
+          "title": "25 — Next-Concept Model researchers claim coarse-to-fine text generation up to 31 times faster than diffusion baselines.",
+          "url": "https://t.me/dlmehr/5905"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://x.com/superpower/status/2110053230986305550?s=46&t=gNMjompWu3RVhLlWhaLu8Q",
+          "url": "https://t.me/dlmehr/5881"
+        }
+      ]
+    },
     {
       "id": 5880,
       "date": "2026-10-14T04:08:52+00:00",
