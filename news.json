@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-10-15T09:52:52.799657+00:00",
+  "updatedAt": "2026-10-16T09:46:52.165064+00:00",
   "news": [
+    {
+      "id": 5925,
+      "date": "2026-10-16T04:08:46+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5925",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — وال‌استریت ژورنال گزارش داد فردی که در زمین بازی با یکی از کارکنان OpenAI دوست می‌شد و درباره کارش سؤال می‌کرد، جاسوس بوده است.",
+          "url": "https://t.me/dlmehr/5908"
+        },
+        {
+          "title": "۲ — فلیکس ریزبرگ، از مدیران مهندسی Claude، راهنمای استفاده بلندپروازانه‌تر از هوش مصنوعی را با چهار محور سرعت، سطح انتزاع، عمق و دامنه منتشر کرد.",
+          "url": "https://t.me/dlmehr/5909"
+        },
+        {
+          "title": "۳ — آنتروپیک پذیرش پژوهشگران علوم و مهندسی و استدلال مفهومی را برای دوره‌های چهارماهه از ژانویه ۲۰۲۷، با مهلت درخواست ۲۸ اکتبر اعلام کرد.",
+          "url": "https://t.me/dlmehr/5910"
+        },
+        {
+          "title": "۴ — انویدیا مدل باز Nemotron 3.5 Super VL را با ۱۲۰ میلیارد پارامتر، ۱۲ میلیارد پارامتر فعال و قابلیت استدلال، استفاده از ابزار و درک متن، تصویر، سند و ویدئو معرفی کرد.",
+          "url": "https://t.me/dlmehr/5911"
+        },
+        {
+          "title": "۵ — ارزیابی Artificial Analysis به مدل Nemotron 3.5 Super VL امتیاز ۲۶٫۵ و رتبه نخست مدل‌های آمریکایی با وزن باز در زمان انتشار داد؛ امتیاز مدل تازه Bolt نیز ۲۱ بود.",
+          "url": "https://t.me/dlmehr/5912"
+        },
+        {
+          "title": "۶ — متا مدل Muse Spark Open را برای برنامه‌نویسی و کارهای عاملی معرفی کرد؛ به‌گفته شرکت، این مدل چندوجهی ۸۱۶ میلیارد پارامتر، ۴۲ میلیارد پارامتر فعال و پنجره زمینه یک‌میلیون توکنی دارد.",
+          "url": "https://t.me/dlmehr/5913"
+        },
+        {
+          "title": "۷ — تسلا مدعی شد آیرودینامیک رودستر در حالت پیست نیروی رو به پایین نزدیک به سطح فرمول یک تولید می‌کند و بال‌هایش با سامانه عملگر Optimus حرکت می‌کنند.",
+          "url": "https://t.me/dlmehr/5914"
+        },
+        {
+          "title": "۸ — تسلا می‌گوید طراحی رودستر از هواپیماهای SR-71 و F-35 الهام گرفته و زبان طراحی شرکت از خانواده S3XY به سایبرتراک، سایبرکب و اپتیموس تحول یافته است.",
+          "url": "https://t.me/dlmehr/5915"
+        },
+        {
+          "title": "۹ — تسلا می‌گوید کابین سفید رودستر با جزئیات میکروجیر خاکستری، کنترل‌های دستی، موقعیت ثابت صندلی و مواد سبکی مانند منیزیم، تیتانیوم و فیبرکربن برای کاهش وزن طراحی شده است.",
+          "url": "https://t.me/dlmehr/5916"
+        },
+        {
+          "title": "۱۰ — ساویر مریت از ودیعه ۵۰ هزار دلاری نسخه Performance و ۲۵۰ هزار دلاری Thrust رودستر، عرضه دعوت‌نامه‌ای Rocket و آغاز تولید در ۲۰۲۸ خبر داد؛ قیمت نهایی مشخص نیست.",
+          "url": "https://t.me/dlmehr/5919"
+        },
+        {
+          "title": "۱۱ — نیک کروز پاتان مدعی شد رودستر با چهار پیشران عقب ساخت SpaceX در نمایش زنده تسلا، سرعت صفر تا ۶۰ مایل‌برساعت را در ۰٫۸۱ ثانیه ثبت کرده است.",
+          "url": "https://t.me/dlmehr/5920"
+        },
+        {
+          "title": "۱۲ — حساب farzyness می‌گوید رودستر جدید تسلا مخزن هوای خود را دوباره پر می‌کند.",
+          "url": "https://t.me/dlmehr/5921"
+        },
+        {
+          "title": "۱۳ — سازندگان موتور استنتاج e مدعی توان تجمیعی ۱۰٬۵۰۰ توکن‌برثانیه برای Nemotron 3.5 Super VL روی یک DGX Station شدند؛ مطالعه Actual نیز بیش از ۸٬۰۰۰ توکن‌برثانیه در ۱۲۸ جریان گزارش می‌کند.",
+          "url": "https://t.me/dlmehr/5922"
+        },
+        {
+          "title": "۱۴ — سوندار پیچای اعلام کرد گوگل برای نخستین‌بار «پرورش حالت جادویی» را روی سخت‌افزار واقعی نشان داده و در پردازنده Willow نسبت به روش‌های پیشین، خطا را ۴۰ برابر کاهش داده و به وفاداری منطقی ۹۹٫۹۹٪ رسیده است.",
+          "url": "https://t.me/dlmehr/5923"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/wsj/status/2110569618829955384?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5908"
+        }
+      ]
+    },
+    {
+      "id": 5924,
+      "date": "2026-10-16T04:06:36+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5924",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — The Wall Street Journal reports that a spy befriended an OpenAI employee at a playground, asking about work while both brought children.",
+          "url": "https://t.me/dlmehr/5908"
+        },
+        {
+          "title": "2 — Claude engineering lead Felix Rieseberg outlines more ambitious AI use through faster work, higher-level goals, deeper methods and cross-disciplinary approaches.",
+          "url": "https://t.me/dlmehr/5909"
+        },
+        {
+          "title": "3 — Anthropic opened applications for four-month STEM and Conceptual Reasoning fellowships starting January 2027, with an October 28 deadline.",
+          "url": "https://t.me/dlmehr/5910"
+        },
+        {
+          "title": "4 — NVIDIA introduced Nemotron 3.5 Super VL, an open multimodal model for reasoning and tool-using agents with 120B total and 12B active parameters.",
+          "url": "https://t.me/dlmehr/5911"
+        },
+        {
+          "title": "5 — Artificial Analysis ranks Nemotron 3.5 Super VL first among US open-weight models on its Intelligence Index at 26.5, with the new Bolt model scoring 21.",
+          "url": "https://t.me/dlmehr/5912"
+        },
+        {
+          "title": "6 — Meta released Muse Spark Open for coding and agentic work, claiming US open-weight leadership, with 816B total/42B active parameters and a 1M-token context.",
+          "url": "https://t.me/dlmehr/5913"
+        },
+        {
+          "title": "7 — Tesla claims the Roadster's Track Mode aerodynamics approach F1 downforce levels, using Optimus actuators to move its wings.",
+          "url": "https://t.me/dlmehr/5914"
+        },
+        {
+          "title": "8 — Tesla says the Roadster's design draws inspiration from the SR-71 and F-35 aircraft.",
+          "url": "https://t.me/dlmehr/5915"
+        },
+        {
+          "title": "9 — Tesla says the Roadster combines a white interior and gray microsuede with manual controls, fixed seating and lightweight materials to reduce mass.",
+          "url": "https://t.me/dlmehr/5916"
+        },
+        {
+          "title": "10 — Sawyer Merritt reports Roadster deposits of $50,000 for Performance and $250,000 for Thrust, an invite-only Rocket trim and 2028 production, with final prices unset.",
+          "url": "https://t.me/dlmehr/5919"
+        },
+        {
+          "title": "11 — Nic Cruz Patane claims Tesla demonstrated a 0–60 mph Roadster launch in 0.81 seconds using four rear SpaceX-developed thrusters.",
+          "url": "https://t.me/dlmehr/5920"
+        },
+        {
+          "title": "12 — @farzyness says Tesla's new Roadster recharges its own air tank.",
+          "url": "https://t.me/dlmehr/5921"
+        },
+        {
+          "title": "13 — Actual reports its “e” inference engine exceeds 10,000 aggregate tokens per second running Nemotron 3.5 Super VL on one DGX Station, enabling shared local agent workloads.",
+          "url": "https://t.me/dlmehr/5922"
+        },
+        {
+          "title": "14 — Sundar Pichai says Google demonstrated magic state cultivation on Willow hardware, reducing errors 40-fold versus previous methods and reaching 99.99% logical fidelity.",
+          "url": "https://t.me/dlmehr/5923"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/wsj/status/2110569618829955384?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5908"
+        }
+      ]
+    },
     {
       "id": 5907,
       "date": "2026-10-15T04:08:22+00:00",
