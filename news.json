@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-10-16T09:46:52.165064+00:00",
+  "updatedAt": "2026-10-17T09:19:15.294565+00:00",
   "news": [
+    {
+      "id": 5943,
+      "date": "2026-10-17T04:08:04+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5943",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گفتهٔ انتروپیک، مدل Claude Mythos 5 با دستورهای زبانی و ارزیابی خودکار، مدارهای کوانتومی بهتری از بهترین طرح‌های منتشرشده ساخته که در برخی موارد بیش از ده‌برابر بهبود دارند.",
+          "url": "https://t.me/dlmehr/5928"
+        },
+        {
+          "title": "۲ — اندرو دای مدل تفکر بصری Glimpse را معرفی کرد و عملکرد آن را در معیارهای عمومی استدلال بصری، رقابتی با Astra دانست.",
+          "url": "https://t.me/dlmehr/5929"
+        },
+        {
+          "title": "۳ — جیم فن از متن‌بازشدن نسخهٔ نخست چارچوب رباتیک ASPIRE برای کشف مهارت و خودبهبودی ربات‌های واقعی خبر داد و گفت با استفاده از Astra نتایج معیارهای آزمایشگاه به حدود ۹۹٪ رسید.",
+          "url": "https://t.me/dlmehr/5930"
+        },
+        {
+          "title": "۴ — به‌گزارش آر‌تی، عروسی چینی با هدیه‌دادن کارت گرافیک ASUS ROG Astral RTX 5090 با قیمت ادعایی حدود ۱۲ هزار دلار، اشک شوق داماد را درآورد.",
+          "url": "https://t.me/dlmehr/5931"
+        },
+        {
+          "title": "۵ — شرکت Reflection اعلام کرد وزن‌های باز مدل Beam را با مجوز Apache 2.0، همراه با توکن‌ساز، پیاده‌سازی مرجع و ابزار متن‌باز Mirror CLI منتشر کرده است.",
+          "url": "https://t.me/dlmehr/5932"
+        },
+        {
+          "title": "۶ — دوارکش پاتل به‌نقل از کارمندی در انتروپیک، پیش‌بینی برابری هوش مصنوعی با انسان در پژوهش هوش مصنوعی طی نه ماه را مطرح کرد و خواستار انتشار شواهد داخلی این ادعا شد.",
+          "url": "https://t.me/dlmehr/5933"
+        },
+        {
+          "title": "۷ — ویدئو: هیچ‌وقت زمانی بهتر از اکنون برای ورود به ریاضیات نبوده است.",
+          "url": "https://t.me/dlmehr/5935"
+        },
+        {
+          "title": "۸ — به‌ادعای SemiAnalysis، چند ارائه‌دهندهٔ ابری تخصصی به‌دلیل افزودن تراشه‌های رقیب انویدیا به خدماتشان، از حضور در رویداد GTC برلین محروم شده‌اند.",
+          "url": "https://t.me/dlmehr/5936"
+        },
+        {
+          "title": "۹ — گوگل از پیشرفت در پیوند عامل‌های هوش مصنوعی با ربات‌های آزمایشگاهی و طراحی پروتئین‌های متصل‌شونده به اهداف سرطانی با میل اتصال در محدودهٔ نانومولار تک‌رقمی خبر داد.",
+          "url": "https://t.me/dlmehr/5937"
+        },
+        {
+          "title": "۱۰ — شرکت Dynamic Creatures ربات همراه Hugo را معرفی کرد که به‌گفتهٔ سازندگانش، با مدل بینایی‌ـ‌زبان‌ـ‌بیان، دیده‌ها و شنیده‌ها را به حرکت و واکنش بی‌درنگ تبدیل می‌کند.",
+          "url": "https://t.me/dlmehr/5938"
+        },
+        {
+          "title": "۱۱ — انتروپیک گزارش داد Claude منشأ بذرهای چند منحنی رمزنگاری ECDSA را در مولد شبه‌تصادفی با مقداردهی زمانی کشف کرده؛ این یافته به‌معنای شکستن رمزنگاری یا کشف آسیب‌پذیری نیست.",
+          "url": "https://t.me/dlmehr/5939"
+        },
+        {
+          "title": "۱۲ — ساتیا نادلا گفت پژوهش تازهٔ مایکروسافت در نیچر نشان می‌دهد یادگیری ماشین می‌تواند پیش‌بینی آب‌وهوا در افق دو تا شش هفته را بهبود دهد.",
+          "url": "https://t.me/dlmehr/5940"
+        },
+        {
+          "title": "۱۳ — پژوهشگران Terminal-RSI گزارش دادند دو چرخهٔ خودبهبودی، موفقیت مدل ۲۷ میلیاردپارامتری را در Terminal-Bench 2.1 از ۵۱٫۷٪ به ۸۶٫۵٪ و در نسخهٔ 4.0 از صفر به ۱۹٫۸٪ رسانده است.",
+          "url": "https://t.me/dlmehr/5941"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/anthropicai/status/2111152183240511640?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5928"
+        }
+      ]
+    },
+    {
+      "id": 5942,
+      "date": "2026-10-17T04:05:58+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5942",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Anthropic says Claude Mythos 5 designed quantum circuits outperforming published designs, sometimes by an order of magnitude or more.",
+          "url": "https://t.me/dlmehr/5928"
+        },
+        {
+          "title": "2 — Andrew Dai introduced Glimpse, a visual-thinking model he says competes with Astra on key public visual-reasoning benchmarks.",
+          "url": "https://t.me/dlmehr/5929"
+        },
+        {
+          "title": "3 — Jim Fan announced open-source ASPIRE 1.0 for robotic skill discovery and self-improvement, reporting roughly 99% benchmark performance after switching to Astra.",
+          "url": "https://t.me/dlmehr/5930"
+        },
+        {
+          "title": "4 — RT reports that a Chinese bride gave her partner an ASUS ROG Astral RTX 5090 at their wedding, bringing him to tears, and claims it cost around $12,000.",
+          "url": "https://t.me/dlmehr/5931"
+        },
+        {
+          "title": "5 — Reflection released Beam's open weights under Apache 2.0, alongside multiple precision formats, a DFlash2 drafter and its Mirror CLI training harness.",
+          "url": "https://t.me/dlmehr/5932"
+        },
+        {
+          "title": "6 — Rayan Krishnan endorsed a nine-month AI-research parity forecast relayed by Dwarkesh Patel from an unnamed Anthropic employee, whose undisclosed evidence Patel urged labs to publish.",
+          "url": "https://t.me/dlmehr/5933"
+        },
+        {
+          "title": "7 — Video: There's never been a better time to go into math.",
+          "url": "https://t.me/dlmehr/5935"
+        },
+        {
+          "title": "8 — SemiAnalysis alleges NVIDIA barred multiple neoclouds from GTC Berlin for offering rival chips, citing executives' fears of retaliation for diversifying.",
+          "url": "https://t.me/dlmehr/5936"
+        },
+        {
+          "title": "9 — Google Research reports progress in robot-assisted, closed-loop molecular discovery, including protein binders with single-digit nanomolar affinity for a cancer-associated target.",
+          "url": "https://t.me/dlmehr/5937"
+        },
+        {
+          "title": "10 — Dynamic Creatures introduced Hugo, a companion robot it says uses a Vision-Language-Expression model to translate sights and sounds into movement, expression and gestures.",
+          "url": "https://t.me/dlmehr/5938"
+        },
+        {
+          "title": "11 — Anthropic says Claude traced several NIST elliptic-curve seeds to timestamp-initialized pseudorandom generation, clarifying their origins without revealing a cryptographic break.",
+          "url": "https://t.me/dlmehr/5939"
+        },
+        {
+          "title": "12 — Satya Nadella says Microsoft research published in Nature shows machine learning can improve weather forecasts two to six weeks ahead.",
+          "url": "https://t.me/dlmehr/5940"
+        },
+        {
+          "title": "13 — Terminal-RSI researchers report that two recursive training cycles raised a 27B model's success from 51.7% to 86.5% on Terminal-Bench 2.1 and from 0% to 19.8% on version 4.0.",
+          "url": "https://t.me/dlmehr/5941"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/anthropicai/status/2111152183240511640?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5928"
+        }
+      ]
+    },
     {
       "id": 5925,
       "date": "2026-10-16T04:08:46+00:00",
