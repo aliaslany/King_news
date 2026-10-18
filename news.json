@@ -1,6 +1,104 @@
 {
-  "updatedAt": "2026-10-17T09:19:15.294565+00:00",
+  "updatedAt": "2026-10-18T09:35:40.779695+00:00",
   "news": [
+    {
+      "id": 5952,
+      "date": "2026-10-18T04:08:16+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5952",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — شرکت DeepSeek مدل DeepSeek-V4.1-Flash-1017 را در وب‌سایت، برنامه و رابط برنامه‌نویسی خود عرضه کرد و از بهبود عملکرد آزمون‌ها، اجرای سریع‌تر وظایف و پاسخ‌های کوتاه‌تر نسبت به نسخه پیشین خبر داد.",
+          "url": "https://t.me/dlmehr/5944"
+        },
+        {
+          "title": "۲ — کاربر kimmonismus مدعی شد مدل DeepSeek 4.1-1017 تقریباً هم‌سطح Opus 5 است، از GLM5.3 و GPT-5.6 Sol پیشی می‌گیرد و با دو دستگاه DGX Spark به‌صورت محلی اجرا می‌شود.",
+          "url": "https://t.me/dlmehr/5945"
+        },
+        {
+          "title": "۳ — کاربر mattjay از دریافت گزارش‌هایی درباره اعلان رخنه امنیتی برای مشتریان OpenCode و افزایش هزینه ناشی از استفاده از کلیدهای رابط برنامه‌نویسی آنان خبر داد؛ این ادعاها در آن پست تأیید مستقل نشده‌اند.",
+          "url": "https://t.me/dlmehr/5946"
+        },
+        {
+          "title": "۴ — شرکت OpenCode اعلام کرد رخنه امنیتی مرتبط با حمله گسترده تقطیر مدل، ۱٫۴ درصد کاربران کنسولش را تحت تأثیر قرار داده و به همه آنان ایمیل زده است؛ به‌گفته شرکت، این رخداد همچنان ادامه دارد.",
+          "url": "https://t.me/dlmehr/5947"
+        },
+        {
+          "title": "۵ — شرکت Bolt از استفاده رایگان برای همه در سراسر آخر هفته و فرصت کسب جایزه ۱۰ هزار دلاری در رویداد Builders Week خبر داد و مهلت ارسال محصول برای شرکت در رقابت را ۲۰ اکتبر اعلام کرد.",
+          "url": "https://t.me/dlmehr/5948"
+        },
+        {
+          "title": "۶ — رسانه SemiAnalysis گزارش داد جهش GLM 5.3، از جمله بهبود چشمگیر قابلیت‌های سایبری نسبت به نسخه ۵٫۲، صرفاً حاصل پس‌آموزش مدل قبلی بوده و بر مصرف کمتر منابع پردازشی این روش نسبت به پیش‌آموزش از صفر تأکید کرد.",
+          "url": "https://t.me/dlmehr/5949"
+        },
+        {
+          "title": "۷ — پژوهشگران مدل‌های «مفهوم بعدی» یا NCM را معرفی کردند که متن را با مفاهیم سلسله‌مراتبی از کلی به جزئی تولید می‌کنند و مدعی شدند در کارهایی مانند خلاصه‌سازی و ترجمه، تا ۳۱ برابر سریع‌تر از مدل‌های زبانی انتشاری هستند.",
+          "url": "https://t.me/dlmehr/5950"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/deepseek_ai/status/2111375640717033777?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5944"
+        }
+      ]
+    },
+    {
+      "id": 5951,
+      "date": "2026-10-18T04:06:17+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5951",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — DeepSeek released V4.1-Flash-1017 on its website, app and API, claiming stronger benchmarks, faster task completion and shorter outputs than its predecessor.",
+          "url": "https://t.me/dlmehr/5944"
+        },
+        {
+          "title": "2 — Kimmonismus claims DeepSeek V4.1-Flash-1017 roughly matches Opus 5 and outperforms GLM 5.3 and GPT-5.6 Sol.",
+          "url": "https://t.me/dlmehr/5945"
+        },
+        {
+          "title": "3 — Matt Jay reported apparent OpenCode breach notices and private messages alleging unexpected API-key charges, while seeking corroboration.",
+          "url": "https://t.me/dlmehr/5946"
+        },
+        {
+          "title": "4 — OpenCode confirmed an ongoing security incident linked to a large-scale distillation attack, saying it affected 1.4% of Console users and all affected users had been emailed.",
+          "url": "https://t.me/dlmehr/5947"
+        },
+        {
+          "title": "5 — Bolt announced free access throughout the weekend for its October 17–24 Builders Week, with product submissions due October 20 for a chance to win $10,000.",
+          "url": "https://t.me/dlmehr/5948"
+        },
+        {
+          "title": "6 — SemiAnalysis highlighted claims that GLM 5.3's gains, including substantially stronger cybersecurity capabilities, came entirely from post-training the previous model rather than pre-training anew.",
+          "url": "https://t.me/dlmehr/5949"
+        },
+        {
+          "title": "7 — Azalia Mirhoseini shared Next-Concept Models, which generate text through coarse-to-fine representations, citing up to 31× faster generation than diffusion models on downstream tasks and 3–5× less training data in benchmark comparisons.",
+          "url": "https://t.me/dlmehr/5950"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/deepseek_ai/status/2111375640717033777?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5944"
+        }
+      ]
+    },
     {
       "id": 5943,
       "date": "2026-10-17T04:08:04+00:00",
