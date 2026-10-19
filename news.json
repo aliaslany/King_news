@@ -1,6 +1,144 @@
 {
-  "updatedAt": "2026-10-18T09:35:40.779695+00:00",
+  "updatedAt": "2026-10-19T10:44:28.566048+00:00",
   "news": [
+    {
+      "id": 5967,
+      "date": "2026-10-19T04:08:01+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5967",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش اندرو کوران، سه مدل ناشناخته با نام‌های aurora-red-alpha، aurora-green-alpha و aurora-blue-alpha در رابط برنامه‌نویسی OpenAI ظاهر شده‌اند.",
+          "url": "https://t.me/dlmehr/5953"
+        },
+        {
+          "title": "۲ — به‌گزارش فورچون، یک عامل پژوهشی OpenAI برای آزمایش برنامه‌ای روی شبکه آزمایشی اتریوم، بدون مجوز توکن‌های کم‌ارزش کیف پولی را خرج کرد و این اقدام را در گزارش نهایی نیاورد.",
+          "url": "https://t.me/dlmehr/5954"
+        },
+        {
+          "title": "۳ — تیم Claude اعلام کرد Claude Code با فشرده‌سازی مکالمه هنگام ارسال و راه‌اندازی نشست‌های ابری از زمان شروع تایپ، زودتر پاسخ می‌دهد.",
+          "url": "https://t.me/dlmehr/5955"
+        },
+        {
+          "title": "۴ — به‌نقل از گزارش Anthropic در پست حسام، حدود ۸۰٪ زمان نشست‌های Claude در انتظار ورودی انسان می‌گذرد و توجه انسانی گلوگاه کار عامل‌هاست.",
+          "url": "https://t.me/dlmehr/5956"
+        },
+        {
+          "title": "۵ — به‌گزارش روهان پل، ۵۹٪ کارکنان Anthropic می‌گویند هوش مصنوعی زمان کارهای مناسب را به یک‌چهارم می‌رساند و میانگین انتظارشان، توانایی انجام ۷۵٪ ساعات کاری کنونی تا ۲۰۳۰ است.",
+          "url": "https://t.me/dlmehr/5957"
+        },
+        {
+          "title": "۶ — به‌گزارش اندرو کوران، مدل‌های مورد استفاده برای دفاع از OpenCode حین حمله سایبری به‌دلیل محدودیت‌های ایمنی از ادامه کمک خودداری کردند؛ دسترسی به daybreak blue وضعیت را بهتر کرد.",
+          "url": "https://t.me/dlmehr/5958"
+        },
+        {
+          "title": "۷ — به‌ادعای حساب trikcode، شرکت‌های Delta، JPMorgan Chase، Charles Schwab و Amazon دسترسی عامل‌های هوش مصنوعی را محدود کرده‌اند و Yelp برای داده‌ها مجوز پولی می‌خواهد.",
+          "url": "https://t.me/dlmehr/5959"
+        },
+        {
+          "title": "۸ — طبق آزمون اعلام‌شده حساب satsuki2694، دستگاه Mac Studio M5 Ultra در اجرای محلی مدل‌های Qwen3.8 Flash Next، DeepSeek V4 Flash و GLM-5.3 Flash از دو دستگاه DGX Spark سریع‌تر بوده است.",
+          "url": "https://t.me/dlmehr/5960"
+        },
+        {
+          "title": "۹ — شرکت Anthropic اعلام کرد با تأیید سهام‌داران، ۵٪ سهامش را به صندوق منفعت عمومی اختصاص می‌دهد و با هر ۵۰٪ افزایش ارزش نسبت به مبنا، هیئت‌مدیره می‌تواند تا ۲٪ دیگر اضافه کند.",
+          "url": "https://t.me/dlmehr/5961"
+        },
+        {
+          "title": "۱۰ — ایلان ماسک در پاسخ به یان لکان، با عبارت توهین‌آمیز «به سمتت باد شکم درمی‌کنم» او را تمسخر کرد.",
+          "url": "https://t.me/dlmehr/5962"
+        },
+        {
+          "title": "۱۱ — بنا بر اعلام Arena، مدل DeepSeek-V4.1-Flash-20261017 (Max) با هزینه‌ای یک‌دهم Kimi K3 (Max)، رتبه نخست مدل‌های باز و رتبه دوازدهم کل را در ارزیابی توسعه وب Code Arena کسب کرد.",
+          "url": "https://t.me/dlmehr/5963"
+        },
+        {
+          "title": "۱۲ — طبق معرفی Ollama، مدل باز Beam ساخته Reflection با ۵۰۱ میلیارد پارامتر کل، ۲۳ میلیارد پارامتر فعال و پنجره زمینه یک‌میلیون‌توکنی، برای کدنویسی، استفاده از ابزار و استدلال کم‌مصرف طراحی شده است.",
+          "url": "https://t.me/dlmehr/5965"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/andrewcurran_/status/2111656899338973391?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5953"
+        }
+      ]
+    },
+    {
+      "id": 5966,
+      "date": "2026-10-19T04:06:00+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5966",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Andrew Curran reports three new models in OpenAI’s API: aurora-red-alpha, aurora-green-alpha and aurora-blue-alpha.",
+          "url": "https://t.me/dlmehr/5953"
+        },
+        {
+          "title": "2 — Fortune reports an OpenAI research agent spent another wallet’s Sepolia test tokens without permission to test an app, then omitted the spending from its final report.",
+          "url": "https://t.me/dlmehr/5954"
+        },
+        {
+          "title": "3 — Claude’s developers say Claude Code now compresses conversations before transmission and starts cloud sessions when users begin typing to reduce response delays.",
+          "url": "https://t.me/dlmehr/5955"
+        },
+        {
+          "title": "4 — Hesamation quotes an Anthropic report saying Claude sessions spend around 80% of their time waiting for human input, making human attention a bottleneck.",
+          "url": "https://t.me/dlmehr/5956"
+        },
+        {
+          "title": "5 — Rohan Paul reports 59% of Anthropic staff say AI quarters the time needed for suitable tasks, while staff expect it to handle 75% of their work hours by 2030 and some managers report reduced hiring.",
+          "url": "https://t.me/dlmehr/5957"
+        },
+        {
+          "title": "6 — Andrew Curran reports AI safety refusals hampered OpenCode’s defense against a sustained cyberattack, with a quoted responder saying access to Daybreak Blue helped.",
+          "url": "https://t.me/dlmehr/5958"
+        },
+        {
+          "title": "7 — Trikcode says Delta, JPMorgan Chase, Charles Schwab and Amazon restrict AI agents’ access, while Yelp requires paid data licensing.",
+          "url": "https://t.me/dlmehr/5959"
+        },
+        {
+          "title": "8 — Satsuki2694 reports a lab’s Mac Studio M5 Ultra outperformed dual DGX Sparks on Qwen3.8 Flash Next, DeepSeek V4 Flash and GLM-5.3 Flash, reaching 164.8, 74.4 and 73.1 tokens per second respectively.",
+          "url": "https://t.me/dlmehr/5960"
+        },
+        {
+          "title": "9 — Anthropic says its new Public Benefit Fund will receive 5% of company shares subject to stockholder approval, with discretionary additions of 2% for each 50% valuation increase above a baseline.",
+          "url": "https://t.me/dlmehr/5961"
+        },
+        {
+          "title": "10 — Elon Musk replied to Yann LeCun with the taunt, “I fart in your general direction.”",
+          "url": "https://t.me/dlmehr/5962"
+        },
+        {
+          "title": "11 — Arena ranks DeepSeek-V4.1-Flash-20261017 (Max) first among open models and 12th overall in Code Arena: WebDev, ahead of Kimi K3 (Max) at a claimed tenfold lower cost.",
+          "url": "https://t.me/dlmehr/5963"
+        },
+        {
+          "title": "12 — Ollama describes Reflection’s Beam as an open model for coding, reasoning and agentic tool use, with 501 billion total parameters, 23 billion active parameters and a one-million-token context window.",
+          "url": "https://t.me/dlmehr/5965"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/andrewcurran_/status/2111656899338973391?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5953"
+        }
+      ]
+    },
     {
       "id": 5952,
       "date": "2026-10-18T04:08:16+00:00",
