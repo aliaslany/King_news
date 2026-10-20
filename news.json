@@ -1,6 +1,208 @@
 {
-  "updatedAt": "2026-10-19T10:44:28.566048+00:00",
+  "updatedAt": "2026-10-20T10:02:17.836053+00:00",
   "news": [
+    {
+      "id": 5989,
+      "date": "2026-10-20T04:08:51+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5989",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — شرکت MiniMax مدل M3.1 Flash را با ادعای سرعت سه‌برابری و هزینه یک‌سوم M3 معرفی کرد؛ وزن‌ها ۲۳ اکتبر منتشر می‌شوند.",
+          "url": "https://t.me/dlmehr/5968"
+        },
+        {
+          "title": "۲ — طبق گزارش منسوب به The Information، مدل جدید Anthropic می‌تواند هنگام رفع یک باگ، مشکلات هم‌خانواده را هم شناسایی کند؛ زمان عرضه نامشخص است.",
+          "url": "https://t.me/dlmehr/5969"
+        },
+        {
+          "title": "۳ — شرکت Modal می‌گوید پردازنده Vera انویدیا در آزمایش اولیه بارهای عامل‌محور، تا دو برابر سخت‌افزار مشابه x86 توان عملیاتی داشته است.",
+          "url": "https://t.me/dlmehr/5970"
+        },
+        {
+          "title": "۴ — به‌گفته سایمون مو، مشارکت AMD، انویدیا و گوگل عملکرد vLLM را در آزمون استاندارد SemiAnalysis روی K3 بهبود داده است.",
+          "url": "https://t.me/dlmehr/5971"
+        },
+        {
+          "title": "۵ — صمدی‌پور بازی مرورگری متن‌باز Snack Hole را منتشر کرد که در آن چاله با بلعیدن اشیای کوچک‌تر رشد می‌کند.",
+          "url": "https://t.me/dlmehr/5972"
+        },
+        {
+          "title": "۶ — به‌نقل از سب جانسون، انویدیا سرمایه‌گذاری بیش از یک میلیارد دلار در پنج استارتاپ بریتانیایی را اعلام کرده است.",
+          "url": "https://t.me/dlmehr/5973"
+        },
+        {
+          "title": "۷ — استفانو ارمون مدل Mercury 3 را با ادعای کیفیت بالاتر از GPT-6 Luna و Haiku 5.5 و سرعت بیش از هزار توکن‌برثانیه معرفی کرد.",
+          "url": "https://t.me/dlmehr/5974"
+        },
+        {
+          "title": "۸ — متا می‌گوید مدل‌های Muse را در ابرخوشه Prometheus آموزش داده و در حال توسعه آن به حدود یک میلیون پردازنده گرافیکی است.",
+          "url": "https://t.me/dlmehr/5975"
+        },
+        {
+          "title": "۹ — به‌گزارش اندرو کرن، وزارت امنیت داخلی آمریکا حذف محصولات DeepSeek و خدمات مبتنی بر آن را از نهادهای فدرال غیرنظامی خواسته است.",
+          "url": "https://t.me/dlmehr/5976"
+        },
+        {
+          "title": "۱۰ — طبق نقل بی‌بی‌سی، دادستان‌ها مهندس سابق OpenAI متهم به شنود را برخوردار از حمایت عربستان می‌دانند؛ شرکت نشانه‌ای از سرقت داده‌ها ندیده است.",
+          "url": "https://t.me/dlmehr/5977"
+        },
+        {
+          "title": "۱۱ — حساب Grok Bot اعلام کرد می‌توان آن را به دکمه اکشن آیفون متصل کرد و با فشردن دکمه گفت‌وگو را آغاز کرد.",
+          "url": "https://t.me/dlmehr/5978"
+        },
+        {
+          "title": "۱۲ — سرویس ChatGPT Slides از ویرایش مستقیم اسلاید و همکاری هم‌زمان برای مشترکان Pro، Business و Enterprise خبر داد.",
+          "url": "https://t.me/dlmehr/5979"
+        },
+        {
+          "title": "۱۳ — تک‌کرانچ گزارش داد برنامه همراه هوشمند Tolan با بیش از ۲۵۰ هزار کاربر فعال، ۳۰ میلیون دلار سرمایه تازه جذب کرده است.",
+          "url": "https://t.me/dlmehr/5980"
+        },
+        {
+          "title": "۱۴ — سازندگان SKY-001 مدعی‌اند مدل جهان مهندسی آن‌ها در طراحی رایانه‌ای و مدل‌سازی ساختمان، از مدل‌های پیشرو سریع‌تر، ارزان‌تر و دقیق‌تر است.",
+          "url": "https://t.me/dlmehr/5981"
+        },
+        {
+          "title": "۱۵ — یوگنیا کویدا نسخه دوم Wabi را معرفی کرد؛ عاملی برای گفت‌وگوی گروهی، ساخت برنامه و هماهنگی کارهایی مانند تقویم و سفر.",
+          "url": "https://t.me/dlmehr/5982"
+        },
+        {
+          "title": "۱۶ — آمازون می‌گوید ابزار TorchNeuron اجرای برنامه‌های PyTorch روی تراشه Trainium را با تغییر یک خط تنظیمات ممکن می‌کند.",
+          "url": "https://t.me/dlmehr/5983"
+        },
+        {
+          "title": "۱۷ — اد زیترون به‌نقل از بیزنس‌اینسایدر می‌گوید آمازون پردازنده‌های گرافیکی را پیشاپیش خریده، اما برای نصب بخشی از آن‌ها برنامه روشنی ندارد.",
+          "url": "https://t.me/dlmehr/5984"
+        },
+        {
+          "title": "۱۸ — به‌نقل از حسام، سم آلتمن سه سناریوی ایمنی هوش مصنوعی را مطرح کرده: ناظر بین‌المللی، ادغام آزمایشگاه‌ها یا سلطه یک شرکت؛ آخری را وحشتناک خوانده است.",
+          "url": "https://t.me/dlmehr/5985"
+        },
+        {
+          "title": "۱۹ — شرکت Together سرویس پس‌آموزش مدل‌های باز با تنظیم دقیق نظارت‌شده یا یادگیری تقویتی و کنترل کاربر بر داده و پاداش را عرضه کرد.",
+          "url": "https://t.me/dlmehr/5986"
+        },
+        {
+          "title": "۲۰ — شرکت Cua ابزار توسعه Spaces را برای اجرای عامل‌هایی مانند Claude Code و Codex روی زیرساخت دلخواه و چند رایانه معرفی کرد.",
+          "url": "https://t.me/dlmehr/5987"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://x.com/MiniMax_AI/status/2112150867868541221",
+          "url": "https://t.me/dlmehr/5968"
+        }
+      ]
+    },
+    {
+      "id": 5988,
+      "date": "2026-10-20T04:06:36+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/5988",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — MiniMax says M3.1 Flash runs at triple M3's speed for one-third the cost, with model weights due October 23.",
+          "url": "https://t.me/dlmehr/5968"
+        },
+        {
+          "title": "2 — A post citing The Information says Anthropic is testing a model that spots broader bug patterns; release timing is unclear.",
+          "url": "https://t.me/dlmehr/5969"
+        },
+        {
+          "title": "3 — Modal reports Nvidia's Vera CPU delivered up to twice comparable x86 throughput in early concurrent-agent tests.",
+          "url": "https://t.me/dlmehr/5970"
+        },
+        {
+          "title": "4 — Simon Mo reports AMD, Nvidia and Google contributed vLLM optimizations measured on K3 using SemiAnalysis benchmarks.",
+          "url": "https://t.me/dlmehr/5971"
+        },
+        {
+          "title": "5 — SamadiPour released Snack Hole, an open-source browser game where players swallow smaller objects to grow.",
+          "url": "https://t.me/dlmehr/5972"
+        },
+        {
+          "title": "6 — Seb Johnson shared news of Nvidia investing over $1 billion in five UK startups spanning biology, infrastructure, algorithms and quantum computing.",
+          "url": "https://t.me/dlmehr/5973"
+        },
+        {
+          "title": "7 — Stefano Ermon says the new Mercury 3 diffusion language model beats GPT-6 Luna and Haiku 5.5 on quality at over 1,000 tokens per second.",
+          "url": "https://t.me/dlmehr/5974"
+        },
+        {
+          "title": "8 — Meta says its Prometheus supercluster trained Muse Wonder with over 85% pretraining goodput and over 90% reinforcement-learning goodput.",
+          "url": "https://t.me/dlmehr/5975"
+        },
+        {
+          "title": "9 — Andrew Curran reports DHS is ordering civilian federal agencies to remove DeepSeek products and dependent third-party services and halt purchases.",
+          "url": "https://t.me/dlmehr/5976"
+        },
+        {
+          "title": "10 — A post citing the BBC says US prosecutors allege Saudi backing for an ex-OpenAI engineer accused of bugging an executive meeting room.",
+          "url": "https://t.me/dlmehr/5977"
+        },
+        {
+          "title": "11 — Grok Bot says users can assign it to the iPhone Action Button to start voice conversations.",
+          "url": "https://t.me/dlmehr/5978"
+        },
+        {
+          "title": "12 — OpenAI says ChatGPT Slides now supports live collaboration, comments and direct slide editing on Pro, Business and Enterprise plans.",
+          "url": "https://t.me/dlmehr/5979"
+        },
+        {
+          "title": "13 — TechCrunch reports AI companion Tolan raised another $30 million after attracting more than 250,000 active users.",
+          "url": "https://t.me/dlmehr/5980"
+        },
+        {
+          "title": "14 — SKY-001's developers claim their engineering model outperforms tested frontier models on CAD and BIM tasks while being faster and cheaper.",
+          "url": "https://t.me/dlmehr/5981"
+        },
+        {
+          "title": "15 — Eugenia Kuyda announced Wabi 2.0, a shared agent for group threads that builds apps and coordinates calendars, tickets and travel.",
+          "url": "https://t.me/dlmehr/5982"
+        },
+        {
+          "title": "16 — AWS says its new TorchNeuron tool moves PyTorch apps to Trainium with a single configuration-line change and no code rewrite.",
+          "url": "https://t.me/dlmehr/5983"
+        },
+        {
+          "title": "17 — Ed Zitron, citing Business Insider, says Amazon is stockpiling GPUs without a clear installation schedule amid data-center constraints.",
+          "url": "https://t.me/dlmehr/5984"
+        },
+        {
+          "title": "18 — Hesamation says Altman outlined AI-safety scenarios involving a global watchdog, merged labs or a dominant self-improving company, calling the last terrible.",
+          "url": "https://t.me/dlmehr/5985"
+        },
+        {
+          "title": "19 — Together launched Post-Training for customizing open models through supervised fine-tuning or reinforcement learning on managed infrastructure.",
+          "url": "https://t.me/dlmehr/5986"
+        },
+        {
+          "title": "20 — Cua introduced its Spaces SDK to run Claude Code, Codex or other agents on user-chosen compute and coordinate jobs across computers.",
+          "url": "https://t.me/dlmehr/5987"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://x.com/MiniMax_AI/status/2112150867868541221",
+          "url": "https://t.me/dlmehr/5968"
+        }
+      ]
+    },
     {
       "id": 5967,
       "date": "2026-10-19T04:08:01+00:00",
