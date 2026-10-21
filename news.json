@@ -1,6 +1,192 @@
 {
-  "updatedAt": "2026-10-20T10:02:17.836053+00:00",
+  "updatedAt": "2026-10-21T10:06:41.321311+00:00",
   "news": [
+    {
+      "id": 6010,
+      "date": "2026-10-21T04:08:35+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6010",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — دیپ‌سیک چارچوب استنتاج DeepInfer، زیرساخت اجرای DeepSeek-V4.1-Flash، را با هدف کاهش هزینه و مصرف انرژی متن‌باز کرد.",
+          "url": "https://t.me/dlmehr/5990"
+        },
+        {
+          "title": "۲ — به‌نقل از swyx، دیپ‌سیک ظرفیت روزانهٔ ۱۵۵ تریلیون توکن در یک خوشه و درآمد ساعتی ۳۸ دلار به‌ازای هر کارت را گزارش کرده است.",
+          "url": "https://t.me/dlmehr/5991"
+        },
+        {
+          "title": "۳ — شرکت OpenAI از خرید Orchestra Bio برای بهبود فرایند توسعهٔ دارو با مدل‌ها و ابزارهای پژوهشی Rosalind خبر داد.",
+          "url": "https://t.me/dlmehr/5992"
+        },
+        {
+          "title": "۴ — ربات پیشخدمت Voxel، ساختهٔ Tuesday Labs، معرفی شد.",
+          "url": "https://t.me/dlmehr/5993"
+        },
+        {
+          "title": "۵ — سازندگان Omnii-1 می‌گویند این مدل ژنومی، نخستین باکتریوفاژهای هوش مصنوعی را برای تجویز به بیمار دارای عفونت مقاوم، در چارچوب مصرف دلسوزانه، طراحی کرده است.",
+          "url": "https://t.me/dlmehr/5994"
+        },
+        {
+          "title": "۶ — صندوق بین‌المللی پول هشدار داد ترکیدن حباب سرمایه‌گذاری هوش مصنوعی و پیوندهای مالی شرکت‌ها می‌تواند اقتصاد جهانی را متأثر کند.",
+          "url": "https://t.me/dlmehr/5996"
+        },
+        {
+          "title": "۷ — سازندگان Holon-S1 از پیش‌بینی فعالیت ژن‌ها و نشانگرهای زیستی با اسلایدهای معمول آسیب‌شناسی و ارزیابی آن در ۱۶ نوع اندام خبر دادند.",
+          "url": "https://t.me/dlmehr/5997"
+        },
+        {
+          "title": "۸ — به‌نقل از وال‌استریت ژورنال، درآمد نیمه‌سال Anthropic به ۱۶٫۳ میلیارد دلار رسیده و قراردادهای ابری ۴۵۰ میلیارددلاری و مذاکرات ۱۵۰ میلیارددلاری دیگری دارد.",
+          "url": "https://t.me/dlmehr/5998"
+        },
+        {
+          "title": "۹ — جیم فن از انتشار وزن‌های Flora برای تولید دادهٔ آموزشی ربات‌ها خبر داد و هزینهٔ آن را یک‌صدوبیست‌وپنجم Astra با عملکرد هم‌سطح دانست.",
+          "url": "https://t.me/dlmehr/5999"
+        },
+        {
+          "title": "۱۰ — نماهنگ فرانسوی ساخته‌شده با هوش مصنوعی، بنا بر توضیح کانال، در نسخه‌ای با زیرنویس انگلیسی به‌اشتراک گذاشته شد.",
+          "url": "https://t.me/dlmehr/6000"
+        },
+        {
+          "title": "۱۱ — شرکت Societies از شبیه‌سازی انتشار ایده‌ها در شهری مصنوعی با ۲۷۲۱ شخصیت نمایندهٔ جمعیت آمریکا خبر داد.",
+          "url": "https://t.me/dlmehr/6001"
+        },
+        {
+          "title": "۱۲ — شرکت Gecko Robotics اعلام کرد قراردادش با نیروی دریایی آمریکا برای ارتقای آمادگی ناوگان، چهار برابر شده و به ۳۰۰ میلیون دلار رسیده است.",
+          "url": "https://t.me/dlmehr/6002"
+        },
+        {
+          "title": "۱۳ — ایلان ماسک از هدف رسیدن ظرفیت محاسباتی SpaceX به ۱۳ گیگاوات تا پایان ۲۰۲۷ و خوشه‌ای با ۴۴۰ هزار پردازندهٔ Vera Rubin گفت.",
+          "url": "https://t.me/dlmehr/6003"
+        },
+        {
+          "title": "۱۴ — پرانیتا پوجاری پس از ترک اپل، UniqueHuman را برای ساخت عامل‌های مراقبت پیش‌نگر از بیماران مزمن، با شروع از میگرن، معرفی کرد.",
+          "url": "https://t.me/dlmehr/6004"
+        },
+        {
+          "title": "۱۵ — انویدیا از همکاری با اتحادیهٔ پخش اروپا برای حفظ کنترل داده‌های رسانه‌ها و با Adobe برای تسریع جست‌وجوی ویدئو در Frame.io خبر داد.",
+          "url": "https://t.me/dlmehr/6005"
+        },
+        {
+          "title": "۱۶ — به‌گفتهٔ الکس دیماکیس، مدل Gemini 4 Argon در AutoResearchExam با عملکرد مهندسی یادگیری ماشین تقریباً مشابه رقبا، نصف تا یک‌سوم هزینه دارد.",
+          "url": "https://t.me/dlmehr/6006"
+        },
+        {
+          "title": "۱۷ — تیم امنیت PHP انتشار وصلهٔ دو آسیب‌پذیری بحرانی با امتیاز ۹٫۲ را برای ۲۱ اکتبر، ساعت ۱۴ جهانی اعلام کرد؛ نسخه‌های آسیب‌پذیر هنوز مشخص نشده‌اند.",
+          "url": "https://t.me/dlmehr/6007"
+        },
+        {
+          "title": "۱۸ — به‌گزارش هکرنیوز، به‌روزرسانی اضطراری Go هشت کلید مرجع صدور گواهی را مسدود می‌کند و ممکن است اتصال برنامه‌های بازسازی‌شده را مختل کند.",
+          "url": "https://t.me/dlmehr/6008"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/deepseek_ai/status/2112476496283775135?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5990"
+        }
+      ]
+    },
+    {
+      "id": 6009,
+      "date": "2026-10-21T04:06:20+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6009",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — DeepSeek open-sourced DeepInfer, its inference framework powering DeepSeek-V4.1-Flash production services.",
+          "url": "https://t.me/dlmehr/5990"
+        },
+        {
+          "title": "2 — Swyx cites DeepSeek's claim of 155 trillion tokens daily per cluster and $38 revenue per GPU-hour, estimating an 80% serving margin.",
+          "url": "https://t.me/dlmehr/5991"
+        },
+        {
+          "title": "3 — OpenAI says it acquired Orchestra Bio to combine drug-development coordination with its Rosalind life-sciences tools.",
+          "url": "https://t.me/dlmehr/5992"
+        },
+        {
+          "title": "4 — Tuesday Labs' Voxel was introduced as a droid butler.",
+          "url": "https://t.me/dlmehr/5993"
+        },
+        {
+          "title": "5 — Omnii-1's developers claim their genome model designed the first AI-generated bacteriophages administered to a patient under compassionate use.",
+          "url": "https://t.me/dlmehr/5994"
+        },
+        {
+          "title": "6 — The Register reports IMF warnings that an AI investment bust, concentrated exposure and circular financing could destabilize global markets.",
+          "url": "https://t.me/dlmehr/5996"
+        },
+        {
+          "title": "7 — Holon-S1's developers say it predicts gene activity and biomarkers from pathology slides, with evaluation across 16 organ types.",
+          "url": "https://t.me/dlmehr/5997"
+        },
+        {
+          "title": "8 — Citing a WSJ draft-IPO report, a post says Anthropic's first-half revenue reached $16.3B, alongside $450B in cloud contracts and further commitments.",
+          "url": "https://t.me/dlmehr/5998"
+        },
+        {
+          "title": "9 — Jim Fan announced open Flora robotics models, claiming Astra-level performance at 125 times lower cost and labeling 200,000 video hours daily.",
+          "url": "https://t.me/dlmehr/5999"
+        },
+        {
+          "title": "10 — Extraltodeus shared English subtitles for a French “slopcore” music video that the channel praises as AI-generated.",
+          "url": "https://t.me/dlmehr/6000"
+        },
+        {
+          "title": "11 — Societies AI introduced an idea-spread simulation with 2,721 personas representing the US population, each with beliefs, routines and social ties.",
+          "url": "https://t.me/dlmehr/6001"
+        },
+        {
+          "title": "12 — Gecko Robotics says its Navy contract quadrupled to $300M, claiming robotic inspections can save up to $8M in repairs per ship.",
+          "url": "https://t.me/dlmehr/6002"
+        },
+        {
+          "title": "13 — Andrew Curran quotes Musk targeting 13 GW of SpaceX AI compute by end-2027 and a 440,000-GPU Vera Rubin training cluster by Q2 2027.",
+          "url": "https://t.me/dlmehr/6003"
+        },
+        {
+          "title": "14 — Former Apple employee Praneeta Pujari introduced UniqueHuman, developing proactive healthcare agents for chronic conditions, starting with migraines.",
+          "url": "https://t.me/dlmehr/6004"
+        },
+        {
+          "title": "15 — NVIDIA announced expanded sovereign-AI standards with the EBU and GPU-accelerated Adobe Frame.io video search.",
+          "url": "https://t.me/dlmehr/6005"
+        },
+        {
+          "title": "16 — Alex Dimakis says Gemini 4 Argon costs two to three times less than frontier peers for similar ML-engineering performance on AutoResearchExam.",
+          "url": "https://t.me/dlmehr/6006"
+        },
+        {
+          "title": "17 — PHP scheduled patches for two critical CVSS 9.2 vulnerabilities for October 21 at 14:00 UTC, with affected versions to be disclosed at release.",
+          "url": "https://t.me/dlmehr/6007"
+        },
+        {
+          "title": "18 — The Hacker News reports Go 1.27.3 and 1.26.10 block eight CA keys over undisclosed security concerns, potentially breaking rebuilt apps' connections.",
+          "url": "https://t.me/dlmehr/6008"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/deepseek_ai/status/2112476496283775135?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/5990"
+        }
+      ]
+    },
     {
       "id": 5989,
       "date": "2026-10-20T04:08:51+00:00",
