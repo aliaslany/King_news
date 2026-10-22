@@ -1,6 +1,264 @@
 {
-  "updatedAt": "2026-10-21T10:06:41.321311+00:00",
+  "updatedAt": "2026-10-22T10:09:19.687784+00:00",
   "news": [
+    {
+      "id": 6040,
+      "date": "2026-10-22T04:09:28+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6040",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — یونیتری ربات H2-X را با ادعای کارکرد تا حدود ۸ ساعت معرفی کرد.",
+          "url": "https://t.me/dlmehr/6011"
+        },
+        {
+          "title": "۲ — به‌گفته OpenAI، مدل GPT-Rosalind اختلال انتقال کلسترول را سرنخی آزمودنی برای تخریب عصبی پیشنهاد کرد.",
+          "url": "https://t.me/dlmehr/6012"
+        },
+        {
+          "title": "۳ — میسترال و انویدیا برای شبیه‌سازی مهندسی سریع‌تر و معیارهای باز ارزیابی هوش مصنوعی همکاری می‌کنند.",
+          "url": "https://t.me/dlmehr/6013"
+        },
+        {
+          "title": "۴ — گوگل و متا TorchTPU را برای اجرای بومی PyTorch روی تراشه‌های TPU معرفی کردند.",
+          "url": "https://t.me/dlmehr/6014"
+        },
+        {
+          "title": "۵ — طبق گزارش نقل‌شده از The Information، هکرها با Claude و Grok بیش از ۴۰۰ هدف مالی آمریکای لاتین را هدف گرفتند.",
+          "url": "https://t.me/dlmehr/6015"
+        },
+        {
+          "title": "۶ — به‌ادعای کیمونیسموس، سامانه DSX POD انویدیا گسترش ظرفیت پردازشی را از ماه‌ها به چند روز می‌رساند.",
+          "url": "https://t.me/dlmehr/6016"
+        },
+        {
+          "title": "۷ — به‌گفته OpenAI، مدل‌هایش به کشف آسیب‌پذیری‌های بحرانی PHP کمک کردند و اصلاحات اکنون آماده‌اند.",
+          "url": "https://t.me/dlmehr/6017"
+        },
+        {
+          "title": "۸ — انویدیا مدل باز RFD4-Proteina را برای طراحی هم‌زمان توالی و ساختار پروتئین معرفی کرد.",
+          "url": "https://t.me/dlmehr/6018"
+        },
+        {
+          "title": "۹ — به‌گزارش MrPingChecks، اعتراض به حضور تراشه‌های انویدیا در پهپادهای روسی سخنرانی جنسن هوانگ را مختل کرد.",
+          "url": "https://t.me/dlmehr/6019"
+        },
+        {
+          "title": "۱۰ — به‌نقل از Dexerto، مارکس براونلی خرید آیفون Duo را به‌دلیل وزن، دوربین و ضعف برنامه‌ها توصیه نمی‌کند.",
+          "url": "https://t.me/dlmehr/6020"
+        },
+        {
+          "title": "۱۱ — حلقه Plato برای تبدیل گفتار تقریباً بی‌صدا به متن و واگذاری کارها معرفی شد.",
+          "url": "https://t.me/dlmehr/6021"
+        },
+        {
+          "title": "۱۲ — می‌رندیل مدعی است مدل پایه‌اش را یک پژوهشگر در ۳٫۵ ماه با هزینه پردازشی زیر ۱۰ میلیون دلار ساخت.",
+          "url": "https://t.me/dlmehr/6022"
+        },
+        {
+          "title": "۱۳ — شرکت Recursive مدل کدنویسی وزن‌باز Flint را با ادعای بیش از ۱۲۵ توکن‌برثانیه روی مک‌بوک M4 عرضه کرد.",
+          "url": "https://t.me/dlmehr/6023"
+        },
+        {
+          "title": "۱۴ — سازنده Shift-1 مدعی کاهش تا ۵۵٪ هزینه عامل‌های کدنویسی بدون افت محسوس کیفیت است.",
+          "url": "https://t.me/dlmehr/6024"
+        },
+        {
+          "title": "۱۵ — شرکت Underdog مدل گفتار انگلیسی Bark 3.0 را با حجم ۱۶۳ مگابایت و اجرای محلی عرضه کرد.",
+          "url": "https://t.me/dlmehr/6025"
+        },
+        {
+          "title": "۱۶ — به‌نقل از MTSlive، دمیس هسابیس پیش‌بینی دستیابی به هوش عمومی مصنوعی را به دو تا سه سال کاهش داد.",
+          "url": "https://t.me/dlmehr/6026"
+        },
+        {
+          "title": "۱۷ — شایعات نقل‌شده توسط AiBattle از ۲٫۵ تا ۳٫۵ تریلیون پارامتر و تغییر معماری GLM 5.5 خبر می‌دهند.",
+          "url": "https://t.me/dlmehr/6027"
+        },
+        {
+          "title": "۱۸ — به‌گزارش نیویورک‌تایمز، متا بابت فریب کاربران درباره حریم خصوصی به پرداخت ۲۵ میلیارد دلار محکوم شد.",
+          "url": "https://t.me/dlmehr/6028"
+        },
+        {
+          "title": "۱۹ — مرور amino_abhi از زیست‌فناوری، کاربرد فاژ طراحی‌شده با هوش مصنوعی در بیمار و ابزارهای طراحی پروتئین را برجسته کرد.",
+          "url": "https://t.me/dlmehr/6029"
+        },
+        {
+          "title": "۲۰ — آنتروپیک پیش‌نمایش پژوهشی Claude Duet را معرفی کرد؛ عاملی پیش‌قدم که پیش از اقدام به نمایندگی کاربر اجازه می‌گیرد.",
+          "url": "https://t.me/dlmehr/6030"
+        },
+        {
+          "title": "۲۱ — به‌گزارش تک‌کرانچ، والمارت برخلاف آمازون خرید توسط عامل‌ها را با کنترل هزینه و تأیید تراکنش می‌پذیرد.",
+          "url": "https://t.me/dlmehr/6031"
+        },
+        {
+          "title": "۲۲ — شرکت Railway از احتمال افشای متغیرهای محیطی خبر داد و تعویض فوری کلیدها و اطلاعات محرمانه را خواستار شد.",
+          "url": "https://t.me/dlmehr/6032"
+        },
+        {
+          "title": "۲۳ — شرکت Marathon Fusion مدعی تبدیل جیوه به طلای پایدار و رکورد غنی‌سازی ایزوتوپ با سانتریفیوژ پلاسما شد.",
+          "url": "https://t.me/dlmehr/6034"
+        },
+        {
+          "title": "۲۴ — سازندگان Flappy Airplanes مدعی اجرای هم‌زمان آموزش، استنتاج و بازی در یک هسته پردازشی شدند.",
+          "url": "https://t.me/dlmehr/6035"
+        },
+        {
+          "title": "۲۵ — مرور khoomeik بر آزمایشگاه‌های نوپا، یادگیری تقویتی Ampersand و پژوهش خودکار مدل‌ها را برجسته کرد.",
+          "url": "https://t.me/dlmehr/6036"
+        },
+        {
+          "title": "۲۶ — رسانه Pirate Wires مدعی استخدام زنان جذاب برای جلب سرمایه‌گذار و مشتری در شرکت‌های هوش مصنوعی شد.",
+          "url": "https://t.me/dlmehr/6037"
+        },
+        {
+          "title": "۲۷ — به‌گفته Nous Research، جنسن هوانگ با Hermes محیط شبیه‌سازی و آموزش ربات Microduck را در رویداد برلین نمایش داد.",
+          "url": "https://t.me/dlmehr/6038"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/unitreerobotics/status/2112819774573179175?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6011"
+        }
+      ]
+    },
+    {
+      "id": 6039,
+      "date": "2026-10-22T04:07:04+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6039",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Unitree unveiled H2-X, a guardian robot claiming up to eight hours of endurance.",
+          "url": "https://t.me/dlmehr/6011"
+        },
+        {
+          "title": "2 — OpenAI says GPT-Rosalind identified disrupted cholesterol transport as a possible neurodegeneration mechanism.",
+          "url": "https://t.me/dlmehr/6012"
+        },
+        {
+          "title": "3 — Mistral and NVIDIA announced engineering AI collaboration on simulations, datasets and benchmarks.",
+          "url": "https://t.me/dlmehr/6013"
+        },
+        {
+          "title": "4 — Google and Meta introduced TorchTPU for native PyTorch execution on Google TPUs.",
+          "url": "https://t.me/dlmehr/6014"
+        },
+        {
+          "title": "5 — Citing The Information, kimmonismus reports Claude/Grok-assisted attacks on 400-plus Latin American financial targets.",
+          "url": "https://t.me/dlmehr/6015"
+        },
+        {
+          "title": "6 — Kimmonismus says NVIDIA's DSX POD can expand compute capacity in days rather than months.",
+          "url": "https://t.me/dlmehr/6016"
+        },
+        {
+          "title": "7 — OpenAI says its models helped find critical PHP flaws, with coordinated fixes now available.",
+          "url": "https://t.me/dlmehr/6017"
+        },
+        {
+          "title": "8 — NVIDIA introduced RFD4-Proteina, an open protein-design model co-developed with UW researchers.",
+          "url": "https://t.me/dlmehr/6018"
+        },
+        {
+          "title": "9 — MrPingChecks reports protesters interrupted Jensen Huang over NVIDIA hardware in Russian drones.",
+          "url": "https://t.me/dlmehr/6019"
+        },
+        {
+          "title": "10 — Dexerto reports MKBHD advises skipping Apple's $2,000 iPhone Duo over hardware and app drawbacks.",
+          "url": "https://t.me/dlmehr/6020"
+        },
+        {
+          "title": "11 — Plato launched a ring marketed for near-silent dictation and task delegation.",
+          "url": "https://t.me/dlmehr/6021"
+        },
+        {
+          "title": "12 — Mirendil says one researcher pretrained its coding model in 3.5 months using under $10M in compute.",
+          "url": "https://t.me/dlmehr/6022"
+        },
+        {
+          "title": "13 — Recursive released Flint's open weights, claiming local coding speeds above 125 tokens/second on M4 MacBook Pro.",
+          "url": "https://t.me/dlmehr/6023"
+        },
+        {
+          "title": "14 — Applied Compute says Shift-1 cuts coding-agent costs up to 55% without noticeable quality loss.",
+          "url": "https://t.me/dlmehr/6024"
+        },
+        {
+          "title": "15 — Underdog released Bark 3.0, a 163 MB on-device speech model it says outperforms Whisper large-v3.",
+          "url": "https://t.me/dlmehr/6025"
+        },
+        {
+          "title": "16 — MTSlive reports Demis Hassabis shortened his AGI forecast from three–five years to two–three.",
+          "url": "https://t.me/dlmehr/6026"
+        },
+        {
+          "title": "17 — AiBattle relays unconfirmed rumors of GLM 5.5 having 2.5–3.5 trillion parameters and major architecture changes.",
+          "url": "https://t.me/dlmehr/6027"
+        },
+        {
+          "title": "18 — The New York Times reports Meta must pay $25 billion for deceiving users about data privacy.",
+          "url": "https://t.me/dlmehr/6028"
+        },
+        {
+          "title": "19 — Amino_abhi highlights AI-biology developments including a patient receiving AI-designed phage and new protein tools.",
+          "url": "https://t.me/dlmehr/6029"
+        },
+        {
+          "title": "20 — Anthropic previewed Claude Duet, a proactive agent app that seeks permission before acting on users' behalf.",
+          "url": "https://t.me/dlmehr/6030"
+        },
+        {
+          "title": "21 — TechCrunch reports Walmart welcomes agent purchases with spending controls while Amazon blocks them.",
+          "url": "https://t.me/dlmehr/6031"
+        },
+        {
+          "title": "22 — Railway warns secrets may be exposed, urges immediate credential rotation and log checks, and pauses deployments.",
+          "url": "https://t.me/dlmehr/6032"
+        },
+        {
+          "title": "23 — Marathon Fusion claims gold-production and isotope-enrichment records and says it is building a fusion reactor.",
+          "url": "https://t.me/dlmehr/6034"
+        },
+        {
+          "title": "24 — Flappyairplanes claims its megakernel framework can train, infer and play games simultaneously in one kernel.",
+          "url": "https://t.me/dlmehr/6035"
+        },
+        {
+          "title": "25 — Khoomeik highlights new-lab advances: Ampersand RL, Flappyairplanes funding, Flint and Mirendil pretraining.",
+          "url": "https://t.me/dlmehr/6036"
+        },
+        {
+          "title": "26 — Pirate Wires claims startups hire attractive women to court investors and clients, calling it a bubble signal.",
+          "url": "https://t.me/dlmehr/6037"
+        },
+        {
+          "title": "27 — Nous says Huang demoed Hermes building a simulation and training a Microduck robot policy at GTC Berlin.",
+          "url": "https://t.me/dlmehr/6038"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/unitreerobotics/status/2112819774573179175?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6011"
+        }
+      ]
+    },
     {
       "id": 6010,
       "date": "2026-10-21T04:08:35+00:00",
