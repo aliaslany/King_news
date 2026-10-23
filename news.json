@@ -1,6 +1,224 @@
 {
-  "updatedAt": "2026-10-22T10:09:19.687784+00:00",
+  "updatedAt": "2026-10-23T10:02:11.172389+00:00",
   "news": [
+    {
+      "id": 6064,
+      "date": "2026-10-23T04:08:56+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6064",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌نقل از مایکروسافت و کراوداسترایک، عامل‌های هوش مصنوعی در حملات گسترده به سازمان‌ها نقش داشته‌اند.",
+          "url": "https://t.me/dlmehr/6041"
+        },
+        {
+          "title": "۲ — به‌گزارش اکسیوس، بانک‌های بزرگ آمریکا عامل‌های هوش مصنوعی غیرمجاز را در حساب مشتریان شناسایی کرده‌اند.",
+          "url": "https://t.me/dlmehr/6042"
+        },
+        {
+          "title": "۳ — کوین ویل از جذب ۲۱۵ میلیون دلار برای Warp Sciences با هدف تسریع داروسازی با هوش مصنوعی و رباتیک خبر داد.",
+          "url": "https://t.me/dlmehr/6043"
+        },
+        {
+          "title": "۴ — کلمنت دلانگ مدل متن‌باز Carbon-X را برای فهم و تولید دی‌ان‌ای معرفی کرد و از برتری آن در پنج آزمون گفت.",
+          "url": "https://t.me/dlmehr/6044"
+        },
+        {
+          "title": "۵ — آنتروپیک اعلام کرد Claude Security در بتای سازمانی، مخزن‌های کد را پس از هر تغییر دوباره بررسی می‌کند.",
+          "url": "https://t.me/dlmehr/6045"
+        },
+        {
+          "title": "۶ — به‌گزارش تک‌کرانچ، سامانه تشخیصی مایکروسافت در شبیه‌سازی موارد پیچیده از پزشکان عمومی دقیق‌تر بود؛ عمده بهبود از مدل‌های پایه بود.",
+          "url": "https://t.me/dlmehr/6046"
+        },
+        {
+          "title": "۷ — به‌روایت روهان پال، عامل مبتنی بر Gemini قواعد تازه‌ای برای ۱۱ ماشین تورینگ یافت و با Lean اثبات کرد.",
+          "url": "https://t.me/dlmehr/6047"
+        },
+        {
+          "title": "۸ — به‌نقل از معاون مدیر اطلاعات آنتروپیک، بحران امنیتی پیش از بهبود شدیدتر می‌شود و تقویت اصول امنیت ضروری است.",
+          "url": "https://t.me/dlmehr/6048"
+        },
+        {
+          "title": "۹ — اندرو کوران از هک Quest Diagnostics و افشای داده بیماران خبر داد؛ تحقیقات ادامه دارد.",
+          "url": "https://t.me/dlmehr/6049"
+        },
+        {
+          "title": "۱۰ — به‌نقل از تک‌کرانچ، Warhound با ۲۰۰ میلیون دلار برای پرورش سگ‌های تقویت‌شده ژنتیکی ویژه مأموریت‌های حساس راه‌اندازی شد.",
+          "url": "https://t.me/dlmehr/6050"
+        },
+        {
+          "title": "۱۱ — به‌روایت روهان پال، مزایده میان ۱۱۰ مدل در پژوهش دیپ‌مایند به ۹۹٫۲٪ ارزش بهترین انتخاب ممکن رسید.",
+          "url": "https://t.me/dlmehr/6051"
+        },
+        {
+          "title": "۱۲ — به‌گزارش تک‌کرانچ، ۱۳ عامل در آزمایش ام‌آی‌تی با بازی خودجوش در جزیره مجازی، عملکرد بعدی خود را بهبود دادند.",
+          "url": "https://t.me/dlmehr/6052"
+        },
+        {
+          "title": "۱۳ — کوین ویل می‌گوید Warp Sciences آزمایشگاه‌های رباتیک شبانه‌روزی در آمریکا می‌سازد تا زیرساخت پژوهش دارویی فراهم کند.",
+          "url": "https://t.me/dlmehr/6053"
+        },
+        {
+          "title": "۱۴ — به‌نقل از وال‌استریت‌ژورنال، بارکلیز با اشاره به بهره‌وری هوش مصنوعی امسال حدود ۵۰۰۰ شغل را حذف می‌کند.",
+          "url": "https://t.me/dlmehr/6054"
+        },
+        {
+          "title": "۱۵ — نویسنده تأکید می‌کند خودکارسازی پژوهش، نیاز به ایده‌پردازی، دانش بنیادی و قضاوت انسانی درباره نتایج را از بین نمی‌برد.",
+          "url": "https://t.me/dlmehr/6055"
+        },
+        {
+          "title": "۱۶ — نویسنده کانال می‌گوید شمار مشکلات امنیتی کشف‌شده در سال‌های اخیر رشدی نمایی دارد.",
+          "url": "https://t.me/dlmehr/6056"
+        },
+        {
+          "title": "۱۷ — به‌روایت مارک گادالا، اوراکل برای آسیب‌پذیری بحرانی Java و GraalVM با امکان سوءاستفاده از راه دور، وصله اضطراری منتشر کرد.",
+          "url": "https://t.me/dlmehr/6057"
+        },
+        {
+          "title": "۱۸ — نویسنده کانال رمزهای قوی و یکتا، تأیید دومرحله‌ای و بررسی امنیت نرم‌افزار با مدل‌های زبانی را توصیه می‌کند.",
+          "url": "https://t.me/dlmehr/6058"
+        },
+        {
+          "title": "۱۹ — سم آلتمن می‌گوید مدل‌ها حتی نقص‌های سخت‌افزاری دور از انتظار می‌یابند و دیگر به امکان وصله‌کردن همه نقص‌ها باور ندارد.",
+          "url": "https://t.me/dlmehr/6059"
+        },
+        {
+          "title": "۲۰ — جیسون کلینتون از مدیران امنیت می‌خواهد فوراً برای تقویت اصول پایه امنیت از هیئت‌مدیره کمک بخواهند.",
+          "url": "https://t.me/dlmehr/6060"
+        },
+        {
+          "title": "۲۱ — مت شومر در برابر حملات هوش مصنوعی، به‌روزرسانی دستگاه‌ها، رمزهای یکتا و ندادن اطلاعات بانکی به دستیارها را توصیه می‌کند.",
+          "url": "https://t.me/dlmehr/6061"
+        },
+        {
+          "title": "۲۲ — به‌گفته آمازون، تلاش برای سوءاستفاده از PHP2Shell چهار روز پیش از افشای نقص‌ها در تله‌های امنیتی ثبت شده بود.",
+          "url": "https://t.me/dlmehr/6062"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimmonismus/status/2113141875368468508?s=46",
+          "url": "https://t.me/dlmehr/6041"
+        }
+      ]
+    },
+    {
+      "id": 6063,
+      "date": "2026-10-23T04:06:30+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6063",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Kimmonismus reports AI-enabled attacks on organizations alongside platform breaches and critical software flaws.",
+          "url": "https://t.me/dlmehr/6041"
+        },
+        {
+          "title": "2 — Axios reports U.S. banks found unauthorized AI agents in customer accounts, some apparently acting beyond user instructions.",
+          "url": "https://t.me/dlmehr/6042"
+        },
+        {
+          "title": "3 — Kevin Weil announces Warp Sciences and a $215M Series A to accelerate drug research with AI and robotics.",
+          "url": "https://t.me/dlmehr/6043"
+        },
+        {
+          "title": "4 — Hugging Face's Clement Delangue unveils Carbon-X, an open DNA model, claiming leading open-model benchmark results.",
+          "url": "https://t.me/dlmehr/6044"
+        },
+        {
+          "title": "5 — Anthropic says Claude Security now rescans repositories as code changes, in public beta for Enterprise customers.",
+          "url": "https://t.me/dlmehr/6045"
+        },
+        {
+          "title": "6 — TechCrunch reports Microsoft's diagnostic AI beat generalist doctors in simulations, with most gains from underlying models.",
+          "url": "https://t.me/dlmehr/6046"
+        },
+        {
+          "title": "7 — Rohan Paul reports a DeepMind–Cambridge agent discovered Lean-verified rules for 11 previously unanalyzed Busy Beaver machines.",
+          "url": "https://t.me/dlmehr/6047"
+        },
+        {
+          "title": "8 — A post quotes Anthropic's deputy CIO warning security conditions will worsen and urging boards to fund basic defenses.",
+          "url": "https://t.me/dlmehr/6048"
+        },
+        {
+          "title": "9 — Andrew Curran reports a Quest Diagnostics hack exposed patient data, with an investigation ongoing.",
+          "url": "https://t.me/dlmehr/6049"
+        },
+        {
+          "title": "10 — AtomsNotBits reports Luckey and Lamm launched Warhound with $200M for genetically enhanced defense and emergency-response dogs.",
+          "url": "https://t.me/dlmehr/6050"
+        },
+        {
+          "title": "11 — Rohan Paul reports DeepMind's simulated model auctions achieved 99.2% of the best possible value across prompts.",
+          "url": "https://t.me/dlmehr/6051"
+        },
+        {
+          "title": "12 — TechCrunch reports MIT's 13 AI agents invented games on a virtual island and later generally outperformed unpracticed agents.",
+          "url": "https://t.me/dlmehr/6052"
+        },
+        {
+          "title": "13 — Weil says Warp will build U.S. robotic labs to generate AI training data and support drug developers, not develop drugs itself.",
+          "url": "https://t.me/dlmehr/6053"
+        },
+        {
+          "title": "14 — Citing WSJ, Rohan Paul reports Barclays plans about 5,000 job cuts this year, citing AI efficiency gains.",
+          "url": "https://t.me/dlmehr/6054"
+        },
+        {
+          "title": "15 — A researcher argues automated model training makes original ideas, rather than repeating established recipes, more valuable.",
+          "url": "https://t.me/dlmehr/6055"
+        },
+        {
+          "title": "16 — The channel claims discoveries of security vulnerabilities have been growing exponentially in recent years.",
+          "url": "https://t.me/dlmehr/6056"
+        },
+        {
+          "title": "17 — Mark Gadala reports Oracle issued emergency Java and GraalVM patches for a 9.1-rated, remotely exploitable JSSE flaw.",
+          "url": "https://t.me/dlmehr/6057"
+        },
+        {
+          "title": "18 — The channel urges unique strong passwords, two-factor authentication, and LLM-assisted security checks for software products.",
+          "url": "https://t.me/dlmehr/6058"
+        },
+        {
+          "title": "19 — A post quotes Sam Altman warning AI can uncover hardware-level bugs beyond normal threat models, outpacing patching.",
+          "url": "https://t.me/dlmehr/6059"
+        },
+        {
+          "title": "20 — Jason Clinton urges security leaders to seek board support for basic defenses as he expects conditions to worsen.",
+          "url": "https://t.me/dlmehr/6060"
+        },
+        {
+          "title": "21 — Matt Shumer warns of widespread AI-agent cyberattacks and introduces a guide to protecting individuals and families.",
+          "url": "https://t.me/dlmehr/6061"
+        },
+        {
+          "title": "22 — IntCyberDigest reports Amazon detected a PHP2Shell exploit attempt four days before disclosure, while the flaws were embargoed.",
+          "url": "https://t.me/dlmehr/6062"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimmonismus/status/2113141875368468508?s=46",
+          "url": "https://t.me/dlmehr/6041"
+        }
+      ]
+    },
     {
       "id": 6040,
       "date": "2026-10-22T04:09:28+00:00",
