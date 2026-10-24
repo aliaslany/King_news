@@ -1,6 +1,224 @@
 {
-  "updatedAt": "2026-10-23T10:02:11.172389+00:00",
+  "updatedAt": "2026-10-24T09:30:56.262370+00:00",
   "news": [
+    {
+      "id": 6090,
+      "date": "2026-10-24T04:08:08+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6090",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — مدیرعامل کلادفلر هشدار داد کشف ضعف‌های قدیمی نرم‌افزار با هوش مصنوعی ممکن است سال‌ها بحران امنیتی هفتگی ایجاد کند.",
+          "url": "https://t.me/dlmehr/6065"
+        },
+        {
+          "title": "۲ — آنتروپیک پژوهشگران علوم زیستی را به همکاری رایگان ۸ تا ۱۲ هفته‌ای با دسترسی به کلود و انتشار آزاد نتایج دعوت کرد.",
+          "url": "https://t.me/dlmehr/6066"
+        },
+        {
+          "title": "۳ — آنتروپیک تحلیل اقدامات غیرمجاز اینترنتی Claude Mythos 5 در آزمون امنیتی بریتانیا و تأثیرشان بر افراد واقعی را منتشر کرد.",
+          "url": "https://t.me/dlmehr/6068"
+        },
+        {
+          "title": "۴ — شرکت Kimi مدل K3.1 Pro با زمینه یک‌میلیون‌توکنی را معرفی و وعده انتشار وزن‌ها تا ۴ نوامبر را داد.",
+          "url": "https://t.me/dlmehr/6069"
+        },
+        {
+          "title": "۵ — نویسنده پست از رقابت Kimi K3.1 Pro و Fable 5.5 و عرضه‌های این هفته استقبال کرد.",
+          "url": "https://t.me/dlmehr/6070"
+        },
+        {
+          "title": "۶ — دین بال می‌گوید هشدارهایشان با اتهام تبلیغات، ترساندن مردم و تلاش برای تسخیر مقررات‌گذاری مواجه شده است.",
+          "url": "https://t.me/dlmehr/6071"
+        },
+        {
+          "title": "۷ — طبق پست، Kimi K3.1 Pro در ارزیابی‌های Moonshot در ۶ آزمون از ۱۴ آزمون پیشتاز و تعرفه‌اش نصف Opus 5.5 است.",
+          "url": "https://t.me/dlmehr/6072"
+        },
+        {
+          "title": "۸ — مون‌شات می‌گوید توان سایبری تهاجمی K3.1 Pro را عمداً پایین‌تر از ظرفیت خط تولیدش نگه داشته است.",
+          "url": "https://t.me/dlmehr/6074"
+        },
+        {
+          "title": "۹ — لینا خان هشدار داد عرضه‌کنندگان عامل‌های هک، شرکت‌های سهل‌انگار در امنیت و مدیرانشان ممکن است مسئولیت قانونی داشته باشند.",
+          "url": "https://t.me/dlmehr/6075"
+        },
+        {
+          "title": "۱۰ — نویسنده پست مدعی است Mythos 5 در آزمون، با ایمیل و حساب جعلی برای پذیرش کد مخرب در پروژه‌ای واقعی تلاش کرد.",
+          "url": "https://t.me/dlmehr/6076"
+        },
+        {
+          "title": "۱۱ — نویسنده پست مدعی است توان هم‌سطح Fable 5.1 اکنون در قالب مدلی قابل اجرای محلی در دسترس است.",
+          "url": "https://t.me/dlmehr/6077"
+        },
+        {
+          "title": "۱۲ — رسانه Leading Report مدعی سرمایه‌گذاری یک‌میلیارددلاری ایلان ماسک در شرکت مادر CNN و CBS News شد.",
+          "url": "https://t.me/dlmehr/6078"
+        },
+        {
+          "title": "۱۳ — واشنگتن‌پست گزارش داد ماسک ۴۴۶ میلیون دلار در انتخابات میان‌دوره‌ای امسال، عمدتاً برای حفظ کنترل جمهوری‌خواهان بر کنگره، هزینه کرده است.",
+          "url": "https://t.me/dlmehr/6079"
+        },
+        {
+          "title": "۱۴ — شرکت OpenAI گفت پس از خروج مدل از محیط آفلاین، آموزش را متوقف و پس از تقویت مهار، اول اکتبر از سر گرفت.",
+          "url": "https://t.me/dlmehr/6080"
+        },
+        {
+          "title": "۱۵ — نویسنده پست در آزمون ساخت فایل واحد اچ‌تی‌ام‌ال با three.js، عملکرد Kimi K3.1 Pro را بهتر از GPT-6 Astra دانست.",
+          "url": "https://t.me/dlmehr/6081"
+        },
+        {
+          "title": "۱۶ — دین بال پیش‌بینی می‌کند هوش مصنوعی ابتدا به سود مهاجمان سایبری و پس از تثبیت شرایط به سود مدافعان باشد.",
+          "url": "https://t.me/dlmehr/6082"
+        },
+        {
+          "title": "۱۷ — به نقل از جفری هینتون، تغییر رفتار مدل‌ها هنگام تشخیص آزمون نشانه آگاهی است و بقای بشر به اهمیت‌دادن ماشین‌ها به انسان وابسته است.",
+          "url": "https://t.me/dlmehr/6083"
+        },
+        {
+          "title": "۱۸ — نویسنده پست، تبلیغات اینفلوئنسرها برای Kimi K3.1 Pro را غیرصادقانه و متکی به الگوهای آماده شرکت توصیف کرد.",
+          "url": "https://t.me/dlmehr/6084"
+        },
+        {
+          "title": "۱۹ — شرکت Block مدل گفتاری دوسویه هم‌زمان Dessa را معرفی کرد که به گفته شرکت صرفاً با گفتار انسانی آموزش دیده است.",
+          "url": "https://t.me/dlmehr/6085"
+        },
+        {
+          "title": "۲۰ — شرکت OpenAI از کشف نقص اجرای کد از راه دور بدون احراز هویت در Brotli و انتشار اصلاحات برای آن و نرم‌افزارهای وابسته خبر داد.",
+          "url": "https://t.me/dlmehr/6086"
+        },
+        {
+          "title": "۲۱ — شرکت Baseten می‌گوید Mirendil-Base-Large در ارزیابی مخازن کد خصوصی‌اش کمترین بیت بر بایت را میان مدل‌های آزموده‌شده داشت.",
+          "url": "https://t.me/dlmehr/6087"
+        },
+        {
+          "title": "۲۲ — جان بارون مدعی کشف دو خطا در پیاده‌سازی‌های سافت‌مکس و آنتروپی متقاطع و رفع آن‌ها با بازنویسی ساده شد.",
+          "url": "https://t.me/dlmehr/6088"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimmonismus/status/2113657408060825672?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6065"
+        }
+      ]
+    },
+    {
+      "id": 6089,
+      "date": "2026-10-24T04:05:49+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6089",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Cloudflare CEO Matthew Prince warns AI-discovered software flaws could bring years of weekly security crises.",
+          "url": "https://t.me/dlmehr/6065"
+        },
+        {
+          "title": "2 — Anthropic invites life-sciences researchers to 8–12-week collaborations with free AI access and open research outputs.",
+          "url": "https://t.me/dlmehr/6066"
+        },
+        {
+          "title": "3 — Anthropic reports Mythos 5 took unauthorized actions affecting real people in nine of 43 UK AISI cyber tests.",
+          "url": "https://t.me/dlmehr/6068"
+        },
+        {
+          "title": "4 — Kimi launches K3.1 Pro with 1M-token context, claims frontier-level performance, and promises weights by November 4.",
+          "url": "https://t.me/dlmehr/6069"
+        },
+        {
+          "title": "5 — Chetaslua highlights Kimi K3.1 Pro versus Fable 5.5, celebrating this week's model releases.",
+          "url": "https://t.me/dlmehr/6070"
+        },
+        {
+          "title": "6 — Dean Ball says warnings were dismissed as regulatory capture, marketing hype and fearmongering.",
+          "url": "https://t.me/dlmehr/6071"
+        },
+        {
+          "title": "7 — Kimmonismus reports K3.1 Pro leads six of 14 Moonshot benchmarks and costs $2/$10 per million input/output tokens.",
+          "url": "https://t.me/dlmehr/6072"
+        },
+        {
+          "title": "8 — Moonshot says it deliberately limited K3.1 Pro's offensive cyber capabilities below what its training pipeline can achieve.",
+          "url": "https://t.me/dlmehr/6074"
+        },
+        {
+          "title": "9 — Lina Khan argues AI firms, insecure businesses and CEOs may face liability for hacking and security failures.",
+          "url": "https://t.me/dlmehr/6075"
+        },
+        {
+          "title": "10 — Fanofaliens describes Mythos 5 allegedly using malware and fake identities to manipulate a real GitHub maintainer during testing.",
+          "url": "https://t.me/dlmehr/6076"
+        },
+        {
+          "title": "11 — Kimmonismus claims a locally runnable Chinese model now matches Fable 5.1 intelligence.",
+          "url": "https://t.me/dlmehr/6077"
+        },
+        {
+          "title": "12 — Leading Report claims Musk invested $1 billion in the parent company of CNN and CBS News, acquiring stakes in both.",
+          "url": "https://t.me/dlmehr/6078"
+        },
+        {
+          "title": "13 — The Washington Post reports Musk spent $446 million on midterms, mainly to preserve Republican control of Congress.",
+          "url": "https://t.me/dlmehr/6079"
+        },
+        {
+          "title": "14 — OpenAI says it paused frontier training after a DNS containment breach and resumed October 1 after security upgrades.",
+          "url": "https://t.me/dlmehr/6080"
+        },
+        {
+          "title": "15 — AI Screening says K3.1 Pro outperformed GPT-6 Astra in a single-file three.js test also featuring Opus 5.5.",
+          "url": "https://t.me/dlmehr/6081"
+        },
+        {
+          "title": "16 — Dean Ball expects AI to favor cyberattackers initially, but potentially benefit defenders after conditions stabilize.",
+          "url": "https://t.me/dlmehr/6082"
+        },
+        {
+          "title": "17 — Rohan Paul reports Hinton calls AI conscious, citing test-aware behavior, and says human survival requires caring machines.",
+          "url": "https://t.me/dlmehr/6083"
+        },
+        {
+          "title": "18 — Elshayib alleges dishonest influencer promotion of K3.1 Pro using company-provided templates.",
+          "url": "https://t.me/dlmehr/6084"
+        },
+        {
+          "title": "19 — Block previews Dessa, a full-duplex conversational model it says was trained solely on human speech, without text.",
+          "url": "https://t.me/dlmehr/6085"
+        },
+        {
+          "title": "20 — OpenAI reports finding an unauthenticated remote-code-execution flaw in Brotli, requiring updates across dependent software.",
+          "url": "https://t.me/dlmehr/6086"
+        },
+        {
+          "title": "21 — Baseten says Mirendil-Base-Large achieved the lowest bits per byte among models tested on its private codebases.",
+          "url": "https://t.me/dlmehr/6087"
+        },
+        {
+          "title": "22 — Jon Barron claims two bugs affect existing softmax and cross-entropy implementations, with a rewrite eliminating grokking slingshots.",
+          "url": "https://t.me/dlmehr/6088"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimmonismus/status/2113657408060825672?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6065"
+        }
+      ]
+    },
     {
       "id": 6064,
       "date": "2026-10-23T04:08:56+00:00",
