@@ -1,6 +1,145 @@
 {
-  "updatedAt": "2026-10-24T09:30:56.262370+00:00",
+  "updatedAt": "2026-10-25T09:47:32.400479+00:00",
   "news": [
+    {
+      "id": 6103,
+      "date": "2026-10-25T04:08:20+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6103",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — گوگل می‌گوید مدل Gemini 4 Argon به کشف مثال‌های نقض در فیزیک پلاسما، طراحی پنج آنزیم تأییدشده در آزمایشگاه، شناسایی بازآرایی کروموزومیِ تشخیص‌داده‌نشده و بهینه‌سازی محاسبات کوانتومی کمک کرده است.",
+          "url": "https://t.me/dlmehr/6091"
+        },
+        {
+          "title": "۲ — پژوهشگران در مقالهٔ «درس تلخ به رباتیک می‌رسد» گزارش دادند امتیاز مدل‌های زبانی در یک بنچ‌مارک رباتیک بین ژوئیه و اکتبر ۲۰۲۶ هر ۵۳٫۹ روز دو برابر شده، سرعت ۴٫۴ برابر افزایش یافته و هزینه به حدود یک‌ششم رسیده است.",
+          "url": "https://t.me/dlmehr/6092"
+        },
+        {
+          "title": "۳ — اسوات داموداران، استاد دانشگاه نیویورک، هشدار می‌دهد تحقق بازار ۱۰ تا ۱۵ تریلیون‌دلاری هوش مصنوعی به جایگزینی نیروی انسانی وابسته است و می‌تواند بیکاری گسترده و بحران درآمد و معنای زندگی ایجاد کند.",
+          "url": "https://t.me/dlmehr/6093"
+        },
+        {
+          "title": "۴ — رابرت بای با اشاره به بازخورد کاربران، جزئیاتی از ساخت تجربهٔ جدید Claude برای iPhone Duo را مطرح کرد که برای چندوظیفگی، استفاده از Claude Code و خلق محتوا طراحی شده است.",
+          "url": "https://t.me/dlmehr/6094"
+        },
+        {
+          "title": "۵ — گروه Primitive Research اعلام کرد با بررسی داده‌های نوری بیش از ۱۹ میلیون ستاره در مأموریت TESS، تعداد ۴۹ نامزد سیارهٔ فراخورشیدی یافته که هنوز نیازمند پیگیری‌اند و فعلاً فقط یکی را برای ارزیابی رسمی ارسال کرده است.",
+          "url": "https://t.me/dlmehr/6095"
+        },
+        {
+          "title": "۶ — سازندگان Dessa آن را مدلی گفتاربه‌گفتار با قابلیت صحبت‌کردن و شنیدن هم‌زمان معرفی کردند که کاملاً با گفتار آموزش دیده و روی پردازنده‌های گرافیکی مصرفی اجرا می‌شود.",
+          "url": "https://t.me/dlmehr/6097"
+        },
+        {
+          "title": "۷ — نویسندهٔ پست مدعی شد مدل Kimi K3.1 Pro از Moonshot در نخستین حضور خود در بنچ‌مارک Benchmaxxing به رتبهٔ اول رسیده و از MiniMax پیش افتاده است.",
+          "url": "https://t.me/dlmehr/6098"
+        },
+        {
+          "title": "۸ — کانال از راه‌اندازی وب‌سایت «فیوچر فوکوس» برای گردآوری اخبار با ترجمهٔ فارسی، جست‌وجو و ذخیرهٔ خبر، نظر و گفت‌وگوی زنده خبر داد که طبق اعلام آن هر ۱۵ دقیقه به‌روز می‌شود.",
+          "url": "https://t.me/dlmehr/6100"
+        },
+        {
+          "title": "۹ — به‌گزارش The Information به نقل از یک منبع، شرکت Replit پس از قطع تخفیف Anthropic، عمدهٔ هزینه‌های هوش مصنوعی خود را در قراردادی سالانه بیش از ۱۰۰ میلیون دلار با تخفیف بیش از ۳۰ درصد به OpenAI منتقل کرده است.",
+          "url": "https://t.me/dlmehr/6101"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/newsfromgoogle/status/2113746146690777548?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6091"
+        }
+      ]
+    },
+    {
+      "id": 6102,
+      "date": "2026-10-25T04:06:09+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6102",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Google says Gemini 4 Argon helped find plasma-physics counterexamples, design five lab-verified enzymes, identify a missed genomic rearrangement and improve quantum-computing efficiency.",
+          "url": "https://t.me/dlmehr/6091"
+        },
+        {
+          "title": "2 — Robocurve reports that LLM scores on a robotics benchmark doubled every 53.9 days from July to October 2026, while speed rose 4.4-fold and costs fell 6.2-fold.",
+          "url": "https://t.me/dlmehr/6092"
+        },
+        {
+          "title": "3 — NYU professor Aswath Damodaran warns that a $10–15 trillion AI market would depend on replacing workers rather than merely assisting them, threatening jobs, incomes and consumer demand.",
+          "url": "https://t.me/dlmehr/6093"
+        },
+        {
+          "title": "4 — Robert Bye highlights the new Claude experience for iPhone Duo, promoting multitasking and Claude Code while offering details on its design following user feedback.",
+          "url": "https://t.me/dlmehr/6094"
+        },
+        {
+          "title": "5 — Primitive Research says its automated search of TESS data from over 19 million stars identified 49 exoplanet candidates, with one submitted for vetting and the rest held at the vetting team's request.",
+          "url": "https://t.me/dlmehr/6095"
+        },
+        {
+          "title": "6 — Ragavan Thurair introduces Dessa, described as a full-duplex speech-to-speech model trained entirely on speech that supports realistic conversations and runs on consumer GPUs.",
+          "url": "https://t.me/dlmehr/6097"
+        },
+        {
+          "title": "7 — A post by @dummerspast39 claims Moonshot's Kimi K3.1 Pro entered the “Benchmaxxing Benchmark” at number one, ahead of MiniMax.",
+          "url": "https://t.me/dlmehr/6098"
+        },
+        {
+          "title": "8 — Future Focus announces a website for its channel posts, offering Persian translations, media and source links, registration-free comments, live chat, search, bookmarks and automatic updates every 15 minutes.",
+          "url": "https://t.me/dlmehr/6100"
+        },
+        {
+          "title": "9 — Techmeme, citing The Information, reports that Replit shifted most AI spending from Anthropic to OpenAI after Anthropic ended its discount, securing over 30% off in a deal worth over $100 million annually.",
+          "url": "https://t.me/dlmehr/6101"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/newsfromgoogle/status/2113746146690777548?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6091"
+        }
+      ]
+    },
+    {
+      "id": 6100,
+      "date": "2026-10-24T19:11:37+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6100",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "https://khabar-ai.vercel.app",
+          "url": "https://khabar-ai.vercel.app/"
+        },
+        {
+          "title": "فیوچر فوکوس تازه‌ترین اخبار هوش مصنوعی، فناوری و آینده از کانال «Future Focus with Mehrzad» — با ترجمه‌ی فارسی و خودمونی داش غلام، تصویر و ویدیو، و پیوند به منبع اصلی.",
+          "url": "https://khabar-ai.vercel.app/"
+        }
+      ]
+    },
     {
       "id": 6090,
       "date": "2026-10-24T04:08:08+00:00",
