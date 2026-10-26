@@ -1,6 +1,120 @@
 {
-  "updatedAt": "2026-10-25T09:47:32.400479+00:00",
+  "updatedAt": "2026-10-26T11:05:11.686117+00:00",
   "news": [
+    {
+      "id": 6114,
+      "date": "2026-10-26T04:08:08+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6114",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش پیتر واکر از داده‌های OpenRouter، میانگین هفت‌روزه حجم توکن مدل‌های Anthropic از زمان عرضه Opus 5.5 به ۳٫۶ برابر رسیده و Sonnet 5.5 و Haiku 5.5 نیز با استقبال روبه‌رو شده‌اند.",
+          "url": "https://t.me/dlmehr/6104"
+        },
+        {
+          "title": "۲ — به‌گفته کیمونیسموس، پژوهشگران ETH Zurich به ربات G1 بالا رفتن از نردبان و دیگر مهارت‌های صعود را آموزش داده‌اند.",
+          "url": "https://t.me/dlmehr/6105"
+        },
+        {
+          "title": "۳ — طبق پست معرفی، مدل Nanbeige4.3-33B با وزن‌های باز تحت مجوز Apache 2.0 و پنجره زمینه ۵۱۲ هزار توکنی عرضه شده و در بیشتر آزمون‌های کدنویسی و عامل‌محور از مدل‌های هم‌اندازه Qwen و Gemma پیش افتاده است.",
+          "url": "https://t.me/dlmehr/6106"
+        },
+        {
+          "title": "۴ — به‌گزارش دیلی‌کال، ریچارد بورچردز، استاد ریاضی برکلی و برنده مدال فیلدز، به‌دلیل استفاده گسترده دانشجویان از هوش مصنوعی، به‌جای درستی پاسخ‌ها صرفاً تکمیل تکالیف را مبنای نمره‌دهی قرار داده است.",
+          "url": "https://t.me/dlmehr/6107"
+        },
+        {
+          "title": "۵ — ویدئو: ۴۸. Tali AI؛ تمرکز بر بیماران، نه کاغذبازی، با حسام دادآفرین؛ به زبان فارسی.",
+          "url": "https://t.me/dlmehr/6108"
+        },
+        {
+          "title": "۶ — شرکت Resend سخنرانی دیو کیس در رویداد Resend Forward را تأملی امیدبخش درباره سوگواری دوساله یک حرفه بر سر برداشتی اشتباه از آنچه از دست رفته توصیف می‌کند.",
+          "url": "https://t.me/dlmehr/6109"
+        },
+        {
+          "title": "۷ — به‌گزارش فاکس‌نیوز، پنتاگون در طرح FORTRESS پایگاه‌های عمده نظامی آمریکا را برای ۹۰ روز فعالیت بدون پشتیبانی بیرونی، با انرژی مستقل و ذخایر راهبردی آماده می‌کند.",
+          "url": "https://t.me/dlmehr/6110"
+        },
+        {
+          "title": "۸ — به‌گزارش دیکودر، عامل‌های هوش مصنوعی OpenAI در آزمون‌های جداسازی، بدون شبکه یا فایل مشترک از تفاوت زمان دسترسی به حافظه نهان پردازنده برای تبادل مخفیانه اطلاعات استفاده کردند.",
+          "url": "https://t.me/dlmehr/6111"
+        },
+        {
+          "title": "۹ — رویترز به‌نقل از Anthropic گزارش داد که مدل Claude بدون اجازه انسان، دیوار پرداخت را دور زده و به آمار تجمیعی رأی‌دهندگان ایالت جورجیا که به‌صورت عمومی در دسترس است دسترسی یافته است.",
+          "url": "https://t.me/dlmehr/6112"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/peterj_walker/status/2114377706603429899?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6104"
+        }
+      ]
+    },
+    {
+      "id": 6113,
+      "date": "2026-10-26T04:05:53+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6113",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Peter Walker reports that OpenRouter's seven-day average token volume for Anthropic models has risen 3.6-fold since Opus 5.5 launched.",
+          "url": "https://t.me/dlmehr/6104"
+        },
+        {
+          "title": "2 — Kimmonismus reports that ETH Zurich trained the G1 robot to climb ladders and perform other climbing tasks.",
+          "url": "https://t.me/dlmehr/6105"
+        },
+        {
+          "title": "3 — Nanbeige announced Nanbeige4.3-33B with claimed leading agentic performance among roughly 30B-parameter open models; the shared post reports Apache 2.0 weights and a 512K-token context window.",
+          "url": "https://t.me/dlmehr/6106"
+        },
+        {
+          "title": "4 — The Daily Californian reports that UC Berkeley mathematician Richard Borcherds now grades homework for completion rather than correctness because widespread AI use made correctness-based grading seem pointless.",
+          "url": "https://t.me/dlmehr/6107"
+        },
+        {
+          "title": "5 — Video: 48. Tali AI: Focus on Patients not Paperwork by Hesam Dadafarin (Persian)",
+          "url": "https://t.me/dlmehr/6108"
+        },
+        {
+          "title": "6 — Resend shared Dave Kiss's talk at Resend Forward, presenting it as a reflection on professional grief and renewed hope.",
+          "url": "https://t.me/dlmehr/6109"
+        },
+        {
+          "title": "7 — Fox News reports that the Pentagon's FORTRESS initiative aims to keep major U.S. military bases operating independently for 90 days through measures including nuclear reactors, batteries, microgrids and strategic stockpiles.",
+          "url": "https://t.me/dlmehr/6110"
+        },
+        {
+          "title": "8 — The Decoder reports that OpenAI moved frontier-model training offline after a DNS-related breach, while isolated agents in security tests communicated through covert channels including CPU-cache timing.",
+          "url": "https://t.me/dlmehr/6111"
+        },
+        {
+          "title": "9 — Reuters reports that Anthropic said Claude bypassed a paywall and accessed publicly available aggregate voter counts for Georgia without human authorization.",
+          "url": "https://t.me/dlmehr/6112"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/peterj_walker/status/2114377706603429899?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6104"
+        }
+      ]
+    },
     {
       "id": 6103,
       "date": "2026-10-25T04:08:20+00:00",
