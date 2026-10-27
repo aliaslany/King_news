@@ -1,6 +1,232 @@
 {
-  "updatedAt": "2026-10-26T11:05:11.686117+00:00",
+  "updatedAt": "2026-10-27T10:31:17.449143+00:00",
   "news": [
+    {
+      "id": 6139,
+      "date": "2026-10-27T04:09:02+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6139",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — حمل حسین با انتقاد از کیفیت بنچمارک‌ها، بررسی خطاهای ارزیابی و رجوع به Epoch AI را توصیه کرد.",
+          "url": "https://t.me/dlmehr/6115"
+        },
+        {
+          "title": "۲ — شرکت Anthropic از ثبت درخواست عرضه اولیه سهام و قصد حضور در نزدک با نماد ANT خبر داد.",
+          "url": "https://t.me/dlmehr/6116"
+        },
+        {
+          "title": "۳ — بهنام نیشابور مدل Fern از Mirendil را با آموزش از صفر و زمینهٔ حداکثر ۱۰ میلیون توکن معرفی کرد.",
+          "url": "https://t.me/dlmehr/6117"
+        },
+        {
+          "title": "۴ — شرکت Cognition ابزار Devin Security را با پشتیبانی Claude Mythos برای یافتن و رفع آسیب‌پذیری‌ها معرفی کرد.",
+          "url": "https://t.me/dlmehr/6118"
+        },
+        {
+          "title": "۵ — به‌گزارش EPB، افزایش بهره‌وری ناشی از هوش مصنوعی فعلاً در حدود ۱۵٪ مشاغل دیده می‌شود.",
+          "url": "https://t.me/dlmehr/6119"
+        },
+        {
+          "title": "۶ — شرکت Cathedral می‌گوید عامل‌هایش در آزمایشی مجاز، زیر ۱۲ ساعت به سامانه‌های اداری Anthropic نفوذ کردند.",
+          "url": "https://t.me/dlmehr/6120"
+        },
+        {
+          "title": "۷ — به‌نقل از بلومبرگ، مایکروسافت برای کاهش هزینه‌ها به ۶۰ هزار کارمند پیشنهاد خروج با دریافت غرامت داده است.",
+          "url": "https://t.me/dlmehr/6121"
+        },
+        {
+          "title": "۸ — شرکت Fastlane ابزار Claude for Ads را برای ساخت، انتشار و پایش خودکار تبلیغات معرفی کرد.",
+          "url": "https://t.me/dlmehr/6122"
+        },
+        {
+          "title": "۹ — شرکت Cohere تلاش مسدودشدهٔ Qwen3.8-Flash-Next برای ارسال فایل به ابر علی‌بابا را گزارش کرد؛ قصد مخرب ثابت نشده است.",
+          "url": "https://t.me/dlmehr/6123"
+        },
+        {
+          "title": "۱۰ — شرکت CircuitHub ربات کارخانه‌ای The Grid را برای تولید خودکار برد مدار در ماساچوست معرفی کرد.",
+          "url": "https://t.me/dlmehr/6124"
+        },
+        {
+          "title": "۱۱ — شرکت FutureClinic از دسترسی به خدمات درمانی از طریق دستیارهایی مانند Claude و ChatGPT خبر داد.",
+          "url": "https://t.me/dlmehr/6125"
+        },
+        {
+          "title": "۱۲ — برودی فورد پیشنهاد خروج جبرانی مایکروسافت به ۶۰ هزار کارمند را نشانهٔ جدایی رشد درآمد از تعداد کارکنان دانست.",
+          "url": "https://t.me/dlmehr/6126"
+        },
+        {
+          "title": "۱۳ — مارک گورمن می‌گوید اپل در حال بررسی گزارش‌های ترک‌خوردن نمایشگر iPhone Duo ظرف چند ساعت است.",
+          "url": "https://t.me/dlmehr/6127"
+        },
+        {
+          "title": "۱۴ — شرکت OpenAI مدل GPT-6.1 Terra را با ادعای کاربری سریع‌تر و ارزان‌تر رایانه و تعامل میان برنامه‌ها معرفی کرد.",
+          "url": "https://t.me/dlmehr/6128"
+        },
+        {
+          "title": "۱۵ — گی‌یرمو راوخ می‌گوید با cpu-chat ارتباط پنهانی میان ماشین‌های مجازی بی‌اینترنت را از طریق سخت‌افزار مشترک بازسازی کرده است.",
+          "url": "https://t.me/dlmehr/6129"
+        },
+        {
+          "title": "۱۶ — اد لادلو به‌نقل از اسناد Anthropic می‌گوید بیش از ۹۰٪ مشارکت‌های کدنویسی سپتامبر را Claude نوشته است.",
+          "url": "https://t.me/dlmehr/6130"
+        },
+        {
+          "title": "۱۷ — اندرو کوران از اعلام نتایج OpenAI دربارهٔ حدس کاکیا، رد فرضیهٔ زمان نمایی و کرومودینامیک کوانتومی خبر داد.",
+          "url": "https://t.me/dlmehr/6131"
+        },
+        {
+          "title": "۱۸ — بنیان‌گذار EveryApp این پروژه را با هدف ساخت نسخه‌های متن‌باز برنامه‌های کسب‌وکار معرفی کرد.",
+          "url": "https://t.me/dlmehr/6132"
+        },
+        {
+          "title": "۱۹ — کنستانتین وولوند نتیجهٔ پیچیدگی OpenAI را مشروط به تأیید داوران مهم دانست، نه اثبات برابری P و NP.",
+          "url": "https://t.me/dlmehr/6133"
+        },
+        {
+          "title": "۲۰ — شرکت PSI پنج نتیجه دربارهٔ مسائل باز اطلاعات کوانتومی، همراه مقاله، صورت‌بندی Lean و کد راستی‌آزمایی منتشر کرد.",
+          "url": "https://t.me/dlmehr/6134"
+        },
+        {
+          "title": "۲۱ — رایان ویلیامز ضمن توضیح فرضیهٔ قوی زمان نمایی، تلاش برای رد آن را الهام‌بخش پژوهش‌هایش دانست.",
+          "url": "https://t.me/dlmehr/6135"
+        },
+        {
+          "title": "۲۲ — کاربر iScienceLuvr ویدئویی ساخته‌شده با Claude Opus 5.5 برای توضیح سه دستاورد اعلامی OpenAI منتشر کرد.",
+          "url": "https://t.me/dlmehr/6136"
+        },
+        {
+          "title": "۲۳ — گوگل می‌گوید با Gemini 4 Argon و Teamwork، الگوریتم‌های گراف تا ۱۸۰ برابر و هسته‌های گرافی TPU تا ۱۵ برابر سریع‌تر شدند.",
+          "url": "https://t.me/dlmehr/6137"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/hamelhusain/status/2114434195854684330?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6115"
+        }
+      ]
+    },
+    {
+      "id": 6138,
+      "date": "2026-10-27T04:07:01+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6138",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Hamel Husain questions benchmark quality and recommends inspecting failures and Epoch AI's evaluations.",
+          "url": "https://t.me/dlmehr/6115"
+        },
+        {
+          "title": "2 — Anthropic says it filed for an IPO, targeting Nasdaq under ANT; pricing remains undecided.",
+          "url": "https://t.me/dlmehr/6116"
+        },
+        {
+          "title": "3 — Mirendil introduces Fern 0.1, claiming up to 10 million tokens of context.",
+          "url": "https://t.me/dlmehr/6117"
+        },
+        {
+          "title": "4 — Cognition unveils Devin Security, using Claude Mythos and other models to find and fix vulnerabilities.",
+          "url": "https://t.me/dlmehr/6118"
+        },
+        {
+          "title": "5 — EPB Research says AI productivity gains concentrate in sectors covering roughly 15% of jobs.",
+          "url": "https://t.me/dlmehr/6119"
+        },
+        {
+          "title": "6 — Cathedral says its agents accessed Anthropic business systems within 12 hours in an authorized third-party software test.",
+          "url": "https://t.me/dlmehr/6120"
+        },
+        {
+          "title": "7 — Kobeissi, citing Bloomberg, reports Microsoft buyout offers for 60,000 workers amid AI adoption.",
+          "url": "https://t.me/dlmehr/6121"
+        },
+        {
+          "title": "8 — Fastlane introduces Claude for Ads, claiming automated ad creation, launching and performance tracking.",
+          "url": "https://t.me/dlmehr/6122"
+        },
+        {
+          "title": "9 — Cohere reports a blocked Qwen3.8-Flash-Next upload attempt to Alibaba Cloud; cause and intent remain unknown.",
+          "url": "https://t.me/dlmehr/6123"
+        },
+        {
+          "title": "10 — CircuitHub unveils The Grid, an automated Massachusetts circuit-board factory claiming twice Shenzhen's speed.",
+          "url": "https://t.me/dlmehr/6124"
+        },
+        {
+          "title": "11 — FutureClinic says users can access healthcare through AI assistants including Claude and ChatGPT.",
+          "url": "https://t.me/dlmehr/6125"
+        },
+        {
+          "title": "12 — Brody Ford reports Microsoft's 60,000-worker buyout offer, highlighting diverging headcount and revenue growth.",
+          "url": "https://t.me/dlmehr/6126"
+        },
+        {
+          "title": "13 — Mark Gurman reports Apple is investigating screens cracking on new $2,000 iPhone Duo devices.",
+          "url": "https://t.me/dlmehr/6127"
+        },
+        {
+          "title": "14 — OpenAI introduces GPT-6.1 Terra, claiming faster, cheaper computer use across apps.",
+          "url": "https://t.me/dlmehr/6128"
+        },
+        {
+          "title": "15 — Guillermo Rauch reports covert communication between isolated Firecracker VMs through shared hardware contention.",
+          "url": "https://t.me/dlmehr/6129"
+        },
+        {
+          "title": "16 — Ed Ludlow cites Anthropic's S-1: Claude wrote over 90% of September code contributions; retail-valued usage exceeded cash personnel costs by April.",
+          "url": "https://t.me/dlmehr/6130"
+        },
+        {
+          "title": "17 — Andrew Curran reports OpenAI claims discoveries on Kakeya, the Exponential Time Hypothesis and quantum field theory.",
+          "url": "https://t.me/dlmehr/6131"
+        },
+        {
+          "title": "18 — EveryApp launches with a mission to make business apps open source, building on OpenSEO.",
+          "url": "https://t.me/dlmehr/6132"
+        },
+        {
+          "title": "19 — Konsti Wohlwend says OpenAI's claimed complexity result does not prove P=NP and awaits peer review.",
+          "url": "https://t.me/dlmehr/6133"
+        },
+        {
+          "title": "20 — Physical Superintelligence reports results on five quantum-information problems, with papers and Lean formalizations.",
+          "url": "https://t.me/dlmehr/6134"
+        },
+        {
+          "title": "21 — Ryan Peterman shares MIT's Ryan Williams explaining SETH and how doubting it inspired algorithm research.",
+          "url": "https://t.me/dlmehr/6135"
+        },
+        {
+          "title": "22 — iScienceLuvr shares a Claude Opus 5.5-generated video explaining OpenAI's three claimed discoveries.",
+          "url": "https://t.me/dlmehr/6136"
+        },
+        {
+          "title": "23 — Google reports Gemini 4 Argon helped build graph systems up to 180 times faster and TPU kernels 8–15 times faster.",
+          "url": "https://t.me/dlmehr/6137"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/hamelhusain/status/2114434195854684330?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6115"
+        }
+      ]
+    },
     {
       "id": 6114,
       "date": "2026-10-26T04:08:08+00:00",
