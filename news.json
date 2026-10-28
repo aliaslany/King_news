@@ -1,6 +1,232 @@
 {
-  "updatedAt": "2026-10-27T10:31:17.449143+00:00",
+  "updatedAt": "2026-10-28T11:19:16.398678+00:00",
   "news": [
+    {
+      "id": 6164,
+      "date": "2026-10-28T04:08:59+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6164",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش پست، یاسمین رضوی تنها سرمایه‌گذار خطرپذیر نام‌برده در پرونده عرضه عمومی آنتروپیک است.",
+          "url": "https://t.me/dlmehr/6140"
+        },
+        {
+          "title": "۲ — تحلیل بازنشرشده، با فرض ارزش‌گذاری ۱٫۵ تریلیون‌دلاری آنتروپیک، بازده سرمایه‌گذاران را حدود ۶٫۵ برابر برآورد می‌کند.",
+          "url": "https://t.me/dlmehr/6141"
+        },
+        {
+          "title": "۳ — شرکت Machenta از جذب ۴۰ میلیون دلار و مدلی برای یادگیری ربات با یک نمایش، بدون آموزش مجدد، خبر داد.",
+          "url": "https://t.me/dlmehr/6142"
+        },
+        {
+          "title": "۴ — شرکت Axiom مدعی رسمی‌سازی کامل اثبات طبقه‌بندی گروه‌های ساده متناهی و تأیید آن با Lean شد.",
+          "url": "https://t.me/dlmehr/6143"
+        },
+        {
+          "title": "۵ — شرکت Nevis برای پلتفرم هوش مصنوعی مدیریت ثروت، جذب ۷۰ میلیون دلار سرمایه جدید را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6144"
+        },
+        {
+          "title": "۶ — گوگل دیپ‌مایند مدل جهان Genie 4 را برای تعامل بلادرنگ با محیط‌ها و شخصیت‌های سخنگو معرفی کرد.",
+          "url": "https://t.me/dlmehr/6145"
+        },
+        {
+          "title": "۷ — شرکت Liquid AI خانواده LFM3 را با مدل‌های متن، صدا، تصویر و تصمیم‌گیری برای اجرای روی دستگاه معرفی کرد.",
+          "url": "https://t.me/dlmehr/6146"
+        },
+        {
+          "title": "۸ — آزمایشگاه Giotto مدل Alto با میزبانی اروپایی و مدل Solo برای اجرا روی یک پردازنده گرافیکی را معرفی کرد.",
+          "url": "https://t.me/dlmehr/6147"
+        },
+        {
+          "title": "۹ — سازنده آزمایش مرورگری Qwen3.5-4B می‌گوید تغییر دو نورون می‌تواند خروجی مدل را تهدیدآمیز کند.",
+          "url": "https://t.me/dlmehr/6148"
+        },
+        {
+          "title": "۱۰ — شرکت Cognition معیار FrontierCode 2.0 را برای قضاوت مهندسی در مسائل مبهم معرفی کرد؛ بهترین امتیاز ۴۵٪ است.",
+          "url": "https://t.me/dlmehr/6149"
+        },
+        {
+          "title": "۱۱ — انویدیا راهنمای تنظیم Nemotron با داده مصنوعی و LoRA برای انطباق با مقررات و زبان محلی منتشر کرد.",
+          "url": "https://t.me/dlmehr/6150"
+        },
+        {
+          "title": "۱۲ — شتاب‌دهنده Y Combinator خواستار استارتاپ‌هایی در سخت‌افزار، زیرساخت و نرم‌افزار کاربردی هوش مصنوعی شد.",
+          "url": "https://t.me/dlmehr/6151"
+        },
+        {
+          "title": "۱۳ — تیم Gemma مدلی مبتنی بر EmbeddingGemma 2 معرفی کرد که بدون تولید متن، پاسخ‌های تصمیم‌گیری ساخت‌یافته می‌دهد.",
+          "url": "https://t.me/dlmehr/6152"
+        },
+        {
+          "title": "۱۴ — سازنده Concurrence از ساخت سامانه‌ای برای پیش‌بینی آینده سلامت بیماران با هدف مداخله زودهنگام خبر داد.",
+          "url": "https://t.me/dlmehr/6153"
+        },
+        {
+          "title": "۱۵ — شرکت Judgment دسترسی عمومی به ابزار پایش و بهبود عامل‌های دارای وظایف طولانی‌مدت را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6154"
+        },
+        {
+          "title": "۱۶ — مجموعه XploreAI معیار RWE-Bench را برای ارزیابی هوش مصنوعی در مهندسی دنیای واقعی معرفی کرد.",
+          "url": "https://t.me/dlmehr/6155"
+        },
+        {
+          "title": "۱۷ — شرکت SpAItial می‌گوید Echo-3 تصاویر گوشی را به جهان‌های سه‌بعدی واقع‌گرایانه با مقیاس متریک تبدیل می‌کند.",
+          "url": "https://t.me/dlmehr/6156"
+        },
+        {
+          "title": "۱۸ — شرکت Parallel رابط تصمیم‌گیری مبتنی بر اطلاعات وب را با هزینه ۰٫۰۰۱ دلار برای هر درخواست عرضه کرد.",
+          "url": "https://t.me/dlmehr/6157"
+        },
+        {
+          "title": "۱۹ — رویترز از تعطیلی موقت خدمات اینترنتی کمیسیون انتخابات فدرال آمریکا در پی تلاش هکری برای نفوذ خبر داد.",
+          "url": "https://t.me/dlmehr/6158"
+        },
+        {
+          "title": "۲۰ — نویسنده پست نمونه‌ای از گفت‌وگو با نسخه جوان‌تر خودش با استفاده از Genie 4 به اشتراک گذاشت.",
+          "url": "https://t.me/dlmehr/6159"
+        },
+        {
+          "title": "۲۱ — آنتروپیک از همکاری دارویی با شش سازمان و آغاز پژوهش مستقل کشف دارو با Claude، عمدتاً در مرحله پیش‌بالینی، خبر داد.",
+          "url": "https://t.me/dlmehr/6160"
+        },
+        {
+          "title": "۲۲ — آنتروپیک خرید Mithril Medicine را اعلام کرد؛ این شرکت با کمک Claude در کمتر از ۱۸ ماه به نتایج امیدوارکننده در موش رسید.",
+          "url": "https://t.me/dlmehr/6161"
+        },
+        {
+          "title": "۲۳ — طبق اعلام Artificial Analysis، سهم آزمون‌های خصوصی در شاخص جدید به ۶۰٪ رسیده و Claude Opus 5.5 پیشتاز است.",
+          "url": "https://t.me/dlmehr/6162"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/nmasc_/status/2114718007964676512?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6140"
+        }
+      ]
+    },
+    {
+      "id": 6163,
+      "date": "2026-10-28T04:06:32+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6163",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — A report names Spark's Yasmin Razavi as Anthropic's only VC board director and sole VC disclosed in its S-1.",
+          "url": "https://t.me/dlmehr/6140"
+        },
+        {
+          "title": "2 — A shared analysis projects huge Anthropic investor gains, assuming a $1.5T IPO valuation.",
+          "url": "https://t.me/dlmehr/6141"
+        },
+        {
+          "title": "3 — Machenta announces $40M seed funding and says its simulation-trained robots learn from one demonstration.",
+          "url": "https://t.me/dlmehr/6142"
+        },
+        {
+          "title": "4 — Axiom claims complete Lean verification of the Classification of Finite Simple Groups.",
+          "url": "https://t.me/dlmehr/6143"
+        },
+        {
+          "title": "5 — Nevis announces a $70M Series B led by EQT Ventures for its wealth-management AI platform.",
+          "url": "https://t.me/dlmehr/6144"
+        },
+        {
+          "title": "6 — DeepMind introduces Genie 4, describing real-time interactive worlds with responsive people and sound.",
+          "url": "https://t.me/dlmehr/6145"
+        },
+        {
+          "title": "7 — Liquid AI introduces six LFM3 models spanning text, vision, audio and decision-making for on-device use.",
+          "url": "https://t.me/dlmehr/6146"
+        },
+        {
+          "title": "8 — Giotto launches Europe-hosted Alto and single-GPU Solo for organizations running AI locally.",
+          "url": "https://t.me/dlmehr/6147"
+        },
+        {
+          "title": "9 — Xenova shares a browser playground, saying steering two Qwen3.5-4B neurons can induce threatening speech.",
+          "url": "https://t.me/dlmehr/6148"
+        },
+        {
+          "title": "10 — Cognition launches FrontierCode 2.0 to test engineering judgment, reporting a top score of 45%.",
+          "url": "https://t.me/dlmehr/6149"
+        },
+        {
+          "title": "11 — NVIDIA outlines adapting Nemotron to local rules and language using synthetic personas and LoRA.",
+          "url": "https://t.me/dlmehr/6150"
+        },
+        {
+          "title": "12 — Y Combinator seeks startups tackling AI bottlenecks in hardware, infrastructure, finance and specialized software.",
+          "url": "https://t.me/dlmehr/6151"
+        },
+        {
+          "title": "13 — Google highlights an EmbeddingGemma 2 fine-tune that returns typed workflow decisions in one forward pass.",
+          "url": "https://t.me/dlmehr/6152"
+        },
+        {
+          "title": "14 — Concurrence announces work on a system intended to anticipate patient outcomes and enable earlier intervention.",
+          "url": "https://t.me/dlmehr/6153"
+        },
+        {
+          "title": "15 — Judgment Labs announces general access to its monitoring and improvement platform for long-running agents.",
+          "url": "https://t.me/dlmehr/6154"
+        },
+        {
+          "title": "16 — XploreAI introduces RWE-Bench to evaluate AI engineering of physical systems such as rockets, engines and chips.",
+          "url": "https://t.me/dlmehr/6155"
+        },
+        {
+          "title": "17 — SpAItial says its available Echo-3 model converts phone captures into photorealistic, metric-scale 3D worlds.",
+          "url": "https://t.me/dlmehr/6156"
+        },
+        {
+          "title": "18 — Parallel launches a web-grounded Decisions API at $0.001 per request, with 5,000 free requests.",
+          "url": "https://t.me/dlmehr/6157"
+        },
+        {
+          "title": "19 — Reuters reports an attempted hack forced the US Federal Election Commission to suspend web-facing services.",
+          "url": "https://t.me/dlmehr/6158"
+        },
+        {
+          "title": "20 — Holynski shares using Genie 4 to simulate conversations with a younger version of himself.",
+          "url": "https://t.me/dlmehr/6159"
+        },
+        {
+          "title": "21 — Anthropic reports six drug-development partnerships and internal discovery efforts, mostly still preclinical.",
+          "url": "https://t.me/dlmehr/6160"
+        },
+        {
+          "title": "22 — Anthropic says acquired startup Mithril used Claude to reach promising muscular-dystrophy results in mice within 18 months.",
+          "url": "https://t.me/dlmehr/6161"
+        },
+        {
+          "title": "23 — Artificial Analysis says 60% of Index v5 uses private tests or held-out answers, with Opus 5.5 narrowly leading GPT-6 Astra.",
+          "url": "https://t.me/dlmehr/6162"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/nmasc_/status/2114718007964676512?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6140"
+        }
+      ]
+    },
     {
       "id": 6139,
       "date": "2026-10-27T04:09:02+00:00",
