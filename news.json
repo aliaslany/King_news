@@ -1,6 +1,200 @@
 {
-  "updatedAt": "2026-10-28T11:19:16.398678+00:00",
+  "updatedAt": "2026-10-29T11:30:07.992933+00:00",
   "news": [
+    {
+      "id": 6185,
+      "date": "2026-10-29T04:09:02+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6185",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — ساموئل آلبانی نموداری را «شاید مهم‌ترین نمودار جهان» توصیف کرد.",
+          "url": "https://t.me/dlmehr/6165"
+        },
+        {
+          "title": "۲ — به‌گفتهٔ thdxr، تقریباً تمام ترافیک روز گذشتهٔ DeepSeek در OpenRouter با یک رک GB300 به ارزش ۶ تا ۷ میلیون دلار قابل پردازش است.",
+          "url": "https://t.me/dlmehr/6166"
+        },
+        {
+          "title": "۳ — شرکت DiffuSpace مدل انتشار زبانی Clover-35B-A3B-Preview را با وزن‌های باز و ادعای سرعت ۶۸۰ توکن‌برثانیه روی یک کارت معرفی کرد.",
+          "url": "https://t.me/dlmehr/6167"
+        },
+        {
+          "title": "۴ — شرکت Formation Bio صندوق ۶۰۰ میلیون دلاری برای خرید داروهای امیدبخش و پیشبرد آزمایش‌های بالینی با کمک هوش مصنوعی معرفی کرد.",
+          "url": "https://t.me/dlmehr/6168"
+        },
+        {
+          "title": "۵ — به‌گفتهٔ دنیل لاکیر، شمار پرسش‌های ماه گذشتهٔ Stack Overflow به کمتر از هزار رسید.",
+          "url": "https://t.me/dlmehr/6169"
+        },
+        {
+          "title": "۶ — لوکاس مارتینیک از اجرای سه‌بعدی Mario 64 در واقعیت ترکیبی با نرخ ۹۰ فریم‌برثانیه و کمک Opus 5.5 و PICO CLI خبر داد.",
+          "url": "https://t.me/dlmehr/6170"
+        },
+        {
+          "title": "۷ — شرکت Dalet Labs از جذب ۷ میلیون دلار سرمایهٔ پیش‌بذری برای تولید محتوای خرید شخصی‌سازی‌شده و خرید درون‌برنامه‌ای خبر داد.",
+          "url": "https://t.me/dlmehr/6171"
+        },
+        {
+          "title": "۸ — به‌گفتهٔ پیوتر ژلاسکو، مدل باز Nemotron 3.5 Transcribe انویدیا رونویسی هدایت‌پذیر در ۴۰ زبان، تا هشت گوینده و زمان‌گذاری واژه‌ها را ارائه می‌کند.",
+          "url": "https://t.me/dlmehr/6172"
+        },
+        {
+          "title": "۹ — شرکت AssemblyAI مدل تبدیل متن به گفتار TTS-1 را با تأخیر پخش ادعایی ۹۰ میلی‌ثانیه و هزینهٔ ۱۵ دلار برای هر میلیون نویسه معرفی کرد.",
+          "url": "https://t.me/dlmehr/6173"
+        },
+        {
+          "title": "۱۰ — روهان پاول با استناد به نمودار بلومبرگ، درآمد نیمهٔ نخست ۲۰۲۶ شرکت Anthropic را نزدیک به ۴۰۰ برابر کل ۲۰۲۳ دانست.",
+          "url": "https://t.me/dlmehr/6174"
+        },
+        {
+          "title": "۱۱ — شرکت Animates از همکاری با Sony XYN برای آوردن همراهان هوش مصنوعی به فضاهای فیزیکی و آغاز پیش‌فروش خبر داد.",
+          "url": "https://t.me/dlmehr/6175"
+        },
+        {
+          "title": "۱۲ — سوندار پیچای مدل Gemini 4 Carbon را با ادعای صدرنشینی شاخص هوش Artificial Analysis و عرضهٔ تدریجی، ابتدا به مدافعان سایبری منتخب، معرفی کرد.",
+          "url": "https://t.me/dlmehr/6176"
+        },
+        {
+          "title": "۱۳ — استارتاپ HaloBraid ویدئوی دستگاه بافت مو را منتشر کرد که به ادعایش زمان نوبت‌های آرایش را نصف می‌کند و ۷ میلیون دلار سرمایهٔ بذری گرفته است.",
+          "url": "https://t.me/dlmehr/6177"
+        },
+        {
+          "title": "۱۴ — سازندگان Lor نسخهٔ آزمایشی خصوصی سامانه‌ای را معرفی کردند که به‌گفتهٔ آنان صدها عاملش هم‌زمان کدنویسی، آزمایش و تکرار پژوهش انجام می‌دهند.",
+          "url": "https://t.me/dlmehr/6178"
+        },
+        {
+          "title": "۱۵ — شرکت Simulon قابلیت بازتولید صحنه با عناصر واکنش‌پذیر به گفتار، رفتار و محیط ضبط‌شده را برای آیفون معرفی کرد.",
+          "url": "https://t.me/dlmehr/6179"
+        },
+        {
+          "title": "۱۶ — به‌گزارش Slava Invests، درآمد سه‌ماههٔ سوم ۲۰۲۶ آلفابت ۱۲۷٫۵۸ میلیارد دلار و سود هر سهم ۲٫۱۲ دلار بود؛ هر دو کمتر از انتظار.",
+          "url": "https://t.me/dlmehr/6180"
+        },
+        {
+          "title": "۱۷ — به‌گفتهٔ Couch Investor، سهم جست‌وجوی گوگل از درآمد آلفابت برای نخستین‌بار به زیر ۵۰ درصد رسید.",
+          "url": "https://t.me/dlmehr/6181"
+        },
+        {
+          "title": "۱۸ — شرکت Neuralink می‌گوید یک شرکت‌کنندهٔ مبتلا به ALS در هفتهٔ نخست به تبدیل گفتار با سرعت ۷۵ واژه‌دردقیقه و خطای ۵٫۸ درصد رسید.",
+          "url": "https://t.me/dlmehr/6182"
+        },
+        {
+          "title": "۱۹ — آلبرت گو می‌گوید نسخهٔ جدید H-Nets در مقیاس بزرگ با حدود یک‌دهم داده و محاسبات، عملکرد مدلی متن‌باز با آموزش ۱۱ تریلیون توکنی را تکرار کرده است.",
+          "url": "https://t.me/dlmehr/6183"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/samuelalbanie/status/2115227492839530738?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6165"
+        }
+      ]
+    },
+    {
+      "id": 6184,
+      "date": "2026-10-29T04:06:45+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6184",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Samuel Albanie calls a shared graph potentially the world's most important, without describing it in the text.",
+          "url": "https://t.me/dlmehr/6165"
+        },
+        {
+          "title": "2 — Thdxr claims one $6–7M GB300 rack could serve nearly all of OpenRouter's previous-day DeepSeek traffic.",
+          "url": "https://t.me/dlmehr/6166"
+        },
+        {
+          "title": "3 — DiffuSpace announces Clover-35B-A3B-Preview, an open-weight diffusion language model claiming 680 tokens/second on one card at BF16.",
+          "url": "https://t.me/dlmehr/6167"
+        },
+        {
+          "title": "4 — Formation Bio announces a $600M fund to acquire promising drugs and advance clinical trials using AI-powered development.",
+          "url": "https://t.me/dlmehr/6168"
+        },
+        {
+          "title": "5 — Daniel Lockyer reports Stack Overflow received fewer than 1,000 questions last month, a record low.",
+          "url": "https://t.me/dlmehr/6169"
+        },
+        {
+          "title": "6 — Lucas Martinic reports running Mario 64 in mixed reality at 90 FPS, built with help from Opus 5.5 and PICO CLI.",
+          "url": "https://t.me/dlmehr/6170"
+        },
+        {
+          "title": "7 — Omer Bartal announces Dalet Labs' $7M pre-seed for personalized generated shopping media with in-app purchases.",
+          "url": "https://t.me/dlmehr/6171"
+        },
+        {
+          "title": "8 — Piotr Zelasko introduces NVIDIA's open Nemotron 3.5 Transcribe, supporting 40 languages, eight speakers and word-level timestamps.",
+          "url": "https://t.me/dlmehr/6172"
+        },
+        {
+          "title": "9 — AssemblyAI launches TTS-1, claiming 90 ms speech streaming at $15 per million characters.",
+          "url": "https://t.me/dlmehr/6173"
+        },
+        {
+          "title": "10 — Citing a Bloomberg chart, Rohan Paul claims Anthropic's first-half 2026 revenue was nearly 400 times its full-year 2023 revenue.",
+          "url": "https://t.me/dlmehr/6174"
+        },
+        {
+          "title": "11 — Animates announces pre-orders for AI companions brought into physical spaces through a Sony XYN partnership.",
+          "url": "https://t.me/dlmehr/6175"
+        },
+        {
+          "title": "12 — Sundar Pichai announces Gemini 4 Carbon, claiming a leading intelligence-index score of 59 and phased access for cyber defenders.",
+          "url": "https://t.me/dlmehr/6176"
+        },
+        {
+          "title": "13 — Yashar reports HaloBraid raised a $7M seed round and promises its hair-braiding device will halve appointment times.",
+          "url": "https://t.me/dlmehr/6177"
+        },
+        {
+          "title": "14 — Lor's team announces a private beta for agents that write code, run experiments and iterate for days, hundreds at a time.",
+          "url": "https://t.me/dlmehr/6178"
+        },
+        {
+          "title": "15 — Divesh Naidoo introduces Simulon's iPhone rendering feature, regenerating recorded scenes with neural assets reacting to actions, speech and surroundings.",
+          "url": "https://t.me/dlmehr/6179"
+        },
+        {
+          "title": "16 — Slava reports Alphabet Q3 revenue of $127.58B and EPS of $2.12, below expectations of $127.91B and $3.01.",
+          "url": "https://t.me/dlmehr/6180"
+        },
+        {
+          "title": "17 — Couch Investor says Google Search's share of Alphabet revenue has fallen below 50% for the first time.",
+          "url": "https://t.me/dlmehr/6181"
+        },
+        {
+          "title": "18 — Neuralink reports an ALS participant achieved 75 words/minute with a 5.8% word error rate on a 125,000-word vocabulary in week one.",
+          "url": "https://t.me/dlmehr/6182"
+        },
+        {
+          "title": "19 — Albert Gu reports new byte-level H-Nets deliver 3–5× efficiency gains in controlled tests and match an open model with about 10× less data and compute.",
+          "url": "https://t.me/dlmehr/6183"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/samuelalbanie/status/2115227492839530738?s=52&t=F41Qa04r48Mef_j_XjBneQ",
+          "url": "https://t.me/dlmehr/6165"
+        }
+      ]
+    },
     {
       "id": 6164,
       "date": "2026-10-28T04:08:59+00:00",
