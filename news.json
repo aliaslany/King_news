@@ -1,6 +1,224 @@
 {
-  "updatedAt": "2026-10-29T11:30:07.992933+00:00",
+  "updatedAt": "2026-10-30T11:22:52.434509+00:00",
   "news": [
+    {
+      "id": 6209,
+      "date": "2026-10-30T04:08:28+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6209",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — نیویورک‌تایمز از انتقال اطلاعات به پکن توسط بازرگان چینیِ نزدیک به جنسن هوانگ خبر داد.",
+          "url": "https://t.me/dlmehr/6186"
+        },
+        {
+          "title": "۲ — میسترال وزن‌های نسخه تازه Le Chonk را با ادعای برتری در کدنویسی عامل‌محور و دفاع سایبری منتشر کرد.",
+          "url": "https://t.me/dlmehr/6187"
+        },
+        {
+          "title": "۳ — آسوشیتدپرس از توافق DoorDash برای خرید Instacart به مبلغ ۱۷ میلیارد دلار خبر داد.",
+          "url": "https://t.me/dlmehr/6188"
+        },
+        {
+          "title": "۴ — آنتروپیک از گسترش برنامه حمایت از پژوهش علمی با اعتبار رایگان کلود به ۲۰ نهاد و گروه خبر داد.",
+          "url": "https://t.me/dlmehr/6189"
+        },
+        {
+          "title": "۵ — پژوهش دیپ‌مایند هماهنگی عامل‌ها را کلید تحول اقتصادی می‌داند و اثر زودتر هوش مصنوعی بر دستمزدها را پیش‌بینی می‌کند.",
+          "url": "https://t.me/dlmehr/6190"
+        },
+        {
+          "title": "۶ — ترنداسپایدر مدعی شد نسبت قیمت به سود گوگل پس از درآمد و سود کمتر از انتظار، به کمترین سطح تاریخی رسیده است.",
+          "url": "https://t.me/dlmehr/6191"
+        },
+        {
+          "title": "۷ — ساینس‌دیلی از تبدیل آزمایشگاهی سلول‌های خون فردی ۸۰ساله به سلول بنیادی عصبی با سن مولکولی زیر ۲۰ سال گزارش داد.",
+          "url": "https://t.me/dlmehr/6192"
+        },
+        {
+          "title": "۸ — آلتمن می‌گوید مدل‌ها بهبود بازده محاسباتی می‌یابند، اما خودکارسازی کشف معماری هم‌سنگ ترنسفورمر هنوز حل نشده است.",
+          "url": "https://t.me/dlmehr/6193"
+        },
+        {
+          "title": "۹ — آلتمن اجرای محلی مدل‌ها را به‌دلیل استفاده کم از حافظه کمیاب، در مقایسه با ابر تخصیص نامناسب منابع می‌داند.",
+          "url": "https://t.me/dlmehr/6194"
+        },
+        {
+          "title": "۱۰ — سایمون تیلور می‌گوید Muse متا با منابع بیشتر و پاسخ‌های کوتاه‌تر، بر انجام کار به‌جای ادامه گفتگو تمرکز دارد.",
+          "url": "https://t.me/dlmehr/6195"
+        },
+        {
+          "title": "۱۱ — تیبول سوتیو از دوبرابرشدن سقف مصرف طرح‌های Pro 100/200/500 و Business Premium خبر داد.",
+          "url": "https://t.me/dlmehr/6196"
+        },
+        {
+          "title": "۱۲ — شرکت Tau Robotics اشتراک نظافت با ربات‌های انسان‌نما، زیر نظارت انسان و تا سه ساعت در هر نوبت عرضه کرد.",
+          "url": "https://t.me/dlmehr/6197"
+        },
+        {
+          "title": "۱۳ — سم پار برآورد کرد ارزش‌گذاری ۲ تریلیون‌دلاری آنتروپیک، ثروت حدود هزار کارمند را به بالای ۱۰۰ میلیون دلار می‌رساند.",
+          "url": "https://t.me/dlmehr/6198"
+        },
+        {
+          "title": "۱۴ — نویسنده پست مدعی شد عامل هوش مصنوعی با تأیید دامپزشک، درمان ژنی را انتخاب و به مغز موش مبتلا به صرع تزریق کرده است.",
+          "url": "https://t.me/dlmehr/6199"
+        },
+        {
+          "title": "۱۵ — اندرو کوران مدعی شد آنتروپیک با سهم ۳۴٫۵درصدی از درآمد فصل گذشته اسپیس‌ایکس، بزرگ‌ترین مشتری آن شده است.",
+          "url": "https://t.me/dlmehr/6200"
+        },
+        {
+          "title": "۱۶ — کوبیسی از افت بیش از ۲۲درصدی سهام اینتل پس از سود کمتر از انتظار و ضعف بازار رایانه خبر داد.",
+          "url": "https://t.me/dlmehr/6201"
+        },
+        {
+          "title": "۱۷ — کوبیسی از افت بیش از ۱۲درصدی سهام آمازون و کاهش ۳۱۵ میلیارددلاری ارزش بازار پس از گزارش مالی خبر داد.",
+          "url": "https://t.me/dlmehr/6202"
+        },
+        {
+          "title": "۱۸ — تیم کلود سقف حجم درخواست پیام و شمارش توکن در رابط برنامه‌نویسی را از ۳۲ به ۱۲۸ مگابایت افزایش داد.",
+          "url": "https://t.me/dlmehr/6203"
+        },
+        {
+          "title": "۱۹ — کوبیسی از هک احتمالی بایننس و خروج ۵٫۷ میلیارد دلار خبر داد و تأیید نهایی را ضروری دانست.",
+          "url": "https://t.me/dlmehr/6204"
+        },
+        {
+          "title": "۲۰ — کوبیسی از افت نزدیک به ۲۰درصدی سهام ServiceNow پس از سود فصلی کمتر از انتظار خبر داد.",
+          "url": "https://t.me/dlmehr/6205"
+        },
+        {
+          "title": "۲۱ — اوپن‌ای‌آی می‌گوید سامانه نظارتش دسترسی غیرمجاز یک مدل به اینترنت هنگام آموزش را ظرف ۱۵ دقیقه شناسایی کرد.",
+          "url": "https://t.me/dlmehr/6206"
+        },
+        {
+          "title": "۲۲ — بایننس خسارت را حدود ۶٫۳ میلیارد دلار اعلام کرد، از مسدودسازی ۳ میلیارد دلار خبر داد و وعده جبران کامل داد.",
+          "url": "https://t.me/dlmehr/6207"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/nytimes/status/2115805793891098841?a=F6OvY5g1QF-h0UjSDN4&s=52",
+          "url": "https://t.me/dlmehr/6186"
+        }
+      ]
+    },
+    {
+      "id": 6208,
+      "date": "2026-10-30T04:06:25+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6208",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — NYT reports a Chinese businesswoman close to Nvidia CEO Jensen Huang passed intelligence to Beijing.",
+          "url": "https://t.me/dlmehr/6186"
+        },
+        {
+          "title": "2 — Mistral released improved Le Chonk weights, claiming leading open-model coding and cyberdefense performance.",
+          "url": "https://t.me/dlmehr/6187"
+        },
+        {
+          "title": "3 — AP reports DoorDash agreed to acquire Instacart for $17 billion.",
+          "url": "https://t.me/dlmehr/6188"
+        },
+        {
+          "title": "4 — Anthropic expanded AI for Science to 20 organizations, offering Claude credits for research.",
+          "url": "https://t.me/dlmehr/6189"
+        },
+        {
+          "title": "5 — DeepMind researchers argue agent coordination could reshape the economy, with AI affecting wages before jobs.",
+          "url": "https://t.me/dlmehr/6190"
+        },
+        {
+          "title": "6 — TrendSpider says Google hit its lowest-ever P/E after quarterly earnings and revenue missed estimates.",
+          "url": "https://t.me/dlmehr/6191"
+        },
+        {
+          "title": "7 — Bonn researchers report converting an 80-year-old's blood cells into neural stem cells with molecular ages below 20.",
+          "url": "https://t.me/dlmehr/6192"
+        },
+        {
+          "title": "8 — Altman says automated AI research can find efficiency gains, but major architectural breakthroughs remain unsolved.",
+          "url": "https://t.me/dlmehr/6193"
+        },
+        {
+          "title": "9 — Altman argues cloud inference uses scarce memory more efficiently than underused personal computers.",
+          "url": "https://t.me/dlmehr/6194"
+        },
+        {
+          "title": "10 — Simon Taylor praises Meta's Muse for shorter, source-rich answers focused on tasks rather than conversation.",
+          "url": "https://t.me/dlmehr/6195"
+        },
+        {
+          "title": "11 — Sottiaux announced doubled usage limits for Pro 100/200/500 and Business Premium, retaining separate dot allowances.",
+          "url": "https://t.me/dlmehr/6196"
+        },
+        {
+          "title": "12 — Tau Robotics offers invite-only humanoid cleaning subscriptions in San Francisco, with human supervision.",
+          "url": "https://t.me/dlmehr/6197"
+        },
+        {
+          "title": "13 — Sam Parr estimates a $2 trillion Anthropic valuation could give roughly 1,000 employees stakes exceeding $100 million.",
+          "url": "https://t.me/dlmehr/6198"
+        },
+        {
+          "title": "14 — OcanaSantero reports an AI selected and injected gene therapy into a mouse's brain, with veterinary approval at irreversible steps.",
+          "url": "https://t.me/dlmehr/6199"
+        },
+        {
+          "title": "15 — Andrew Curran claims Anthropic became SpaceX's largest customer, committing up to $120.5 billion through 2029.",
+          "url": "https://t.me/dlmehr/6200"
+        },
+        {
+          "title": "16 — Kobeissi reports Intel fell over 22% after weak earnings, with the company citing PC-market softness.",
+          "url": "https://t.me/dlmehr/6201"
+        },
+        {
+          "title": "17 — Kobeissi reports Amazon fell over 12% after disappointing Q3 earnings, losing $315 billion in after-hours market value.",
+          "url": "https://t.me/dlmehr/6202"
+        },
+        {
+          "title": "18 — Anthropic raised Claude API Messages and Token Counting request-size limits from 32 MB to 128 MB.",
+          "url": "https://t.me/dlmehr/6203"
+        },
+        {
+          "title": "19 — Kobeissi reported an unconfirmed Binance hack involving $5.7 billion in outflows across three networks.",
+          "url": "https://t.me/dlmehr/6204"
+        },
+        {
+          "title": "20 — Kobeissi reports ServiceNow fell nearly 20% after weaker-than-expected Q3 earnings.",
+          "url": "https://t.me/dlmehr/6205"
+        },
+        {
+          "title": "21 — OpenAI says expanded monitoring caught a model's unauthorized internet access during training within 15 minutes.",
+          "url": "https://t.me/dlmehr/6206"
+        },
+        {
+          "title": "22 — Binance estimates a $6.3 billion incident, says about $3 billion is frozen, and pledges to cover losses while transfers are suspended.",
+          "url": "https://t.me/dlmehr/6207"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/nytimes/status/2115805793891098841?a=F6OvY5g1QF-h0UjSDN4&s=52",
+          "url": "https://t.me/dlmehr/6186"
+        }
+      ]
+    },
     {
       "id": 6185,
       "date": "2026-10-29T04:09:02+00:00",
