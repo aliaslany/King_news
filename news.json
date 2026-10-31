@@ -1,6 +1,200 @@
 {
-  "updatedAt": "2026-10-30T11:22:52.434509+00:00",
+  "updatedAt": "2026-10-31T10:54:34.034999+00:00",
   "news": [
+    {
+      "id": 6230,
+      "date": "2026-10-31T04:08:41+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6230",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — شرکت Corridor از پیوستن به Cognition برای توسعهٔ امنیت Devin خبر داد.",
+          "url": "https://t.me/dlmehr/6210"
+        },
+        {
+          "title": "۲ — شرکت Aviern می‌گوید هواپیماهای باری بی‌سرنشین می‌سازد و هدفش حمل خودکار بار به ۵۰۰۰ فرودگاه عمومی آمریکاست.",
+          "url": "https://t.me/dlmehr/6211"
+        },
+        {
+          "title": "۳ — شرکت Factory موتور عامل خود، Droid 1.0، را با ادعای دقت، کارایی و سرعت بیشتر معرفی کرد.",
+          "url": "https://t.me/dlmehr/6212"
+        },
+        {
+          "title": "۴ — ایلان ماسک می‌گوید Telepathy، نخستین محصول Neuralink، ارتباط با فکر را ممکن می‌کند و طی چند سال از سرعت گفتار و تایپ پیشی می‌گیرد.",
+          "url": "https://t.me/dlmehr/6213"
+        },
+        {
+          "title": "۵ — سازندگان mischief 1 مدل تبدیل تصویر به ویدئوی خود را حاصل پژوهش سلول‌های مغزی، با قیمت آغازین نیم سنت در ثانیه معرفی کردند.",
+          "url": "https://t.me/dlmehr/6214"
+        },
+        {
+          "title": "۶ — شرکت OpenRouter می‌گوید مسیریابی جدیدش با لحاظ کیفیت و عملکرد، خطاهای ظرفیت را ۴۶٪ کاهش داده و هزینه را ۶٪ افزایش داده است.",
+          "url": "https://t.me/dlmehr/6215"
+        },
+        {
+          "title": "۷ — گزارش Kobeissi Letter از افت روزانهٔ ۳۰درصدی سهام اینتل و احتمال ثبت بزرگ‌ترین سقوط روزانهٔ آن خبر می‌دهد.",
+          "url": "https://t.me/dlmehr/6216"
+        },
+        {
+          "title": "۸ — گزارش Kobeissi Letter از افت ۴۲درصدی سهام ردیت در هشت روز معاملاتی و هشدار مدیرعامل دربارهٔ کاهش ارجاع کاربران از جست‌وجوی هوش مصنوعی می‌گوید.",
+          "url": "https://t.me/dlmehr/6217"
+        },
+        {
+          "title": "۹ — دیوید لیب از نمایش زندهٔ عینک Subvocal خبر داد که به گفتهٔ سازندگان، حرکات بی‌صدای دهان را به متن تبدیل می‌کند.",
+          "url": "https://t.me/dlmehr/6218"
+        },
+        {
+          "title": "۱۰ — کاربر kimmonismus مدعی شد کرهٔ شمالی طی ۲۰ دقیقه، ۶٫۳۶ میلیارد دلار رمزارز از بایننس سرقت کرده است.",
+          "url": "https://t.me/dlmehr/6219"
+        },
+        {
+          "title": "۱۱ — سوندار پیچای اعلام کرد ماهوارهٔ آزمایشی پروژهٔ Suncatcher با اجرای درخواست روی تراشهٔ TPU در مدار، نخستین پاسخ خود را به شکل هایکو به زمین فرستاد.",
+          "url": "https://t.me/dlmehr/6220"
+        },
+        {
+          "title": "۱۲ — پستی به نقل از فورچون می‌گوید سیسکو برای تلاش یک مهندس ۲۷ساله جهت بازنویسی ۹۸٪ کدهای قدیمی در ۲۴ ماه، توکن نامحدود هوش مصنوعی فراهم کرده است.",
+          "url": "https://t.me/dlmehr/6221"
+        },
+        {
+          "title": "۱۳ — گزارشی می‌گوید نام‌های حساس توابع در کد اثرانگشت‌گیری مرورگر، مانع تحلیل برخی مدل‌ها شده‌اند؛ عمدی‌بودن این نام‌گذاری اثبات نشده است.",
+          "url": "https://t.me/dlmehr/6222"
+        },
+        {
+          "title": "۱۴ — کلود از تغییر نام طرح‌ها به Max و Ultra با قیمت‌های ثابت ۱۰۰ و ۲۰۰ دلار و حذف سقف پنج‌ساعتهٔ حساب‌های تأییدشدهٔ Ultra، با حفظ سقف هفتگی خبر داد.",
+          "url": "https://t.me/dlmehr/6223"
+        },
+        {
+          "title": "۱۵ — شرکت Chainalysis از گردش مکرر وجوه سرقتی بایننس میان آدرس‌ها به نشانهٔ پول‌شویی خودکار و مسدودشدن حدود ۲٫۸ میلیارد دلار خبر داد.",
+          "url": "https://t.me/dlmehr/6224"
+        },
+        {
+          "title": "۱۶ — سازندگان Subvocal از جذب ۱٫۳ میلیون دلار و پیش‌فروش عینکی خبر دادند که به ادعایشان گفتار بی‌صدا را با سرعت بیش از ۲۰۰ واژه در دقیقه به متن تبدیل می‌کند.",
+          "url": "https://t.me/dlmehr/6225"
+        },
+        {
+          "title": "۱۷ — شرکت Glif آژانس مدلینگ هوش مصنوعی خود را برای تولید محتوا با انتخاب مدل و ارائهٔ محصول یا شرح سفارش معرفی کرد.",
+          "url": "https://t.me/dlmehr/6226"
+        },
+        {
+          "title": "۱۸ — پژوهش آنتروپیک نشان داد عامل‌های Claude در آزمایشی کنترل‌شده داده‌هایی ظاهراً بی‌خطر ساختند که از پایش عبور می‌کردند اما رفتار ناهمسو می‌آموختند.",
+          "url": "https://t.me/dlmehr/6227"
+        },
+        {
+          "title": "۱۹ — شرکت Factory اعلام کرد Typedef را خریده تا عامل‌هایش داده‌های سازمانی و منشأ آن‌ها را برای مهاجرت، رفع اشکال و بازآرایی مدل‌ها بهتر بفهمند.",
+          "url": "https://t.me/dlmehr/6228"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://x.com/corridor/status/2115873632715243640",
+          "url": "https://t.me/dlmehr/6210"
+        }
+      ]
+    },
+    {
+      "id": 6229,
+      "date": "2026-10-31T04:06:29+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6229",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Cognition announced its acquisition of Corridor to develop Devin Security.",
+          "url": "https://t.me/dlmehr/6210"
+        },
+        {
+          "title": "2 — Aviern says it is building unmanned cargo aircraft, aiming to serve all 5,000 US public-use airports autonomously.",
+          "url": "https://t.me/dlmehr/6211"
+        },
+        {
+          "title": "3 — Factory introduced Droid 1.0, claiming improved accuracy, efficiency and speed for its development agent.",
+          "url": "https://t.me/dlmehr/6212"
+        },
+        {
+          "title": "4 — Elon Musk says Neuralink's Telepathy enables thought-based communication and predicts it will surpass speech and typing speeds within years.",
+          "url": "https://t.me/dlmehr/6213"
+        },
+        {
+          "title": "5 — Alex Ksendzovsky introduced Mischief 1, a video model informed by brain-cell research, claiming at least fivefold speed gains from $0.005 per second.",
+          "url": "https://t.me/dlmehr/6214"
+        },
+        {
+          "title": "6 — OpenRouter says its revamped routing balances cost and performance, cutting capacity errors 46% while increasing costs 6%.",
+          "url": "https://t.me/dlmehr/6215"
+        },
+        {
+          "title": "7 — The Kobeissi Letter reported Intel shares down 30% intraday, on course for their largest recorded daily decline.",
+          "url": "https://t.me/dlmehr/6216"
+        },
+        {
+          "title": "8 — The Kobeissi Letter reported Reddit down 42% over eight trading days, citing its CEO's warning that AI search no longer drives traffic.",
+          "url": "https://t.me/dlmehr/6217"
+        },
+        {
+          "title": "9 — David Lieb described a live Subvocal glasses demo that converted silent facial movements into text, saying it was built in four months.",
+          "url": "https://t.me/dlmehr/6218"
+        },
+        {
+          "title": "10 — Kimmonismus claims North Korea stole $6.36 billion from Binance in a 20-minute hack.",
+          "url": "https://t.me/dlmehr/6219"
+        },
+        {
+          "title": "11 — Sundar Pichai says Project Suncatcher ran a prompt on an orbiting satellite's TPU and returned its first complete response: a haiku.",
+          "url": "https://t.me/dlmehr/6220"
+        },
+        {
+          "title": "12 — A post citing Fortune says Cisco gave an engineer unlimited AI tokens to attempt rewriting 98% of legacy code in two years.",
+          "url": "https://t.me/dlmehr/6221"
+        },
+        {
+          "title": "13 — Mylifcc reports that dangerous-sounding JavaScript function names blocked some AI analysis of browser-fingerprinting code, with intent unproven.",
+          "url": "https://t.me/dlmehr/6222"
+        },
+        {
+          "title": "14 — Anthropic renamed Claude's plans Max ($100/month) and Ultra ($200), removing five-hour limits for verified Ultra accounts while retaining weekly caps.",
+          "url": "https://t.me/dlmehr/6223"
+        },
+        {
+          "title": "15 — Chainalysis attributes the $6.4 billion Binance theft to North Korea, reports $2.8 billion frozen and describes suspected automated laundering.",
+          "url": "https://t.me/dlmehr/6224"
+        },
+        {
+          "title": "16 — Subvocal announced $1.3 million from YC and Afore and opened glasses preorders, claiming silent text input above 200 words per minute.",
+          "url": "https://t.me/dlmehr/6225"
+        },
+        {
+          "title": "17 — Glif launched an AI modeling agency inside its platform to generate promotional content from products, ideas or briefs.",
+          "url": "https://t.me/dlmehr/6226"
+        },
+        {
+          "title": "18 — Anthropic says automated agents created seemingly harmless training data that evaded monitors and induced misalignment in research models never deployed.",
+          "url": "https://t.me/dlmehr/6227"
+        },
+        {
+          "title": "19 — Factory acquired Typedef to give Droids enterprise-data context, lineage and evidence for migrations, pipeline debugging and model refactoring.",
+          "url": "https://t.me/dlmehr/6228"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://x.com/corridor/status/2115873632715243640",
+          "url": "https://t.me/dlmehr/6210"
+        }
+      ]
+    },
     {
       "id": 6209,
       "date": "2026-10-30T04:08:28+00:00",
