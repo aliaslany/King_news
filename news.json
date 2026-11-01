@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-10-31T10:54:34.034999+00:00",
+  "updatedAt": "2026-11-01T11:49:38.068787+00:00",
   "news": [
+    {
+      "id": 6243,
+      "date": "2026-11-01T04:08:09+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6243",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش a16z، آگهی‌های استخدام مهندسی نسبت به پیش از همه‌گیری حدود ۴۵٪، سلامت ۳۰٪ و تولید ۲۵٪ افزایش یافته و استخدام منابع انسانی به سطح پیشین بازگشته است.",
+          "url": "https://t.me/dlmehr/6231"
+        },
+        {
+          "title": "۲ — به‌گزارش a16z، شرکت‌های استفاده‌کننده از هوش مصنوعی به‌طور میانگین ۱۰۲۴ دلار به‌ازای هر کارمند برای آن هزینه می‌کنند؛ تقریباً دو برابر سال گذشته.",
+          "url": "https://t.me/dlmehr/6232"
+        },
+        {
+          "title": "۳ — برگزارکنندگان Space Apps شرح ۱۴ چالش را برای سطوح مختلف مهارتی منتشر کردند و اعلام کردند منابع هر چالش جمعه ۱۳ نوامبر عرضه می‌شود.",
+          "url": "https://t.me/dlmehr/6233"
+        },
+        {
+          "title": "۴ — گوگل دیپ‌مایند می‌گوید ابزار PlanAssist مبتنی بر Gemini زمان ارزیابی درخواست‌های ساخت‌وساز و بازسازی مالکان خانه در بریتانیا را تا ۵۸٪ کاهش داده و در اختیار ۱۲ شورای محلی دیگر قرار می‌گیرد.",
+          "url": "https://t.me/dlmehr/6234"
+        },
+        {
+          "title": "۵ — بنابر گزارشی به‌نقل از The Information، متا با همکاری شرکت چینی Fourier نمونهٔ ربات انسان‌نمای Max را طی سه ماه ساخته و توسعهٔ نسخهٔ دوم را آغاز کرده است.",
+          "url": "https://t.me/dlmehr/6235"
+        },
+        {
+          "title": "۶ — ویدئو: ۴۹. هوشمندتر، نه بزرگ‌تر (فارسی).",
+          "url": "https://t.me/dlmehr/6236"
+        },
+        {
+          "title": "۷ — پژوهشگران IBM گزارش کردند چارچوب JevAct با بررسی اقدامات عامل‌ها پیش از اجرای ابزارها، بدون تغییر مدل یا ابزار، قابلیت اطمینان را در آزمون‌های مخابرات و BFCL بهبود می‌دهد، اما نتایج حوزهٔ هواپیمایی یکدست نیست.",
+          "url": "https://t.me/dlmehr/6237"
+        },
+        {
+          "title": "۸ — شرکت OpenAI در پیامی از مخاطبان پرسید از میان آینده‌های گوناگون، کدام را می‌خواهند بسازند.",
+          "url": "https://t.me/dlmehr/6238"
+        },
+        {
+          "title": "۹ — حساب شاخهٔ سایبری FBI، کرهٔ شمالی را مسئول سرقت بیش از ۶ میلیارد دلار دارایی رمزارزی از بایننس در حوالی ۲۹ اکتبر ۲۰۲۶ دانست و خواستار مسدودسازی تراکنش‌های مرتبط با دارایی‌های مسروقه شد.",
+          "url": "https://t.me/dlmehr/6239"
+        },
+        {
+          "title": "۱۰ — دیدی داس در به‌روزرسانی تحلیل عوامل جذب سرمایه از صندوق‌های برتر در مراحل بذری و سری آ، سابقهٔ کار در آزمایشگاه‌های پیشرو هوش مصنوعی و امنیت سایبری را از نشانه‌های مثبت برجسته معرفی کرد.",
+          "url": "https://t.me/dlmehr/6240"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/a16z/status/2116523102821908595?a=TGE-0dTr9iJVxKDWZ1Q&s=20",
+          "url": "https://t.me/dlmehr/6231"
+        }
+      ]
+    },
+    {
+      "id": 6242,
+      "date": "2026-11-01T04:06:10+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6242",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — a16z reports engineering job postings roughly 45% above pre-pandemic levels, healthcare 30% and manufacturing 25%, while AI-related layoff announcements have fallen sharply since May.",
+          "url": "https://t.me/dlmehr/6231"
+        },
+        {
+          "title": "2 — a16z says companies using AI spend an average of $1,024 per employee on it, nearly double last year's level.",
+          "url": "https://t.me/dlmehr/6232"
+        },
+        {
+          "title": "3 — Space Apps announced 14 challenge statements for participants of varying skill levels, with supporting resources due November 13.",
+          "url": "https://t.me/dlmehr/6233"
+        },
+        {
+          "title": "4 — Google DeepMind says Gemini-powered PlanAssist can reduce householder planning assessment time by up to 58% and is expanding to 12 more UK councils.",
+          "url": "https://t.me/dlmehr/6234"
+        },
+        {
+          "title": "5 — Citing The Information, Kimmonismus reports Meta built a humanoid prototype named Max with Fourier in three months and is developing a second version.",
+          "url": "https://t.me/dlmehr/6235"
+        },
+        {
+          "title": "6 — Video: 49. Smarter not Bigger (Persian)",
+          "url": "https://t.me/dlmehr/6236"
+        },
+        {
+          "title": "7 — IBM researchers report that JevAct checks agents' tool actions against policies before execution, improving reliability on Telecom and BFCL benchmarks while producing mixed Airline results.",
+          "url": "https://t.me/dlmehr/6237"
+        },
+        {
+          "title": "8 — OpenAI invited readers to consider which of many possible futures they want to build.",
+          "url": "https://t.me/dlmehr/6238"
+        },
+        {
+          "title": "9 — An FBI Cyber Branch post attributes an alleged theft of over $6 billion from Binance around October 29 to North Korea's TraderTraitor actors and urges crypto services to block associated laundering transactions.",
+          "url": "https://t.me/dlmehr/6239"
+        },
+        {
+          "title": "10 — Deedy Das updated his analysis of founder traits associated with top-tier seed and Series A investment, adding frontier-lab and cybersecurity experience among strong signals and expanding coverage to startups founded in 2019–2026.",
+          "url": "https://t.me/dlmehr/6240"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/a16z/status/2116523102821908595?a=TGE-0dTr9iJVxKDWZ1Q&s=20",
+          "url": "https://t.me/dlmehr/6231"
+        }
+      ]
+    },
     {
       "id": 6230,
       "date": "2026-10-31T04:08:41+00:00",
