@@ -1,6 +1,104 @@
 {
-  "updatedAt": "2026-11-01T11:49:38.068787+00:00",
+  "updatedAt": "2026-11-02T13:28:14.959211+00:00",
   "news": [
+    {
+      "id": 6252,
+      "date": "2026-11-02T05:08:35+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6252",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش کیمونیسموس، DeepSeek نمونهٔ اولیهٔ ابرعامل خود را متن‌باز کرده که کارها را میان عامل‌های مستقل و موازی تقسیم می‌کند و در آزمایش داخلی، صدک ۹۵ زمان تکمیل را از ۲۹٫۵ به ۱۵٫۷ دقیقه کاهش داده است.",
+          "url": "https://t.me/dlmehr/6244"
+        },
+        {
+          "title": "۲ — به‌گزارش Pirat Nation، محدودیت‌های تازهٔ Claude Code برای جلوگیری از بازسازی بازی‌ها، کارهای مشروعی چون ساخت ماد، تحلیل خرابی و اشکال‌زدایی را نیز مسدود کرده‌اند و ادی عثمانی از Anthropic وعدهٔ اصلاح تدریجی آن‌ها را داده است.",
+          "url": "https://t.me/dlmehr/6245"
+        },
+        {
+          "title": "۳ — جون سونگ می‌گوید پیشنهاد مالی هنگفت گروهی هکر کلاه‌سیاه برای آموزش تکمیلی مدل‌های با وزن‌های باز روی داده‌های سوءاستفاده از آسیب‌پذیری‌ها را رد کرده و نگران پذیرش این پیشنهاد توسط دیگران است.",
+          "url": "https://t.me/dlmehr/6246"
+        },
+        {
+          "title": "۴ — کیمونیسموس مدعی شده انتشار GPT-6.2 نزدیک است و احتمال داده این مدل همان پرچم‌دار جدید «bel» در پاسخ به Fable 5.5 باشد.",
+          "url": "https://t.me/dlmehr/6247"
+        },
+        {
+          "title": "۵ — کاربر huskirl نوشته که از معلم هوش مصنوعی خود دربارهٔ املای انگلیسی عدد هفده می‌پرسد.",
+          "url": "https://t.me/dlmehr/6248"
+        },
+        {
+          "title": "۶ — آندری کارپاتی می‌گوید HackerTube را با کمک Claude و Opus 5.5 در حدود دو ساعت ساخته؛ این پروژه از میان ۴۳ میلیون نظر بیست سال Hacker News، ۶٬۴۵۴ ویدئوی مکرراً توصیه‌شده را گرد آورده و بدون ورود به حساب پیشنهاد می‌دهد.",
+          "url": "https://t.me/dlmehr/6249"
+        },
+        {
+          "title": "۷ — دیوید پاولن از مشکلات Instinct در واتس‌اپ و گزارش برخی کاربران دربارهٔ مسدودشدن حسابشان می‌گوید و احتمال می‌دهد متا برای انحصار عامل‌های پیام‌رسان، عامل‌های هوش مصنوعی رقیب را مسدود کند.",
+          "url": "https://t.me/dlmehr/6250"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimmonismus/status/2116905923109089285?a=N_eXKGi8FlqiuYNUwR4&s=52",
+          "url": "https://t.me/dlmehr/6244"
+        }
+      ]
+    },
+    {
+      "id": 6251,
+      "date": "2026-11-02T05:06:30+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6251",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Kimmonismus reports that DeepSeek open-sourced a Super-agent prototype using a router and parallel isolated workers, with internal tests cutting p95 completion time from 29.5 to 15.7 minutes versus a single session with subagents.",
+          "url": "https://t.me/dlmehr/6244"
+        },
+        {
+          "title": "2 — Pirat Nation reports that Claude Code's anti-game-cloning restrictions are also blocking legitimate modding, debugging and anti-cheat work, and says Anthropic has acknowledged the restrictions and promised refinements.",
+          "url": "https://t.me/dlmehr/6245"
+        },
+        {
+          "title": "3 — Jun Song says he rejected a lucrative offer from an anonymous black-hat group to post-train open-weight models on a vast exploit dataset, warning that someone else could accept it.",
+          "url": "https://t.me/dlmehr/6246"
+        },
+        {
+          "title": "4 — Kimmonismus claims GPT-6.2 is nearing release and speculates it could be the new “bel” flagship responding to Fable 5.5.",
+          "url": "https://t.me/dlmehr/6247"
+        },
+        {
+          "title": "5 — Huskirl shares a post about asking an AI teacher how to spell “seventeen.”",
+          "url": "https://t.me/dlmehr/6248"
+        },
+        {
+          "title": "6 — Andrej Karpathy says he built HackerTube in about two hours with Claude and Opus 5.5, filtering 43 million Hacker News comments into 6,454 recommended videos with no login required and representative-frame thumbnails.",
+          "url": "https://t.me/dlmehr/6249"
+        },
+        {
+          "title": "7 — David Pawlan reports apparent WhatsApp obstacles for Instinct, including users reporting account bans, and speculates that Meta could block rival AI agents to dominate messaging-based assistants.",
+          "url": "https://t.me/dlmehr/6250"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimmonismus/status/2116905923109089285?a=N_eXKGi8FlqiuYNUwR4&s=52",
+          "url": "https://t.me/dlmehr/6244"
+        }
+      ]
+    },
     {
       "id": 6243,
       "date": "2026-11-01T04:08:09+00:00",
