@@ -1,6 +1,136 @@
 {
-  "updatedAt": "2026-11-02T13:28:14.959211+00:00",
+  "updatedAt": "2026-11-03T12:46:42.825559+00:00",
   "news": [
+    {
+      "id": 6265,
+      "date": "2026-11-03T05:08:08+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6265",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌نقل از سم آلتمن، مدل نسل بعدی GPT که به‌گفته او با همکاری ۱۰ هزار عامل طی چهار روز مسئله ناویر–استوکس را حل کرده، به‌زودی منتشر می‌شود.",
+          "url": "https://t.me/dlmehr/6253"
+        },
+        {
+          "title": "۲ — مجموعه DeepSeek Harness حالت سازنده را معرفی کرد که ایده‌ها را به افزونه‌هایی مانند فضای طراحی، بازی جهان‌باز یا نمایشگر سه‌بعدی مدل زبانی تبدیل می‌کند.",
+          "url": "https://t.me/dlmehr/6254"
+        },
+        {
+          "title": "۳ — شرکت Tutor Intelligence از جذب ۷۵ میلیون دلار سرمایه در دور دوم به‌رهبری a16z برای آموزش مدل‌ها، ساخت و استقرار ربات‌های صنعتی با کمک مربیان انسانی خبر داد.",
+          "url": "https://t.me/dlmehr/6255"
+        },
+        {
+          "title": "۴ — شرکت OpenAI معیار LifeVal را معرفی کرد که با بازخورد هزاران کاربر، عملکرد مدل‌ها را در امور روزمره مانند یافتن خدمات مراقبت از کودک، دریافت خدمات دولتی و مدیریت مالی می‌سنجد.",
+          "url": "https://t.me/dlmehr/6256"
+        },
+        {
+          "title": "۵ — تیم Cyclon می‌گوید در حال ساخت گوشی هوش مصنوعی جایگزین آیفون است که با درخواست کاربر از برنامه‌ها استفاده می‌کند، برنامه‌های موردنیاز را می‌سازد و کارها را در پس‌زمینه انجام می‌دهد.",
+          "url": "https://t.me/dlmehr/6257"
+        },
+        {
+          "title": "۶ — طبق ادعای Polymarket، درآمد سه‌ماهه سوم Anthropic به ۱۷ میلیارد دلار رسیده و نسبت به سال قبل بیش از ۱۱۰۰ درصد رشد داشته است.",
+          "url": "https://t.me/dlmehr/6258"
+        },
+        {
+          "title": "۷ — پژوهشگران مدعی‌اند GPT-6 Astra با تغییر فقط ۰٫۰۱۶ درصد وزن‌های Qwen3.5-0.8B، بدون آموزش یا گرادیان، عملکرد ریاضی را تا شش برابر و پیروی از دستور را سه برابر بهبود داده است.",
+          "url": "https://t.me/dlmehr/6259"
+        },
+        {
+          "title": "۸ — تیم Claude از عرضه آزمایشی عمومی رشته‌پیام‌ها در Messages API خبر داد که با نگهداری مکالمه روی سرور، ارسال صرفاً پیام‌های تازه و شناسه پیام قبلی را ممکن می‌کند تا پاسخ‌گویی زودتر آغاز شود.",
+          "url": "https://t.me/dlmehr/6260"
+        },
+        {
+          "title": "۹ — شرکت Anthropic پذیرش دوره پژوهشی حقوق‌بگیر شش‌هفته‌ای تا شش‌ماهه را برای دانشگاهیان، بنیان‌گذاران فنی و مهندسان ارشد، بدون الزام سابقه یادگیری ماشین، تا ۲۲ نوامبر ۲۰۲۶ اعلام کرد.",
+          "url": "https://t.me/dlmehr/6261"
+        },
+        {
+          "title": "۱۰ — آدام کاروونن ادعای خواندن مستقیم وزن‌های Qwen توسط Astra را زیر سؤال برد و گفت برداشتش این است که مدل با کدنویسی و روش‌های رایج تفسیرپذیری، جهت ایجادکننده حلقه تکرار را یافته و از وزن‌ها حذف کرده است.",
+          "url": "https://t.me/dlmehr/6262"
+        },
+        {
+          "title": "۱۱ — تیم OpenAI می‌گوید زیرساخت جدید Git با نام Pando تأخیر ارسال تغییرات را حدود ۸۰ درصد کاهش داده و اکنون روزانه نزدیک به یک پتابایت داده ارائه می‌کند، بدون تغییر شیوه کار مهندسان و عامل‌ها.",
+          "url": "https://t.me/dlmehr/6263"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/choblin29/status/2117267251149652295?a=GEmMNttwHLXr0mvyRsU&s=19",
+          "url": "https://t.me/dlmehr/6253"
+        }
+      ]
+    },
+    {
+      "id": 6264,
+      "date": "2026-11-03T05:05:57+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6264",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — A shared post quotes Sam Altman saying the next GPT, used by 10,000 agents in a four-day Navier–Stokes run, will launch soon; Video: FULL: Sam Altman Announces OpenAI Partnership With ADNOC & G42 to Transform Energy Operations | AC1B.",
+          "url": "https://t.me/dlmehr/6253"
+        },
+        {
+          "title": "2 — DeepSeek Harness introduced Creator Mode, saying users can turn ideas into plugins such as design workspaces, sandbox games and 3D LLM visualizers.",
+          "url": "https://t.me/dlmehr/6254"
+        },
+        {
+          "title": "3 — Tutor Intelligence announced a $75 million Series B led by a16z to expand human-guided robot deployments and model training, targeting over 1,000 robots under contract by end-2027.",
+          "url": "https://t.me/dlmehr/6255"
+        },
+        {
+          "title": "4 — OpenAI introduced LifeVal, a benchmark informed by thousands of ChatGPT users to evaluate everyday assistance with childcare, government services and personal finances.",
+          "url": "https://t.me/dlmehr/6256"
+        },
+        {
+          "title": "5 — Cyclon says it is building an AI phone that uses existing apps, creates missing ones and handles tasks in the background.",
+          "url": "https://t.me/dlmehr/6257"
+        },
+        {
+          "title": "6 — Polymarket claims Anthropic reported $17 billion in Q3 revenue, up over 1,100% year over year, ahead of a potential IPO.",
+          "url": "https://t.me/dlmehr/6258"
+        },
+        {
+          "title": "7 — Researchers report GPT-6 Astra edited 0.016% of Qwen3.5-0.8B’s weights without training, raising MATH-500 accuracy from 7.9% to 48.1% and tripling IFEval performance.",
+          "url": "https://t.me/dlmehr/6259"
+        },
+        {
+          "title": "8 — Claude Developers announced a public beta of Messages API threads, which cache conversations server-side so clients send only new messages and the previous message ID.",
+          "url": "https://t.me/dlmehr/6260"
+        },
+        {
+          "title": "9 — Anthropic opened applications through November 22 for paid research residencies lasting six weeks to six months for established technical leaders, with no machine-learning background required.",
+          "url": "https://t.me/dlmehr/6261"
+        },
+        {
+          "title": "10 — Adam Karvonen disputes the claim that Astra natively read Qwen’s weights, suggesting it instead used code and standard interpretability techniques to identify and remove a looping direction.",
+          "url": "https://t.me/dlmehr/6262"
+        },
+        {
+          "title": "11 — OpenAI says its Pando Git backend cut monorepo push latency by about 80% and serves nearly a petabyte daily while preserving engineers’ and agents’ Git workflows.",
+          "url": "https://t.me/dlmehr/6263"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/choblin29/status/2117267251149652295?a=GEmMNttwHLXr0mvyRsU&s=19",
+          "url": "https://t.me/dlmehr/6253"
+        }
+      ]
+    },
     {
       "id": 6252,
       "date": "2026-11-02T05:08:35+00:00",
