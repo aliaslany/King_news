@@ -1,6 +1,208 @@
 {
-  "updatedAt": "2026-11-03T12:46:42.825559+00:00",
+  "updatedAt": "2026-11-04T12:58:45.496688+00:00",
   "news": [
+    {
+      "id": 6290,
+      "date": "2026-11-04T05:09:37+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6290",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گفته آزمایشگر، مدل Opus 5.5 با ویرایش مستقیم بخش ناچیزی از وزن‌های Qwen، بدون آموزش، پاسخ‌های درست ریاضی را افزایش داد.",
+          "url": "https://t.me/dlmehr/6266"
+        },
+        {
+          "title": "۲ — پژوهشگران استنفورد می‌گویند RoboArchitect با بازنویسی کد کنترل و بدون تغییر وزن‌ها، موفقیت ربات در صحنه‌های جدید را از ۹٫۷ به ۴۳٫۳ درصد رساند.",
+          "url": "https://t.me/dlmehr/6267"
+        },
+        {
+          "title": "۳ — به‌گفته منتشرکننده، همکاری با Heygen امکان ساخت ۱۰۰ ویدئوی رایگان را برای کاربران رایگان فراهم کرده است.",
+          "url": "https://t.me/dlmehr/6268"
+        },
+        {
+          "title": "۴ — الکس کرنتسل مدعی بازتولید نتایج برنامه‌نویسی فضای وزن شد و آن را قابلیتی نوظهور در تازه‌ترین مدل‌ها دانست.",
+          "url": "https://t.me/dlmehr/6269"
+        },
+        {
+          "title": "۵ — مسئول تیمی در OpenAI به متقاضیان توصیه کرد رزومه را کوتاه، مرتبط، نتیجه‌محور و قابل مرور سریع بنویسند.",
+          "url": "https://t.me/dlmehr/6270"
+        },
+        {
+          "title": "۶ — طبق گزارش بایننس، مصاحبه استخدامی جعلی، ابزار توسعه آلوده و سوءاستفاده از ابزار هوش مصنوعی داخلی، مسیر نفوذ به سامانه کیف پول شدند.",
+          "url": "https://t.me/dlmehr/6271"
+        },
+        {
+          "title": "۷ — بایننس اعلام کرد حادثه امنیتی ۶٫۳۴ میلیارد دلار دارایی را درگیر کرده، ۲٫۸۵ میلیارد دلار مسدود یا رهگیری شده و زیان کاربران را جبران می‌کند.",
+          "url": "https://t.me/dlmehr/6272"
+        },
+        {
+          "title": "۸ — ترجمه گزارش بایننس شرح می‌دهد که مهاجم با رایانه آلوده و اعتبارنامه‌های سرقت‌شده، کانتینری برای حمله به عملیات امضای کیف پول مستقر کرد.",
+          "url": "https://t.me/dlmehr/6276"
+        },
+        {
+          "title": "۹ — تیم Claude از اتصال خودکار افزونه‌ها هنگام ورود، برای سرورهای MCP پذیرنده این سرویس به‌عنوان صادرکننده مورداعتماد، خبر داد.",
+          "url": "https://t.me/dlmehr/6277"
+        },
+        {
+          "title": "۱۰ — شرکت OpenAI پیشرفت کاربرد ChatGPT و Codex در طراحی مکانیکی، مهندسی برق و شبیه‌سازی را گزارش کرد.",
+          "url": "https://t.me/dlmehr/6278"
+        },
+        {
+          "title": "۱۱ — اندرو کرن معتقد است جست‌وجوی گوگل حتی بدون فعال‌کردن حالت هوش مصنوعی به Gemini متکی است و شکل قدیمی آن دیگر وجود ندارد.",
+          "url": "https://t.me/dlmehr/6279"
+        },
+        {
+          "title": "۱۲ — سرویس ChatGPT اعلام کرد قابلیت صوتی به بخش مالی افزوده شده تا کاربران پس از اتصال حساب‌ها درباره هزینه و پس‌انداز گفت‌وگو کنند.",
+          "url": "https://t.me/dlmehr/6280"
+        },
+        {
+          "title": "۱۳ — اپل پیش‌نمایش اتصال برنامه‌های همه توسعه‌دهندگان به Siri AI را با امکان اجرای کنش‌های سفارشی و ترکیب چند کنش معرفی کرد.",
+          "url": "https://t.me/dlmehr/6281"
+        },
+        {
+          "title": "۱۴ — شرکت Anthropic ابزار متن‌باز FlashProve را برای اثبات رمزنگاری‌شده تولید پاسخ توسط مدلی مشخص، بدون افشای وزن‌های آن، معرفی کرد.",
+          "url": "https://t.me/dlmehr/6282"
+        },
+        {
+          "title": "۱۵ — گوگل اعلام کرد Gemini، دفترچه آن و جست‌وجو در مدارس پیش‌فرض خاموش خواهند بود و مدارس می‌توانند هرکدام را جداگانه فعال کنند.",
+          "url": "https://t.me/dlmehr/6283"
+        },
+        {
+          "title": "۱۶ — به‌نقل از رویترز، دسترسی گسترده به مخزن کد OpenAI نگرانی امنیتی کارکنان را برانگیخته؛ شرکت می‌گوید وزن‌ها و بسیاری از حساس‌ترین پروژه‌ها جدا هستند.",
+          "url": "https://t.me/dlmehr/6284"
+        },
+        {
+          "title": "۱۷ — نویسنده پست مدعی شد fable وزن‌های مدلی ۱۰۰هزارپارامتری برای تشخیص ارجاعات حقوقی جعلی را مستقیماً نوشت و از آموزش بهتر نتیجه گرفت.",
+          "url": "https://t.me/dlmehr/6285"
+        },
+        {
+          "title": "۱۸ — سازندگان از بازسازی متن‌باز هسته پردازشی واحدی خبر دادند که هم‌زمان مدل زبانی را آموزش می‌دهد، پاسخ‌گویی می‌کند و Doom را اجرا می‌کند.",
+          "url": "https://t.me/dlmehr/6286"
+        },
+        {
+          "title": "۱۹ — نشریه کوبیسی از رشد بیش از ۶ درصدی سهام AMD پس از سود فراتر از انتظار ناشی از تقاضای هوش مصنوعی خبر داد.",
+          "url": "https://t.me/dlmehr/6287"
+        },
+        {
+          "title": "۲۰ — سم آلتمن گفت انسان‌ها نباید کنترل آینده را به ابرهوش واگذار کنند و حفظ این کنترل باید پیشرفت هوش مصنوعی را محدود کند.",
+          "url": "https://t.me/dlmehr/6288"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/zengjiajun_eth/status/2117409198686216574?a=kyhwJ__J3-b8cAjj8D0&s=19",
+          "url": "https://t.me/dlmehr/6266"
+        }
+      ]
+    },
+    {
+      "id": 6289,
+      "date": "2026-11-04T05:07:11+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6289",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Zeng Jiajun reports Opus 5.5 improved Qwen math accuracy by editing tiny portions of its weights without training.",
+          "url": "https://t.me/dlmehr/6266"
+        },
+        {
+          "title": "2 — Stanford researchers report RoboArchitect raised robot success on unseen scenes from 9.7% to 43.3% by rewriting control code, not weights.",
+          "url": "https://t.me/dlmehr/6267"
+        },
+        {
+          "title": "3 — Davidim announced a Heygen partnership offering 100 video generations free to all free users.",
+          "url": "https://t.me/dlmehr/6268"
+        },
+        {
+          "title": "4 — Alex Krentsel reports reproducing weight-space programming results, calling it a capability emerging in the latest models.",
+          "url": "https://t.me/dlmehr/6269"
+        },
+        {
+          "title": "5 — An OpenAI team member advises applicants to submit concise, relevant, easily skimmed CVs emphasizing impact.",
+          "url": "https://t.me/dlmehr/6270"
+        },
+        {
+          "title": "6 — Binance's attack account describes fake interviews, malicious developer tools and compromised internal AI tooling enabling wallet access.",
+          "url": "https://t.me/dlmehr/6271"
+        },
+        {
+          "title": "7 — Binance says its October 29 breach affected $6.34 billion, with $2.85 billion frozen or intercepted and losses covered by the company.",
+          "url": "https://t.me/dlmehr/6272"
+        },
+        {
+          "title": "8 — A translated Binance account says attackers used stolen deployment credentials after spreading through an internal AI tool to reach wallet operations.",
+          "url": "https://t.me/dlmehr/6276"
+        },
+        {
+          "title": "9 — Claude Developers says plugins can auto-connect at login through MCP servers accepting Claude as a trusted issuer.",
+          "url": "https://t.me/dlmehr/6277"
+        },
+        {
+          "title": "10 — OpenAI reports using ChatGPT and Codex for mechanical design, electrical engineering and simulation with hardware teams and industry partners.",
+          "url": "https://t.me/dlmehr/6278"
+        },
+        {
+          "title": "11 — Andrew Curran argues Google Search now relies on Gemini even when users do not enable AI Mode.",
+          "url": "https://t.me/dlmehr/6279"
+        },
+        {
+          "title": "12 — OpenAI says ChatGPT Voice now supports Finances, letting users discuss spending and savings using connected accounts.",
+          "url": "https://t.me/dlmehr/6280"
+        },
+        {
+          "title": "13 — Apple announced a Siri AI developer preview in its 27.3 OS betas, opening app integration through App Intents and multi-action skills.",
+          "url": "https://t.me/dlmehr/6281"
+        },
+        {
+          "title": "14 — Anthropic released FlashProve, an open-source research prototype for cryptographically verifying which model generated an answer without revealing weights.",
+          "url": "https://t.me/dlmehr/6282"
+        },
+        {
+          "title": "15 — Google says Gemini, Gemini Notebook and Search will default off for K–12 schools, with individual opt-ins and guided-learning Search features.",
+          "url": "https://t.me/dlmehr/6283"
+        },
+        {
+          "title": "16 — Rohan Paul cites Reuters on staff concerns over broad OpenAI code access; OpenAI says weights and much sensitive work are stored separately.",
+          "url": "https://t.me/dlmehr/6284"
+        },
+        {
+          "title": "17 — Jacsebl claims Fable hand-wrote a 100,000-parameter model to distinguish real from fake legal citations, outperforming training.",
+          "url": "https://t.me/dlmehr/6285"
+        },
+        {
+          "title": "18 — Arnold Xu announced an open-source recreation of a GPU megakernel that simultaneously trains a language model, serves it and runs Doom.",
+          "url": "https://t.me/dlmehr/6286"
+        },
+        {
+          "title": "19 — Kobeissi Letter reports AMD rose over 6% after hours following better-than-expected earnings driven by AI demand.",
+          "url": "https://t.me/dlmehr/6287"
+        },
+        {
+          "title": "20 — Sam Altman says preserving human control, rather than yielding to superintelligence, should constrain AI progress.",
+          "url": "https://t.me/dlmehr/6288"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/zengjiajun_eth/status/2117409198686216574?a=kyhwJ__J3-b8cAjj8D0&s=19",
+          "url": "https://t.me/dlmehr/6266"
+        }
+      ]
+    },
     {
       "id": 6265,
       "date": "2026-11-03T05:08:08+00:00",
