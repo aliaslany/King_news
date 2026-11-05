@@ -1,6 +1,248 @@
 {
-  "updatedAt": "2026-11-04T12:58:45.496688+00:00",
+  "updatedAt": "2026-11-05T13:10:19.644525+00:00",
   "news": [
+    {
+      "id": 6318,
+      "date": "2026-11-05T05:09:04+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6318",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش واچرگورو، کوالکام برای ساخت شبکه سراسری نسل پنجم با اسپیس‌ایکس قرارداد چندساله بست.",
+          "url": "https://t.me/dlmehr/6291"
+        },
+        {
+          "title": "۲ — نظرسنجی a16z می‌گوید داده‌های پوشیدنی‌ها برای ۵۵٪ کاربران به تغییر رفتار یا مراجعه پزشکی نینجامیده است.",
+          "url": "https://t.me/dlmehr/6292"
+        },
+        {
+          "title": "۳ — سازندگان Mint Modeler مدل هدفون اپل را با قطعات و مواد مستقل نمایش دادند.",
+          "url": "https://t.me/dlmehr/6293"
+        },
+        {
+          "title": "۴ — شرکت OpenAI از برنامه خرید Pierre برای توسعه همکاری تیمی در Codex خبر داد.",
+          "url": "https://t.me/dlmehr/6294"
+        },
+        {
+          "title": "۵ — شرکت Axiom می‌گوید پروژه ریاضی Stacks را در ۱۶ میلیون خط کد Lean صورت‌بندی رسمی کرده است.",
+          "url": "https://t.me/dlmehr/6295"
+        },
+        {
+          "title": "۶ — شرکت مون‌شات وزن‌های مدل چندوجهی Kimi K3.1 Pro با پنجره یک‌میلیون‌توکنی را منتشر کرد.",
+          "url": "https://t.me/dlmehr/6296"
+        },
+        {
+          "title": "۷ — شرکت Ricursive مدل Ripple-65B Preview را با ادعای رکورد کدنویسی عامل‌محور میان مدل‌های وزن‌باز آمریکایی منتشر کرد.",
+          "url": "https://t.me/dlmehr/6297"
+        },
+        {
+          "title": "۸ — گوگل ابزار کنترل رایانه در رابط برنامه‌نویسی Gemini را به عرضه عمومی رساند.",
+          "url": "https://t.me/dlmehr/6298"
+        },
+        {
+          "title": "۹ — چارلی هولتز از پیوستن Conductor به متا برای ساخت رابط کاربری بعدی خبر داد.",
+          "url": "https://t.me/dlmehr/6299"
+        },
+        {
+          "title": "۱۰ — شرکت Pangram مدعی تشخیص ۹۹٫۲٪ تصاویر هوش مصنوعی با نرخ مثبت کاذب ۰٫۲۷٪ در مدل جدیدش شد.",
+          "url": "https://t.me/dlmehr/6300"
+        },
+        {
+          "title": "۱۱ — پژوهش انویدیا نشان می‌دهد فشرده‌سازی مکرر زمینه در بسیاری از آزمون‌ها افت دقت ناچیزی دارد.",
+          "url": "https://t.me/dlmehr/6301"
+        },
+        {
+          "title": "۱۲ — گوگل چارچوب Agile Deliberation را برای تعریف تعاملی دسته‌های ذهنی و بهبود طبقه‌بندی تصاویر معرفی کرد.",
+          "url": "https://t.me/dlmehr/6302"
+        },
+        {
+          "title": "۱۳ — به‌گفته گوگل، پروژه‌ای با EmbeddingGemma 2 متن و تصویر را محلی در حدود ۲۰ و ۱۰۰ میلی‌ثانیه طبقه‌بندی می‌کند.",
+          "url": "https://t.me/dlmehr/6303"
+        },
+        {
+          "title": "۱۴ — آنتروپیک از تعیین نخستین ساختار سه‌بعدی ذره والت منشأگرفته از فاژ با کمک Claude خبر داد.",
+          "url": "https://t.me/dlmehr/6304"
+        },
+        {
+          "title": "۱۵ — شرکت Cognition مدل کدنویسی SWE-2 Flash را با برنامه اشتراک‌گذاری امن وزن‌ها با پژوهشگران معرفی کرد.",
+          "url": "https://t.me/dlmehr/6305"
+        },
+        {
+          "title": "۱۶ — سازندگان Atmee v2 می‌گویند این مدل با یک تصویر و ۱۰ ثانیه صدا، آواتار زنده می‌سازد.",
+          "url": "https://t.me/dlmehr/6306"
+        },
+        {
+          "title": "۱۷ — نوشن امکان استفاده عامل‌های ChatGPT، Claude، Muse و Bot از حافظه و مهارت‌های مشترک را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6307"
+        },
+        {
+          "title": "۱۸ — شرکت OpenAI مدل‌های GPT-Image-2.6 را با ادعای تولید تصویر ۵۰٪ سریع‌تر به Codex و رابط برنامه‌نویسی آورد.",
+          "url": "https://t.me/dlmehr/6308"
+        },
+        {
+          "title": "۱۹ — شرکت OpenAI می‌گوید سامانه خودکارش ۹۴۸ آسیب‌پذیری ارتقای دسترسی محلی هسته لینوکس را تأیید و برایشان وصله تولید کرد.",
+          "url": "https://t.me/dlmehr/6309"
+        },
+        {
+          "title": "۲۰ — سازندگان Yam بازی‌های عاشقانه هوش مصنوعی ویژه زنان را با ادعای حدود یک‌میلیون ساعت استفاده آزمایشی معرفی کردند.",
+          "url": "https://t.me/dlmehr/6310"
+        },
+        {
+          "title": "۲۱ — سازندگان JITEngine از موتورهای اختصاصی اجرای مدل روی مک با سرعت تا ۲٫۷ برابر گزینه‌های آزموده‌شده خبر دادند.",
+          "url": "https://t.me/dlmehr/6311"
+        },
+        {
+          "title": "۲۲ — شایان طلایی نمایش سه‌بعدی معماری ۸۰لایه‌ای Ripple-65B Preview و روش بازتزریق اطلاعات توکن را ارائه کرد.",
+          "url": "https://t.me/dlmehr/6313"
+        },
+        {
+          "title": "۲۳ — به‌روایت روهان پل از پژوهش استنفورد، تکرار برچسب‌ها یادگیری درون‌متنی را برای دسته‌های قابل‌تشخیص مدل تقویت می‌کند.",
+          "url": "https://t.me/dlmehr/6314"
+        },
+        {
+          "title": "۲۴ — پیتر ناتر مدعی شد Kimi K3.1 Pro آزمون‌های پنهان را به یاد می‌آورد و گاهی متن رمزگونه جعلی می‌فرستد.",
+          "url": "https://t.me/dlmehr/6315"
+        },
+        {
+          "title": "۲۵ — پژوهشگران چارچوب J2G را برای سنجش ارزش اقتصادی هوش مصنوعی به‌ازای انرژی مصرفی معرفی کردند.",
+          "url": "https://t.me/dlmehr/6316"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/WatcherGuru/status/2117985954531254647?a=4kDaz3zf4A_AhRUQh_E&s=19",
+          "url": "https://t.me/dlmehr/6291"
+        }
+      ]
+    },
+    {
+      "id": 6317,
+      "date": "2026-11-05T05:07:05+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6317",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — WatcherGuru reports Qualcomm signed a multiyear deal to help SpaceX build a nationwide 5G network.",
+          "url": "https://t.me/dlmehr/6291"
+        },
+        {
+          "title": "2 — a16z says 55% of surveyed wearable users have never changed behavior or visited a doctor because of their data.",
+          "url": "https://t.me/dlmehr/6292"
+        },
+        {
+          "title": "3 — Mint showcases Apple headphone models with separately modeled parts and materials in Mint Modeler.",
+          "url": "https://t.me/dlmehr/6293"
+        },
+        {
+          "title": "4 — OpenAI announced plans to acquire Pierre to expand collaborative software development in Codex.",
+          "url": "https://t.me/dlmehr/6294"
+        },
+        {
+          "title": "5 — Axiom says it formalized the entire Stacks Project in Lean with 16 million lines of machine-checkable mathematics.",
+          "url": "https://t.me/dlmehr/6295"
+        },
+        {
+          "title": "6 — Moonshot released Kimi K3.1 Pro weights, describing a multimodal model with a million-token context.",
+          "url": "https://t.me/dlmehr/6296"
+        },
+        {
+          "title": "7 — Ricursive released Ripple-65B Preview, claiming leading US open-weight agentic coding performance.",
+          "url": "https://t.me/dlmehr/6297"
+        },
+        {
+          "title": "8 — Google says the Gemini API computer-use tool is generally available without breaking preview compatibility.",
+          "url": "https://t.me/dlmehr/6298"
+        },
+        {
+          "title": "9 — Charlie Holtz announced Conductor is joining Meta to build a new interface with its MSL team.",
+          "url": "https://t.me/dlmehr/6299"
+        },
+        {
+          "title": "10 — Pangram claims Image 1.0 detects 99.2% of AI-generated images with a 0.27% false-positive rate.",
+          "url": "https://t.me/dlmehr/6300"
+        },
+        {
+          "title": "11 — NVIDIA researchers report frequent context compaction preserves accuracy on many long-running agent tasks.",
+          "url": "https://t.me/dlmehr/6301"
+        },
+        {
+          "title": "12 — Google introduced Agile Deliberation to help users define subjective categories and refine image classifiers.",
+          "url": "https://t.me/dlmehr/6302"
+        },
+        {
+          "title": "13 — Google highlights an EmbeddingGemma 2 classifier processing text locally in about 20ms and images in 100ms.",
+          "url": "https://t.me/dlmehr/6303"
+        },
+        {
+          "title": "14 — Anthropic says Claude helped map a phage-derived vault particle's 3D structure; its function remains unknown.",
+          "url": "https://t.me/dlmehr/6304"
+        },
+        {
+          "title": "15 — Cognition introduced SWE-2 Flash and plans controlled weight sharing with partners and researchers.",
+          "url": "https://t.me/dlmehr/6305"
+        },
+        {
+          "title": "16 — Yuchen Ping launched Atmee v2, saying it creates live avatars from one image and ten seconds of audio.",
+          "url": "https://t.me/dlmehr/6306"
+        },
+        {
+          "title": "17 — Notion says ChatGPT, Claude, Muse and Bot can now share memories and skills through its platform.",
+          "url": "https://t.me/dlmehr/6307"
+        },
+        {
+          "title": "18 — OpenAI brought GPT-Image-2.6 to Codex and its API, claiming 50% faster image generation.",
+          "url": "https://t.me/dlmehr/6308"
+        },
+        {
+          "title": "19 — OpenAI says an upcoming cyber model validated and generated patches for 948 Linux kernel flaws at $1.2M API cost.",
+          "url": "https://t.me/dlmehr/6309"
+        },
+        {
+          "title": "20 — Yam promotes AI romance games for women, reporting about one million collective hours of beta play.",
+          "url": "https://t.me/dlmehr/6310"
+        },
+        {
+          "title": "21 — JITEngine reports custom Apple Silicon inference engines reaching 2.7 times tested alternatives' speed.",
+          "url": "https://t.me/dlmehr/6311"
+        },
+        {
+          "title": "22 — Shayan Talaei shared a 3D Ripple-65B visualization explaining how value residuals retain token information.",
+          "url": "https://t.me/dlmehr/6313"
+        },
+        {
+          "title": "23 — Rohan Paul reports Stanford research links small-model in-context learning to repeated labels and known features.",
+          "url": "https://t.me/dlmehr/6314"
+        },
+        {
+          "title": "24 — Peter Nutter alleges Kimi K3.1 Pro recalls hidden benchmark tests and sometimes emits fake OpenAI ciphertext.",
+          "url": "https://t.me/dlmehr/6315"
+        },
+        {
+          "title": "25 — Joules-to-GDP researchers propose measuring AI's economic value per unit of energy and introduce GDPWorks.",
+          "url": "https://t.me/dlmehr/6316"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/WatcherGuru/status/2117985954531254647?a=4kDaz3zf4A_AhRUQh_E&s=19",
+          "url": "https://t.me/dlmehr/6291"
+        }
+      ]
+    },
     {
       "id": 6290,
       "date": "2026-11-04T05:09:37+00:00",
