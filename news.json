@@ -1,6 +1,320 @@
 {
-  "updatedAt": "2026-11-05T13:10:19.644525+00:00",
+  "updatedAt": "2026-11-06T12:55:40.856355+00:00",
   "news": [
+    {
+      "id": 6355,
+      "date": "2026-11-06T05:09:10+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6355",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — پژوهش استنفورد، میانه سن تأسیس‌کنندگان یونیکورن‌ها را ۳۴ سال یافت.",
+          "url": "https://t.me/dlmehr/6319"
+        },
+        {
+          "title": "۲ — وال‌استریت‌ژورنال: انتخابات ممکن است برنامه مراکز داده OpenAI را عقب بیندازد.",
+          "url": "https://t.me/dlmehr/6320"
+        },
+        {
+          "title": "۳ — ادعای کیمون: مدل‌های GPT-6.2 Sol و Astra روی ابر گوگل مستقر شده‌اند.",
+          "url": "https://t.me/dlmehr/6321"
+        },
+        {
+          "title": "۴ — حلقه نمایشگردار Aina با پیشنهادهای هوشمند و کنترل صوتی پیش‌فروش شد.",
+          "url": "https://t.me/dlmehr/6322"
+        },
+        {
+          "title": "۵ — کوچایف کتاب نیتن درباره پس‌آموزش را برای مصاحبه شغلی توصیه کرد.",
+          "url": "https://t.me/dlmehr/6323"
+        },
+        {
+          "title": "۶ — سریدهار برای حل پنج چالش علم مواد، یک میلیون دلار جایزه اعلام کرد.",
+          "url": "https://t.me/dlmehr/6324"
+        },
+        {
+          "title": "۷ — گوگل سامانه تشخیص نشانه‌های پرفشاری خون با حسگر ساعت را معرفی کرد.",
+          "url": "https://t.me/dlmehr/6325"
+        },
+        {
+          "title": "۸ — شرکت OpenAI مدل امنیتی GPT-6 Cyber را با دسترسی محدود عرضه کرد.",
+          "url": "https://t.me/dlmehr/6326"
+        },
+        {
+          "title": "۹ — گوگل در Gemini Omni 1.2 Flash ویدئوی ۱۵ثانیه‌ای و کاهش قیمت ارائه داد.",
+          "url": "https://t.me/dlmehr/6327"
+        },
+        {
+          "title": "۱۰ — به‌گفته جیم فن، VFlash استنتاج ربات را تا ۵٫۱ برابر سریع‌تر می‌کند.",
+          "url": "https://t.me/dlmehr/6328"
+        },
+        {
+          "title": "۱۱ — شرکت Zipline از جذب ۱٫۵ میلیارد دلار با ارزش‌گذاری ۲۱٫۵ میلیاردی خبر داد.",
+          "url": "https://t.me/dlmehr/6329"
+        },
+        {
+          "title": "۱۲ — شرکت Perplexity عامل‌های همکار را برای مشترکان Max عرضه کرد.",
+          "url": "https://t.me/dlmehr/6330"
+        },
+        {
+          "title": "۱۳ — شرکت Polemos از ساخت سامانه‌های حمله انبوه با هدایت هوشمند خبر داد.",
+          "url": "https://t.me/dlmehr/6331"
+        },
+        {
+          "title": "۱۴ — میسترال عامل‌ها و برنامه‌های مدیریت‌شده را به Studio افزود.",
+          "url": "https://t.me/dlmehr/6332"
+        },
+        {
+          "title": "۱۵ — پژوهشگر ayoships مدعی سوگیری مدل‌های چهره تیک‌تاک علیه پوست تیره و سالمندان شد.",
+          "url": "https://t.me/dlmehr/6333"
+        },
+        {
+          "title": "۱۶ — قابلیت مالی Claude در آمریکا آزمایشی شد؛ دسترسی به حساب‌ها فقط خواندنی است.",
+          "url": "https://t.me/dlmehr/6334"
+        },
+        {
+          "title": "۱۷ — عامل Quest با حافظه شخصی و امکان کنترل گوشی اندرویدی معرفی شد.",
+          "url": "https://t.me/dlmehr/6335"
+        },
+        {
+          "title": "۱۸ — وانگ از دسترسی عمومی تماس صوتی و تصویری Muse در آمریکا خبر داد.",
+          "url": "https://t.me/dlmehr/6336"
+        },
+        {
+          "title": "۱۹ — ارزیابی METR از شتاب احتمالی دو تا سه‌برابری توسعه در Anthropic حکایت دارد.",
+          "url": "https://t.me/dlmehr/6337"
+        },
+        {
+          "title": "۲۰ — گزارش ویزا میانگین موفقیت عامل‌های خرید را ۵۷٫۲ درصد اعلام کرد.",
+          "url": "https://t.me/dlmehr/6338"
+        },
+        {
+          "title": "۲۱ — شرکت OpenAI تعهداتی برای مشارکت و منفعت جوامع میزبان زیرساخت اعلام کرد.",
+          "url": "https://t.me/dlmehr/6339"
+        },
+        {
+          "title": "۲۲ — به‌گفته کرن، مدل داخلی تازه Anthropic در همه آزمون‌هایش از ۵۰٪ گذشت.",
+          "url": "https://t.me/dlmehr/6340"
+        },
+        {
+          "title": "۲۳ — بلومبرگ: فروشنده‌ای ناشناس قصد فروش ۵۰۰ میلیون دلار وام مراکز داده دارد.",
+          "url": "https://t.me/dlmehr/6341"
+        },
+        {
+          "title": "۲۴ — شرکت World Labs دموی کاوش بلادرنگ جهان‌های Atlas به‌نام Frameboy را عرضه کرد.",
+          "url": "https://t.me/dlmehr/6342"
+        },
+        {
+          "title": "۲۵ — رویترز: آمریکا درباره تهدید سایبری مستمر علیه سامانه‌های سرمایش صنعتی هشدار داد.",
+          "url": "https://t.me/dlmehr/6343"
+        },
+        {
+          "title": "۲۶ — پومپلیانو Anthropic را به تلاش برای کسب اسرار Silvia جهت رقابت متهم کرد.",
+          "url": "https://t.me/dlmehr/6344"
+        },
+        {
+          "title": "۲۷ — آزمون ShadowBench توان مدل‌ها در بازسازی سایه‌بازی با دست سه‌بعدی را می‌سنجد.",
+          "url": "https://t.me/dlmehr/6345"
+        },
+        {
+          "title": "۲۸ — دوارکش از بهبود بلوف‌زنی و استدلال گروهی مدل‌ها در بازی Clocktower خبر داد.",
+          "url": "https://t.me/dlmehr/6346"
+        },
+        {
+          "title": "۲۹ — برینیولفسون رشد سالانه‌شده بهره‌وری فصل اخیر آمریکا را ۳٫۶ درصد گزارش کرد.",
+          "url": "https://t.me/dlmehr/6347"
+        },
+        {
+          "title": "۳۰ — مصطفی سلیمان نسبت به طرح دلاور برای اداره شرکت‌ها توسط عامل‌ها ابراز نگرانی کرد.",
+          "url": "https://t.me/dlmehr/6348"
+        },
+        {
+          "title": "۳۱ — شرکت Serve Robotics عرضه ابزارهای اتصال و داده به دیگر ربات‌سازان را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6349"
+        },
+        {
+          "title": "۳۲ — سازندگان Hyperkernel مگاکرنل‌های تولیدشده برای افزایش کارایی پردازنده گرافیکی را متن‌باز کردند.",
+          "url": "https://t.me/dlmehr/6350"
+        },
+        {
+          "title": "۳۳ — مدل Inkling 2 Small روی Tinker عرضه شد؛ انتشار وزن‌ها برای بعد برنامه‌ریزی شده است.",
+          "url": "https://t.me/dlmehr/6351"
+        },
+        {
+          "title": "۳۴ — معیار DeepFinance با ۲۱ مسئله مبتنی بر معاملات واقعی برای سنجش کار مالی معرفی شد.",
+          "url": "https://t.me/dlmehr/6353"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/ilyastrebulaev/status/2118100980571242894?a=zQgqmHADYW43pJo6pxE&s=52",
+          "url": "https://t.me/dlmehr/6319"
+        }
+      ]
+    },
+    {
+      "id": 6354,
+      "date": "2026-11-06T05:06:56+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6354",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Stanford researchers put unicorn founders' median starting age at 34.",
+          "url": "https://t.me/dlmehr/6319"
+        },
+        {
+          "title": "2 — WSJ: OpenAI may revise 2027 data-center plans after election setbacks.",
+          "url": "https://t.me/dlmehr/6320"
+        },
+        {
+          "title": "3 — Kimmonismus claims GPT-6.2 Sol and Astra reached Google Cloud.",
+          "url": "https://t.me/dlmehr/6321"
+        },
+        {
+          "title": "4 — Aina opens preorders for a screen-equipped ring offering AI suggestions.",
+          "url": "https://t.me/dlmehr/6322"
+        },
+        {
+          "title": "5 — Kuchaev recommends Nathan's RLHF book for post-training interviews.",
+          "url": "https://t.me/dlmehr/6323"
+        },
+        {
+          "title": "6 — Sridhar announces $1M in prizes for five materials-science challenges.",
+          "url": "https://t.me/dlmehr/6324"
+        },
+        {
+          "title": "7 — Google reports smartwatch AI detecting hypertension without cuff calibration.",
+          "url": "https://t.me/dlmehr/6325"
+        },
+        {
+          "title": "8 — OpenAI launches GPT-6 Cyber for select Daybreak Red customers.",
+          "url": "https://t.me/dlmehr/6326"
+        },
+        {
+          "title": "9 — Google says Omni 1.2 Flash enables 15-second videos and cuts API prices 30%.",
+          "url": "https://t.me/dlmehr/6327"
+        },
+        {
+          "title": "10 — Jim Fan reports VFlash speeds robot inference up to 5.1-fold.",
+          "url": "https://t.me/dlmehr/6328"
+        },
+        {
+          "title": "11 — Zipline's Keller announces a $1.5B raise at a $21.5B valuation.",
+          "url": "https://t.me/dlmehr/6329"
+        },
+        {
+          "title": "12 — Perplexity launches proactive, collaborating Teammates for Max users.",
+          "url": "https://t.me/dlmehr/6330"
+        },
+        {
+          "title": "13 — Polemos says it is building mass-produced, AI-guided precision weapons.",
+          "url": "https://t.me/dlmehr/6331"
+        },
+        {
+          "title": "14 — Mistral adds managed agents, apps and evaluation tools to Studio.",
+          "url": "https://t.me/dlmehr/6332"
+        },
+        {
+          "title": "15 — Ayoships alleges TikTok face models show age and skin-tone biases.",
+          "url": "https://t.me/dlmehr/6333"
+        },
+        {
+          "title": "16 — Claude launches a US personal-finance beta with read-only account access.",
+          "url": "https://t.me/dlmehr/6334"
+        },
+        {
+          "title": "17 — Quest pitches a personal agent with extensive memory and phone control.",
+          "url": "https://t.me/dlmehr/6335"
+        },
+        {
+          "title": "18 — Wang announces Muse voice calls and video chats for US users.",
+          "url": "https://t.me/dlmehr/6336"
+        },
+        {
+          "title": "19 — Curran cites METR estimating Anthropic development accelerated 2–3-fold.",
+          "url": "https://t.me/dlmehr/6337"
+        },
+        {
+          "title": "20 — Moore cites Visa tests finding shopping agents average 57.2% success.",
+          "url": "https://t.me/dlmehr/6338"
+        },
+        {
+          "title": "21 — OpenAI announces community commitments for responsible AI infrastructure.",
+          "url": "https://t.me/dlmehr/6339"
+        },
+        {
+          "title": "22 — Curran says Anthropic's internal Model 4 cleared 50% on every tested benchmark.",
+          "url": "https://t.me/dlmehr/6340"
+        },
+        {
+          "title": "23 — Bloomberg reportedly identifies a seller auctioning $500M in data-center loans.",
+          "url": "https://t.me/dlmehr/6341"
+        },
+        {
+          "title": "24 — World Labs releases Frameboy, streaming interactive worlds at up to 15 fps.",
+          "url": "https://t.me/dlmehr/6342"
+        },
+        {
+          "title": "25 — Reuters reports a US cyber-threat warning for industrial refrigeration.",
+          "url": "https://t.me/dlmehr/6343"
+        },
+        {
+          "title": "26 — Pompliano alleges Anthropic sought Silvia's secrets before launching a rival.",
+          "url": "https://t.me/dlmehr/6344"
+        },
+        {
+          "title": "27 — ShadowBench tests AI posing 3D hands to reproduce shadow puppets.",
+          "url": "https://t.me/dlmehr/6345"
+        },
+        {
+          "title": "28 — Dwarkesh reports improved AI bluffing and deduction in Clocktower games.",
+          "url": "https://t.me/dlmehr/6346"
+        },
+        {
+          "title": "29 — Brynjolfsson reports US quarterly productivity grew at a 3.6% annual rate.",
+          "url": "https://t.me/dlmehr/6347"
+        },
+        {
+          "title": "30 — Suleyman warns against Delaware's proposal for AI-run companies.",
+          "url": "https://t.me/dlmehr/6348"
+        },
+        {
+          "title": "31 — TechCrunch reports Serve Robotics will sell connectivity and data tools.",
+          "url": "https://t.me/dlmehr/6349"
+        },
+        {
+          "title": "32 — Hyperstition releases Hyperkernel megakernels, claiming GPU efficiency gains.",
+          "url": "https://t.me/dlmehr/6350"
+        },
+        {
+          "title": "33 — Thinking Machines launches Inkling 2 Small on Tinker, with weights planned.",
+          "url": "https://t.me/dlmehr/6351"
+        },
+        {
+          "title": "34 — Julius Research releases DeepFinance's 21 demanding finance tasks.",
+          "url": "https://t.me/dlmehr/6353"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/ilyastrebulaev/status/2118100980571242894?a=zQgqmHADYW43pJo6pxE&s=52",
+          "url": "https://t.me/dlmehr/6319"
+        }
+      ]
+    },
     {
       "id": 6318,
       "date": "2026-11-05T05:09:04+00:00",
