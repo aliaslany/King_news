@@ -1,6 +1,200 @@
 {
-  "updatedAt": "2026-11-06T12:55:40.856355+00:00",
+  "updatedAt": "2026-11-07T11:42:23.763945+00:00",
   "news": [
+    {
+      "id": 6378,
+      "date": "2026-11-07T05:08:53+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6378",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — مؤسسه Laude اعلام کرد چهار آزمایشگاه در حوزه‌های مهارت‌آموزی، گفت‌وگوی مدنی، سلامت و علم، هرکدام ۱۰ میلیون دلار دریافت می‌کنند.",
+          "url": "https://t.me/dlmehr/6356"
+        },
+        {
+          "title": "۲ — شرکت Liquid Energy می‌گوید مرکز داده خورشیدی NanoDC برای استنتاج هوش مصنوعی، بدون اتصال به شبکه برق ظرف چهار هفته مستقر می‌شود.",
+          "url": "https://t.me/dlmehr/6357"
+        },
+        {
+          "title": "۳ — به‌گزارش کیمونیسموس، بایدو وزن‌های ERNIE-5.5-Flash-Base را با ۲۸۰ میلیارد پارامتر منتشر کرده؛ مجوز آن اتحادیه اروپا، بریتانیا و کره جنوبی را مستثنا می‌کند.",
+          "url": "https://t.me/dlmehr/6359"
+        },
+        {
+          "title": "۴ — شرکت LionBio از توسعه اسپری بینی GLP-1 با سرمایه‌گذاری پیش‌بذری ۶ میلیون دلاری SPC خبر داد.",
+          "url": "https://t.me/dlmehr/6360"
+        },
+        {
+          "title": "۵ — گروه Nio Robotics می‌گوید به ساخت چیزی نیاز داشته که بتواند به همه‌جا برود.",
+          "url": "https://t.me/dlmehr/6361"
+        },
+        {
+          "title": "۶ — شرکت PSI مدعی اثبات حدس آرونسون–آمباینیس با یک مدل غیرعمومی Anthropic و تأیید اثبات در Lean شد.",
+          "url": "https://t.me/dlmehr/6362"
+        },
+        {
+          "title": "۷ — متا از عرضه مدل‌های تخصصی با حافظه و تمرکز فعال در Muse و Meta AI برای حفظ اطلاعات مهم و عبور از موانع خبر داد.",
+          "url": "https://t.me/dlmehr/6363"
+        },
+        {
+          "title": "۸ — الکساندر وانگ اعلام کرد قابلیت Spaces در Muse با درخواست متنی فضای اختصاصی می‌سازد و آن را به‌روز نگه می‌دارد.",
+          "url": "https://t.me/dlmehr/6364"
+        },
+        {
+          "title": "۹ — تیم Claude می‌گوید نشست‌های ابری Claude Code نیازهای محیط پروژه را شناسایی و ذخیره می‌کنند و کلیدهای رابط برنامه‌نویسی از دید مدل پنهان می‌مانند.",
+          "url": "https://t.me/dlmehr/6365"
+        },
+        {
+          "title": "۱۰ — پژوهشگران در وبلاگ Anthropic توضیح دادند چگونه عامل‌های هوش مصنوعی با نوشتن، اجرا و اصلاح مدل‌های علمی، توضیح‌های سازگار با داده‌ها را بررسی می‌کنند.",
+          "url": "https://t.me/dlmehr/6366"
+        },
+        {
+          "title": "۱۱ — شرکت Anthropic می‌گوید «رؤیاپردازی» به Claude کمک می‌کند حافظه را بازسازمان‌دهی کند، اشتباهات را اصلاح کند و اطلاعات را آسان‌تر بیابد.",
+          "url": "https://t.me/dlmehr/6367"
+        },
+        {
+          "title": "۱۲ — شرکت OpenAI با همکاری Ligo معیار BioBasicsBench را با ۱۰۰ وظیفه آزمایشگاهی واقعی برای سنجش تحلیل داده و تشخیص خطا توسط عامل‌ها معرفی کرد.",
+          "url": "https://t.me/dlmehr/6368"
+        },
+        {
+          "title": "۱۳ — گوگل دیپ‌مایند از کشف دو ضعف در سامانه‌های قدیمی RSA با کلید ۱۰۲۴ بیتی به کمک عامل‌ها خبر داد و گفت این نتایج امنیت پروتکل‌های مدرن را مخدوش نمی‌کند.",
+          "url": "https://t.me/dlmehr/6369"
+        },
+        {
+          "title": "۱۴ — تیم ChatGPT عرضه Remix را برای حساب‌های تجاری و سازمانی آغاز کرد تا کاربران نسخه دلخواه یک وب‌سایت را در گفت‌وگو بسازند و ویرایش کنند.",
+          "url": "https://t.me/dlmehr/6370"
+        },
+        {
+          "title": "۱۵ — پژوهشگران Robocurve می‌گویند دست‌کاری ویدئو همه مدل‌های پیشروی آزمایش‌شده را به اقدام‌های خطرناک سوق داده و نرخ تلاش در برخی آزمون‌ها ۱۰۰ درصد بوده است.",
+          "url": "https://t.me/dlmehr/6371"
+        },
+        {
+          "title": "۱۶ — مؤسسه Nous Research مدل Arete-27B را معرفی کرد و گفت در ارزیابی خود، پاسخ‌های همسو با تبلیغات دولت چین از ۲۲ به ۱ درصد کاهش یافته‌اند.",
+          "url": "https://t.me/dlmehr/6372"
+        },
+        {
+          "title": "۱۷ — برت ادکاک درباره محتوای اشتراکی خود نوشت: «روزی تمام جهان چنین شکلی خواهد داشت».",
+          "url": "https://t.me/dlmehr/6373"
+        },
+        {
+          "title": "۱۸ — مت تیلور سخت‌افزار آشپزخانه Trepo را معرفی کرد که به‌گفته او نیازهای خانوار را می‌شناسد و خرید خودکار، ابتدا مواد غذایی، را ممکن می‌کند.",
+          "url": "https://t.me/dlmehr/6374"
+        },
+        {
+          "title": "۱۹ — به‌گفته اوله لمان، ربات Shinkei با خودکارسازی روش ژاپنی کشتن ماهی، طعم را بهبود می‌دهد و ماندگاری را تا سه برابر افزایش می‌دهد.",
+          "url": "https://t.me/dlmehr/6375"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/andykonwinski/status/2118462545354965148?a=Ophuj0MixAJGjZzNVt8&s=52",
+          "url": "https://t.me/dlmehr/6356"
+        }
+      ]
+    },
+    {
+      "id": 6377,
+      "date": "2026-11-07T05:06:38+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6377",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Laude announced four $10M research labs for workforce reskilling, civic discourse, healthcare and science.",
+          "url": "https://t.me/dlmehr/6356"
+        },
+        {
+          "title": "2 — Liquid Energy says its solar-powered NanoDC inference datacenters can deploy in four weeks without grid connections.",
+          "url": "https://t.me/dlmehr/6357"
+        },
+        {
+          "title": "3 — Kimmonismus reports Baidu released ERNIE-5.5-Flash-Base, a 280B MoE with 14B active parameters, excluding EU, UK and South Korean use.",
+          "url": "https://t.me/dlmehr/6359"
+        },
+        {
+          "title": "4 — LionBio's founder announced a GLP-1 nasal spray project backed by a $6M SPC pre-seed round.",
+          "url": "https://t.me/dlmehr/6360"
+        },
+        {
+          "title": "5 — NIO Robotics says it needed to build something that could go everywhere, without elaborating in the caption.",
+          "url": "https://t.me/dlmehr/6361"
+        },
+        {
+          "title": "6 — Physical Superintelligence claims a Lean-verified proof of the Aaronson-Ambainis conjecture using a non-public Anthropic model.",
+          "url": "https://t.me/dlmehr/6362"
+        },
+        {
+          "title": "7 — Meta announced specialized models for Muse and Meta AI with Active Memory and Active Focus to improve recall and task recovery.",
+          "url": "https://t.me/dlmehr/6363"
+        },
+        {
+          "title": "8 — Alexandr Wang announced Muse Spaces, chat-created pages that Muse keeps updated and users can pin to navigation.",
+          "url": "https://t.me/dlmehr/6364"
+        },
+        {
+          "title": "9 — Anthropic says Claude Code cloud sessions now configure and save repository environments, keeping API keys hidden from Claude.",
+          "url": "https://t.me/dlmehr/6365"
+        },
+        {
+          "title": "10 — Anthropic guest researchers describe AI agents building and comparing scientific models, while noting limited evidence on unsolved problems.",
+          "url": "https://t.me/dlmehr/6366"
+        },
+        {
+          "title": "11 — Anthropic describes how Claude's offline “dreaming” reorganizes memories, checks errors against transcripts and builds searchable wikis.",
+          "url": "https://t.me/dlmehr/6367"
+        },
+        {
+          "title": "12 — OpenAI introduced BioBasicsBench with Ligo: 100 real-experiment tasks testing agents' lab-data interpretation and error detection.",
+          "url": "https://t.me/dlmehr/6368"
+        },
+        {
+          "title": "13 — DeepMind reports AI-assisted weaknesses in legacy 1024-bit RSA systems, saying modern encryption remains unaffected.",
+          "url": "https://t.me/dlmehr/6369"
+        },
+        {
+          "title": "14 — OpenAI is rolling out Remix to ChatGPT Business and Enterprise, letting users copy and edit sites through chat.",
+          "url": "https://t.me/dlmehr/6370"
+        },
+        {
+          "title": "15 — Robocurve reports tampered video induced harmful actions in every frontier model tested, with 100% attempt rates on selected tasks.",
+          "url": "https://t.me/dlmehr/6371"
+        },
+        {
+          "title": "16 — Nous released Arete-27B, a Western-values Qwen fine-tune, reporting a drop from 22% to 1% on its Chinese-propaganda metric.",
+          "url": "https://t.me/dlmehr/6372"
+        },
+        {
+          "title": "17 — Brett Adcock predicts the entire world will someday resemble what he shared, without specifying details in the caption.",
+          "url": "https://t.me/dlmehr/6373"
+        },
+        {
+          "title": "18 — Trepo's founder introduced kitchen hardware intended to understand households and let agents shop automatically, starting with groceries.",
+          "url": "https://t.me/dlmehr/6374"
+        },
+        {
+          "title": "19 — Ole Lehmann says Shinkei uses AI robots to automate Japanese fish-processing techniques, improving taste and extending freshness.",
+          "url": "https://t.me/dlmehr/6375"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/andykonwinski/status/2118462545354965148?a=Ophuj0MixAJGjZzNVt8&s=52",
+          "url": "https://t.me/dlmehr/6356"
+        }
+      ]
+    },
     {
       "id": 6355,
       "date": "2026-11-06T05:09:10+00:00",
