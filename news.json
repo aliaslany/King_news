@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-11-07T11:42:23.763945+00:00",
+  "updatedAt": "2026-11-08T11:55:14.126808+00:00",
   "news": [
+    {
+      "id": 6386,
+      "date": "2026-11-08T05:08:44+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6386",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — پژوهشگران DoubleAI گزارش دادند که بازطراحی معماری شبکه حین آموزش با عامل‌های کدنویس، دقت استدلال الگوریتمی را از ۵۵٪ به ۸۴٪ و امتیاز DeepSeek-V4.1-Flash در آزمون‌های AIME و HMMT سال ۲۰۲۶ را از ۶۴٪ به ۷۱٪ رسانده است.",
+          "url": "https://t.me/dlmehr/6379"
+        },
+        {
+          "title": "۲ — به‌گفتهٔ سازندهٔ آزمایش، Claude نقاشی آبرنگ یک درخت پاییزی را با ۳۰۳ حرکت قلم‌مو در حدود ۴٫۵ ساعت انجام داد و برای ساخت طیف‌های رنگیِ کمبود، رنگ‌ها را تدریجی رقیق و نتیجه را از روی عکس اندازه‌گیری کرد.",
+          "url": "https://t.me/dlmehr/6380"
+        },
+        {
+          "title": "۳ — طبق معرفی Underdog Woof، این مدل تبدیل متن انگلیسی به گفتار نسخهٔ تک‌صدایی ۳۱٫۷ مگابایتی و نسخهٔ دوصدایی ۴۰٫۶ مگابایتی دارد و نسخهٔ دوصدایی، اعداد و تاریخ‌ها و کدها را به‌شکل گفتاری روی پردازندهٔ مرکزی و بدون نیاز به پردازندهٔ گرافیکی می‌خواند.",
+          "url": "https://t.me/dlmehr/6381"
+        },
+        {
+          "title": "۴ — به‌گفتهٔ معرفی‌کنندهٔ MaxxBench، تغییرات جزئی در دستورها یا کد اولیهٔ ۸۹ مسئلهٔ DeepSWE، میان مدل‌هایی با امتیاز نزدیک به ۷۴٪ در آزمون اصلی، فاصله‌ای ۲۳ واحددرصدی ایجاد کرده است.",
+          "url": "https://t.me/dlmehr/6382"
+        },
+        {
+          "title": "۵ — به‌نقل از نویسندهٔ پست، برآورد تازهٔ ردیاب AI 2027 بر پایهٔ امتیازهای AECI در گزارش METR از مدل‌های داخلی Anthropic نشان می‌دهد برخی از این مدل‌ها از منحنی پیش‌بینی آن جلوترند.",
+          "url": "https://t.me/dlmehr/6383"
+        },
+        {
+          "title": "۶ — ویدئو: ۵۰. یادگیری تقویتی (فارسی).",
+          "url": "https://t.me/dlmehr/6384"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/_doubleai_/status/2118733156069032292?a=5eD16RbptZTv9MkoYL4&s=52",
+          "url": "https://t.me/dlmehr/6379"
+        }
+      ]
+    },
+    {
+      "id": 6385,
+      "date": "2026-11-08T05:06:41+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6385",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — DoubleAI reports that coding agents redesigned neural networks during training, raising algorithmic reasoning accuracy from 55% to 84% and DeepSeek-V4.1-Flash's AIME/HMMT 2026 score from 64% to 71%.",
+          "url": "https://t.me/dlmehr/6379"
+        },
+        {
+          "title": "2 — Dhvanil reports that Claude painted an autumn watercolor overnight in about 4.5 hours with 303 brush marks, mixing missing shades and measuring them from photos.",
+          "url": "https://t.me/dlmehr/6380"
+        },
+        {
+          "title": "3 — Underdog Woof offers compact English text-to-speech with number, date and code normalization; its model page reports a 40.6 MB two-voice version running on a laptop CPU and a 1.42% word error rate on Gradium TTS Hard Cases.",
+          "url": "https://t.me/dlmehr/6381"
+        },
+        {
+          "title": "4 — MaxxBench's announcement reports that minor instruction or code changes across 89 DeepSWE tasks separated models by 23 percentage points despite their original scores clustering around 74%.",
+          "url": "https://t.me/dlmehr/6382"
+        },
+        {
+          "title": "5 — Kimmonismus reports that the updated AI 2027 tracker estimates some internal Anthropic models are ahead of its projected curve, using AECI scores from METR's report.",
+          "url": "https://t.me/dlmehr/6383"
+        },
+        {
+          "title": "6 — Video: 50. Reinforcement Learning (Persian)",
+          "url": "https://t.me/dlmehr/6384"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/_doubleai_/status/2118733156069032292?a=5eD16RbptZTv9MkoYL4&s=52",
+          "url": "https://t.me/dlmehr/6379"
+        }
+      ]
+    },
     {
       "id": 6378,
       "date": "2026-11-07T05:08:53+00:00",
