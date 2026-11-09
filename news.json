@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-11-08T11:55:14.126808+00:00",
+  "updatedAt": "2026-11-09T13:52:16.630560+00:00",
   "news": [
+    {
+      "id": 6391,
+      "date": "2026-11-09T05:07:57+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6391",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — هیئت‌مدیره انویدیا اعلام کرد در پی گزارش‌هایی درباره هدف قرار گرفتن جنسن هوانگ توسط یک سرویس اطلاعاتی خارجی، تحقیق مستقلی آغاز می‌کند، اما فعلاً دلیلی برای باور به لطمه‌دیدن امنیت ملی یا افشای اسرار شرکت ندارد.",
+          "url": "https://t.me/dlmehr/6387"
+        },
+        {
+          "title": "۲ — مدیسون میلز گزارش داد جنسن هوانگ، مدیرعامل انویدیا، به خیانت به همسرش اذعان کرده و هیئت‌مدیره شرکت قرار است تحقیقاتی آغاز کند.",
+          "url": "https://t.me/dlmehr/6388"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/nvidianewsroom/status/2119520873577398695?a=Rb6JZUc7Egb2-ofsKVI&s=52",
+          "url": "https://t.me/dlmehr/6387"
+        }
+      ]
+    },
     {
       "id": 6386,
       "date": "2026-11-08T05:08:44+00:00",
