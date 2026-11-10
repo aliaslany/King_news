@@ -1,6 +1,296 @@
 {
-  "updatedAt": "2026-11-09T13:52:16.630560+00:00",
+  "updatedAt": "2026-11-10T13:27:03.438878+00:00",
   "news": [
+    {
+      "id": 6425,
+      "date": "2026-11-10T05:08:19+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6425",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — نویسنده از غلبه اخبار جنسن و احتمال مدل تازه اوپن‌ای‌آی می‌گوید.",
+          "url": "https://t.me/dlmehr/6392"
+        },
+        {
+          "title": "۲ — کالپر با ادعای مشکل انویدیا در چین، از فروش استقراضی سهامش خبر داد.",
+          "url": "https://t.me/dlmehr/6393"
+        },
+        {
+          "title": "۳ — گوگل تراشه‌های TPU 8i Max و 8tx را برای زمینه بلند و استنتاج محرمانه معرفی کرد.",
+          "url": "https://t.me/dlmehr/6394"
+        },
+        {
+          "title": "۴ — بوستون داینامیکس کنترل‌گر یادگیری تقویتی اطلس را با افزودن چرخ آزمود.",
+          "url": "https://t.me/dlmehr/6395"
+        },
+        {
+          "title": "۵ — به‌نقل از بلومبرگ، بازاریابی عرضه اولیه آنتروپیک شاید سه‌شنبه آغاز شود.",
+          "url": "https://t.me/dlmehr/6397"
+        },
+        {
+          "title": "۶ — نِیس برای مدل تصمیم‌گیر Drex Max تأخیر ۱۸۳ میلی‌ثانیه‌ای گزارش کرد.",
+          "url": "https://t.me/dlmehr/6398"
+        },
+        {
+          "title": "۷ — مدیر دولینگو می‌گوید مدل‌های باز هزینه هر تماس هوش مصنوعی را به زیر یک سنت رساندند.",
+          "url": "https://t.me/dlmehr/6399"
+        },
+        {
+          "title": "۸ — شرکت Theseus ربات‌های چیدن قفسه شبانه و جمع‌آوری سفارش روزانه معرفی کرد.",
+          "url": "https://t.me/dlmehr/6400"
+        },
+        {
+          "title": "۹ — برت ادکاک از عرضه دستیار Hark برای خرید و رزرو سفر در iMessage خبر داد.",
+          "url": "https://t.me/dlmehr/6401"
+        },
+        {
+          "title": "۱۰ — به‌گفته نویسنده، اتصال OpenTable به اوپن‌ای‌آی در سپتامبر ۱۹۰ هزار نفر به رستوران‌ها برد.",
+          "url": "https://t.me/dlmehr/6402"
+        },
+        {
+          "title": "۱۱ — متا می‌گوید آزمون‌های مولد JiTTests وقوع رخدادهای حریم خصوصی را ۲۰٪ کاهش دادند.",
+          "url": "https://t.me/dlmehr/6403"
+        },
+        {
+          "title": "۱۲ — الون‌لبز مدیر کارزار ElevenAgents را برای پیگیری هدفمند مخاطبان معرفی کرد.",
+          "url": "https://t.me/dlmehr/6404"
+        },
+        {
+          "title": "۱۳ — اپیک پیش‌نمایش آنریل ۵.۹ را با ابزارهای عامل‌محور و اجرای مرورگری عرضه کرد.",
+          "url": "https://t.me/dlmehr/6405"
+        },
+        {
+          "title": "۱۴ — شرکت Skild حل‌گر متن‌باز Steel را با ادعای سرعت تا ۱۳ برابر PhysX معرفی کرد.",
+          "url": "https://t.me/dlmehr/6406"
+        },
+        {
+          "title": "۱۵ — سازندگان Steve مدعی مدیریت خودکار سه کسب‌وکار با این مدیرعامل هوش مصنوعی‌اند.",
+          "url": "https://t.me/dlmehr/6407"
+        },
+        {
+          "title": "۱۶ — شرکت SE3 Labs محیط‌های واقعی آموزش تقویتی و ارزیابی ربات‌ها را معرفی کرد.",
+          "url": "https://t.me/dlmehr/6408"
+        },
+        {
+          "title": "۱۷ — متا مدل کوچک Muse Ember را برای وظایف پرتکرار عامل‌ها عرضه کرد.",
+          "url": "https://t.me/dlmehr/6409"
+        },
+        {
+          "title": "۱۸ — شرکت Nuance شخصیت Emma را با واکنش صوتی‌تصویری هم‌زمان با صحبت معرفی کرد.",
+          "url": "https://t.me/dlmehr/6410"
+        },
+        {
+          "title": "۱۹ — آنتروپیک مدل‌های Claude Fable 5.2 و Mythos 5.2 را با ادعای بهبود استدلال معرفی کرد.",
+          "url": "https://t.me/dlmehr/6411"
+        },
+        {
+          "title": "۲۰ — اوپن‌ای‌آی افزونه ساخت و آزمون بازی دستگاه ModRetro Chromatic را در Codex معرفی کرد.",
+          "url": "https://t.me/dlmehr/6412"
+        },
+        {
+          "title": "۲۱ — آنتروپیک برای مشترکان واجد شرایط، بازنشانی سهمیه و دسترسی آزمایشی Fable ارائه کرد.",
+          "url": "https://t.me/dlmehr/6413"
+        },
+        {
+          "title": "۲۲ — شرکت i14 معماری Sugar Glider را با ادعای حافظه ثابت و بازیابی زمینه میلیاردتوکنی معرفی کرد.",
+          "url": "https://t.me/dlmehr/6414"
+        },
+        {
+          "title": "۲۳ — متیو برمن Fable 5.2 را در خودمختاری، کشف خطا و ساخت سه‌بعدی تحسین کرد.",
+          "url": "https://t.me/dlmehr/6415"
+        },
+        {
+          "title": "۲۴ — انویدیا مدل GR00T 2 را برای پیش‌بینی هم‌زمان آینده جهان و حرکات ربات معرفی کرد.",
+          "url": "https://t.me/dlmehr/6416"
+        },
+        {
+          "title": "۲۵ — به‌گفته آنتروپیک، عامل‌های Fable 5.2 طی هشت روز نمونه سیستم‌عامل قابل‌بوت ساختند.",
+          "url": "https://t.me/dlmehr/6417"
+        },
+        {
+          "title": "۲۶ — اوپن‌ای‌آی اتصال چند رایانه محلی به یک dot و انتخاب دستگاه اجرای کار را ممکن کرد.",
+          "url": "https://t.me/dlmehr/6418"
+        },
+        {
+          "title": "۲۷ — آنتروپیک از برتری Fable 5.2 در آزمون کنترل ربات شبیه‌سازی‌شده RoboDojo خبر داد.",
+          "url": "https://t.me/dlmehr/6419"
+        },
+        {
+          "title": "۲۸ — آنتروپیک می‌گوید هزار عامل Fable 5.2 اثبات قضیه آخر فرما را در ۳۰ ساعت صوری‌سازی کردند.",
+          "url": "https://t.me/dlmehr/6420"
+        },
+        {
+          "title": "۲۹ — شرکت Thinking Machines مدل Inkling 2 Small را موقتاً در OpenCode رایگان کرد.",
+          "url": "https://t.me/dlmehr/6421"
+        },
+        {
+          "title": "۳۰ — آنتروپیک می‌گوید کلود از تصاویر چهار مولکول، بدون اینترنت مسیر سنتز نوشت.",
+          "url": "https://t.me/dlmehr/6422"
+        },
+        {
+          "title": "۳۱ — به‌گزارش اینفورمیشن، هک Fireworks اطلاعات مالی مشتریان و بخشی از داده‌ها و وزن‌ها را افشا کرد.",
+          "url": "https://t.me/dlmehr/6423"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad امروز همه خبرها به جنسن ختم می‌شد ببینیم فردا اوپن‌ای‌آی مدل جدید می‌ده یا نه!",
+          "url": "https://t.me/dlmehr/6392"
+        }
+      ]
+    },
+    {
+      "id": 6424,
+      "date": "2026-11-10T05:06:11+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6424",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — @dlmehr wonders whether OpenAI will release a model after a Jensen-dominated news day.",
+          "url": "https://t.me/dlmehr/6392"
+        },
+        {
+          "title": "2 — Culper Research disclosed a Nvidia short, citing concerns about China.",
+          "url": "https://t.me/dlmehr/6393"
+        },
+        {
+          "title": "3 — Google unveiled TPU 8i Max for large contexts and TPU 8tx for confidential inference.",
+          "url": "https://t.me/dlmehr/6394"
+        },
+        {
+          "title": "4 — Boston Dynamics put wheels on Atlas to test its RL controller on real hardware.",
+          "url": "https://t.me/dlmehr/6395"
+        },
+        {
+          "title": "5 — Citing Bloomberg, kimmonismus says Anthropic could start IPO marketing Tuesday.",
+          "url": "https://t.me/dlmehr/6397"
+        },
+        {
+          "title": "6 — Nace reports 183ms Drex Max decisions and a top Decision Index ranking for v1.1.",
+          "url": "https://t.me/dlmehr/6398"
+        },
+        {
+          "title": "7 — Duolingo's CEO says open models cut AI call costs from $0.30 to well below $0.01.",
+          "url": "https://t.me/dlmehr/6399"
+        },
+        {
+          "title": "8 — Theseus says its robots restock supermarkets overnight and pick orders by day.",
+          "url": "https://t.me/dlmehr/6400"
+        },
+        {
+          "title": "9 — Brett Adcock announced Hark on iMessage and RCS for bookings and purchases.",
+          "url": "https://t.me/dlmehr/6401"
+        },
+        {
+          "title": "10 — juokaz says OpenTable's OpenAI integration brought 190,000 diners in September.",
+          "url": "https://t.me/dlmehr/6402"
+        },
+        {
+          "title": "11 — Meta says AI-generated JiTTests caught 74 privacy incidents before code landed.",
+          "url": "https://t.me/dlmehr/6403"
+        },
+        {
+          "title": "12 — ElevenLabs launched Campaign Manager for goal-driven outbound follow-ups.",
+          "url": "https://t.me/dlmehr/6404"
+        },
+        {
+          "title": "13 — Epic released Unreal Engine 5.9 MegaJam Preview with AI tools and browser support.",
+          "url": "https://t.me/dlmehr/6405"
+        },
+        {
+          "title": "14 — Skild open-sourced Steel, claiming up to 13× faster physics simulation than PhysX.",
+          "url": "https://t.me/dlmehr/6406"
+        },
+        {
+          "title": "15 — Steve's creators claim their AI CEO runs three businesses and offer a $2M startup program.",
+          "url": "https://t.me/dlmehr/6407"
+        },
+        {
+          "title": "16 — SE3 Labs launched real-world robot RL environments and failure-driven data collection.",
+          "url": "https://t.me/dlmehr/6408"
+        },
+        {
+          "title": "17 — Meta released Muse Ember, its smallest model, for repetitive agent workloads.",
+          "url": "https://t.me/dlmehr/6409"
+        },
+        {
+          "title": "18 — Nuance AI unveiled Emma, an audiovisual persona that reacts while users speak.",
+          "url": "https://t.me/dlmehr/6410"
+        },
+        {
+          "title": "19 — Anthropic launched Fable 5.2 and Mythos 5.2, claiming coding, reasoning and vision gains.",
+          "url": "https://t.me/dlmehr/6411"
+        },
+        {
+          "title": "20 — OpenAI announced a Codex-edition ModRetro Chromatic and a game-building plugin.",
+          "url": "https://t.me/dlmehr/6412"
+        },
+        {
+          "title": "21 — Anthropic offers eligible subscribers Fable resets and some plans a week-long trial.",
+          "url": "https://t.me/dlmehr/6413"
+        },
+        {
+          "title": "22 — i14 claims Sugar Glider offers constant-cost token inference and fixed-size KV caches.",
+          "url": "https://t.me/dlmehr/6414"
+        },
+        {
+          "title": "23 — Matthew Berman praises Fable 5.2's autonomy and 3D work but flags quota constraints.",
+          "url": "https://t.me/dlmehr/6415"
+        },
+        {
+          "title": "24 — Nvidia introduced GR00T 2 to jointly predict future video and robot actions.",
+          "url": "https://t.me/dlmehr/6416"
+        },
+        {
+          "title": "25 — Anthropic reportedly had 1,000-plus Fable agents build a bootable OS prototype in eight days.",
+          "url": "https://t.me/dlmehr/6417"
+        },
+        {
+          "title": "26 — OpenAI says one dot can now use multiple local computers, selected per task.",
+          "url": "https://t.me/dlmehr/6418"
+        },
+        {
+          "title": "27 — Anthropic says Fable 5.2 beat other models and most robot systems on RoboDojo.",
+          "url": "https://t.me/dlmehr/6419"
+        },
+        {
+          "title": "28 — Anthropic says 1,000 Fable agents formalized Fermat's Last Theorem's proof in 30 hours.",
+          "url": "https://t.me/dlmehr/6420"
+        },
+        {
+          "title": "29 — Thinking Machines offers Inkling 2 Small free on OpenCode for a limited time.",
+          "url": "https://t.me/dlmehr/6421"
+        },
+        {
+          "title": "30 — Anthropic says Claude planned synthesis routes from four molecule images without internet.",
+          "url": "https://t.me/dlmehr/6422"
+        },
+        {
+          "title": "31 — The Information reportedly says a Fireworks hack exposed billing data and some model weights.",
+          "url": "https://t.me/dlmehr/6423"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad امروز همه خبرها به جنسن ختم می‌شد ببینیم فردا اوپن‌ای‌آی مدل جدید می‌ده یا نه!",
+          "url": "https://t.me/dlmehr/6392"
+        }
+      ]
+    },
     {
       "id": 6391,
       "date": "2026-11-09T05:07:57+00:00",
