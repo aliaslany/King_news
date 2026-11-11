@@ -1,6 +1,344 @@
 {
-  "updatedAt": "2026-11-10T13:27:03.438878+00:00",
+  "updatedAt": "2026-11-11T12:41:49.674285+00:00",
   "news": [
+    {
+      "id": 6464,
+      "date": "2026-11-11T05:09:30+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6464",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — بلومبرگ: آمودی و دایمون درباره عرضه اولیه آنتروپیک گفت‌وگوی زنده خواهند داشت.",
+          "url": "https://t.me/dlmehr/6426"
+        },
+        {
+          "title": "۲ — خروپا از تشخیص میزهای کثیف رستوران با مدل محلی روی لپ‌تاپ خبر داد.",
+          "url": "https://t.me/dlmehr/6427"
+        },
+        {
+          "title": "۳ — آنتروپیک معرفی عرضه اولیه سهام با قیمت پیشنهادی ۷۰ تا ۷۸ دلار را آغاز کرد.",
+          "url": "https://t.me/dlmehr/6428"
+        },
+        {
+          "title": "۴ — دیپ‌مایند از اثبات رسمی حفاظت‌های رمزنگاری سیگنال تا سطح کد ماشین خبر داد.",
+          "url": "https://t.me/dlmehr/6429"
+        },
+        {
+          "title": "۵ — آنتروپیک مدعی حل دو مسئله باز فیزیک سیاه‌چاله با فیبل ۵.۲ است.",
+          "url": "https://t.me/dlmehr/6430"
+        },
+        {
+          "title": "۶ — دیپ‌مایند جمینای رباتیکس ۲.۵ را برای یادگیری صدها مهارت معرفی کرد.",
+          "url": "https://t.me/dlmehr/6431"
+        },
+        {
+          "title": "۷ — گاکو از جذب ۵۱ میلیون دلار برای یادگیری گفت‌وگومحور کودکان خبر داد.",
+          "url": "https://t.me/dlmehr/6432"
+        },
+        {
+          "title": "۸ — تاووس می‌گوید کیوسک هوشمندش صدای مزاحم را از سفارش‌دهنده تفکیک می‌کند.",
+          "url": "https://t.me/dlmehr/6433"
+        },
+        {
+          "title": "۹ — ژولین از انتخاب خودکار مدل محلی یا ابری در Pi برحسب بار و پیچیدگی گفت.",
+          "url": "https://t.me/dlmehr/6434"
+        },
+        {
+          "title": "۱۰ — رینگ پهپاد خانگی و ربات زمینی نگهبان کسب‌وکارها را معرفی کرد.",
+          "url": "https://t.me/dlmehr/6435"
+        },
+        {
+          "title": "۱۱ — اسکیلد حل‌گر فیزیک Steel را با ادعای سرعت تا ۱۳ برابر PhysX متن‌باز کرد.",
+          "url": "https://t.me/dlmehr/6436"
+        },
+        {
+          "title": "۱۲ — کلود نمونه ساخت مدل سه‌بعدی سلول با کدنویسی فیبل ۵.۲ را نمایش داد.",
+          "url": "https://t.me/dlmehr/6437"
+        },
+        {
+          "title": "۱۳ — مینی‌مکس مدل تصویری وزن‌باز H3 را با ادعای تولید ۴کی در ۱۰ ثانیه عرضه کرد.",
+          "url": "https://t.me/dlmehr/6438"
+        },
+        {
+          "title": "۱۴ — پیچای از عرضه جمینای ۴ کربن برای کارهای پیچیده و طولانی خبر داد.",
+          "url": "https://t.me/dlmehr/6439"
+        },
+        {
+          "title": "۱۵ — انویدیا مدل رباتیک GR00T 2 با اجرای مستقل روی خود ربات را معرفی کرد.",
+          "url": "https://t.me/dlmehr/6440"
+        },
+        {
+          "title": "۱۶ — پانای دوربین پرنده رینگ با مسیرهای سفارشی داخل خانه را معرفی کرد.",
+          "url": "https://t.me/dlmehr/6441"
+        },
+        {
+          "title": "۱۷ — کرسر کربن را افزود و امتیاز ۶۰٫۴٪ آن در آزمون خود را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6442"
+        },
+        {
+          "title": "۱۸ — وانگ از ایمیل اختصاصی میوز برای مشترکان پولی آمریکا و کانادا خبر داد.",
+          "url": "https://t.me/dlmehr/6443"
+        },
+        {
+          "title": "۱۹ — کاگنیشن جمینای ۴ کربن را به نسخه دسکتاپ و خط فرمان دوین افزود.",
+          "url": "https://t.me/dlmehr/6444"
+        },
+        {
+          "title": "۲۰ — اوپن‌ای‌آی برای ۱۲ نوامبر رونمایی زنده ابزارهای امنیت سایبری اعلام کرد.",
+          "url": "https://t.me/dlmehr/6445"
+        },
+        {
+          "title": "۲۱ — کلود عرضه تخته‌سفید، صفحه‌گسترده و ابزار داده را آغاز کرد.",
+          "url": "https://t.me/dlmehr/6446"
+        },
+        {
+          "title": "۲۲ — اوپن‌ای‌آی نسخه آزمایشی حضور کسب‌وکارها و عامل پاسخ‌گو در چت‌جی‌پی‌تی را عرضه کرد.",
+          "url": "https://t.me/dlmehr/6447"
+        },
+        {
+          "title": "۲۳ — پیچای ساخت بازی سه‌بعدی پلیکان دوچرخه‌سوار با عامل‌های کربن را نمایش داد.",
+          "url": "https://t.me/dlmehr/6448"
+        },
+        {
+          "title": "۲۴ — پروژه آینده هوش مصنوعی خودکارشدن ۹۵٪ تحقیق آنتروپیک تا نوامبر ۲۰۲۷ را پیش‌بینی کرد.",
+          "url": "https://t.me/dlmehr/6449"
+        },
+        {
+          "title": "۲۵ — اعضای مستقل هیئت‌مدیره انویدیا جون کیم را برای تحقیق مستقل برگزیدند.",
+          "url": "https://t.me/dlmehr/6450"
+        },
+        {
+          "title": "۲۶ — میوتی مدعی کشف محوطه ثبت‌نشده مایا با عامل‌های هوشمند و لیدار ناساست.",
+          "url": "https://t.me/dlmehr/6451"
+        },
+        {
+          "title": "۲۷ — اوپن‌روتر پیوستن رسمی به استرایپ و حفظ بی‌طرفی میان مدل‌ها را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6452"
+        },
+        {
+          "title": "۲۸ — به‌گزارش ای‌بی‌سی، برایان مست هوانگ را در صورت بی‌پاسخی به احضار تهدید کرد.",
+          "url": "https://t.me/dlmehr/6453"
+        },
+        {
+          "title": "۲۹ — کیمون از افزایش موفقیت ربات π0.5 از ۴۸٪ به ۷۰٪ با حسگر لمسی خبر داد.",
+          "url": "https://t.me/dlmehr/6454"
+        },
+        {
+          "title": "۳۰ — روهان پال: آنتروپیک حق فسخ قرارداد ۳۴٫۹ میلیارددلاری لامبدا را یافته است.",
+          "url": "https://t.me/dlmehr/6455"
+        },
+        {
+          "title": "۳۱ — کیمون مدعی است آنتروپیک مدل داخلی قوی‌تری از فیبل ۵.۲ دارد.",
+          "url": "https://t.me/dlmehr/6456"
+        },
+        {
+          "title": "۳۲ — کرسر فضای مشترک همکاری اعضای تیم و عامل‌هایشان را معرفی کرد.",
+          "url": "https://t.me/dlmehr/6457"
+        },
+        {
+          "title": "۳۳ — ژئودزیک مدل NovaAtom-Lite را برای پیش‌بینی ساختار مولکولی داروسازی معرفی کرد.",
+          "url": "https://t.me/dlmehr/6458"
+        },
+        {
+          "title": "۳۴ — علی‌بابا پیش‌نمایش Qwen4-Max را در دسترس گذاشت.",
+          "url": "https://t.me/dlmehr/6459"
+        },
+        {
+          "title": "۳۵ — فایننشال‌تایمز: بانکداران آنتروپیک قصد افزایش قیمت عرضه اولیه را دارند.",
+          "url": "https://t.me/dlmehr/6460"
+        },
+        {
+          "title": "۳۶ — ای‌بی‌سی از توقف سفرهای آزادراهی ویمو برای بهبود واکنش در مناطق عمرانی خبر داد.",
+          "url": "https://t.me/dlmehr/6461"
+        },
+        {
+          "title": "۳۷ — به‌گزارش کرن، سناتور کرامر با طرح نگرانی امنیت ملی خواستار کناره‌گیری هوانگ شد.",
+          "url": "https://t.me/dlmehr/6462"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/business/status/2119999758672536031?a=rnvFbpTKQRx6YQozS4Q&s=52",
+          "url": "https://t.me/dlmehr/6426"
+        }
+      ]
+    },
+    {
+      "id": 6463,
+      "date": "2026-11-11T05:06:42+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6463",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Bloomberg reports Amodei and Dimon plan an Anthropic IPO stream.",
+          "url": "https://t.me/dlmehr/6426"
+        },
+        {
+          "title": "2 — Khrupa says his local AI flags restaurant tables needing cleaning.",
+          "url": "https://t.me/dlmehr/6427"
+        },
+        {
+          "title": "3 — Anthropic launches its IPO roadshow at $70–78 per share.",
+          "url": "https://t.me/dlmehr/6428"
+        },
+        {
+          "title": "4 — DeepMind says AlphaProof Code verified Signal security properties.",
+          "url": "https://t.me/dlmehr/6429"
+        },
+        {
+          "title": "5 — Kimmonismus highlights Claude's claimed science and engineering gains.",
+          "url": "https://t.me/dlmehr/6430"
+        },
+        {
+          "title": "6 — DeepMind unveils Gemini Robotics 2.5 for everyday physical tasks.",
+          "url": "https://t.me/dlmehr/6431"
+        },
+        {
+          "title": "7 — Gakku announces $51M for conversational AI learning for children.",
+          "url": "https://t.me/dlmehr/6432"
+        },
+        {
+          "title": "8 — Tavus says its kiosk AI ignores people trying to hijack orders.",
+          "url": "https://t.me/dlmehr/6433"
+        },
+        {
+          "title": "9 — Julien reports Pi routes queries between local and remote models.",
+          "url": "https://t.me/dlmehr/6434"
+        },
+        {
+          "title": "10 — Ring announces autonomous Drone Cam and Rover Cam security robots.",
+          "url": "https://t.me/dlmehr/6435"
+        },
+        {
+          "title": "11 — Skild open-sources Steel, claiming up to 13× faster physics simulation.",
+          "url": "https://t.me/dlmehr/6436"
+        },
+        {
+          "title": "12 — Claude showcases Kevin Ngo's code-built 3D cell model.",
+          "url": "https://t.me/dlmehr/6437"
+        },
+        {
+          "title": "13 — MiniMax says open-weight H3-Image generates 16MP images in 10 seconds.",
+          "url": "https://t.me/dlmehr/6438"
+        },
+        {
+          "title": "14 — Google rolls out Gemini 4 Carbon for long-horizon tasks.",
+          "url": "https://t.me/dlmehr/6439"
+        },
+        {
+          "title": "15 — Jim Fan unveils GR00T 2 robotics; weights are due in December.",
+          "url": "https://t.me/dlmehr/6440"
+        },
+        {
+          "title": "16 — Panay showcases Ring Drone Cam's custom indoor flight routes.",
+          "url": "https://t.me/dlmehr/6441"
+        },
+        {
+          "title": "17 — Cursor adds Gemini 4 Carbon, reporting 60.4% on CursorBench.",
+          "url": "https://t.me/dlmehr/6442"
+        },
+        {
+          "title": "18 — Wang announces Muse email access for US and Canadian paid users.",
+          "url": "https://t.me/dlmehr/6443"
+        },
+        {
+          "title": "19 — Cognition adds Carbon to Devin, citing 40% on FrontierCode 2.0.",
+          "url": "https://t.me/dlmehr/6444"
+        },
+        {
+          "title": "20 — OpenAI schedules a cybersecurity keynote for November 12.",
+          "url": "https://t.me/dlmehr/6445"
+        },
+        {
+          "title": "21 — Claude begins rolling out Whiteboards, Sheets and Data.",
+          "url": "https://t.me/dlmehr/6446"
+        },
+        {
+          "title": "22 — OpenAI launches Businesses in ChatGPT beta with customer-facing agents.",
+          "url": "https://t.me/dlmehr/6447"
+        },
+        {
+          "title": "23 — Pichai shows Carbon agents building a playable 3D pelican game.",
+          "url": "https://t.me/dlmehr/6448"
+        },
+        {
+          "title": "24 — Curran cites forecasts of 95% automated Anthropic R&D by November 2027.",
+          "url": "https://t.me/dlmehr/6449"
+        },
+        {
+          "title": "25 — NVIDIA's independent directors hire Joon Kim for an investigation.",
+          "url": "https://t.me/dlmehr/6450"
+        },
+        {
+          "title": "26 — Miotti claims AI found an unmapped Maya site using NASA LiDAR.",
+          "url": "https://t.me/dlmehr/6451"
+        },
+        {
+          "title": "27 — OpenRouter joins Stripe, pledging continued model-provider neutrality.",
+          "url": "https://t.me/dlmehr/6452"
+        },
+        {
+          "title": "28 — ABC News reportedly says Mast threatens to subpoena Jensen Huang.",
+          "url": "https://t.me/dlmehr/6453"
+        },
+        {
+          "title": "29 — Kimmonismus says LingBot-Touch lifts robot task success from 48% to 70%.",
+          "url": "https://t.me/dlmehr/6454"
+        },
+        {
+          "title": "30 — Paul says Anthropic can exit a $34.9B Lambda deal but does not plan to.",
+          "url": "https://t.me/dlmehr/6455"
+        },
+        {
+          "title": "31 — Kimmonismus claims Anthropic has a stronger unreleased internal model.",
+          "url": "https://t.me/dlmehr/6456"
+        },
+        {
+          "title": "32 — Cursor rebuilds Projects for collaboration among teammates and agents.",
+          "url": "https://t.me/dlmehr/6457"
+        },
+        {
+          "title": "33 — Geodesic launches NovaAtom-Lite for biomolecular structure prediction.",
+          "url": "https://t.me/dlmehr/6458"
+        },
+        {
+          "title": "34 — Alibaba previews Qwen4-Max for coding and knowledge work.",
+          "url": "https://t.me/dlmehr/6459"
+        },
+        {
+          "title": "35 — FT reportedly says Anthropic bankers target a $1.5T-plus IPO valuation.",
+          "url": "https://t.me/dlmehr/6460"
+        },
+        {
+          "title": "36 — ABC7 reports Waymo paused freeway rides to improve construction response.",
+          "url": "https://t.me/dlmehr/6461"
+        },
+        {
+          "title": "37 — Curran reports Senator Cramer is calling for Jensen Huang to resign.",
+          "url": "https://t.me/dlmehr/6462"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/business/status/2119999758672536031?a=rnvFbpTKQRx6YQozS4Q&s=52",
+          "url": "https://t.me/dlmehr/6426"
+        }
+      ]
+    },
     {
       "id": 6425,
       "date": "2026-11-10T05:08:19+00:00",
