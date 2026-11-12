@@ -1,6 +1,208 @@
 {
-  "updatedAt": "2026-11-11T12:41:49.674285+00:00",
+  "updatedAt": "2026-11-12T13:44:29.820637+00:00",
   "news": [
+    {
+      "id": 6487,
+      "date": "2026-11-12T07:09:17+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6487",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گفتهٔ نویسنده، فردی با جعل موقعیت گروگان‌گیری، هوش مصنوعی گوگل را به معرفی سایت نسخهٔ کرک‌شدهٔ SolidWorks واداشت.",
+          "url": "https://t.me/dlmehr/6465"
+        },
+        {
+          "title": "۲ — به‌گفتهٔ انتروپیک، Claude Mythos تقریباً بدون کمک انسان، اجرای کلود روی پردازنده‌های AMD MI355X را در سه روز ممکن کرد.",
+          "url": "https://t.me/dlmehr/6466"
+        },
+        {
+          "title": "۳ — گوگل دیپ‌مایند مدل AlphaGenome 2 را برای بررسی اثر تغییرات ژنتیکی بر بیماری در انواع مشخص سلول معرفی کرد.",
+          "url": "https://t.me/dlmehr/6467"
+        },
+        {
+          "title": "۴ — شرکت Runway مدل کنترل ربات Praxis-1 را با وزن‌های باز و مجوز Apache 2.0 برای اجرا و تنظیم روی سخت‌افزار شخصی عرضه کرد.",
+          "url": "https://t.me/dlmehr/6468"
+        },
+        {
+          "title": "۵ — شرکت Pika از دسترسی به Seedance 2.5 با وضوح بومی 4K در پلتفرم خود و باشگاه رابط برنامه‌نویسی‌اش خبر داد.",
+          "url": "https://t.me/dlmehr/6469"
+        },
+        {
+          "title": "۶ — آراویند سرینیواس می‌گوید عامل Teammate با Fable 5.2 در چند ساعت، بازی تیراندازی زامبی مرورگری را بدون دارایی سه‌بعدی آماده ساخت.",
+          "url": "https://t.me/dlmehr/6470"
+        },
+        {
+          "title": "۷ — اندرو کوران از عرضهٔ عامل شخصی بایت‌دنس در این ماه و هدف این شرکت برای رسیدن به سطح پیشتازان آمریکایی تا ۲۰۲۹–۲۰۳۰ خبر داد.",
+          "url": "https://t.me/dlmehr/6471"
+        },
+        {
+          "title": "۸ — گوگل ابزار آزمایشی Tabletop را برای برنامه‌ریزی گروهی با فایل‌ها، پیوندها و فضاهای تعاملی مشترک معرفی کرد.",
+          "url": "https://t.me/dlmehr/6472"
+        },
+        {
+          "title": "۹ — سوندار پیچای رابط Gemini Decisions را معرفی کرد که با مدل Gemini Decision 1 تا هزار پرسش چندرسانه‌ای با گزینه‌های محدود را یک‌جا ارزیابی می‌کند.",
+          "url": "https://t.me/dlmehr/6473"
+        },
+        {
+          "title": "۱۰ — جیسون داینتر اثری را به‌گفتهٔ خودش ۹۹ درصد ساختهٔ هوش مصنوعی، با ابزارهای Claude، Midjourney، Minimax و Suno منتشر کرد.",
+          "url": "https://t.me/dlmehr/6474"
+        },
+        {
+          "title": "۱۱ — شرکت YouArt برنامهٔ دسکتاپی معرفی کرد که به‌گفتهٔ آن، نرم‌افزارهای تدوین را کنترل و بازخورد مشتری را با عامل‌های هوشمند اعمال می‌کند.",
+          "url": "https://t.me/dlmehr/6475"
+        },
+        {
+          "title": "۱۲ — ابزار Grok Bot 1.0 به‌عنوان همکار هوشمند قابل‌اشتراک برای همکاری در Slack و Teams و حضور در جلسات معرفی شد.",
+          "url": "https://t.me/dlmehr/6476"
+        },
+        {
+          "title": "۱۳ — تیم LMSYS گزارش داد مگاکرنل‌های SGLang سرعت Muse Spark Open را روی هشت GB300 از ۵۱۷ به ۱۱۰۹ توکن‌برثانیه رسانده‌اند.",
+          "url": "https://t.me/dlmehr/6477"
+        },
+        {
+          "title": "۱۴ — مایکروسافت Classroom را برای یکپارچه‌سازی ابزارهای آموزشی معرفی کرد؛ پیش‌نمایش آن برای اوایل ۲۰۲۷ برنامه‌ریزی شده و جایگزین Teams نیست.",
+          "url": "https://t.me/dlmehr/6478"
+        },
+        {
+          "title": "۱۵ — نویسندهٔ حساب photonstorm می‌گوید درخواست ساخت بازی خلاقانه از Fable 5.2 به ساخت نسخه‌ای از Pong انجامید.",
+          "url": "https://t.me/dlmehr/6479"
+        },
+        {
+          "title": "۱۶ — حساب LuminaBench در گمانه‌زنی تأییدنشده‌ای، Helix را مدل احتمالی ردهٔ Flash Lite گوگل و Hydrogen را مدل ردهٔ Flash دانست.",
+          "url": "https://t.me/dlmehr/6480"
+        },
+        {
+          "title": "۱۷ — حساب TheStalwart به‌نقل از نیویورک‌تایمز مدعی رابطهٔ جنسن هوانگ با معاون بخش سلامت انویدیا شد.",
+          "url": "https://t.me/dlmehr/6481"
+        },
+        {
+          "title": "۱۸ — اندرو کوران به‌نقل از وال‌استریت‌ژورنال مدعی شد هیئت‌مدیرهٔ انویدیا برای برکناری جنسن هوانگ و برگزاری جلسه در همان روز آماده می‌شود.",
+          "url": "https://t.me/dlmehr/6482"
+        },
+        {
+          "title": "۱۹ — دن نایلز خروج احتمالی هوانگ و مدیرعاملی موقت مدیر مالی را پیش‌بینی کرد و گفت محصولات در دست توسعه می‌توانند حدود دو سال پشتوانهٔ انویدیا باشند.",
+          "url": "https://t.me/dlmehr/6483"
+        },
+        {
+          "title": "۲۰ — نویسنده با ارجاع به بلومبرگ گزارش داد انویدیا برای یافتن جانشینان احتمالی هوانگ با شرکتی بیرونی همکاری و تعیین مدیرعامل موقت را بررسی می‌کند.",
+          "url": "https://t.me/dlmehr/6484"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/alexmichael/status/2120299003992817926?a=RoUktbYVF3GRi9wiBrc&s=52",
+          "url": "https://t.me/dlmehr/6465"
+        }
+      ]
+    },
+    {
+      "id": 6486,
+      "date": "2026-11-12T07:07:56+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6486",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Alex Michael says a fake hostage scenario tricked Google's AI into recommending a cracked SolidWorks site.",
+          "url": "https://t.me/dlmehr/6465"
+        },
+        {
+          "title": "2 — Anthropic says Claude Mythos enabled Claude inference on AMD MI355X GPUs in three days with almost no human help.",
+          "url": "https://t.me/dlmehr/6466"
+        },
+        {
+          "title": "3 — DeepMind introduced AlphaGenome 2 to help explain how DNA changes affect disease in specific cells.",
+          "url": "https://t.me/dlmehr/6467"
+        },
+        {
+          "title": "4 — Runway released Praxis-1, a robot-control model using video pretraining, with Apache 2.0 open weights.",
+          "url": "https://t.me/dlmehr/6468"
+        },
+        {
+          "title": "5 — Pika says Seedance 2.5 now supports native 4K on Pika and its API Club.",
+          "url": "https://t.me/dlmehr/6469"
+        },
+        {
+          "title": "6 — Arav Srinivas says a Fable 5.2 Teammate built a browser zombie shooter in hours using code rather than 3D assets.",
+          "url": "https://t.me/dlmehr/6470"
+        },
+        {
+          "title": "7 — Andrew Curran reports ByteDance plans a personal AI agent this month and expects to reach the US frontier by 2029–2030.",
+          "url": "https://t.me/dlmehr/6471"
+        },
+        {
+          "title": "8 — Google Labs introduced Tabletop for shared, customizable group-planning spaces, with a US waitlist for adults.",
+          "url": "https://t.me/dlmehr/6472"
+        },
+        {
+          "title": "9 — Google launched Gemini Decisions API for closed-set multimodal choices at $0.10 per million input tokens, with free output tokens.",
+          "url": "https://t.me/dlmehr/6473"
+        },
+        {
+          "title": "10 — Jason Dainter shared a music video described as 99% AI, crediting Claude, Midjourney, Minimax, Suno and DaVinci.",
+          "url": "https://t.me/dlmehr/6474"
+        },
+        {
+          "title": "11 — YouArt says its desktop AI agent operates creative software, handles client feedback and routes clips to cheaper API providers.",
+          "url": "https://t.me/dlmehr/6475"
+        },
+        {
+          "title": "12 — Grok Bot announced AI teammates that collaborate in Slack and Teams and can join meetings.",
+          "url": "https://t.me/dlmehr/6476"
+        },
+        {
+          "title": "13 — LMSYS reports SGLang megakernels raised Muse Spark Open decoding from 517 to 1,109 tokens per second on eight GB300 GPUs.",
+          "url": "https://t.me/dlmehr/6477"
+        },
+        {
+          "title": "14 — Microsoft announced Classroom, a standalone education hub arriving in 2027 alongside—not replacing—Teams for Education.",
+          "url": "https://t.me/dlmehr/6478"
+        },
+        {
+          "title": "15 — Photonstorm shared a Pong clone made after asking Fable 5.2 to “go wild” creating a game.",
+          "url": "https://t.me/dlmehr/6479"
+        },
+        {
+          "title": "16 — LuminaBench speculates, without verification, that Gemini Helix and Hydrogen correspond to Flash Lite and Flash tiers.",
+          "url": "https://t.me/dlmehr/6480"
+        },
+        {
+          "title": "17 — TheStalwart cites an NYT report alleging Jensen Huang had a relationship with Nvidia's healthcare vice president.",
+          "url": "https://t.me/dlmehr/6481"
+        },
+        {
+          "title": "18 — Andrew Curran cites a WSJ report claiming Nvidia's board is preparing to oust Huang and meet later that day.",
+          "url": "https://t.me/dlmehr/6482"
+        },
+        {
+          "title": "19 — Dan Niles predicts Huang's departure but argues Nvidia's product pipeline and agentic AI demand could support its outlook.",
+          "url": "https://t.me/dlmehr/6483"
+        },
+        {
+          "title": "20 — A post citing Bloomberg reports Nvidia is using an outside firm to identify Huang replacements and considering an interim CEO.",
+          "url": "https://t.me/dlmehr/6484"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/alexmichael/status/2120299003992817926?a=RoUktbYVF3GRi9wiBrc&s=52",
+          "url": "https://t.me/dlmehr/6465"
+        }
+      ]
+    },
     {
       "id": 6464,
       "date": "2026-11-11T05:09:30+00:00",
