@@ -1,6 +1,192 @@
 {
-  "updatedAt": "2026-11-12T13:44:29.820637+00:00",
+  "updatedAt": "2026-11-13T13:04:54.292042+00:00",
   "news": [
+    {
+      "id": 6509,
+      "date": "2026-11-13T05:09:04+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6509",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش تامز هاردور، ساکنان جورجیا از OpenAI و مقام‌های محلی بابت تصویب ادعاییِ پنهانی مرکز داده‌ای ۲۰ میلیارددلاری شکایت کرده‌اند.",
+          "url": "https://t.me/dlmehr/6485"
+        },
+        {
+          "title": "۲ — نویسندهٔ Dream1984Tube مدعی است برخی منتقدان جنسن هوانگ پیوندهای مالی و حرفه‌ای با آنتروپیک دارند و خواستار افشای این ارتباطات است.",
+          "url": "https://t.me/dlmehr/6488"
+        },
+        {
+          "title": "۳ — انویدیا اعلام کرد جنسن هوانگ از مدیریت و هیئت‌مدیره استعفا داده و کولت کرس مدیرعامل موقت شده است.",
+          "url": "https://t.me/dlmehr/6489"
+        },
+        {
+          "title": "۴ — به‌گزارش واچر گورو، ترامپ گفته تیم کوک باید جانشین جنسن هوانگ در مقام مدیرعامل انویدیا شود.",
+          "url": "https://t.me/dlmehr/6490"
+        },
+        {
+          "title": "۵ — شرکت 4D Surgical از جذب ۸ میلیون دلار برای سازگارکردن جراحی رباتیک مغز با تصویربرداری ام‌آر‌آی خبر داد.",
+          "url": "https://t.me/dlmehr/6493"
+        },
+        {
+          "title": "۶ — شرکت Mirendil از جذب یک میلیارد دلار سرمایه در دور نخست، به‌رهبری کلاینر پرکینز و کلیرلیک، برای پژوهش‌وتوسعهٔ هوش مصنوعی خبر داد.",
+          "url": "https://t.me/dlmehr/6494"
+        },
+        {
+          "title": "۷ — به‌گفتهٔ پانکاج کومار، مدل Gemini 4 Hydrogen عرضه شده و هزینهٔ هر میلیون توکن ورودی و خروجی آن به‌ترتیب ۰٫۷۵ و ۳٫۷۵ دلار است.",
+          "url": "https://t.me/dlmehr/6495"
+        },
+        {
+          "title": "۸ — شرکت Blank Bio مدل سه‌میلیاردپارامتری Ladon را برای پیش‌بینی سیر بیماری و پاسخ به درمان از داده‌های آران‌ای معرفی کرد.",
+          "url": "https://t.me/dlmehr/6496"
+        },
+        {
+          "title": "۹ — شرکت Liquid AI کدک صوتی LiquidCodec با حدود ۷۴ میلیون پارامتر را معرفی کرد که به‌گفتهٔ شرکت، روی M4 Max بسیار سریع‌تر از زمان واقعی کار می‌کند.",
+          "url": "https://t.me/dlmehr/6497"
+        },
+        {
+          "title": "۱۰ — شرکت Retell اعلام کرد نرخ درآمد سالانه‌شده‌اش طی ۱۷ ماه از ۱۰ به بیش از ۱۰۰ میلیون دلار رسیده و سودآور است.",
+          "url": "https://t.me/dlmehr/6498"
+        },
+        {
+          "title": "۱۱ — علی کاشانی روایت کرد حمایت فوری جنسن هوانگ در بحران نقدینگی پیش از کریسمس ۲۰۲۳ به تأمین مالی اضطراری شرکتش کمک کرد.",
+          "url": "https://t.me/dlmehr/6499"
+        },
+        {
+          "title": "۱۲ — کانال والتر بلومبرگ به‌نقل از منابع مدعی شد جنسن هوانگ با کارمند دیگری نیز رابطهٔ صمیمانه داشته است.",
+          "url": "https://t.me/dlmehr/6500"
+        },
+        {
+          "title": "۱۳ — آنتروپیک عرضهٔ آزمایشی Claude Meetings را برای طرح‌های تیمی و سازمانی آغاز کرد تا هنگام تماس تصویری سند و تخته‌سفید بسازد.",
+          "url": "https://t.me/dlmehr/6501"
+        },
+        {
+          "title": "۱۴ — شرکت Thinking Machines وزن‌های مدل Inkling 2 Small را با مجوز Apache 2.0 در هاگینگ‌فیس منتشر کرد.",
+          "url": "https://t.me/dlmehr/6503"
+        },
+        {
+          "title": "۱۵ — مایکروسافت اعلام کرد گزارش‌های اختلال دسترسی کاربران قارهٔ آمریکا به صندوق‌های پستی Exchange Online را بررسی می‌کند.",
+          "url": "https://t.me/dlmehr/6504"
+        },
+        {
+          "title": "۱۶ — بلومبرگ به‌نقل از افراد مطلع گزارش داد هوانگ ابراز پشیمانی کرده و نگران همسرش و زنانی است که روابطی به او نسبت داده‌اند.",
+          "url": "https://t.me/dlmehr/6505"
+        },
+        {
+          "title": "۱۷ — به‌گزارش The Information، یک مشتری ابری انویدیا پس از خروج هوانگ بررسی تراشه‌های جایگزین گوگل و AMD را در دستور کار دارد.",
+          "url": "https://t.me/dlmehr/6506"
+        },
+        {
+          "title": "۱۸ — به‌روایت روهان پل، اطلاعات کارکنان TSMC از ارائه‌دهندهٔ ابری بیرونی نشت کرده، اما شرکت شواهدی از نفوذ به سامانه‌های خودش نیافته است.",
+          "url": "https://t.me/dlmehr/6507"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/rohanpaul_ai/status/2120748380699935086?a=51t8jiFd_pYevStaElE&s=52",
+          "url": "https://t.me/dlmehr/6485"
+        }
+      ]
+    },
+    {
+      "id": 6508,
+      "date": "2026-11-13T05:06:36+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6508",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Tom's Hardware reports Georgia residents sued OpenAI and county officials over allegedly secret approvals for a $20B data center.",
+          "url": "https://t.me/dlmehr/6485"
+        },
+        {
+          "title": "2 — Dream1984Tube alleges Anthropic-linked funding and policy networks connect several critics seeking Jensen Huang's ouster.",
+          "url": "https://t.me/dlmehr/6488"
+        },
+        {
+          "title": "3 — Nvidia says Jensen Huang resigned immediately, naming CFO Colette Kress interim CEO and Harvey Jones board chair.",
+          "url": "https://t.me/dlmehr/6489"
+        },
+        {
+          "title": "4 — WatcherGuru reports Trump said Apple's Tim Cook should replace Huang as Nvidia CEO.",
+          "url": "https://t.me/dlmehr/6490"
+        },
+        {
+          "title": "5 — 4D Surgical says it raised $8M to develop surgical robotics compatible with MRI-guided brain operations.",
+          "url": "https://t.me/dlmehr/6493"
+        },
+        {
+          "title": "6 — Mirendil announces a $1B Series A led by Kleiner Perkins and Clearlake to broaden access to frontier AI R&D.",
+          "url": "https://t.me/dlmehr/6494"
+        },
+        {
+          "title": "7 — Pankaj Kumar reports Gemini 4 Hydrogen (Flash) launched at $0.75 input and $3.75 output per million tokens.",
+          "url": "https://t.me/dlmehr/6495"
+        },
+        {
+          "title": "8 — Blank Bio introduces Ladon, a 3B-parameter RNA model it says predicts prognosis and treatment response across held-out clinical trials.",
+          "url": "https://t.me/dlmehr/6496"
+        },
+        {
+          "title": "9 — Liquid AI introduces LiquidCodec, a roughly 74M-parameter audio codec claiming 361× real-time encoding and 87× decoding on one M4 Max CPU thread.",
+          "url": "https://t.me/dlmehr/6497"
+        },
+        {
+          "title": "10 — Retell says it reached a $100M revenue run rate, up from $10M in 17 months, while profitable with $4.6M raised.",
+          "url": "https://t.me/dlmehr/6498"
+        },
+        {
+          "title": "11 — Ali Kashani recounts Huang helping secure emergency financing before his company's IPO, alongside a tribute to Nvidia's local-AI support.",
+          "url": "https://t.me/dlmehr/6499"
+        },
+        {
+          "title": "12 — WalterBloomberg cites unnamed sources alleging Huang had an intimate relationship with a second employee.",
+          "url": "https://t.me/dlmehr/6500"
+        },
+        {
+          "title": "13 — Anthropic announces Claude Meetings, a Team and Enterprise beta that creates documents and whiteboards during video calls.",
+          "url": "https://t.me/dlmehr/6501"
+        },
+        {
+          "title": "14 — Thinking Machines releases Inkling 2 Small's weights on Hugging Face under the Apache 2.0 license.",
+          "url": "https://t.me/dlmehr/6503"
+        },
+        {
+          "title": "15 — Microsoft says it is investigating Exchange Online mailbox-access problems across the Americas under incident EX1550543.",
+          "url": "https://t.me/dlmehr/6504"
+        },
+        {
+          "title": "16 — A shared Bloomberg excerpt cites people saying Huang expressed remorse and concern for his wife and women romantically linked to him.",
+          "url": "https://t.me/dlmehr/6505"
+        },
+        {
+          "title": "17 — The Information reports an Nvidia cloud customer is considering Google and AMD alternatives after Huang's departure.",
+          "url": "https://t.me/dlmehr/6506"
+        },
+        {
+          "title": "18 — Rohan Paul reports TSMC employee data leaked through a cloud provider, with TSMC finding no evidence its own systems were breached.",
+          "url": "https://t.me/dlmehr/6507"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/rohanpaul_ai/status/2120748380699935086?a=51t8jiFd_pYevStaElE&s=52",
+          "url": "https://t.me/dlmehr/6485"
+        }
+      ]
+    },
     {
       "id": 6487,
       "date": "2026-11-12T07:09:17+00:00",
