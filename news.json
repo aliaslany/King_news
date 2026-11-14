@@ -1,6 +1,144 @@
 {
-  "updatedAt": "2026-11-13T13:04:54.292042+00:00",
+  "updatedAt": "2026-11-14T12:09:26.034799+00:00",
   "news": [
+    {
+      "id": 6524,
+      "date": "2026-11-14T05:08:31+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6524",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — گوگل دیپ‌مایند از انتشار مجموعه‌داده‌های PARDIG و SatWeave، زیربنای WeatherNext 3، برای توسعه کاربردهای اقلیمی خبر داد.",
+          "url": "https://t.me/dlmehr/6510"
+        },
+        {
+          "title": "۲ — به‌گزارش تک‌کرانچ، کیف پول ChatGPT خرید و پرداخت عامل‌های هوش مصنوعی با تأیید کاربر را ابتدا برای شمار محدودی از مشترکان پرو در آمریکا فراهم می‌کند.",
+          "url": "https://t.me/dlmehr/6511"
+        },
+        {
+          "title": "۳ — به‌گفته الک وست‌اور، اجرای حلقه‌ای ترنسفورمر توانایی‌های بدون زنجیره تفکر را بیش از دیگر روش‌های بهبود کیفیت پیش‌آموزش افزایش می‌دهد.",
+          "url": "https://t.me/dlmehr/6512"
+        },
+        {
+          "title": "۴ — سازندگان دستبند شنونده Vexo می‌گویند این محصول مکالمات را به اقداماتی مانند پیام‌رسانی و خرید تبدیل می‌کند و ارسال آن از ۳۰ ژانویه ۲۰۲۷ آغاز می‌شود.",
+          "url": "https://t.me/dlmehr/6513"
+        },
+        {
+          "title": "۵ — شرکت آنتروپیک ده توصیه برای طراحی، اجرا و گزارش ارزیابی‌های ایمنی مدل‌ها منتشر کرد تا تصمیم‌گیری درباره عرضه و تدابیر حفاظتی بر سنجش معتبرتری متکی باشد.",
+          "url": "https://t.me/dlmehr/6514"
+        },
+        {
+          "title": "۶ — به‌گزارش مگان بوبروسکی، کارکنان متا آزمایش برنامه بازار پیش‌بینی Takes را آغاز کرده‌اند که شرط‌بندی در آن با امتیاز اعتبار است، نه پول واقعی.",
+          "url": "https://t.me/dlmehr/6515"
+        },
+        {
+          "title": "۷ — تیم Google Antigravity از عرضه گردش‌کارهای پویا خبر داد که با اسکریپت پایتونِ قابل‌بازبینی و استفاده مجدد، عامل‌های فرعی موازی و ترتیبی را هماهنگ می‌کنند.",
+          "url": "https://t.me/dlmehr/6517"
+        },
+        {
+          "title": "۸ — به‌نقل از روهان پال درباره پژوهش کارنگی ملون، ترکیب Opus 5.5 و Claude Code زیرساخت‌هایی برای آموزش و استنتاج ساخت که روی سخت‌افزار یکسان با ابزارهای عملیاتی برابری کردند یا بهتر بودند.",
+          "url": "https://t.me/dlmehr/6518"
+        },
+        {
+          "title": "۹ — گوگل از حل مسائل باز ریاضی، شیمی و مهندسی با همکاری متخصصان و سامانه چندعاملی Antigravity خبر داد و اعلام کرد ابزارهای این همکاری را در دسترس کاربران بیرونی می‌گذارد.",
+          "url": "https://t.me/dlmehr/6519"
+        },
+        {
+          "title": "۱۰ — به‌گفته میرا موراتی، گذر روبه‌جلوی چهاربیتی در آموزش Inkling 2 Small روی تراشه‌های NVIDIA GB300، همراه دیگر بهینه‌سازی‌ها، زمان پیش‌آموزش را از چند هفته به ۶۸ ساعت رسانده است.",
+          "url": "https://t.me/dlmehr/6520"
+        },
+        {
+          "title": "۱۱ — در پستی به‌نقل از فورچون آمده است که OpenAI با اتکا به تبدیل‌شدن مدل‌های زبانی بزرگ به مغز ربات‌ها، تیم رباتیک خود را منحل کرده است.",
+          "url": "https://t.me/dlmehr/6521"
+        },
+        {
+          "title": "۱۲ — تیم توسعه کلود اعلام کرد کاربران نسخه دسکتاپ Claude Code می‌توانند با توصیف ظاهر دلخواه، رنگ‌ها و پس‌زمینه متحرک را در قالب پوسته‌های سفارشی تغییر دهند.",
+          "url": "https://t.me/dlmehr/6522"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/googledeepmind/status/2121229774865527097?a=Cqe5I-XXga31_fgozlM&s=52",
+          "url": "https://t.me/dlmehr/6510"
+        }
+      ]
+    },
+    {
+      "id": 6523,
+      "date": "2026-11-14T05:06:23+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6523",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Google DeepMind announced PARDIG and SatWeave, the foundational datasets behind WeatherNext 3, for researchers developing climate applications.",
+          "url": "https://t.me/dlmehr/6510"
+        },
+        {
+          "title": "2 — TechCrunch reports that ChatGPT Wallet is rolling out to selected adult U.S. Pro subscribers, letting agents shop and complete purchases with user review and security approval.",
+          "url": "https://t.me/dlmehr/6511"
+        },
+        {
+          "title": "3 — Alek Westover reports that looping a transformer improves capabilities without chain-of-thought more than other approaches to improving pretraining quality.",
+          "url": "https://t.me/dlmehr/6512"
+        },
+        {
+          "title": "4 — Vexo says its AI bracelet turns conversations into actions such as messaging, scheduling and shopping, with sensitive actions requiring approval and shipping scheduled for January 30, 2027.",
+          "url": "https://t.me/dlmehr/6513"
+        },
+        {
+          "title": "5 — Anthropic published 10 recommendations for designing, running and reporting AI safety evaluations, emphasizing realistic multi-turn tests, expert input and secure testing environments.",
+          "url": "https://t.me/dlmehr/6514"
+        },
+        {
+          "title": "6 — Meghan Bobrowsky reports that Meta employees are testing Takes, a prediction-market app where users wager credibility points rather than real money.",
+          "url": "https://t.me/dlmehr/6515"
+        },
+        {
+          "title": "7 — Google Antigravity announced Dynamic Workflows, which generate reviewable, reusable Python scripts to coordinate parallel and sequential subagents with structured handoffs.",
+          "url": "https://t.me/dlmehr/6517"
+        },
+        {
+          "title": "8 — Rohan Paul reports that a Carnegie Mellon study found Opus 5.5 with Claude Code built AI infrastructure matching or beating production tools on identical GPUs, scoring 1.25 against a human baseline of 1 on Singularity-Bench.",
+          "url": "https://t.me/dlmehr/6518"
+        },
+        {
+          "title": "9 — Google Research says its Antigravity /teamwork agents helped human experts solve problems in mathematics, chemistry and systems engineering, and is making the collaboration tools available externally.",
+          "url": "https://t.me/dlmehr/6519"
+        },
+        {
+          "title": "10 — Mira Murati says Inkling 2 Small used native 4-bit forward passes on NVIDIA GB300s throughout training, one of several improvements that reduced pretraining from weeks to 68 hours.",
+          "url": "https://t.me/dlmehr/6520"
+        },
+        {
+          "title": "11 — A shared post citing Fortune says OpenAI disbanded its robotics team while betting that large language models will become robots' brains.",
+          "url": "https://t.me/dlmehr/6521"
+        },
+        {
+          "title": "12 — Claude Developers announced custom desktop Claude Code themes through mods, including color changes and animated backgrounds, with a theme-examples plugin to get started.",
+          "url": "https://t.me/dlmehr/6522"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/googledeepmind/status/2121229774865527097?a=Cqe5I-XXga31_fgozlM&s=52",
+          "url": "https://t.me/dlmehr/6510"
+        }
+      ]
+    },
     {
       "id": 6509,
       "date": "2026-11-13T05:09:04+00:00",
