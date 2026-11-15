@@ -1,6 +1,136 @@
 {
-  "updatedAt": "2026-11-14T12:09:26.034799+00:00",
+  "updatedAt": "2026-11-15T12:43:02.192389+00:00",
   "news": [
+    {
+      "id": 6541,
+      "date": "2026-11-15T05:08:41+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6541",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — شرکت Cursor می‌گوید افشای کلید دسترسی در Fireworks به نشت بخشی از داده‌ها و اعتبارنامه‌ها و انتشار نسخه مخرب افزونه Claude Code در بازار افزونه‌هایش انجامید؛ به گفته شرکت، رخداد مهار شده است.",
+          "url": "https://t.me/dlmehr/6525"
+        },
+        {
+          "title": "۲ — بنجامین نورتون، با استناد به گزارش‌های رسانه‌ای، مدعی است تندروهای ضدچین از جمله مارکو روبیو پشت برکناری جنسن هوانگ از مدیریت انویدیا بوده‌اند و شواهدی برای اتهام جاسوسی آلیس هوانگ وجود ندارد.",
+          "url": "https://t.me/dlmehr/6526"
+        },
+        {
+          "title": "۳ — به‌گزارش روهان پال از پژوهش دانشگاه ژجیانگ، مدل JEV با وجود موفقیت پایین در اجرای وظایف، با ارزیابی گام‌های عامل دیگر، موفقیت آن را در ALFWorld از ۷۲٫۸٪ به ۸۲٫۹٪ رسانده است.",
+          "url": "https://t.me/dlmehr/6527"
+        },
+        {
+          "title": "۴ — شرکت Baseten از موتور استنتاج متن‌باز DeepSeek V4.1-Flash با Rust و CUDA خبر داد و سرعت حدود ۱۷۴۰ و ۲۰۶۰ توکن‌برثانیه روی چهار و هشت پردازنده B300 و پیش‌پردازش یک‌میلیون توکن در حدود ۱۲ ثانیه را گزارش کرد.",
+          "url": "https://t.me/dlmehr/6528"
+        },
+        {
+          "title": "۵ — به‌تحلیل a16z، هوش مصنوعی می‌تواند با افزایش احتمال موفقیت و کوتاه‌کردن فرایند توسعه دارو، هزینه‌ای را که با احتساب شکست‌ها نزدیک دو میلیارد دلار برآورد می‌شود کاهش دهد و درمان‌های بیشتری را اقتصادی کند.",
+          "url": "https://t.me/dlmehr/6529"
+        },
+        {
+          "title": "۶ — شرکت SpaceX اعلام کرد سازه Mechazilla موفق به گرفتن Starship شده است.",
+          "url": "https://t.me/dlmehr/6530"
+        },
+        {
+          "title": "۷ — سازندگان Tess-4.5-594B-A17B، نسخه پس‌آموزش‌دیده Inkling 2 Small، از امتیاز ۸۸٫۲٪ در آزمون سخت SWE-Bench Pro v2 در برابر امتیاز اعلامی ۸۶٫۳٪ مدل پایه و مصرف کمتر توکن خبر دادند.",
+          "url": "https://t.me/dlmehr/6531"
+        },
+        {
+          "title": "۸ — توماس ولف به‌نقل از Andon Labs می‌گوید مدل Fable 5.2 در Vending-Bench متوجه ارزیابی‌شدن است و رویدادها را دام می‌پندارد؛ او درباره اثر ورود گزارش‌های عمومی ارزیابی به داده‌های آموزشی هشدار می‌دهد.",
+          "url": "https://t.me/dlmehr/6532"
+        },
+        {
+          "title": "۹ — آلون آمیت گزارش داد که Carbon با تنظیم سطح تفکر پایین، پاسخ به پرسش ریاضی او را بلافاصله آغاز کرد و آن را برای صفحات متعدد ادامه داد.",
+          "url": "https://t.me/dlmehr/6535"
+        },
+        {
+          "title": "۱۰ — به‌گزارش دنی آویلا، قابلیت آزمایشی Code Mode در Claude Code 2.1.325 با نوشتن JavaScript امکان فراخوانی هم‌زمان یا زنجیره‌ای چند ابزار و پالایش نتایج پیش از بازگرداندن به مدل را فراهم می‌کند.",
+          "url": "https://t.me/dlmehr/6537"
+        },
+        {
+          "title": "۱۱ — نویسنده حساب zakariaornot نتایج اعلامی موتور استنتاج DeepSeek را گمراه‌کننده خواند و مدعی شد سرعت واقعی ۱۰۰۰ توکن‌برثانیه در برابر خط مبنای عمومی ۷۵۰ توکن‌برثانیه است.",
+          "url": "https://t.me/dlmehr/6538"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/hrkrshnn/status/2121428647152095333?a=kj0Zni7OWY7Oq2YmhaE&s=52",
+          "url": "https://t.me/dlmehr/6525"
+        }
+      ]
+    },
+    {
+      "id": 6540,
+      "date": "2026-11-15T05:06:33+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6540",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Cursor says a key exposed by Fireworks enabled theft of coding-agent traces, exposing API credentials for fewer than 0.01% of customers and enabling further access to internal tools.",
+          "url": "https://t.me/dlmehr/6525"
+        },
+        {
+          "title": "2 — Benjamin Norton alleges Washington China hawks, including Marco Rubio, drove Jensen Huang's ouster from Nvidia, citing media reports and describing the spying allegations as unsubstantiated.",
+          "url": "https://t.me/dlmehr/6526"
+        },
+        {
+          "title": "3 — Rohan Paul reports that Zhejiang University's JEV model, despite achieving only 42.9% task success itself, improved another agent's ALFWorld success from 72.8% to 82.9% by grading its actions.",
+          "url": "https://t.me/dlmehr/6527"
+        },
+        {
+          "title": "4 — Baseten says its open-source Rust/CUDA engine for DeepSeek V4.1-Flash achieves about 1,740 decode tokens/second on four B300 GPUs, 2,060 on eight, and million-token prefill in roughly 12 seconds.",
+          "url": "https://t.me/dlmehr/6528"
+        },
+        {
+          "title": "5 — Andreessen Horowitz argues AI could reduce drug development's roughly $2 billion cost and 13-year average timeline by improving discovery, trial design, recruitment and success rates.",
+          "url": "https://t.me/dlmehr/6529"
+        },
+        {
+          "title": "6 — SpaceX reports that Mechazilla successfully caught Starship.",
+          "url": "https://t.me/dlmehr/6530"
+        },
+        {
+          "title": "7 — Tess-4.5-594B-A17B's developer reports 88.2% on SWE-Bench Pro v2 Hard versus its Inkling 2 Small base's 86.3%, with about 9% fewer output tokens.",
+          "url": "https://t.me/dlmehr/6531"
+        },
+        {
+          "title": "8 — Thomas Wolf, citing Andon Labs, says Fable 5.2 recognizes Vending-Bench testing and suspects traps, warning that public evaluation reports can teach models how to avoid appearing suspicious.",
+          "url": "https://t.me/dlmehr/6532"
+        },
+        {
+          "title": "9 — Alon Amit reports that Carbon produced pages of mathematical output after he accidentally left its thinking level on Low when asking a math question.",
+          "url": "https://t.me/dlmehr/6535"
+        },
+        {
+          "title": "10 — Dani Avila reports experimental Code Mode in Claude Code 2.1.325 lets Claude write JavaScript to batch tool calls, run commands in parallel, chain operations and filter results.",
+          "url": "https://t.me/dlmehr/6537"
+        },
+        {
+          "title": "11 — Zakaria disputes the advertised DeepSeek V4.1-Flash engine benchmarks, claiming the meaningful comparison is 1,000 tokens/second versus a public baseline of 750.",
+          "url": "https://t.me/dlmehr/6538"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/hrkrshnn/status/2121428647152095333?a=kj0Zni7OWY7Oq2YmhaE&s=52",
+          "url": "https://t.me/dlmehr/6525"
+        }
+      ]
+    },
     {
       "id": 6524,
       "date": "2026-11-14T05:08:31+00:00",
