@@ -1,6 +1,232 @@
 {
-  "updatedAt": "2026-11-16T13:37:06.054513+00:00",
+  "updatedAt": "2026-11-17T14:21:32.731185+00:00",
   "news": [
+    {
+      "id": 6580,
+      "date": "2026-11-17T05:09:21+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6580",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — شرکت OpenAI از دسترسی عمیق کارشناسان مستقل به مدل‌های داخلی برای ارزیابی ایمنی خبر داد.",
+          "url": "https://t.me/dlmehr/6555"
+        },
+        {
+          "title": "۲ — به‌گفتهٔ عمیر شیخ، Fable و Opus مدلی زبانی با ۳۶۷ هزار پارامتر ساخته‌اند که روی پنتیوم اجرا می‌شود.",
+          "url": "https://t.me/dlmehr/6556"
+        },
+        {
+          "title": "۳ — به‌نقل از گاردین، Claude صدها قضیه در یادداشت‌های گودل یافته که برخی نیازمند اصلاح یا نادرست بوده‌اند.",
+          "url": "https://t.me/dlmehr/6557"
+        },
+        {
+          "title": "۴ — شرکت OpenAI ابزار رایگان تشخیص محتوای سوءاستفادهٔ جنسی از کودکان را برای سازمان‌های تأییدشده معرفی کرد.",
+          "url": "https://t.me/dlmehr/6558"
+        },
+        {
+          "title": "۵ — طبق مطالعهٔ OpenAI، بیش از ۱۸۰۰ پژوهشگر مشارکت‌کننده تقریباً دوبرابرشدن بهره‌وری با هوش مصنوعی را گزارش کردند.",
+          "url": "https://t.me/dlmehr/6559"
+        },
+        {
+          "title": "۶ — به‌گزارش وال‌استریت انجین، متا فهرست انتظار دستگاه جیبی Muse Charm را با عرضهٔ محدود احتمالی در دسامبر گشود.",
+          "url": "https://t.me/dlmehr/6560"
+        },
+        {
+          "title": "۷ — یجین چوی از تأسیس Noeri با ۱۱۰ میلیون دلار سرمایه برای توسعهٔ هوش مصنوعی متنوع و خودبهبوددهنده خبر داد.",
+          "url": "https://t.me/dlmehr/6561"
+        },
+        {
+          "title": "۸ — به‌گزارش تک‌کرانچ، Audible پیش‌نمایش صوتی هوش مصنوعی برای معرفی مضمون کتاب‌ها و نظرهای مثبت خوانندگان افزود.",
+          "url": "https://t.me/dlmehr/6562"
+        },
+        {
+          "title": "۹ — به‌گزارش تک‌کرانچ، اپل با OpenEvidence اپلیکیشنی پژوهشی برای پاسخ به پرسش‌های سلامت بر پایهٔ شواهد بالینی عرضه کرد.",
+          "url": "https://t.me/dlmehr/6563"
+        },
+        {
+          "title": "۱۰ — شرکت Perplexity از برنامهٔ پژوهش باز در مدل‌ها، الگوریتم‌ها، همکاری چندعاملی و یادگیری مستمر رونمایی کرد.",
+          "url": "https://t.me/dlmehr/6564"
+        },
+        {
+          "title": "۱۱ — شرکت Databricks شاخص مصرف هوش مصنوعی سازمانی را با داده‌های بیش از ۱۰ هزار شرکت منتشر کرد.",
+          "url": "https://t.me/dlmehr/6565"
+        },
+        {
+          "title": "۱۲ — پژوهشگران Sigma، مدل زبانی انتشار پیوسته در اندازه‌های ۳ و ۸ میلیارد پارامتر، را معرفی کردند.",
+          "url": "https://t.me/dlmehr/6566"
+        },
+        {
+          "title": "۱۳ — فری‌بیکن از نقش پژوهشگر آنتروپیک در برگزاری مهمانی‌های جنسی و ادعاهای تعرض و فشار شغلی برای حضور زنان گزارش داد.",
+          "url": "https://t.me/dlmehr/6567"
+        },
+        {
+          "title": "۱۴ — اندرو کوران از اختلال چند بانک آمریکایی خبر داد؛ حملهٔ سایبری یا ارتباط با هوش مصنوعی تأیید نشده است.",
+          "url": "https://t.me/dlmehr/6568"
+        },
+        {
+          "title": "۱۵ — شرکت Hugging Face اعلام کرد درخواست‌های مدل‌های زبانی را برای انتخاب تأمین‌کننده و مدیریت خطا از OpenRouter عبور می‌دهد.",
+          "url": "https://t.me/dlmehr/6569"
+        },
+        {
+          "title": "۱۶ — شرکت Liquid AI مدل‌های تصمیم‌گیری d1.2 و d1.2-ultra را با پردازش متن، تصویر و صدا معرفی کرد.",
+          "url": "https://t.me/dlmehr/6570"
+        },
+        {
+          "title": "۱۷ — به‌گزارش تک‌کرانچ، اینستاگرام افزودن پیوندهای همکاری در فروش آمازون به ریلز و پست‌ها را ممکن کرد.",
+          "url": "https://t.me/dlmehr/6571"
+        },
+        {
+          "title": "۱۸ — پژوهشگران مدعی‌اند صفرکردن کمتر از ۰٫۰۵٪ وزن‌های مدل با GRPO در ریاضی به تنظیم کامل مدل می‌رسد.",
+          "url": "https://t.me/dlmehr/6573"
+        },
+        {
+          "title": "۱۹ — شرکت Baseten زیرساخت قابل‌سفارشی‌سازی عامل صوتی و سرویس مکالمهٔ بلادرنگ را در پیش‌نمایش خصوصی معرفی کرد.",
+          "url": "https://t.me/dlmehr/6574"
+        },
+        {
+          "title": "۲۰ — مهدی اللهیاری مدل‌های گفتارساز فارسی Cilla-Mini و Cilla-Lite را برای اجرای محلی معرفی کرد؛ مجوزشان غیرتجاری است.",
+          "url": "https://t.me/dlmehr/6575"
+        },
+        {
+          "title": "۲۱ — انویدیا می‌گوید کتابخانهٔ cuPotential شبیه‌سازی دینامیک مولکولی را در آزمون‌ها حدود دو تا بیش از سه برابر سریع‌تر می‌کند.",
+          "url": "https://t.me/dlmehr/6576"
+        },
+        {
+          "title": "۲۲ — وزارت بازرگانی آمریکا از بیانیهٔ مشترک با وزارت دادگستری دربارهٔ تحقیقات Megaspeed خبر داد.",
+          "url": "https://t.me/dlmehr/6577"
+        },
+        {
+          "title": "۲۳ — به‌گزارش Disclose.tv، حملهٔ احتمالی زنجیرهٔ تأمین Optimizely سایت‌های متعدد را به بدافزار سرقت اطلاعات پرداخت آلوده کرده است.",
+          "url": "https://t.me/dlmehr/6578"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/openai/status/2122359930628063248?a=WeuEi-iLlnSstE6OlLU&s=52",
+          "url": "https://t.me/dlmehr/6555"
+        }
+      ]
+    },
+    {
+      "id": 6579,
+      "date": "2026-11-17T05:07:13+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6579",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — OpenAI says four outside research groups will get deep internal access to assess alignment and safeguards.",
+          "url": "https://t.me/dlmehr/6555"
+        },
+        {
+          "title": "2 — Umair Shaikh reports AI built a 367K-parameter language model that fits on a floppy disk and runs on a Pentium.",
+          "url": "https://t.me/dlmehr/6556"
+        },
+        {
+          "title": "3 — Kimmonismus claims Claude recovered 663 theorems from Gödel's notes, with many needing corrections or failing checks.",
+          "url": "https://t.me/dlmehr/6557"
+        },
+        {
+          "title": "4 — OpenAI announces a free child sexual abuse material detector for vetted organizations, including AI-image detection.",
+          "url": "https://t.me/dlmehr/6558"
+        },
+        {
+          "title": "5 — OpenAI says researchers in its 1,800-plus-participant study reported nearly doubling productivity with AI.",
+          "url": "https://t.me/dlmehr/6559"
+        },
+        {
+          "title": "6 — Wall St Engine reports Meta opened a Muse Charm AI-device waitlist, with initial shipments expected in December.",
+          "url": "https://t.me/dlmehr/6560"
+        },
+        {
+          "title": "7 — Yejin Choi announces Noeri with Carlos Guestrin and $110M to develop diverse, continually learning AI systems.",
+          "url": "https://t.me/dlmehr/6561"
+        },
+        {
+          "title": "8 — TechCrunch reports Audible launched AI audio previews summarizing book themes and reader praise.",
+          "url": "https://t.me/dlmehr/6562"
+        },
+        {
+          "title": "9 — TechCrunch reports Apple and OpenEvidence launched a study app answering health questions using clinical sources.",
+          "url": "https://t.me/dlmehr/6563"
+        },
+        {
+          "title": "10 — Perplexity announces Frontier Research to openly develop models, algorithms and evaluations.",
+          "url": "https://t.me/dlmehr/6564"
+        },
+        {
+          "title": "11 — Databricks announces an AI Index tracking enterprise usage across over 10,000 companies using Unity Gateway.",
+          "url": "https://t.me/dlmehr/6565"
+        },
+        {
+          "title": "12 — Sigma's researchers introduce 3B/8B continuous diffusion language models, claiming competitive math and coding results.",
+          "url": "https://t.me/dlmehr/6566"
+        },
+        {
+          "title": "13 — Free Beacon reports assault allegations and career-pressure concerns surrounding sex parties managed by an Anthropic researcher.",
+          "url": "https://t.me/dlmehr/6567"
+        },
+        {
+          "title": "14 — Andrew Curran reports outages at several U.S. banks, with no confirmed cyberattack or official explanation.",
+          "url": "https://t.me/dlmehr/6568"
+        },
+        {
+          "title": "15 — Hugging Face says language-model inference now uses OpenRouter routing and failover, ending custom provider-key support.",
+          "url": "https://t.me/dlmehr/6569"
+        },
+        {
+          "title": "16 — Liquid AI releases d1.2 and d1.2-ultra for text, image and audio decisions, claiming the top Decision Index score.",
+          "url": "https://t.me/dlmehr/6570"
+        },
+        {
+          "title": "17 — TechCrunch reports Instagram now supports Amazon affiliate links directly in reels and feed posts.",
+          "url": "https://t.me/dlmehr/6571"
+        },
+        {
+          "title": "18 — Researchers claim zeroing under 0.05% of frozen model weights with GRPO matches full math fine-tuning.",
+          "url": "https://t.me/dlmehr/6573"
+        },
+        {
+          "title": "19 — Baseten previews its customizable Voice Agent Stack and Realtime Voice, claiming costs around $0.01 per audio minute.",
+          "url": "https://t.me/dlmehr/6574"
+        },
+        {
+          "title": "20 — Mehdi Allahyari releases Cilla Mini and Lite for local Persian speech synthesis, with gated, noncommercial licenses.",
+          "url": "https://t.me/dlmehr/6575"
+        },
+        {
+          "title": "21 — NVIDIA says cuPotential accelerates OpenMM molecular simulations by roughly 2x to over 3x in benchmarks.",
+          "url": "https://t.me/dlmehr/6576"
+        },
+        {
+          "title": "22 — The U.S. Commerce Department announces a joint statement with Justice on the Megaspeed investigation.",
+          "url": "https://t.me/dlmehr/6577"
+        },
+        {
+          "title": "23 — Disclose.tv reports a suspected Optimizely supply-chain attack exposing major sites' visitors to payment theft and iOS exploits.",
+          "url": "https://t.me/dlmehr/6578"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/openai/status/2122359930628063248?a=WeuEi-iLlnSstE6OlLU&s=52",
+          "url": "https://t.me/dlmehr/6555"
+        }
+      ]
+    },
     {
       "id": 6554,
       "date": "2026-11-16T05:08:02+00:00",
