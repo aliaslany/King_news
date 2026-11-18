@@ -1,6 +1,256 @@
 {
-  "updatedAt": "2026-11-17T14:21:32.731185+00:00",
+  "updatedAt": "2026-11-18T13:55:33.097646+00:00",
   "news": [
+    {
+      "id": 6608,
+      "date": "2026-11-18T05:08:26+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6608",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — سی‌ان‌ان از قطع شبکه محرمانه داخلی آژانس امنیت ملی آمریکا، بدون شواهد حمله سایبری، خبر داد.",
+          "url": "https://t.me/dlmehr/6581"
+        },
+        {
+          "title": "۲ — جنسن هوانگ ضمن پذیرش اشتباهات شخصی، بازگشت به مدیرعاملی انویدیا را مشروط به تصمیم هیئت‌مدیره دانست.",
+          "url": "https://t.me/dlmehr/6582"
+        },
+        {
+          "title": "۳ — شرکت Sierra ابزار Call Companion را برای نمایش گزینه‌ها و پرداخت حین تماس با عامل معرفی کرد.",
+          "url": "https://t.me/dlmehr/6583"
+        },
+        {
+          "title": "۴ — آنتروپیک می‌گوید یک عامل مجهز به مهارت‌ها در برخی کاربردهای سازمانی بهتر و ارزان‌تر از چندعامل است.",
+          "url": "https://t.me/dlmehr/6584"
+        },
+        {
+          "title": "۵ — انویدیا کیت اتصال چهار DGX Spark بدون سوئیچ شبکه و با حداکثر ۵۱۲ گیگابایت حافظه معرفی کرد.",
+          "url": "https://t.me/dlmehr/6585"
+        },
+        {
+          "title": "۶ — پژوهشگران گزارش دادند حافظه دلایل و نتایج ویرایش‌ها، خودبهبودی چارچوب عامل را تقویت می‌کند.",
+          "url": "https://t.me/dlmehr/6586"
+        },
+        {
+          "title": "۷ — نویسنده thdxr اختلاف شرکت‌ها بر سر تقطیر مدل را مسئله‌ای خصوصی و بی‌نیاز از دخالت دولت دانست.",
+          "url": "https://t.me/dlmehr/6587"
+        },
+        {
+          "title": "۸ — حساب ChinaSelect خطاب به جنسن هوانگ نوشت: «اول دسامبر می‌بینیمت».",
+          "url": "https://t.me/dlmehr/6588"
+        },
+        {
+          "title": "۹ — سوندار پیچای گسترش رایگان وظایف Gemini برای امور روزمره، تماس و پرداخت در شش کشور را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6589"
+        },
+        {
+          "title": "۱۰ — اندرو کوران از آغاز عرضه GPT-6.2 Astra و Sol برای برخی کاربران پیش از اعلام رسمی خبر داد.",
+          "url": "https://t.me/dlmehr/6590"
+        },
+        {
+          "title": "۱۱ — شرکت OpenAI در دسترس قرار گرفتن GPT-6.2 Astra و Sol را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6591"
+        },
+        {
+          "title": "۱۲ — ان‌بی‌سی گزارش داد آمریکا پس از بیش از یک سال گردش مداوم ویروس، وضعیت حذف سرخک را از دست داد.",
+          "url": "https://t.me/dlmehr/6592"
+        },
+        {
+          "title": "۱۳ — به‌نقل از OpenAI، نسخه تازه Astra for Law با جست‌وجوی حقوقی گسترده‌تر منتشر شد.",
+          "url": "https://t.me/dlmehr/6593"
+        },
+        {
+          "title": "۱۴ — نت‌بلاکس از اختلال بین‌المللی اپ‌استور و آی‌کلاد، بی‌ارتباط با فیلترینگ کشوری، خبر داد.",
+          "url": "https://t.me/dlmehr/6594"
+        },
+        {
+          "title": "۱۵ — تئو گفت با وجود توان بازبینی GPT-6.2 Astra، برای توسعه نرم‌افزار Opus 5.5 را ترجیح می‌دهد.",
+          "url": "https://t.me/dlmehr/6595"
+        },
+        {
+          "title": "۱۶ — سازندگان Second جذب ۱۰ میلیون دلار سرمایه اولیه برای زیرساخت مدل شخصی قابل‌استفاده عامل‌ها را اعلام کردند.",
+          "url": "https://t.me/dlmehr/6596"
+        },
+        {
+          "title": "۱۷ — ارزیابی Artificial Analysis، مدل GPT-6.2 Astra را با امتیاز ۷۹ صدرنشین آزمون رباتیک معرفی کرد.",
+          "url": "https://t.me/dlmehr/6597"
+        },
+        {
+          "title": "۱۸ — مایکروسافت مدل‌های برنامه‌نویسی MAI Code 2 و Code 2 Flash را در GitHub Copilot معرفی کرد.",
+          "url": "https://t.me/dlmehr/6598"
+        },
+        {
+          "title": "۱۹ — حساب kidrulit فهرستی از استارتاپ‌های ایرانی‌تبار سیلیکون‌ولی با جذب سرمایه بالای ۱۰ میلیون دلار منتشر کرد.",
+          "url": "https://t.me/dlmehr/6599"
+        },
+        {
+          "title": "۲۰ — تک‌کرانچ گزارش داد اداره وسایل نقلیه کالیفرنیا پس از چند حادثه، فعالیت Waymo را محدود کرد.",
+          "url": "https://t.me/dlmehr/6600"
+        },
+        {
+          "title": "۲۱ — انویدیا درآمد سه‌ماهه سوم سال مالی ۲۰۲۷ را ۱۱۵٫۸ میلیارد دلار، با رشد سالانه ۱۰۳ درصد اعلام کرد.",
+          "url": "https://t.me/dlmehr/6601"
+        },
+        {
+          "title": "۲۲ — آنتروپیک حالت آزمایشی Code Mode را برای ترکیب فراخوانی ابزارها با اسکریپت در Claude Code معرفی کرد.",
+          "url": "https://t.me/dlmehr/6602"
+        },
+        {
+          "title": "۲۳ — شرکت OpenAI تجربه ChatGPT for Sales را با افزونه فروش و بیش از ۳۰ افزونه تازه یا بهبودیافته معرفی کرد.",
+          "url": "https://t.me/dlmehr/6603"
+        },
+        {
+          "title": "۲۴ — شرکت Nuance شخصیت هوش مصنوعی Nora را برای گفت‌وگو در پیش‌نمایش پژوهشی معرفی کرد.",
+          "url": "https://t.me/dlmehr/6604"
+        },
+        {
+          "title": "۲۵ — به‌نقل از جف بزوس، اگر هوانگ بازنگردد، انویدیا بهتر است مدیرعامل را از داخل شرکت انتخاب کند.",
+          "url": "https://t.me/dlmehr/6605"
+        },
+        {
+          "title": "۲۶ — مایکروسافت مدعی برتری MAI Realtime 1 بر GPT-Realtime 2.1 با قیمت آغازین یک سنت در دقیقه صوت شد.",
+          "url": "https://t.me/dlmehr/6606"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/natashabertrand/status/2122714798450229401?a=Wk3DA_TkYY2B7lVAT3w&s=52",
+          "url": "https://t.me/dlmehr/6581"
+        }
+      ]
+    },
+    {
+      "id": 6607,
+      "date": "2026-11-18T05:06:18+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6607",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — CNN reports NSA's classified communications network is down, with no evidence of a cyberattack.",
+          "url": "https://t.me/dlmehr/6581"
+        },
+        {
+          "title": "2 — Jensen Huang admits personal mistakes and says he would return as NVIDIA CEO if its board approves.",
+          "url": "https://t.me/dlmehr/6582"
+        },
+        {
+          "title": "3 — Sierra introduces Call Companion, letting callers view options and pay while speaking with an AI agent.",
+          "url": "https://t.me/dlmehr/6583"
+        },
+        {
+          "title": "4 — Anthropic says a single agent with skills often beats specialized subagents on quality, cost and latency.",
+          "url": "https://t.me/dlmehr/6584"
+        },
+        {
+          "title": "5 — NVIDIA unveils a kit linking four DGX Sparks without a switch, offering up to 512GB memory.",
+          "url": "https://t.me/dlmehr/6585"
+        },
+        {
+          "title": "6 — Researchers report that remembering past edits improves AI harness optimization across models and benchmarks.",
+          "url": "https://t.me/dlmehr/6586"
+        },
+        {
+          "title": "7 — Thdxr argues model-distillation disputes should stay between companies, without government intervention.",
+          "url": "https://t.me/dlmehr/6587"
+        },
+        {
+          "title": "8 — ChinaSelect addresses Jensen Huang with “See you December 1,” tagging House committees.",
+          "url": "https://t.me/dlmehr/6588"
+        },
+        {
+          "title": "9 — Google says free Gemini Tasks is expanding to six countries, handling calls, scheduling and purchases.",
+          "url": "https://t.me/dlmehr/6589"
+        },
+        {
+          "title": "10 — Andrew Curran reports GPT-6.2 Astra and Sol rolling out ahead of an official announcement.",
+          "url": "https://t.me/dlmehr/6590"
+        },
+        {
+          "title": "11 — OpenAI announces GPT-6.2 Astra and Sol availability, emphasizing efficiency and real-world performance.",
+          "url": "https://t.me/dlmehr/6591"
+        },
+        {
+          "title": "12 — NBC reports PAHO revoked US measles-elimination status after over a year of continuous transmission.",
+          "url": "https://t.me/dlmehr/6592"
+        },
+        {
+          "title": "13 — OpenAI's quoted announcement offers updated Astra for Law access requests to all ChatGPT Enterprise customers.",
+          "url": "https://t.me/dlmehr/6593"
+        },
+        {
+          "title": "14 — NetBlocks reports international App Store and iCloud outages unrelated to national internet restrictions.",
+          "url": "https://t.me/dlmehr/6594"
+        },
+        {
+          "title": "15 — Theo prefers Opus 5.5 over GPT-6.2 Astra for development, while praising Astra's reviewing abilities.",
+          "url": "https://t.me/dlmehr/6595"
+        },
+        {
+          "title": "16 — Second announces a $10M a16z-led seed round for portable personal context served to agents through APIs.",
+          "url": "https://t.me/dlmehr/6596"
+        },
+        {
+          "title": "17 — Artificial Analysis ranks GPT-6.2 Astra first in AA-Robotics, scoring 79 and completing six of eight tasks.",
+          "url": "https://t.me/dlmehr/6597"
+        },
+        {
+          "title": "18 — Microsoft introduces MAI Code 2 and Code 2 Flash for enterprise coding in GitHub Copilot.",
+          "url": "https://t.me/dlmehr/6598"
+        },
+        {
+          "title": "19 — Kidrulit highlights Persian-founded Silicon Valley startups raising $10M+ and Iranian academic achievements.",
+          "url": "https://t.me/dlmehr/6599"
+        },
+        {
+          "title": "20 — TechCrunch reports California's DMV imposed operational restrictions on Waymo after several incidents.",
+          "url": "https://t.me/dlmehr/6600"
+        },
+        {
+          "title": "21 — NVIDIA reports fiscal Q3 2027 revenue of $115.8B, up 103%, including $107.6B from data centers.",
+          "url": "https://t.me/dlmehr/6601"
+        },
+        {
+          "title": "22 — Anthropic introduces experimental Claude Code Mode for scripting tool calls and responding during long commands.",
+          "url": "https://t.me/dlmehr/6602"
+        },
+        {
+          "title": "23 — OpenAI introduces ChatGPT for Sales with a Sales plugin and over 30 new or enhanced partner plugins.",
+          "url": "https://t.me/dlmehr/6603"
+        },
+        {
+          "title": "24 — Nuance introduces Nora, an AI persona available to chat with in its research preview.",
+          "url": "https://t.me/dlmehr/6604"
+        },
+        {
+          "title": "25 — Rohan Paul quotes Bezos urging NVIDIA to hire internally if Jensen Huang does not return.",
+          "url": "https://t.me/dlmehr/6605"
+        },
+        {
+          "title": "26 — Microsoft claims MAI Realtime 1 beats GPT-Realtime 2.1, with pricing starting at $0.01 per audio minute.",
+          "url": "https://t.me/dlmehr/6606"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/natashabertrand/status/2122714798450229401?a=Wk3DA_TkYY2B7lVAT3w&s=52",
+          "url": "https://t.me/dlmehr/6581"
+        }
+      ]
+    },
     {
       "id": 6580,
       "date": "2026-11-17T05:09:21+00:00",
