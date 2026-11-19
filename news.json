@@ -1,6 +1,248 @@
 {
-  "updatedAt": "2026-11-18T13:55:33.097646+00:00",
+  "updatedAt": "2026-11-19T14:24:07.336276+00:00",
   "news": [
+    {
+      "id": 6635,
+      "date": "2026-11-19T05:09:18+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6635",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — سازندهٔ oss.new از ساخت رایگان نسخهٔ متن‌باز قابلیت‌های اصلی نرم‌افزارها با عامل‌ها خبر داد.",
+          "url": "https://t.me/dlmehr/6609"
+        },
+        {
+          "title": "۲ — به‌نقل از پیش‌چاپ گوگل، حفظ سابقهٔ اصلاحات عامل، عملکرد مدل جایگزین را بهتر کرد.",
+          "url": "https://t.me/dlmehr/6610"
+        },
+        {
+          "title": "۳ — به‌نقل از رویترز، آمریکا الزام شرکت‌ها به افشای استفاده از مدل‌های چینی با وزن باز را بررسی می‌کند.",
+          "url": "https://t.me/dlmehr/6611"
+        },
+        {
+          "title": "۴ — امضاکنندگان بیانیهٔ MisAnthropic، آنتروپیک را به بهره‌برداری تجاری از اعتبار ایمنی متهم کردند.",
+          "url": "https://t.me/dlmehr/6612"
+        },
+        {
+          "title": "۵ — شرکت RightNow نسخهٔ سوم مدل تصمیم‌گیری حین دریافت ورودی را با تأخیر ادعایی ۳۰ میلی‌ثانیه معرفی کرد.",
+          "url": "https://t.me/dlmehr/6613"
+        },
+        {
+          "title": "۶ — سازندگان Kuroko از رتبهٔ نخست مدل وزن‌باز خود در هر دو آزمون نوبت‌گیری گفت‌وگوی TurnBench خبر دادند.",
+          "url": "https://t.me/dlmehr/6614"
+        },
+        {
+          "title": "۷ — شرکت OpenAI از بهبود تا ۱۴درصدی شاخص توان، عملکرد و مساحت در طراحی پردازندهٔ AMD خبر داد.",
+          "url": "https://t.me/dlmehr/6615"
+        },
+        {
+          "title": "۸ — شرکت Runway می‌گوید مدل ویدئویی ۵۷میلیاردپارامتری را با ۲۴ فریم‌برثانیه روی چهار پردازنده به‌جای هشت اجرا می‌کند.",
+          "url": "https://t.me/dlmehr/6616"
+        },
+        {
+          "title": "۹ — ویدئو: توضیح هوش مصنوعی خودبهبودگر توسط هم‌بنیان‌گذار و رئیس پژوهش OpenAI.",
+          "url": "https://t.me/dlmehr/6617"
+        },
+        {
+          "title": "۱۰ — واشنگتن‌پست از اعلام موفقیت واکسن لوسمی میلوئیدی حاد در مرحلهٔ سوم کارآزمایی خبر داد.",
+          "url": "https://t.me/dlmehr/6618"
+        },
+        {
+          "title": "۱۱ — به‌گزارش Wevolver، یادگیری تقویتی به لودر پنج‌تنی جان دیر مانورهای آکروباتیک خودکار آموخته است.",
+          "url": "https://t.me/dlmehr/6619"
+        },
+        {
+          "title": "۱۲ — به‌ادعای Polymarket، گوگل داده‌های داخلی اسپیریت ایرلاینز را برای آموزش مدل‌ها ۱۰میلیون دلار خریده است.",
+          "url": "https://t.me/dlmehr/6620"
+        },
+        {
+          "title": "۱۳ — شرکت Alljoined می‌گوید مدل AIR-O از داده‌های غیرتهاجمی مغز، تصویر موضوع توجه فرد را زنده می‌سازد.",
+          "url": "https://t.me/dlmehr/6621"
+        },
+        {
+          "title": "۱۴ — لوسی کای از آموزش ربات‌های یک خانه برای برگزاری مهمانی شام و برنامهٔ نمایش زنده خبر داد.",
+          "url": "https://t.me/dlmehr/6622"
+        },
+        {
+          "title": "۱۵ — اندرو کوران گمان می‌کند انویدیا با پرداخت‌های کلان مانع خروج کارکنان بر سر جنسن می‌شود.",
+          "url": "https://t.me/dlmehr/6623"
+        },
+        {
+          "title": "۱۶ — گوگل عرضهٔ Genie 4 برای ساخت جهان‌های تعاملی با ویرایش و صدای زنده به مشترکان واجدشرایط اولترا را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6624"
+        },
+        {
+          "title": "۱۷ — الکساندر وانگ از امکان پرو مجازی لباس پیش از خرید در Muse خبر داد.",
+          "url": "https://t.me/dlmehr/6625"
+        },
+        {
+          "title": "۱۸ — به‌ادعای ValsAI، مدل GPT-6.2 Astra نخستین اثبات Lean قضیهٔ شکاف اسموکتونوویچ را یافته است.",
+          "url": "https://t.me/dlmehr/6626"
+        },
+        {
+          "title": "۱۹ — به‌گزارش ABC7، ویمو خدماتش را پس از آب‌گرفتگی خیابان‌های سان‌فرانسیسکو موقتاً متوقف کرد.",
+          "url": "https://t.me/dlmehr/6627"
+        },
+        {
+          "title": "۲۰ — دین بال خواستار بحث علنی دربارهٔ باور رایج به پایان برتری انسان با هوش مصنوعی پیشرفته شد.",
+          "url": "https://t.me/dlmehr/6628"
+        },
+        {
+          "title": "۲۱ — شرکت OpenAI افزونه‌های حسابداری ChatGPT را برای گزارش مالی، تطبیق بانکی و آمادگی حسابرسی عرضه کرد.",
+          "url": "https://t.me/dlmehr/6629"
+        },
+        {
+          "title": "۲۲ — سوندار پیچای آغاز عرضهٔ Gemini 4 Neon برای کارهای پیچیدهٔ نرم‌افزاری، دانشی و علمی را اعلام کرد.",
+          "url": "https://t.me/dlmehr/6630"
+        },
+        {
+          "title": "۲۳ — بلومبرگ از تماس مؤسسهٔ استخدامی هیئت‌مدیرهٔ انویدیا با رنه هاس برای جانشینی جنسن هوانگ خبر داد.",
+          "url": "https://t.me/dlmehr/6631"
+        },
+        {
+          "title": "۲۴ — آنتروپیک قیمت عرضهٔ اولیه را ۸۳ دلار اعلام کرد؛ آغاز معامله در نزدک برای ۱۹ نوامبر پیش‌بینی شده است.",
+          "url": "https://t.me/dlmehr/6632"
+        },
+        {
+          "title": "۲۵ — شرکت Vorflux از سفر رایگان در سان‌فرانسیسکو با تسلاهای بازبرنامه‌ریزی‌شده و عامل صوتی خبر داد.",
+          "url": "https://t.me/dlmehr/6633"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/bensenescu/status/2122862958149812381?a=2SWtSGpBGQwStaIMTGg&s=35",
+          "url": "https://t.me/dlmehr/6609"
+        }
+      ]
+    },
+    {
+      "id": 6634,
+      "date": "2026-11-19T05:06:52+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6634",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — oss.new says its agents build free open-source apps from SaaS URLs.",
+          "url": "https://t.me/dlmehr/6609"
+        },
+        {
+          "title": "2 — A post on a Google preprint reports agent improvement logs preserved gains across model swaps.",
+          "url": "https://t.me/dlmehr/6610"
+        },
+        {
+          "title": "3 — Reuters reportedly says US officials may require firms to disclose Chinese open-weight AI use.",
+          "url": "https://t.me/dlmehr/6611"
+        },
+        {
+          "title": "4 — The MisAnthropic coalition accuses Anthropic of weakening safety pledges while pursuing power.",
+          "url": "https://t.me/dlmehr/6612"
+        },
+        {
+          "title": "5 — RightNow launches v3, claiming roughly 30-ms decisions on streaming multimodal inputs.",
+          "url": "https://t.me/dlmehr/6613"
+        },
+        {
+          "title": "6 — Kuroko's team says its open-weight 14.9M-parameter model tops both TurnBench tasks.",
+          "url": "https://t.me/dlmehr/6614"
+        },
+        {
+          "title": "7 — OpenAI reports up to 14% power/performance/area improvement on AMD GPU designs.",
+          "url": "https://t.me/dlmehr/6615"
+        },
+        {
+          "title": "8 — Runway says its 57B video model now runs at 24 fps on four H100s instead of eight.",
+          "url": "https://t.me/dlmehr/6616"
+        },
+        {
+          "title": "9 — Video: OpenAI’s Cofounder & Research Chief Explain Self-Improving AI",
+          "url": "https://t.me/dlmehr/6617"
+        },
+        {
+          "title": "10 — Sellas and Memorial Sloan Kettering report Phase 3 success for an acute myeloid leukemia vaccine.",
+          "url": "https://t.me/dlmehr/6618"
+        },
+        {
+          "title": "11 — Wevolver reports reinforcement learning taught a five-tonne loader autonomous acrobatics.",
+          "url": "https://t.me/dlmehr/6619"
+        },
+        {
+          "title": "12 — Polymarket claims Google bought Spirit Airlines' workplace data for $10M to train AI.",
+          "url": "https://t.me/dlmehr/6620"
+        },
+        {
+          "title": "13 — Alljoined says AIR-O generates images of a person's attention from noninvasive brain scans.",
+          "url": "https://t.me/dlmehr/6621"
+        },
+        {
+          "title": "14 — Lucy Cai announced a livestream of robots hosting a dinner party on November 18.",
+          "url": "https://t.me/dlmehr/6622"
+        },
+        {
+          "title": "15 — Andrew Curran speculates Nvidia is offering cash to deter departures over Jensen Huang.",
+          "url": "https://t.me/dlmehr/6623"
+        },
+        {
+          "title": "16 — Google rolls out Genie 4 to eligible Ultra subscribers, adding live world editing and audio.",
+          "url": "https://t.me/dlmehr/6624"
+        },
+        {
+          "title": "17 — Alexandr Wang announces virtual clothing try-ons in Muse while shopping.",
+          "url": "https://t.me/dlmehr/6625"
+        },
+        {
+          "title": "18 — Vals AI claims GPT-6.2 Astra produced the first Lean proof of Smoktunowicz’s Gap Theorem.",
+          "url": "https://t.me/dlmehr/6626"
+        },
+        {
+          "title": "19 — ABC7 reports Waymo paused service amid Bay Area flooding after a vehicle stalled.",
+          "url": "https://t.me/dlmehr/6627"
+        },
+        {
+          "title": "20 — Dean Ball urges debate over the belief that advanced AI inevitably ends human primacy.",
+          "url": "https://t.me/dlmehr/6628"
+        },
+        {
+          "title": "21 — OpenAI launches ChatGPT for Accounting with plugins for reconciliation, reports and audit prep.",
+          "url": "https://t.me/dlmehr/6629"
+        },
+        {
+          "title": "22 — Sundar Pichai announces Gemini 4 Neon rollout across Google's API, business and paid AI tools.",
+          "url": "https://t.me/dlmehr/6630"
+        },
+        {
+          "title": "23 — Bloomberg reports Nvidia's board-hired recruiters approached Rene Haas to replace Huang as CEO.",
+          "url": "https://t.me/dlmehr/6631"
+        },
+        {
+          "title": "24 — Anthropic prices its IPO at $83 a share, expecting Nasdaq trading November 19 under ANT.",
+          "url": "https://t.me/dlmehr/6632"
+        },
+        {
+          "title": "25 — Vorflux says it rebuilt a rideshare app and modified Teslas with voice agents for free SF rides.",
+          "url": "https://t.me/dlmehr/6633"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/bensenescu/status/2122862958149812381?a=2SWtSGpBGQwStaIMTGg&s=35",
+          "url": "https://t.me/dlmehr/6609"
+        }
+      ]
+    },
     {
       "id": 6608,
       "date": "2026-11-18T05:08:26+00:00",
