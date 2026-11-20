@@ -1,6 +1,176 @@
 {
-  "updatedAt": "2026-11-19T14:24:07.336276+00:00",
+  "updatedAt": "2026-11-20T13:59:08.412198+00:00",
   "news": [
+    {
+      "id": 6656,
+      "date": "2026-11-20T05:08:24+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6656",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش notjazii، مدل ناشناس gestalt در معیار طراحی Contra پیشتاز شده؛ انتساب آن به Anthropic صرفاً شایعه است و دسترسی آزمایشی ندارد.",
+          "url": "https://t.me/dlmehr/6636"
+        },
+        {
+          "title": "۲ — مؤسسه DeepMind در مقاله‌ای مسیرهای احتمالی گذار از هوش عمومی مصنوعی به ابرهوش و ضرورت سنجش دقیق پیشرفت را بررسی کرده است.",
+          "url": "https://t.me/dlmehr/6637"
+        },
+        {
+          "title": "۳ — به‌گفته kimmonismus، شرکت Anthropic زنگ آغاز معاملات نزدک را به صدا درآورده و او عرضه اولیه‌ای رکوردشکن پیش‌بینی می‌کند.",
+          "url": "https://t.me/dlmehr/6638"
+        },
+        {
+          "title": "۴ — نویسنده kimmonismus با اشاره به ادامه عرضه‌ها، احتمال معرفی Gemini دیگری را مطرح کرده و از کیفیت Neon تمجید می‌کند.",
+          "url": "https://t.me/dlmehr/6639"
+        },
+        {
+          "title": "۵ — شرکت Pika پیش‌نمایش پژوهشی Enact را معرفی کرده که به‌گفته آن، تعامل با بازیگران، تغییر چیدمان صحنه و کنترل دوربین را هم‌زمان ممکن می‌کند.",
+          "url": "https://t.me/dlmehr/6640"
+        },
+        {
+          "title": "۶ — نویسنده ashen_one ویدئوی بازنشرشده را از بهترین‌های ماه دانسته و تماشایش را به برنامه‌نویسان قدیمی مخالف هوش مصنوعی توصیه می‌کند.",
+          "url": "https://t.me/dlmehr/6641"
+        },
+        {
+          "title": "۷ — مارکس براونلی، با نام MKBHD، شبیه‌ساز رانندگی داخلی خودروی Li Auto L9 را تحسین کرده است.",
+          "url": "https://t.me/dlmehr/6642"
+        },
+        {
+          "title": "۸ — والریو کاپرارو پروژه‌ای برای بازبینی و اصلاح خطاهای مقالات علمی با عامل‌های هوش مصنوعی معرفی کرده و از پژوهشگران رشته‌های مختلف دعوت به همکاری می‌کند.",
+          "url": "https://t.me/dlmehr/6643"
+        },
+        {
+          "title": "۹ — شرکت Inworld از انتشار متن‌باز مدل‌های جداسازی صدا و تشخیص پایان نوبت گفتار، Voice Isolator و SAVA، همراه با گزارش فنی TTS-2 خبر داد.",
+          "url": "https://t.me/dlmehr/6644"
+        },
+        {
+          "title": "۱۰ — به‌گزارش himanshustwts، مهاجمی به دسترسی مدیریتی سرورهای مدل Prime Intellect رسیده و خوشه آسیب‌دیده خاموش شده؛ دامنه احتمالی افشای درخواست‌ها نامشخص است.",
+          "url": "https://t.me/dlmehr/6645"
+        },
+        {
+          "title": "۱۱ — به‌گزارش Kobeissi Letter، ارزش بازار احتمالی Anthropic در آغاز معاملات ۲ تریلیون دلار، ۳۳٪ بالاتر از قیمت عرضه اولیه، برآورد شده است.",
+          "url": "https://t.me/dlmehr/6646"
+        },
+        {
+          "title": "۱۲ — به‌گزارش TechCrunch، برخی کارکنان گفته‌اند Muse پیام‌هایی درباره درخواست‌ها و سفارش‌های انجام‌نشده و موجودی حساب‌های متعلق به دیگران نشان داده است.",
+          "url": "https://t.me/dlmehr/6648"
+        },
+        {
+          "title": "۱۳ — شرکت OpenAI از دسترسی به GPT-Live-1.1 در رابط برنامه‌نویسی با لهجه‌های طبیعی‌تر، گزینه آماده‌به‌کار کم‌هزینه‌تر و اجرای قابل‌اعتمادتر وظایف خبر داد.",
+          "url": "https://t.me/dlmehr/6649"
+        },
+        {
+          "title": "۱۴ — طبق اعلام ChatGPT، قابلیت Health به نسخه دسکتاپ، اندروید، Sites و dots گسترش یافته؛ دسترسی دسکتاپ و اندروید فعلاً در آمریکا ارائه می‌شود.",
+          "url": "https://t.me/dlmehr/6650"
+        },
+        {
+          "title": "۱۵ — نویسنده imoe_na نمایشی از کنترل صوتی عامل‌های هوش مصنوعی با عینک ارائه کرده که به‌گفته او، پروتکل باز آن از عامل‌های سفارشی نیز پشتیبانی می‌کند.",
+          "url": "https://t.me/dlmehr/6652"
+        },
+        {
+          "title": "۱۶ — آزمایشگاه Tufa می‌گوید tufazip یک گیگابایت متن ویکی‌پدیا را بدون اتلاف به ۱۰۵٫۳۹ مگابایت فشرده کرده و میان روش‌های صرفاً عصبیِ معیار فشرده‌سازی متن پیشتاز است.",
+          "url": "https://t.me/dlmehr/6653"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/notjazii/status/2123379239777075499?a=oMxCe2XMH0ESm9-FPl0&s=19",
+          "url": "https://t.me/dlmehr/6636"
+        }
+      ]
+    },
+    {
+      "id": 6655,
+      "date": "2026-11-20T05:06:21+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6655",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Notjazii reports that a mystery model called Gestalt leads Contra's frontier design benchmark; its developer remains unconfirmed.",
+          "url": "https://t.me/dlmehr/6636"
+        },
+        {
+          "title": "2 — DeepMind Institute's new essay explores possible paths from AGI to superintelligence and the need to measure progress and prepare.",
+          "url": "https://t.me/dlmehr/6637"
+        },
+        {
+          "title": "3 — Kimmonismus reports that Anthropic rang Nasdaq's opening bell and predicts a record IPO.",
+          "url": "https://t.me/dlmehr/6638"
+        },
+        {
+          "title": "4 — Kimmonismus speculates that another Gemini release is coming, citing a promise that shipping will continue.",
+          "url": "https://t.me/dlmehr/6639"
+        },
+        {
+          "title": "5 — Pika introduces Enact, a research preview built on H3 Flex for directing AI actors, restaging scenes and moving cameras in real time.",
+          "url": "https://t.me/dlmehr/6640"
+        },
+        {
+          "title": "6 — Ashen_one recommends a video to traditional programmers skeptical of AI, calling it one of the month's best.",
+          "url": "https://t.me/dlmehr/6641"
+        },
+        {
+          "title": "7 — MKBHD highlights the Li Auto L9's built-in driving simulator, praising it alongside GTA 6.",
+          "url": "https://t.me/dlmehr/6642"
+        },
+        {
+          "title": "8 — Valerio Capraro is recruiting researchers for an ambitious project to have AI agents review and correct scientific papers across disciplines.",
+          "url": "https://t.me/dlmehr/6643"
+        },
+        {
+          "title": "9 — Inworld releases Voice Isolator and SAVA speech-turn detection models under Apache 2.0, alongside its Realtime TTS-2 technical report.",
+          "url": "https://t.me/dlmehr/6644"
+        },
+        {
+          "title": "10 — Himanshustwts reports admin-level compromise of Prime Intellect model servers and an affected cluster's shutdown, with exposure scope unclear.",
+          "url": "https://t.me/dlmehr/6645"
+        },
+        {
+          "title": "11 — The Kobeissi Letter reports Anthropic's indicated opening valuation at $2 trillion, 33% above its IPO price, with $500 billion in demand.",
+          "url": "https://t.me/dlmehr/6646"
+        },
+        {
+          "title": "12 — TechCrunch reports employees saying Muse surfaced messages about requests and orders they never made and bank balances that were not theirs.",
+          "url": "https://t.me/dlmehr/6648"
+        },
+        {
+          "title": "13 — OpenAI announces GPT-Live-1.1 in its API, claiming improved accents, more reliable task completion and lower idle costs through standby mode.",
+          "url": "https://t.me/dlmehr/6649"
+        },
+        {
+          "title": "14 — OpenAI expands ChatGPT Health to desktop, Android, Sites and dots, with connected health insights and availability varying by plan.",
+          "url": "https://t.me/dlmehr/6650"
+        },
+        {
+          "title": "15 — Imoe_na demonstrates voice control of AI agents through glasses, saying an open protocol supports Claude Code, Codex and custom agents.",
+          "url": "https://t.me/dlmehr/6652"
+        },
+        {
+          "title": "16 — Tufa Labs says tufazip losslessly compresses one billion bytes of Wikipedia to 105.39 MB, leading benchmark entries using only neural prediction.",
+          "url": "https://t.me/dlmehr/6653"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/notjazii/status/2123379239777075499?a=oMxCe2XMH0ESm9-FPl0&s=19",
+          "url": "https://t.me/dlmehr/6636"
+        }
+      ]
+    },
     {
       "id": 6635,
       "date": "2026-11-19T05:09:18+00:00",
