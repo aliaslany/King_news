@@ -1,6 +1,144 @@
 {
-  "updatedAt": "2026-11-20T13:59:08.412198+00:00",
+  "updatedAt": "2026-11-21T13:26:57.084313+00:00",
   "news": [
+    {
+      "id": 6672,
+      "date": "2026-11-21T05:08:52+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6672",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گزارش ساینتیفیک امریکن، لونت آلپوگه، ریاضی‌دان آنتروپیک، مدعی شده با کمک کلود اثباتی برای فرضیهٔ ریمان یافته است.",
+          "url": "https://t.me/dlmehr/6657"
+        },
+        {
+          "title": "۲ — کاربر SIBuilder مدعی افزایش قیمت عرضهٔ سهام آنتروپیک به ۸۳ دلار، فروش دو میلیارد دلاری مدیران در روز نخست و آزادسازی گستردهٔ سهام در ماه‌های آینده شده است.",
+          "url": "https://t.me/dlmehr/6658"
+        },
+        {
+          "title": "۳ — به‌گفتهٔ کاربر kimmonismus، از دوم دسامبر استفاده از Gemini 4 با طرح‌های اشتراکی کاربران در هر چارچوب اجرای عامل ممکن می‌شود.",
+          "url": "https://t.me/dlmehr/6659"
+        },
+        {
+          "title": "۴ — به‌گزارش بی‌بی‌سی، داروی داراکسونراسیب همراه شیمی‌درمانی در آزمایشی اولیه سرطان لوزالمعده را در اسکن یک نفر از هر ۱۲ بیمار غیرقابل‌تشخیص کرد، اما هنوز درمان قطعی محسوب نمی‌شود.",
+          "url": "https://t.me/dlmehr/6660"
+        },
+        {
+          "title": "۵ — پژوهشی دوازده‌هفته‌ای گزارش می‌دهد ۹۳۶ عامل هوش مصنوعی در ۳۵ آزمایشگاه، ۹۳۶ مطالعه تولید و نشریهٔ داوری همتا ایجاد کردند؛ داوران هوش مصنوعی دقت روش‌شناختی آن‌ها را بالاتر، اما نوآوری انسان‌ها را بیشتر ارزیابی کردند.",
+          "url": "https://t.me/dlmehr/6661"
+        },
+        {
+          "title": "۶ — گوگل دیپ‌مایند می‌گوید Gemini 4 Neon در Antigravity شبیه‌ساز اسکی بر پایهٔ ناهمواری‌های واقعی مون‌بلان ساخته که بدون مدل سه‌بعدی آماده، برف و بهمن را زنده نمایش می‌دهد.",
+          "url": "https://t.me/dlmehr/6662"
+        },
+        {
+          "title": "۷ — شرکت OpenAI معیار MedChemBench را برای سنجش استدلال شیمی دارویی معرفی کرده و از کسب ۸۴٫۵ درصد امتیاز توسط GPT‑6.2 Astra در مسائل تفسیر ساختار مولکولی و شواهد آزمایشگاهی خبر داده است.",
+          "url": "https://t.me/dlmehr/6663"
+        },
+        {
+          "title": "۸ — شرکت OpenAI پژوهشی دربارهٔ شناسایی و مقابله با تقطیر خصمانه منتشر کرده و هشدار داده استخراج توانایی مدل‌ها می‌تواند بدون انتقال تمهیدات ایمنی آن‌ها انجام شود.",
+          "url": "https://t.me/dlmehr/6664"
+        },
+        {
+          "title": "۹ — اندرو کوران مدعی شده کمیسیون بورس و اوراق بهادار آمریکا در حال بررسی مشکلات احتمالی حسابداری انویدیا است.",
+          "url": "https://t.me/dlmehr/6666"
+        },
+        {
+          "title": "۱۰ — شرکت Thinking Machines مدل وزن‌باز Inkling 2 Mini را با ۲۶٫۴ میلیارد پارامتر و معماری ترنسفورمر حلقه‌ای معرفی کرده که به‌گفتهٔ شرکت، روی لپ‌تاپ اجرا می‌شود.",
+          "url": "https://t.me/dlmehr/6667"
+        },
+        {
+          "title": "۱۱ — شرکت Baseten مدل‌های تصمیم‌گیری bison-1 و groundhog-1 را بر پایهٔ Gemma 4 با پشتیبانی متن و تصویر و پنجرهٔ زمینهٔ ۱۲۸هزار توکنی معرفی کرده و از صدرنشینی bison-1 در شاخص تصمیم‌گیری Artificial Analysis خبر داده است.",
+          "url": "https://t.me/dlmehr/6668"
+        },
+        {
+          "title": "۱۲ — رویترز به‌نقل از CNBC گزارش داده Cursor متعلق به SpaceX، به‌دلیل ریسک‌های ژئوپلیتیکی، حذف تدریجی مدل‌های هوش مصنوعی چینی را بررسی می‌کند.",
+          "url": "https://t.me/dlmehr/6669"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/sciam/status/2123782587235655707?a=DNAETx6CunpaSlYDDGY&s=52",
+          "url": "https://t.me/dlmehr/6657"
+        }
+      ]
+    },
+    {
+      "id": 6671,
+      "date": "2026-11-21T05:07:00+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6671",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Scientific American reports that Anthropic mathematician Levent Alpöge claims a Claude-assisted proof of the generalized Riemann hypothesis, with mathematical details still requiring scrutiny.",
+          "url": "https://t.me/dlmehr/6657"
+        },
+        {
+          "title": "2 — SIBuilder criticizes Anthropic's reported IPO pricing and share expansion, alleging $2 billion in management cash-outs and substantial upcoming share unlocks.",
+          "url": "https://t.me/dlmehr/6658"
+        },
+        {
+          "title": "3 — Kimmonismus says Gemini 4 subscription plans will support use in any agent harness starting December 2.",
+          "url": "https://t.me/dlmehr/6659"
+        },
+        {
+          "title": "4 — BBC reports that daraxonrasib plus chemotherapy made pancreatic tumors undetectable in about 8% of 61 trial participants, but doctors caution that this is not evidence of a cure.",
+          "url": "https://t.me/dlmehr/6660"
+        },
+        {
+          "title": "5 — A twelve-week study reports that 936 AI agents across 35 labs produced 936 studies and developed peer-review practices, though human guidance and AI-based evaluations limit conclusions.",
+          "url": "https://t.me/dlmehr/6661"
+        },
+        {
+          "title": "6 — Google DeepMind says Gemini 4 Neon built a Mont Blanc ski simulator in Antigravity using custom shaders, live snow and avalanches, and no premade 3D models.",
+          "url": "https://t.me/dlmehr/6662"
+        },
+        {
+          "title": "7 — OpenAI introduced MedChemBench's 99 medicinal-chemistry problems, reporting 84.5% credit for GPT-6.2 Astra while cautioning that benchmark performance does not establish drug-discovery ability.",
+          "url": "https://t.me/dlmehr/6663"
+        },
+        {
+          "title": "8 — OpenAI says updated training, classifiers, API protections and enforcement combat unauthorized distillation, reducing one internal reasoning-extraction attack success rate from 54% to 0.2%.",
+          "url": "https://t.me/dlmehr/6664"
+        },
+        {
+          "title": "9 — Andrew Curran claims the SEC is scrutinizing potential accounting issues at NVIDIA.",
+          "url": "https://t.me/dlmehr/6666"
+        },
+        {
+          "title": "10 — Thinking Machines released Inkling 2 Mini, a 26.4-billion-parameter open-weights model that repeats middle layers for more reasoning per token and reportedly runs locally with about 20GB of memory.",
+          "url": "https://t.me/dlmehr/6667"
+        },
+        {
+          "title": "11 — Baseten launched Gemma 4-based bison-1 and groundhog-1 with open weights, 128k context and image/text inputs, claiming bison-1 leads the Artificial Analysis Decision Index.",
+          "url": "https://t.me/dlmehr/6668"
+        },
+        {
+          "title": "12 — Reuters, citing CNBC, reports that SpaceX's Cursor is considering phasing out Chinese AI models over geopolitical risks.",
+          "url": "https://t.me/dlmehr/6669"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/sciam/status/2123782587235655707?a=DNAETx6CunpaSlYDDGY&s=52",
+          "url": "https://t.me/dlmehr/6657"
+        }
+      ]
+    },
     {
       "id": 6656,
       "date": "2026-11-20T05:08:24+00:00",
