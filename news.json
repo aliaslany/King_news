@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-11-21T13:26:57.084313+00:00",
+  "updatedAt": "2026-11-22T13:19:13.929843+00:00",
   "news": [
+    {
+      "id": 6678,
+      "date": "2026-11-22T05:07:54+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6678",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — جوامع Lean و Mathlib در بیانیه‌ای مشترک اعلام کردند صحت صورت‌بندی و اثبات فرضیهٔ ریمان توسط لونت آلپوگه را که در قالب کتابخانه‌ای با ۱۷ میلیون خط کد منتشر شده، تأیید کرده‌اند.",
+          "url": "https://t.me/dlmehr/6673"
+        },
+        {
+          "title": "۲ — طبق مستندات پروژه، مدل بینایی‌ـ‌زبانی Jeveration با پارامترهای ثابت، تصویر ۵۱۲ در ۵۱۲ پیکسلی را در یک گذر و در ۷۸ میلی‌ثانیه روی یک پردازندهٔ NVIDIA H200 تولید می‌کند و ویرایش تصویر و پیش‌بینی عمق را نیز پشتیبانی می‌کند.",
+          "url": "https://t.me/dlmehr/6674"
+        },
+        {
+          "title": "۳ — نویسندهٔ پست اعلام کرد سهمیهٔ Gemini همهٔ کاربران در Antigravity بازنشانی شده و بهبودهای حافظهٔ نهان، میزان کار قابل‌انجام با همان سهمیه را ۲۲ درصد افزایش داده است.",
+          "url": "https://t.me/dlmehr/6675"
+        },
+        {
+          "title": "۴ — ویدئو: ۵۲. مدل‌سازی واقعیت، از اشکان میرزایی، به زبان فارسی.",
+          "url": "https://t.me/dlmehr/6676"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/deedydas/status/2124174335212753208?a=qLEAtI9k1QxoUob73Uc&s=52",
+          "url": "https://t.me/dlmehr/6673"
+        }
+      ]
+    },
+    {
+      "id": 6677,
+      "date": "2026-11-22T05:06:06+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6677",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — The Lean and Mathlib communities say they have verified Levent Alpöge's Riemann Hypothesis proof, released as a 17-million-line Lean library, confirming both its mathematical statement and proof correctness.",
+          "url": "https://t.me/dlmehr/6673"
+        },
+        {
+          "title": "2 — Jeveration's developers report that their frozen vision-language model generates 512-by-512 images in one forward pass in 78 milliseconds on an NVIDIA H200, with one checkpoint also supporting image transformation and dense prediction.",
+          "url": "https://t.me/dlmehr/6674"
+        },
+        {
+          "title": "3 — @_mohansolo says everyone's Gemini quota on Antigravity has been reset and caching improvements allow 22% more work within the quota.",
+          "url": "https://t.me/dlmehr/6675"
+        },
+        {
+          "title": "4 — Video: 52. Modeling Reality by Ashkan Mirzaei (Persian)",
+          "url": "https://t.me/dlmehr/6676"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/deedydas/status/2124174335212753208?a=qLEAtI9k1QxoUob73Uc&s=52",
+          "url": "https://t.me/dlmehr/6673"
+        }
+      ]
+    },
+    {
+      "id": 6674,
+      "date": "2026-11-21T17:12:15+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6674",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "0:15 This media is not supported in your browser VIEW IN TELEGRAM",
+          "url": "https://t.me/dlmehr/6674"
+        },
+        {
+          "title": "huggingface.co/spaces/linlinlinlinsdada/Jeveration",
+          "url": "http://huggingface.co/spaces/linlinlinlinsdada/Jeveration"
+        },
+        {
+          "title": "github.com/Carol-lyh/Jeveration",
+          "url": "http://github.com/Carol-lyh/Jeveration"
+        }
+      ]
+    },
     {
       "id": 6672,
       "date": "2026-11-21T05:08:52+00:00",
