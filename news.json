@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-11-22T13:19:13.929843+00:00",
+  "updatedAt": "2026-11-23T15:56:21.565595+00:00",
   "news": [
+    {
+      "id": 6688,
+      "date": "2026-11-23T05:08:31+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6688",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — کاربر niccruzpatane نمای «Reality View» سامانهٔ FSD نسخهٔ ۱۵ تسلا را در محیط شلوغ مرکز شهر به نمایش گذاشت.",
+          "url": "https://t.me/dlmehr/6679"
+        },
+        {
+          "title": "۲ — تسلا نمایشی از دور زدن مانع درختی در جاده با سامانهٔ FSD نسخهٔ ۱۵ منتشر کرد؛ پست نقل‌شده مانع را شاخه‌ای بزرگ توصیف می‌کند.",
+          "url": "https://t.me/dlmehr/6680"
+        },
+        {
+          "title": "۳ — یاکوب پاخوکی، دانشمند ارشد OpenAI، با انتشار سنجه‌های پیشرفت پیش‌آموزش، پیشنهاد کرد توسعه‌دهندگان بر پایهٔ «پرپلکسیتی» و معیارهای دیگر محدودیت‌های مشترکی تعیین کنند و عبور از آن‌ها را به پیشرفت مشخص در فهم و پایش رفتار هوش مصنوعی مشروط سازند.",
+          "url": "https://t.me/dlmehr/6681"
+        },
+        {
+          "title": "۴ — مکس زف گزارش داد که داریو آمودی در دوران حضورش در OpenAI، بازی‌های ویدئویی غوطه‌ورکننده را راهکاری احتمالی برای تنش‌های سیاسی ناشی از بیکاری بر اثر هوش مصنوعی پیشنهاد کرده بود.",
+          "url": "https://t.me/dlmehr/6682"
+        },
+        {
+          "title": "۵ — نویسندهٔ کانال تجربهٔ تبدیل مفاهیم پیچیده، از جمله ویدئوی خود دربارهٔ یادگیری تقویتی، به کمیک با Gemini را برای کسب دید کلی مفید دانست، اما بر محدودیت آن در نمایش جزئیات تأکید کرد.",
+          "url": "https://t.me/dlmehr/6683"
+        },
+        {
+          "title": "۶ — حساب CodeByNZ ادعا کرد مدلی با نام Claude Saga 6 با ۲۲۹۴ امتیاز و بالاتر از Fable 5.2 صدرنشین یک جدول رتبه‌بندی شده است، اما خود منبع تأکید دارد که این خبر تأیید نشده و شواهد آن ضعیف است.",
+          "url": "https://t.me/dlmehr/6686"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/niccruzpatane/status/2124354639399370872?a=B5c44uvbxEGD4kJT4H8&s=52",
+          "url": "https://t.me/dlmehr/6679"
+        }
+      ]
+    },
+    {
+      "id": 6687,
+      "date": "2026-11-23T05:06:30+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6687",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Nic Cruz Patane shared Tesla FSD v15's Reality View in a busy downtown setting.",
+          "url": "https://t.me/dlmehr/6679"
+        },
+        {
+          "title": "2 — Tesla shared a demonstration it described as FSD v15 navigating around a large branch blocking the road.",
+          "url": "https://t.me/dlmehr/6680"
+        },
+        {
+          "title": "3 — OpenAI chief scientist Jakub Pachocki published pretraining measurements and proposed shared AI development limits based on perplexity and other metrics, with further progress gated on improved understanding and monitoring of AI behavior.",
+          "url": "https://t.me/dlmehr/6681"
+        },
+        {
+          "title": "4 — Max Zeff reported that Dario Amodei, while at OpenAI, suggested immersive video games might address political strife caused by AI-induced unemployment.",
+          "url": "https://t.me/dlmehr/6682"
+        },
+        {
+          "title": "5 — The channel author shared Gemini-generated comics based on their reinforcement-learning video, noting that comics help convey the big picture but cannot capture much detail.",
+          "url": "https://t.me/dlmehr/6683"
+        },
+        {
+          "title": "6 — CodeByNZ relayed an explicitly unconfirmed, thinly sourced claim that a model called Claude Saga 6 leads a leaderboard with 2,294 points, ahead of Fable 5.2.",
+          "url": "https://t.me/dlmehr/6686"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/niccruzpatane/status/2124354639399370872?a=B5c44uvbxEGD4kJT4H8&s=52",
+          "url": "https://t.me/dlmehr/6679"
+        }
+      ]
+    },
     {
       "id": 6678,
       "date": "2026-11-22T05:07:54+00:00",
