@@ -1,6 +1,192 @@
 {
-  "updatedAt": "2026-11-23T15:56:21.565595+00:00",
+  "updatedAt": "2026-11-24T15:51:17.677692+00:00",
   "news": [
+    {
+      "id": 6709,
+      "date": "2026-11-24T05:08:38+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6709",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — به‌گفته سازنده، مدل GLM-5.4 با قابلیت بینایی، کدنویسی بهتر و ۵۰٪ سهمیه بیشتر برای دارندگان سهمیه هفتگی، به طرح کدنویسی اضافه شد.",
+          "url": "https://t.me/dlmehr/6689"
+        },
+        {
+          "title": "۲ — انویدیا اعلام کرد هیئت‌مدیره به‌اتفاق آرا جنسن هوانگ را به ریاست شرکت، مدیرعاملی و عضویت هیئت‌مدیره بازگرداند.",
+          "url": "https://t.me/dlmehr/6690"
+        },
+        {
+          "title": "۳ — شرکت Z.ai مدل GLM-5.4 را با معماری حلقه‌ای، بینایی و قابلیت کدنویسی بازی و مدل‌سازی معرفی کرد؛ دسترسی رابط برنامه‌نویسی پس از ارزیابی ایمنی باز می‌شود.",
+          "url": "https://t.me/dlmehr/6691"
+        },
+        {
+          "title": "۴ — به‌گزارش روهان گوسوامی، ترامپ در تماس با جلسه هیئت‌مدیره انویدیا خواستار بازگشت هوانگ شد؛ کاخ سفید مشارکت او را تأیید کرد.",
+          "url": "https://t.me/dlmehr/6692"
+        },
+        {
+          "title": "۵ — حساب Liquid Trading مدعی شد ارزش اختیار خرید انویدیا متعلق به معامله‌گری ناشناس، پس از بازگشت هوانگ از ۳٫۴ به ۳۱۲ میلیون دلار رسید.",
+          "url": "https://t.me/dlmehr/6693"
+        },
+        {
+          "title": "۶ — پژمان نوزاد با اشاره به یاسمین رضوی، علی پرتوی و رامتین نعیمی، نقش سرمایه‌گذاران خطرپذیر ایرانی‌آمریکایی در شرکت‌های فناوری را ستود.",
+          "url": "https://t.me/dlmehr/6694"
+        },
+        {
+          "title": "۷ — چارلز گاسپارینو به‌نقل از منابعش گزارش داد هشدار سرمایه‌گذاران درباره خطر رکود ناشی از سقوط سهام هوش مصنوعی، محرک حمایت دولت از بازگشت هوانگ بود.",
+          "url": "https://t.me/dlmehr/6696"
+        },
+        {
+          "title": "۸ — میسترال اعلام کرد سازندگان اروپایی با کد MISTRALVIBE یک ماه دسترسی رایگان به Vibe Pro، بدون سقف ظرفیت عرضه، دریافت می‌کنند.",
+          "url": "https://t.me/dlmehr/6697"
+        },
+        {
+          "title": "۹ — شرکت Embo از جذب ۱۱۰ میلیون دلار سرمایه بذری به‌رهبری a16z برای توسعه هوش رباتیک مبتنی بر ویدئوهای اینترنتی و مدل‌های جهان خبر داد.",
+          "url": "https://t.me/dlmehr/6698"
+        },
+        {
+          "title": "۱۰ — گوگل قابلیت انتخاب صفحات، سلول‌ها و بخش‌های رسانه در رابط Gemini را معرفی کرد تا هزینه توکن فقط برای بخش‌های بررسی‌شده فایل محاسبه شود.",
+          "url": "https://t.me/dlmehr/6699"
+        },
+        {
+          "title": "۱۱ — اوپن‌ای‌آی عرضه نسخه مکالمه‌محور GPT-6.2 Sol را برای کاربران پولی، با بهبود پیروی از دستورها، جست‌وجو و درک جزئیات تصاویر اعلام کرد.",
+          "url": "https://t.me/dlmehr/6700"
+        },
+        {
+          "title": "۱۲ — تیم Antigravity از بازنشانی سهمیه‌های Gemini و ارائه Carbon به کاربران پولی Pro و Hydrogen به همه کاربران خبر داد.",
+          "url": "https://t.me/dlmehr/6701"
+        },
+        {
+          "title": "۱۳ — شرکت Noeri مدعی شد مدل‌های بازوزنِ تخصصی حاصل از چرخه خودبهبودش در هشت کاربرد، با هزینه کمتر از Claude Opus 5.5 و GPT-6.2 Sol بهتر عمل کردند.",
+          "url": "https://t.me/dlmehr/6702"
+        },
+        {
+          "title": "۱۴ — پژوهشی با ۶۲۵ کاربر گزارش داد توقف دوهفته‌ای استفاده از دستیارهای هوش مصنوعی، نسبت به گروه کنترل تنهایی را کاهش و تعامل حضوری را افزایش داد.",
+          "url": "https://t.me/dlmehr/6703"
+        },
+        {
+          "title": "۱۵ — مخزن آنتروپیک اثبات ادعایی Claude برای حدس والیانت درباره نابرابری VP و VNP را با صورت‌بندی Lean منتشر کرد؛ ریاضی‌دان انسانی آن را بررسی نکرده است.",
+          "url": "https://t.me/dlmehr/6704"
+        },
+        {
+          "title": "۱۶ — آنتروپیک روایت هم‌بنیان‌گذارانش، از جمله داریو و دنیلا آمودی، از مسیر شرکت تا امروز را منتشر کرد.",
+          "url": "https://t.me/dlmehr/6705"
+        },
+        {
+          "title": "۱۷ — تک‌میم به‌نقل از منابع وال‌استریت ژورنال گزارش داد هوانگ در جلسه یکشنبه هیئت‌مدیره، روابط عاشقانه بیشتری را افشا کرده و ابراز پشیمانی کرده است.",
+          "url": "https://t.me/dlmehr/6706"
+        },
+        {
+          "title": "۱۸ — سرویس OpenCode اعلام کرد مدل چندوجهی HungerG با زمینه یک‌میلیون‌توکنی و بدون آموزش روی داده کاربران، این هفته برای مشترکان Go رایگان است.",
+          "url": "https://t.me/dlmehr/6707"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/zixuanli_/status/2124719275864670681?a=8veGT2uXY0QCY0Upcjg&s=52",
+          "url": "https://t.me/dlmehr/6689"
+        }
+      ]
+    },
+    {
+      "id": 6708,
+      "date": "2026-11-24T05:06:19+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6708",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Zixuan Li says GLM-5.4 reaches all GLM Coding Plan users with vision, stronger coding and 50% more quota for weekly-quota users.",
+          "url": "https://t.me/dlmehr/6689"
+        },
+        {
+          "title": "2 — NVIDIA says its board unanimously reinstated Jensen Huang as president, CEO and director, citing US government input on national security.",
+          "url": "https://t.me/dlmehr/6690"
+        },
+        {
+          "title": "3 — Z.ai introduces GLM-5.4, a loop transformer with vision for coding, games and CAD, with API access pending safety evaluation.",
+          "url": "https://t.me/dlmehr/6691"
+        },
+        {
+          "title": "4 — Rohan Goswami reports Trump called NVIDIA's board to advocate Huang's return, with the White House confirming his involvement.",
+          "url": "https://t.me/dlmehr/6692"
+        },
+        {
+          "title": "5 — Liquid Trading claims an unidentified trader's $3.4 million NVIDIA call-option position rose to $312 million after Huang's reinstatement.",
+          "url": "https://t.me/dlmehr/6693"
+        },
+        {
+          "title": "6 — Pejman Nozad highlights Iranian American VCs Yasmin Razavi, Ali Partovi and Ramtin Naimi and their roles in prominent startup deals.",
+          "url": "https://t.me/dlmehr/6694"
+        },
+        {
+          "title": "7 — Charles Gasparino reports investors' recession warnings helped spur Treasury Secretary Bessent's support for Huang's reinstatement.",
+          "url": "https://t.me/dlmehr/6696"
+        },
+        {
+          "title": "8 — Mistral offers European users a free month of Vibe Pro with code MISTRALVIBE, removing capped promotional drops.",
+          "url": "https://t.me/dlmehr/6697"
+        },
+        {
+          "title": "9 — Embo announces a $110 million seed round led by a16z to build robot AI using internet-video pretraining and imagined motor practice.",
+          "url": "https://t.me/dlmehr/6698"
+        },
+        {
+          "title": "10 — Google introduces Gemini API file slicing and native Office support, charging tokens only for inspected portions of documents and media.",
+          "url": "https://t.me/dlmehr/6699"
+        },
+        {
+          "title": "11 — OpenAI says GPT-6.2 Sol is rolling out in Chat for paid tiers, improving complex instructions, image details and online comparisons.",
+          "url": "https://t.me/dlmehr/6700"
+        },
+        {
+          "title": "12 — Antigravity announces Gemini quota resets alongside model upgrades, with Carbon for paid Pro users and Hydrogen for everyone.",
+          "url": "https://t.me/dlmehr/6701"
+        },
+        {
+          "title": "13 — Noeri claims its self-improving open-weight AI systems beat Claude Opus 5.5 and GPT-6.2 Sol at lower cost across eight tested use cases.",
+          "url": "https://t.me/dlmehr/6702"
+        },
+        {
+          "title": "14 — A randomized study of 625 ChatGPT users reports that two weeks without AI assistants reduced loneliness and increased in-person socializing.",
+          "url": "https://t.me/dlmehr/6703"
+        },
+        {
+          "title": "15 — Anthropic's repository presents Claude's claimed VP ≠ VNP proof and Lean formalization, unchecked by human mathematicians and not settling P vs NP.",
+          "url": "https://t.me/dlmehr/6704"
+        },
+        {
+          "title": "16 — Anthropic shares its company's story as told by co-founders including Dario and Daniela Amodei, Tom Brown and Chris Olah.",
+          "url": "https://t.me/dlmehr/6705"
+        },
+        {
+          "title": "17 — Techmeme cites Wall Street Journal sources alleging Huang disclosed additional affairs and expressed remorse at Sunday's NVIDIA board meeting.",
+          "url": "https://t.me/dlmehr/6706"
+        },
+        {
+          "title": "18 — OpenCode says stealth model HungerG is free for Go subscribers this week, with a 1M context window, multimodal support and no training on user data.",
+          "url": "https://t.me/dlmehr/6707"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/zixuanli_/status/2124719275864670681?a=8veGT2uXY0QCY0Upcjg&s=52",
+          "url": "https://t.me/dlmehr/6689"
+        }
+      ]
+    },
     {
       "id": 6688,
       "date": "2026-11-23T05:08:31+00:00",
