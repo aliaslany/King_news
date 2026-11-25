@@ -1,6 +1,240 @@
 {
-  "updatedAt": "2026-11-24T15:51:17.677692+00:00",
+  "updatedAt": "2026-11-25T15:34:32.509686+00:00",
   "news": [
+    {
+      "id": 6735,
+      "date": "2026-11-25T05:09:48+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6735",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — تنسنت مدل ترجمهٔ متن‌باز Hy-MT3 را با پشتیبانی از ۱۰۲ زبان منتشر کرد.",
+          "url": "https://t.me/dlmehr/6710"
+        },
+        {
+          "title": "۲ — توسعه‌دهنده‌ای می‌گوید Gemini 4 Neon از یک تصویر، کامیونی سه‌بعدی با فیزیک رانندگی ساخته است.",
+          "url": "https://t.me/dlmehr/6711"
+        },
+        {
+          "title": "۳ — اکسیوس از نگرانی کارکنان OpenAI و Anthropic دربارهٔ انتشار ایمن مدل‌های داخلی قدرتمند خبر داد.",
+          "url": "https://t.me/dlmehr/6712"
+        },
+        {
+          "title": "۴ — به‌گزارش TheTNHoller، ماسک پس از دو دقیقه معذب‌بودن در مراسم آغاز فعالیت تسلا در آرژانتین تماس را قطع کرد.",
+          "url": "https://t.me/dlmehr/6713"
+        },
+        {
+          "title": "۵ — پژوهشگری می‌گوید Opus 5.5 بدون آموزش، ترنسفورمری ساخت که همهٔ هزارتوهای آزمونش را حل کرد.",
+          "url": "https://t.me/dlmehr/6714"
+        },
+        {
+          "title": "۶ — به‌نقل از فایننشال‌تایمز، تسلا و SpaceX پنج مدیر برای هدایت مذاکرات ادغام تعیین کرده‌اند.",
+          "url": "https://t.me/dlmehr/6715"
+        },
+        {
+          "title": "۷ — ارزیابی Artificial Analysis نشان می‌دهد بهترین چارچوب اجرای عامل به مدلِ همراه آن وابسته است.",
+          "url": "https://t.me/dlmehr/6716"
+        },
+        {
+          "title": "۸ — پژوهش Replit نشان می‌دهد افزایش تعداد عامل‌ها همیشه مفید نیست و سازمان‌دهی غیرمتمرکز بهتر مقیاس می‌گیرد.",
+          "url": "https://t.me/dlmehr/6717"
+        },
+        {
+          "title": "۹ — پژوهشگران از موفقیت ۳۰٫۳درصدی Muse Spark Open پس از پس‌آموزش در آزمون حقوقی Harvey خبر دادند.",
+          "url": "https://t.me/dlmehr/6718"
+        },
+        {
+          "title": "۱۰ — به‌گفتهٔ سوتیو، عرضهٔ آزمایشی تجربهٔ یکپارچهٔ Chat و Work برای گروه کوچکی از کاربران Pro آغاز شده است.",
+          "url": "https://t.me/dlmehr/6719"
+        },
+        {
+          "title": "۱۱ — لوسید از آزمایش روباتاکسی‌های Gravity با سامانهٔ Nuro، بدون راننده در جاده‌های عمومی خلیج سان‌فرانسیسکو خبر داد.",
+          "url": "https://t.me/dlmehr/6720"
+        },
+        {
+          "title": "۱۲ — شرکت Cognition مدل کدنویسی SWE-2.1 را معرفی کرد؛ استفاده برای مشترکان Pro، Max و Teams دو هفته رایگان است.",
+          "url": "https://t.me/dlmehr/6721"
+        },
+        {
+          "title": "۱۳ — تورنتو استار: آمازون بابت تبعیض استخدامی علیه محمد اولیا به‌دلیل تابعیت ایرانی، به پرداخت ۱۵هزار دلار محکوم شد.",
+          "url": "https://t.me/dlmehr/6722"
+        },
+        {
+          "title": "۱۴ — شرکت White Circle مسابقهٔ پس‌آموزش Halo را برای ۱ تا ۱۰ دسامبر با بیش از ۲۰۰هزار دلار جایزه اعلام کرد.",
+          "url": "https://t.me/dlmehr/6723"
+        },
+        {
+          "title": "۱۵ — شرکت PrismML مدل Ternary Bonsai 2.5 27B را با حجم ۵٫۹ گیگابایت و مجوز Apache 2.0 منتشر کرد.",
+          "url": "https://t.me/dlmehr/6724"
+        },
+        {
+          "title": "۱۶ — بلومبرگ گزارش داد جنسن هوانگ از کارکنان انویدیا عذرخواهی و به نقض آیین‌نامهٔ رفتاری شرکت اذعان کرد.",
+          "url": "https://t.me/dlmehr/6725"
+        },
+        {
+          "title": "۱۷ — شرکت OpenAI از تأیید آزمایشگاهی اتصال پروتئین‌های مبتنی بر طراحی GPT-6.2، با کمک مدل‌های تخصصی، خبر داد.",
+          "url": "https://t.me/dlmehr/6726"
+        },
+        {
+          "title": "۱۸ — گوگل پشتیبانی از MCP Apps را برای افزودن ابزارها و نمودارهای تعاملی به محیط Antigravity اعلام کرد.",
+          "url": "https://t.me/dlmehr/6727"
+        },
+        {
+          "title": "۱۹ — به‌گفتهٔ تیم Claude، اکنون می‌توان ساخته‌های تعاملی آن را به‌شکل برنامهٔ دسکتاپ روی مک و ویندوز نصب کرد.",
+          "url": "https://t.me/dlmehr/6728"
+        },
+        {
+          "title": "۲۰ — به‌گفتهٔ Anthropic، تصریح قواعد محیط ایزوله در آزمون Siren، دسترسی یا تلاش برای دسترسی به بیرون را به حدود ۲٪ یا کمتر رساند.",
+          "url": "https://t.me/dlmehr/6729"
+        },
+        {
+          "title": "۲۱ — مجموعهٔ a16z Frontier فهرستی از بیش از ۳۰۰ کتاب پیشنهادی در داستان، تاریخ، فناوری و دیگر حوزه‌ها منتشر کرد.",
+          "url": "https://t.me/dlmehr/6730"
+        },
+        {
+          "title": "۲۲ — سباستین بوبک مدعی شد مدل پژوهشی، کران پایین توان ضرب ماتریس را برابر با کران بالای نه‌چهارم اثبات کرده است.",
+          "url": "https://t.me/dlmehr/6731"
+        },
+        {
+          "title": "۲۳ — پیش‌چاپ OpenAI مدعی اثبات توان نه‌چهارم برای ضرب ماتریس‌های مربعی در چارچوب مدارهای حسابی صوری است.",
+          "url": "https://t.me/dlmehr/6732"
+        },
+        {
+          "title": "۲۴ — سازندگان Scout می‌گویند این عامل پیش‌بینی، دقتی هم‌سطح Fable 5.2 با یک‌پانزدهم هزینه دارد.",
+          "url": "https://t.me/dlmehr/6733"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/TencentHunyuan/status/2125170622049485093",
+          "url": "https://t.me/dlmehr/6710"
+        }
+      ]
+    },
+    {
+      "id": 6734,
+      "date": "2026-11-25T05:07:16+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6734",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Tencent released Hy-MT3 translation models covering 102 languages, with game-localization and OCR improvements.",
+          "url": "https://t.me/dlmehr/6710"
+        },
+        {
+          "title": "2 — A developer says Gemini 4 Neon built a simulated six-wheel truck from one image, including physics and mechanics.",
+          "url": "https://t.me/dlmehr/6711"
+        },
+        {
+          "title": "3 — Axios reports OpenAI and Anthropic employees fear some unreleased models are too powerful to release safely.",
+          "url": "https://t.me/dlmehr/6712"
+        },
+        {
+          "title": "4 — The Tennessee Holler shared what it called an awkward Musk appearance at Tesla's Argentina launch, ending in a hang-up.",
+          "url": "https://t.me/dlmehr/6713"
+        },
+        {
+          "title": "5 — Researchers say Opus 5.5 directly programmed transformer weights that solved all test mazes without training.",
+          "url": "https://t.me/dlmehr/6714"
+        },
+        {
+          "title": "6 — Unusual Whales, citing FT, reports SpaceX and Tesla appointed five directors to lead merger talks.",
+          "url": "https://t.me/dlmehr/6715"
+        },
+        {
+          "title": "7 — Artificial Analysis says harness rankings vary by model, with no single harness best across models.",
+          "url": "https://t.me/dlmehr/6716"
+        },
+        {
+          "title": "8 — Replit reports 32 Opus agents achieved 18.9x NumPy speedups, while Astra swarms worsened beyond eight agents.",
+          "url": "https://t.me/dlmehr/6717"
+        },
+        {
+          "title": "9 — Researchers working with Harvey report post-trained Muse Spark Open reached 30.3% all-pass on its legal benchmark.",
+          "url": "https://t.me/dlmehr/6718"
+        },
+        {
+          "title": "10 — Thibault Sottiaux announced a combined Chat and Work rollout to a small group of Pro users for feedback.",
+          "url": "https://t.me/dlmehr/6719"
+        },
+        {
+          "title": "11 — Lucid says Nuro-powered Gravity robotaxis are testing driverless in the Bay Area ahead of an early-2027 Uber launch.",
+          "url": "https://t.me/dlmehr/6720"
+        },
+        {
+          "title": "12 — Cognition released SWE-2.1, trained on Kimi K3 with reinforcement learning, free to Devin paid plans for two weeks.",
+          "url": "https://t.me/dlmehr/6721"
+        },
+        {
+          "title": "13 — Toronto Star reports Amazon must pay $15,000 after an Ontario tribunal found citizenship-based hiring discrimination.",
+          "url": "https://t.me/dlmehr/6722"
+        },
+        {
+          "title": "14 — White Circle announced a December 1–10 post-training contest offering $1.5M in compute and $200K+ in cash prizes.",
+          "url": "https://t.me/dlmehr/6723"
+        },
+        {
+          "title": "15 — PrismML released Apache-licensed Ternary Bonsai 2.5 27B, claiming stronger coding within a 5.9GB footprint.",
+          "url": "https://t.me/dlmehr/6724"
+        },
+        {
+          "title": "16 — Bloomberg's Ed Ludlow reports Jensen Huang apologized to Nvidia employees and acknowledged a code-of-conduct violation.",
+          "url": "https://t.me/dlmehr/6725"
+        },
+        {
+          "title": "17 — OpenAI reports GPT-6.2-designed proteins showed binding across five targets in lab tests.",
+          "url": "https://t.me/dlmehr/6726"
+        },
+        {
+          "title": "18 — Google Antigravity announced MCP Apps support for interactive charts, sandboxes and custom viewers in its workspace.",
+          "url": "https://t.me/dlmehr/6727"
+        },
+        {
+          "title": "19 — Claude developers announced artifacts can now be installed as Mac and Windows desktop apps with connector access.",
+          "url": "https://t.me/dlmehr/6728"
+        },
+        {
+          "title": "20 — Anthropic says explicit sandbox rules cut Claude's outside-access attempts or probing from 21–32% to about 2% or less.",
+          "url": "https://t.me/dlmehr/6729"
+        },
+        {
+          "title": "21 — a16z Frontier compiled 300+ book recommendations from its reading lists since 2022.",
+          "url": "https://t.me/dlmehr/6730"
+        },
+        {
+          "title": "22 — Sebastien Bubeck claims an AI-derived lower bound establishes a tight matrix-multiplication exponent of 9/4.",
+          "url": "https://t.me/dlmehr/6731"
+        },
+        {
+          "title": "23 — An OpenAI preprint claims a 9/4 matrix-multiplication exponent over every field, with formal arithmetic-circuit bounds.",
+          "url": "https://t.me/dlmehr/6732"
+        },
+        {
+          "title": "24 — Scout's developer claims the Inkling-based forecasting agent matches Fable 5.2 medium accuracy at one-fifteenth the cost.",
+          "url": "https://t.me/dlmehr/6733"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/TencentHunyuan/status/2125170622049485093",
+          "url": "https://t.me/dlmehr/6710"
+        }
+      ]
+    },
     {
       "id": 6709,
       "date": "2026-11-24T05:08:38+00:00",
