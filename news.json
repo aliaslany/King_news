@@ -1,6 +1,200 @@
 {
-  "updatedAt": "2026-11-25T15:34:32.509686+00:00",
+  "updatedAt": "2026-11-26T15:11:14.231794+00:00",
   "news": [
+    {
+      "id": 6756,
+      "date": "2026-11-26T05:08:41+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6756",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — اسکات آرونسون از شنیدن شایعهٔ یافتن روشی برای تجزیهٔ اعداد در زمان چندجمله‌ای در OpenAI یا Anthropic خبر داده؛ ادعایی تأییدنشده با پیامد احتمالی برای امنیت RSA.",
+          "url": "https://t.me/dlmehr/6736"
+        },
+        {
+          "title": "۲ — به‌گزارش کیمون، گوگل شش مقالهٔ ریاضیِ عامل Cogentic مبتنی بر Gemini 4 منتشر کرده که مدعی پیشرفت در تجزیهٔ اعداد و حل حدس‌های دیرینه‌اند.",
+          "url": "https://t.me/dlmehr/6737"
+        },
+        {
+          "title": "۳ — انتروپیک می‌گوید رابط Messages را از Python به Rust منتقل کرده و عامل‌های Claude تفاوت‌های دو نسخه را یافته و رفع کرده‌اند.",
+          "url": "https://t.me/dlmehr/6738"
+        },
+        {
+          "title": "۴ — پژوهشگران از بهبود عملکرد Qwen3-0.6B با افزودن ماژول‌هایی مانند ماشین‌حساب و خطایاب مستقیماً به فضای وزن‌های مدل خبر دادند.",
+          "url": "https://t.me/dlmehr/6739"
+        },
+        {
+          "title": "۵ — سم آلتمن از آزمایش محدود Private Inference برای مشتریان OpenAI با هدف تقویت حریم خصوصی خبر داد.",
+          "url": "https://t.me/dlmehr/6740"
+        },
+        {
+          "title": "۶ — سازندهٔ ربات‌ها، در پاسخ به انتقاد از محدودکردن آن‌ها به فضای باز، به‌شوخی از انجام کار خانه با ربات غول‌پیکر دفاع کرد.",
+          "url": "https://t.me/dlmehr/6741"
+        },
+        {
+          "title": "۷ — داریو آمودی واگذاری اراده و حکمرانی انسان به هوش مصنوعی را رد کرد و بر نظارت دموکراتیک و تصمیم‌گیری انسانی تأکید گذاشت.",
+          "url": "https://t.me/dlmehr/6742"
+        },
+        {
+          "title": "۸ — پژوهشگران می‌گویند روش Plato’s Key با چرخش و تغییر مقیاس، بازنمایی‌های مدل‌های زبانی مستقل را بدون گرادیان به یکدیگر منتقل می‌کند.",
+          "url": "https://t.me/dlmehr/6743"
+        },
+        {
+          "title": "۹ — لوگان کیلپاتریک ابزار متن‌باز Gemini API CLI را راهی برای دسترسی عامل‌های کدنویسی به Gemini Neon و دیگر مدل‌ها با کلید رابط معرفی کرد.",
+          "url": "https://t.me/dlmehr/6744"
+        },
+        {
+          "title": "۱۰ — پژوهشگران ReadyNeuro را به‌عنوان بزرگ‌ترین مجموعهٔ بازِ پیش‌آموزش تصویربرداری عملکردی مغز منتشر کردند و از بهبود در سه آزمون از هفت آزمون خبر دادند.",
+          "url": "https://t.me/dlmehr/6745"
+        },
+        {
+          "title": "۱۱ — نورالینک اعلام کرد مجوز FDA برای آغاز LINK، نخستین کارآزمایی محوری رابط مغز‌ـ‌رایانهٔ کاشتنی در آمریکا، را گرفته است.",
+          "url": "https://t.me/dlmehr/6746"
+        },
+        {
+          "title": "۱۲ — مصطفی سلیمان با اشاره به عبور از یک آستانه، ایمنی و هم‌راستاسازی هوش مصنوعی را تنها اولویت مهم خواند.",
+          "url": "https://t.me/dlmehr/6747"
+        },
+        {
+          "title": "۱۳ — به‌گزارش کیمون، پژوهشگران انتروپیک با Claude حجم صورت‌بندی فرضیهٔ ریمان و تعمیم آن در Lean را از ۱۷٫۴ میلیون به ۷۶ هزار خط کاهش داده‌اند.",
+          "url": "https://t.me/dlmehr/6748"
+        },
+        {
+          "title": "۱۴ — حساب HinataMotivates کلیپی از نحوهٔ آغاز ارائهٔ پاول دوروف، مدیرعامل تلگرام، به اشتراک گذاشت.",
+          "url": "https://t.me/dlmehr/6749"
+        },
+        {
+          "title": "۱۵ — پژوهشگران می‌گویند Model Carving با حذف زیرلایه‌ها حین آموزش، محاسبات استنتاج را تا ۳۴٪ کاهش و سرعت تولید را تا ۱٫۶ برابر افزایش می‌دهد.",
+          "url": "https://t.me/dlmehr/6750"
+        },
+        {
+          "title": "۱۶ — آندری کارپاتی می‌گوید Claude Opus 5.5 طی هفت ساعت نقشه‌ای به سبک Civilization با داده‌های واقعی آمریکا از ۳۱ منبع ساخته است.",
+          "url": "https://t.me/dlmehr/6751"
+        },
+        {
+          "title": "۱۷ — توسعه‌دهنده‌ای مدعی اجرای Qwen3-0.6B روی سیستم‌عامل اسمبلیِ ۲۴ کیلوبایتی، تا ۵۴٪ سریع‌تر از llama.cpp روی لینوکس است.",
+          "url": "https://t.me/dlmehr/6752"
+        },
+        {
+          "title": "۱۸ — تیبو سوتیو اعلام کرد با اصلاح خطای محاسبهٔ مصرف، سقف GPT-6.2 Astra و Sol به‌ترتیب ۴۰٪ و ۲۵٪ زودتر پر می‌شود؛ مابه‌التفاوت گذشته دریافت نخواهد شد.",
+          "url": "https://t.me/dlmehr/6753"
+        },
+        {
+          "title": "۱۹ — گروه Modaic بر پایهٔ بررسی تأخیر پاسخ به ۹٬۹۸۴ درخواست، حدس می‌زند مدل پایهٔ Jev همان Qwen3.5-35B-A3B باشد.",
+          "url": "https://t.me/dlmehr/6754"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimmonismus/status/2125602411540566221?a=uvX_YNPFueLkSVfrW1k&s=52",
+          "url": "https://t.me/dlmehr/6736"
+        }
+      ]
+    },
+    {
+      "id": 6755,
+      "date": "2026-11-26T05:06:56+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6755",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Kimmonismus relays unverified rumors that OpenAI or Anthropic found polynomial-time factoring, potentially threatening RSA.",
+          "url": "https://t.me/dlmehr/6736"
+        },
+        {
+          "title": "2 — Kimmonismus claims Google's Gemini 4 agent Cogentic produced six math papers autonomously, including factoring and conjecture breakthroughs.",
+          "url": "https://t.me/dlmehr/6737"
+        },
+        {
+          "title": "3 — Anthropic says Claude-assisted migration of its Messages API to Rust cut CPU use per request by 70% and median time to first token by 20%.",
+          "url": "https://t.me/dlmehr/6738"
+        },
+        {
+          "title": "4 — Dimitris Papail reports that Claude-written weight-space modules add calculators and other capabilities to small LLMs, improving benchmarks.",
+          "url": "https://t.me/dlmehr/6739"
+        },
+        {
+          "title": "5 — Sam Altman says OpenAI is testing Private Inference with select customers, with private automated safety reviews available alongside zero data retention.",
+          "url": "https://t.me/dlmehr/6740"
+        },
+        {
+          "title": "6 — Satyress Robots jokes that people should be able to use giant robots for housework, responding to concerns about outdoor-only use.",
+          "url": "https://t.me/dlmehr/6741"
+        },
+        {
+          "title": "7 — Dario Amodei rejects surrendering human agency to AI, advocating democratic governance and caution over autonomous task deployment.",
+          "url": "https://t.me/dlmehr/6742"
+        },
+        {
+          "title": "8 — Hazy Research's Plato's Key reports transferring factual representations across LLMs through rotation and scaling, without gradient descent.",
+          "url": "https://t.me/dlmehr/6743"
+        },
+        {
+          "title": "9 — Logan Kilpatrick highlights Google's open-source Gemini API CLI for giving coding agents access to Gemini Neon and other models.",
+          "url": "https://t.me/dlmehr/6744"
+        },
+        {
+          "title": "10 — ReadyNeuro's creators release an open fMRI pretraining corpus, reporting gains over HCP-YA pretraining on three of seven tasks.",
+          "url": "https://t.me/dlmehr/6745"
+        },
+        {
+          "title": "11 — Neuralink says the FDA approved launching LINK, a pivotal implantable brain-computer interface trial that may enroll people with ALS.",
+          "url": "https://t.me/dlmehr/6746"
+        },
+        {
+          "title": "12 — Mustafa Suleyman argues that AI is crossing a threshold and safety and alignment are now the only work that matters.",
+          "url": "https://t.me/dlmehr/6747"
+        },
+        {
+          "title": "13 — Kimmonismus claims Claude reduced Lean formalizations of the Riemann Hypothesis and its generalization from 17.4 million lines to 76,000.",
+          "url": "https://t.me/dlmehr/6748"
+        },
+        {
+          "title": "14 — HinataMotivates shares a clip described as Telegram CEO Pavel Durov opening a presentation.",
+          "url": "https://t.me/dlmehr/6749"
+        },
+        {
+          "title": "15 — Model Carving researchers report learning Transformer architectures during training, cutting inference FLOPs by up to 34% and accelerating decoding.",
+          "url": "https://t.me/dlmehr/6750"
+        },
+        {
+          "title": "16 — Andrej Karpathy says Claude Opus 5.5 built a Civilization-style US map from 31 public datasets in seven hours, omitting some states and territories.",
+          "url": "https://t.me/dlmehr/6751"
+        },
+        {
+          "title": "17 — Superalesha claims a 24 KB assembly OS runs Qwen3-0.6B up to 54% faster than Linux llama.cpp in CPU benchmarks, with model weights stored separately.",
+          "url": "https://t.me/dlmehr/6752"
+        },
+        {
+          "title": "18 — Thibault Sottiaux says a billing fix makes GPT-6.2 Astra and Sol limits arrive 40% and 25% faster, with no retroactive charges and a compensatory reset.",
+          "url": "https://t.me/dlmehr/6753"
+        },
+        {
+          "title": "19 — Modaic infers that Jev uses Qwen3.5-35B-A3B from latency profiling across 9,984 prompts, tokenizer comparisons and self-identification tests.",
+          "url": "https://t.me/dlmehr/6754"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimmonismus/status/2125602411540566221?a=uvX_YNPFueLkSVfrW1k&s=52",
+          "url": "https://t.me/dlmehr/6736"
+        }
+      ]
+    },
     {
       "id": 6735,
       "date": "2026-11-25T05:09:48+00:00",
