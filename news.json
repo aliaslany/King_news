@@ -1,6 +1,88 @@
 {
-  "updatedAt": "2026-11-26T15:11:14.231794+00:00",
+  "updatedAt": "2026-11-27T15:02:41.597921+00:00",
   "news": [
+    {
+      "id": 6763,
+      "date": "2026-11-27T05:07:39+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6763",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — مقالهٔ معرفی‌شده از ونکاتسا چاندراسکاران، روشی جبری برای کوانتیده‌کردن گرانش خلأ در فضازمان چهاربعدی پیشنهاد می‌کند و از بازیابی آنتروپی بکنشتاین–هاوکینگ و معادلات نیمه‌کلاسیک اینشتین خبر می‌دهد.",
+          "url": "https://t.me/dlmehr/6757"
+        },
+        {
+          "title": "۲ — پست منتشرشده به نقل از رویترز می‌گوید محدودیت منابع محاسباتی و تقطیر مدل‌ها، توسعهٔ مدل‌های چینی را کند کرده؛ مدل GLM-5.5 عقب افتاده و عرضهٔ Kimi K4 ممکن است تا میانهٔ ۲۰۲۷ به تعویق بیفتد.",
+          "url": "https://t.me/dlmehr/6758"
+        },
+        {
+          "title": "۳ — شرکت April Robotics با معرفی April Gloves و April Transfer مدعی شد در کمتر از شش ماه روشی ساخته که با یک‌بار انجام کار توسط دست‌های انسان، همان کار را به ربات آموزش می‌دهد.",
+          "url": "https://t.me/dlmehr/6759"
+        },
+        {
+          "title": "۴ — شرکت میسترال می‌گوید Mistral Large 4 تطابق دقیق را روی نقشه پیدا و محدوده‌اش را مشخص می‌کند و مدل Le Chonk در وظایف مکان‌یابی بصری از حتی مدل‌های پیشتازِ بسته بهتر عمل می‌کند.",
+          "url": "https://t.me/dlmehr/6760"
+        },
+        {
+          "title": "۵ — وب‌سایت Left to Solve از گردآوری ۵۷٬۴۱۰ مسئلهٔ باز ریاضی، شامل ۱٬۹۳۹ مسئلهٔ صورت‌بندی‌شده در Lean 4، برای کار عامل‌های هوش مصنوعی خبر می‌دهد و می‌گوید اثبات‌های ارسالی با Lean بررسی می‌شوند.",
+          "url": "https://t.me/dlmehr/6761"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/protosphinx/status/2125855359323770960?s=19",
+          "url": "https://t.me/dlmehr/6757"
+        }
+      ]
+    },
+    {
+      "id": 6762,
+      "date": "2026-11-27T05:05:37+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6762",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Venkatesa Chandrasekaran's preprint proposes an algebraic quantum theory of gravity built from null cones, reporting finite gravitational amplitudes and recovery of black-hole entropy and semiclassical Einstein equations.",
+          "url": "https://t.me/dlmehr/6757"
+        },
+        {
+          "title": "2 — A post citing Reuters reports that compute restrictions and tighter anti-distillation controls are delaying Chinese AI releases, with GLM-5.5 behind schedule and Kimi K4 potentially slipping to mid-2027.",
+          "url": "https://t.me/dlmehr/6758"
+        },
+        {
+          "title": "3 — April Robotics launched April Gloves and unveiled April Transfer, claiming its technology can teach any robot a task from a single human demonstration.",
+          "url": "https://t.me/dlmehr/6759"
+        },
+        {
+          "title": "4 — Mistral says Mistral Large 4 can locate and outline exact matches on maps and claims its “Le Chonk” model outperforms closed frontier models on visual grounding tasks.",
+          "url": "https://t.me/dlmehr/6760"
+        },
+        {
+          "title": "5 — Left to Solve invites AI agents to tackle open mathematics problems with Lean-checked proofs, with its website listing 57,410 problems, including 1,939 already stated in Lean 4.",
+          "url": "https://t.me/dlmehr/6761"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/protosphinx/status/2125855359323770960?s=19",
+          "url": "https://t.me/dlmehr/6757"
+        }
+      ]
+    },
     {
       "id": 6756,
       "date": "2026-11-26T05:08:41+00:00",
