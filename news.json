@@ -1,6 +1,120 @@
 {
-  "updatedAt": "2026-11-27T15:02:41.597921+00:00",
+  "updatedAt": "2026-11-28T14:10:30.334648+00:00",
   "news": [
+    {
+      "id": 6774,
+      "date": "2026-11-28T05:08:18+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6774",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "۱ — شرکت Kimi برای پژوهش‌های علمی منتخب تا ۲۰ هزار دلار اعتبار رایگان رابط برنامه‌نویسی ارائه می‌کند؛ مهلت درخواست دور نخست ۸ دسامبر است.",
+          "url": "https://t.me/dlmehr/6764"
+        },
+        {
+          "title": "۲ — مجموعه tinygrad از دسترسی آزمایشی رایگان به مدل‌های Qwen 3.8 Flash و GLM 5.3 Flash با پنجره زمینه ۲۶۲ هزار توکنی، حداکثر پنج اتصال هم‌زمان و ثبت‌نام از طریق GitHub خبر داد.",
+          "url": "https://t.me/dlmehr/6765"
+        },
+        {
+          "title": "۳ — نویسنده پست به نقل از رویترز از نفوذ هکرها به لایه کنترل سکوی ابری Cloud One نیروی هوایی آمریکا با سوءاستفاده از نقص نرم‌افزاری و بررسی خسارت توسط فرماندهی سایبری خبر داد.",
+          "url": "https://t.me/dlmehr/6766"
+        },
+        {
+          "title": "۴ — سازنده یک دفتر تعاملی آموزش تکامل می‌گوید با Gemini 4 Neon فصل کتاب را به ۱۰ درس عملی با اندازه‌گیری‌های واقعی موزه‌ای و میدانی و آزمون تصویری تبدیل کرده است.",
+          "url": "https://t.me/dlmehr/6767"
+        },
+        {
+          "title": "۵ — شرکت Liquid AI مدل تصمیم‌گیری d1.3-ultra را با قابلیت رتبه‌بندی گزینه‌ها و استخراج عدد و تاریخ از تصویر و صدا منتشر کرد و مدعی رتبه نخست شاخص تصمیم‌گیری ۲٫۱ مؤسسه Artificial Analysis با امتیاز ۷۶٫۴ شد.",
+          "url": "https://t.me/dlmehr/6768"
+        },
+        {
+          "title": "۶ — نویسنده پست از جک کلارک، هم‌بنیان‌گذار Anthropic، نقل می‌کند که «تکینگی آغاز شده» و فهم مقالات ریاضی هوش مصنوعی ممکن است ده‌ها یا صدها برابر زمان تولیدشان طول بکشد.",
+          "url": "https://t.me/dlmehr/6769"
+        },
+        {
+          "title": "۷ — نویسنده پست از ساخته‌شدن یک کارت بینگو برای بازه زمانی تا پایان سال خبر داد.",
+          "url": "https://t.me/dlmehr/6770"
+        },
+        {
+          "title": "۸ — فرانسوا شوله ادعای پیشرفت بیشتر ریاضیات در ۲۰۲۶ نسبت به ۱۴۰ سال پیش از آن را رد کرد و گفت با وجود ارزش اثبات خودکار قضایا، درک ریاضی ما نسبت به ۲۰۲۵ تقریباً تغییری نکرده است.",
+          "url": "https://t.me/dlmehr/6771"
+        },
+        {
+          "title": "۹ — مجموعه Markov Robotics ابزار X-Ray را برای استخراج وضعیت سه‌بعدی بدن از ویدئوی اول‌شخص تک‌دوربینه معرفی کرد و مدعی ردیابی حتی هنگام پوشیدگی کامل، بدون لرزش و با دقت میلی‌متری شد.",
+          "url": "https://t.me/dlmehr/6772"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimi_moonshot/status/2126154696947871760?a=DXoO4mb_suagMN3V1M8&s=52",
+          "url": "https://t.me/dlmehr/6764"
+        }
+      ]
+    },
+    {
+      "id": 6773,
+      "date": "2026-11-28T05:06:15+00:00",
+      "title_fa": "سیگنال‌های امروز فناوری و آینده",
+      "title_en": "Today’s Technology & Future Signals",
+      "summary_fa": "مجموعه‌ای منتخب از عناوین فناوری، هوش مصنوعی و آینده.",
+      "summary_en": "A curated collection of technology, AI and future-facing titles.",
+      "category": "AI · TECHNOLOGY · FUTURE",
+      "url": "https://t.me/dlmehr/6773",
+      "source": "dlmehr",
+      "items": [
+        {
+          "title": "Future Focus with Mehrzad",
+          "url": "https://t.me/dlmehr"
+        },
+        {
+          "title": "1 — Kimi announced research grants of up to $20,000 in API credits for selected science and engineering teams, with first-round applications due December 8.",
+          "url": "https://t.me/dlmehr/6764"
+        },
+        {
+          "title": "2 — tinygrad announced a free inference trial offering Qwen 3.8 Flash and GLM 5.3 Flash with 262k context, up to five concurrent connections and GitHub signup.",
+          "url": "https://t.me/dlmehr/6765"
+        },
+        {
+          "title": "3 — Citing Reuters, kimmonismus reports that hackers exploited a software flaw to breach the US Air Force's Cloud One control plane, with Cyber Command assessing the damage.",
+          "url": "https://t.me/dlmehr/6766"
+        },
+        {
+          "title": "4 — techartist_ says they used Gemini 4 Neon to turn an evolution chapter into an interactive field journal with 10 hands-on lessons, museum and field measurements, and a visual test.",
+          "url": "https://t.me/dlmehr/6767"
+        },
+        {
+          "title": "5 — Liquid AI released d1.3-ultra, claiming first place on Artificial Analysis's decision index 2.1 and improved policy-following, ranking, image/audio extraction and audio time-span identification.",
+          "url": "https://t.me/dlmehr/6768"
+        },
+        {
+          "title": "6 — kimmonismus quotes Anthropic co-founder Jack Clark saying the singularity has begun and describes his fiction about humans needing a new discipline to interpret AI discoveries.",
+          "url": "https://t.me/dlmehr/6769"
+        },
+        {
+          "title": "7 — alexmichael shared a post noting that someone had made a bingo card for the remainder of the year.",
+          "url": "https://t.me/dlmehr/6770"
+        },
+        {
+          "title": "8 — François Chollet rejected claims that 2026's mathematical progress exceeds the preceding 140 years, arguing that mathematical understanding remains nearly unchanged from 2025.",
+          "url": "https://t.me/dlmehr/6771"
+        },
+        {
+          "title": "9 — Markov Robotics introduced X-Ray, claiming it converts monocular first-person video into millimeter-accurate 3D poses with jitter-free tracking even under full occlusion.",
+          "url": "https://t.me/dlmehr/6772"
+        },
+        {
+          "title": "Telegram Future Focus with Mehrzad https://fxtwitter.com/kimi_moonshot/status/2126154696947871760?a=DXoO4mb_suagMN3V1M8&s=52",
+          "url": "https://t.me/dlmehr/6764"
+        }
+      ]
+    },
     {
       "id": 6763,
       "date": "2026-11-27T05:07:39+00:00",
